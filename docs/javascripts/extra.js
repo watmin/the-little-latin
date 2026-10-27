@@ -20,12 +20,20 @@
       if (mark.dataset.tllReady) return;
       mark.dataset.tllReady = "1";
       const a = mark.querySelector(".group-id");
-      let next = mark.nextElementSibling;
-      const table = next && (next.tagName === "TABLE" ? next : next.querySelector("table"));
-      if (!a || !table) return;
+      if (!a) return;
+      // Collect every Question|Answer table in this group, up to the next marker or heading
+      // (robust to a Law box or prose splitting the group). Only top-level tables count.
+      const tables = [];
+      for (let el = mark.nextElementSibling; el && !el.classList.contains("group-mark") && !/^H[1-6]$/.test(el.tagName); el = el.nextElementSibling) {
+        const t = el.tagName === "TABLE" ? el : (el.classList.contains("md-typeset__scrollwrap") ? el.querySelector("table") : null);
+        const th = t && t.querySelectorAll("thead th");
+        if (t && th.length >= 2 && /question/i.test(th[0].textContent) && /answer/i.test(th[1].textContent)) tables.push(t);
+      }
+      if (!tables.length) return;
       const gid = a.id;
       const cells = [];
-      table.querySelectorAll("tbody tr").forEach((tr, i) => {
+      tables.forEach((table, ti) => table.querySelectorAll("tbody tr").forEach((tr, ri) => {
+        const i = ti === 0 ? ri : "t" + ti + ":" + ri;
         const td = tr.cells[1];
         if (!td) return;
         td.classList.add("tll-answer");
@@ -42,7 +50,7 @@
           if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(e); }
         });
         cells.push(td);
-      });
+      }));
       const mk = (label, open) => {
         const b = document.createElement("button");
         b.type = "button"; b.className = "tll-ctl"; b.textContent = label;

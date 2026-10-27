@@ -116,3 +116,14 @@ html.tll-js [data-md-color-scheme="slate"] .md-typeset .group-mark + .md-typeset
 [data-md-color-scheme="slate"] .tll-cover-btn{background:#6e1818;border-color:#b33a3a}
 .tll-cover:not(.is-covered){animation:tll-melt .4s ease}
 @media (prefers-reduced-motion:reduce){.tll-cover:not(.is-covered){animation:none}}
+
+/* All tables full width (Material defaults to shrink-to-fit, which looked half-width on phones) */
+.md-typeset__scrollwrap{margin-left:0;margin-right:0}
+.md-typeset__table{display:block;width:100%}
+.md-typeset__table table:not([class]){display:table;width:100%}
+
+/* Laws & Commandments (success/note/warning admonitions) in the classical palette */
+.md-typeset .admonition.success,.md-typeset details.success{border-color:var(--tll-gold);background:var(--tll-parchment)}
+.md-typeset .success>.admonition-title{background:rgba(139,30,30,.10);font-family:"Cinzel","EB Garamond",Georgia,serif;font-weight:700;color:var(--md-primary-fg-color)}
+.md-typeset .success>.admonition-title::before{background-color:var(--tll-gold)}
+[data-md-color-scheme="slate"] .md-typeset .success>.admonition-title{color:var(--md-accent-fg-color);background:rgba(224,182,92,.10)}
