@@ -161,7 +161,9 @@
         ["la", "en"].forEach((lang) => {
           const allHidden = cells[lang].every((c) => c.classList.contains("is-covered"));
           if (btns[lang]) {
-            btns[lang].textContent = (allHidden ? "Ostende " : "Tege ") + names[lang][0] + " · " + (allHidden ? "show " : "hide ") + names[lang][1];
+            btns[lang].innerHTML = '<span class="btn-la">' + (allHidden ? "Ostende " : "Tege ") + names[lang][0] + '</span>' +
+              '<span class="btn-en">' + (allHidden ? "show " : "hide ") + names[lang][1] + '</span>';
+            btns[lang].setAttribute("aria-label", (allHidden ? "Show all " : "Hide all ") + names[lang][1]);
             btns[lang].setAttribute("aria-pressed", allHidden ? "true" : "false");
           }
         });
@@ -185,7 +187,7 @@
         }));
         const bar = document.createElement("div");
         bar.className = "tll-cover-bar tll-dlg-bar";
-        ["en", "la"].forEach((lang) => {
+        ["la", "en"].forEach((lang) => {
           const b = document.createElement("button");
           b.type = "button"; b.className = "tll-cover-btn";
           b.addEventListener("click", () => {
