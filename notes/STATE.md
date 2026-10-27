@@ -52,3 +52,13 @@ _Last updated: 2026-10-26 (America/Los_Angeles)_
 ## Homework checkboxes
 - Write homework as task-list items, `- [ ] item`. pymdownx.tasklist (custom_checkbox, clickable_checkbox) renders real checkboxes, and extra.js re-enables them. State is saved in localStorage under `tll:tasks:<page path>`, keyed `<index>:<first 40 chars>`, using the same robust init as the reveal code.
 - Styling: each box is a wax tablet with a Roman red (#8b1e1e) border and a gold ring. When ticked, a gold Cinzel ✓ pops in. Ticked text turns italic with a gold strikethrough. A small press animation runs on tap (skipped with reduced motion). The tap target is the whole 2.9em left gutter. Dark mode uses deeper wax.
+
+## Coverable blocks (toggles instead of "cover it with your hand")
+- Markdown:
+  ```
+  ::: cover <id> "<label>" shown|hidden
+  …any markdown…
+  :::
+  ```
+  `hooks/frames.py` turns this into a `div.tll-cover`. `extra.js` adds a red-and-gold Cinzel button above it ("Ostende · show <label>" / "Tege · hide <label>", at least 44px tall). A covered block sits under a wax tablet; tapping the tablet also uncovers it. State is saved in localStorage under `tll:covers:<page path>` → `{id: shown|hidden}`, with the same robust init as the other features. Use a unique `<id>` per block within a page, and never rename it once published.
+- Never write "cover X with your hand/thumb" in prose; use a cover block. Ch1 Lectiō has `lectio-la` (Latin, shown) and `lectio-en` (English translation, hidden by default).

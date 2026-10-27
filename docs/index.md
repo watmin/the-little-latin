@@ -9,7 +9,7 @@ Each chapter is a long column of questions and answers.
 | Question | Answer |
 |---|---|
 | What do I do with the left column? | Read the question and answer it, out loud if you can. |
-| And the right column? | Cover it with your thumb. Peek only after you've guessed. |
+| And the right column? | It hides under a wax tablet. Tap it only after you've guessed. |
 | What if I guess wrong? | Good. That's how you learn. Keep going. |
 | Should I hurry? | Never. Tiny steps. Have a snack. |
 

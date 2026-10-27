@@ -14,7 +14,16 @@ GROUP = re.compile(r"^\{#(g-(\d{2}[a-z]*))\}[ \t]*$", re.M)
 MOTTO = re.compile(r"^:: (.+?) \|\| (.+)$", re.M)
 
 
+COVER = re.compile(r'^::: cover ([a-z0-9-]+) "([^"]+)" (shown|hidden)[ \t]*\n(.*?)\n:::[ \t]*$', re.M | re.S)
+
+
 def on_page_markdown(markdown, **kwargs):
+    # Coverable block:  ::: cover <id> "<label>" shown|hidden  ...  :::
+    markdown = COVER.sub(
+        lambda m: f'<div class="tll-cover" data-cover-id="{m[1]}" data-label="{html.escape(m[2])}" '
+        f'data-default="{m[3]}" markdown="1">\n\n{m[4]}\n\n</div>',
+        markdown,
+    )
     markdown = GROUP.sub(
         lambda m: f'<p class="group-mark"><a class="group-id" id="{m[1]}" href="#{m[1]}" '
         f'title="Bookmark this group of questions">🔖 {m[2]}</a></p>\n',

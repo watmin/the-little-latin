@@ -97,3 +97,22 @@ html.tll-js [data-md-color-scheme="slate"] .md-typeset .group-mark + .md-typeset
 [data-md-color-scheme="slate"] .md-typeset .task-list-control .task-list-indicator{border-color:#b33a3a;
   background:repeating-linear-gradient(115deg,rgba(255,255,255,.04) 0 2px,transparent 2px 6px),radial-gradient(ellipse at 30% 30%,#7a5220 0%,#4e3010 75%,#3a230b 100%)!important}
 @media (prefers-reduced-motion:reduce){.md-typeset .tll-pop .task-list-indicator{animation:none}.md-typeset .task-list-control .task-list-indicator::before{transition:none}}
+
+/* Coverable blocks (::: cover) */
+.tll-cover-bar{display:flex;justify-content:flex-end;margin:1em 0 .3em}
+.tll-cover-btn{font-family:"Cinzel","EB Garamond",Georgia,serif;font-weight:700;font-size:.78em;letter-spacing:.06em;
+  min-height:44px;padding:.5em 1.1em;border-radius:.3em;cursor:pointer;color:#fff7e6;background:#8b1e1e;
+  border:1px solid #6a1414;box-shadow:0 0 0 2px var(--tll-gold),0 2px 4px rgba(0,0,0,.25);transition:transform .15s}
+.tll-cover-btn:active{transform:scale(.96)}
+.tll-cover-btn:focus-visible{outline:2px solid var(--md-accent-fg-color);outline-offset:4px}
+.tll-cover{position:relative;border-radius:.3em;transition:filter .3s}
+.tll-cover.is-covered{min-height:5em;cursor:pointer;overflow:hidden}
+.tll-cover.is-covered>*{visibility:hidden}
+.tll-cover.is-covered::after{content:"tange ✎";position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
+  font-family:"Cinzel",Georgia,serif;letter-spacing:.14em;color:#f3dcae;border-radius:.3em;
+  background:repeating-linear-gradient(115deg,rgba(255,255,255,.05) 0 2px,transparent 2px 7px),radial-gradient(ellipse at 30% 30%,#b07a32 0%,#7a4a1a 70%,#5e3812 100%);
+  box-shadow:inset 0 1px 4px rgba(0,0,0,.5),inset 0 0 0 1px #4a2c0e,0 0 0 2px var(--tll-gold)}
+[data-md-color-scheme="slate"] .tll-cover.is-covered::after{background:repeating-linear-gradient(115deg,rgba(255,255,255,.04) 0 2px,transparent 2px 7px),radial-gradient(ellipse at 30% 30%,#7a5220 0%,#4e3010 70%,#3a230b 100%)}
+[data-md-color-scheme="slate"] .tll-cover-btn{background:#6e1818;border-color:#b33a3a}
+.tll-cover:not(.is-covered){animation:tll-melt .4s ease}
+@media (prefers-reduced-motion:reduce){.tll-cover:not(.is-covered){animation:none}}

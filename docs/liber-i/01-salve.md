@@ -13,7 +13,7 @@
     - **Speaking:** a full greeting conversation, aloud
 
 !!! tip "How to read this chapter"
-    Cover the right-hand column. Answer each question, **out loud**, before you peek. Wrong guesses are welcome; they're how the rules get into your head.
+    Each answer hides under a wax tablet. Answer each question **out loud** first, then tap the tablet to check. Wrong guesses are welcome; they're how the rules get into your head.
 
 ---
 
@@ -259,8 +259,9 @@
 
 :: Tolle, lege! || Pick it up and read! (Augustine)
 
-Read this aloud twice. Then cover the English and read it once more.
+Read the Latin aloud twice. Check yourself with the English, which starts under its wax tablet: tap **Ostende** to uncover it. Then hide the English again and read the Latin once more. To test yourself the other way, hide the Latin and rebuild it from the English.
 
+::: cover lectio-la "Latīna · Latin" shown
 > **Magistra:** Salvēte, discipulī!  
 > **Discipulī:** Salvē, magistra!  
 > **Magistra:** Quid agitis?  
@@ -276,6 +277,25 @@ Read this aloud twice. Then cover the English and read it once more.
 > **John:** Ah! Bene, grātiās!  
 > **Magistra:** Optimē. Valēte, discipulī!  
 > **Omnēs:** Valē, magistra!  
+:::
+
+::: cover lectio-en "Anglicē · English" hidden
+> **Teacher:** Hello, students!  
+> **Students:** Hello, teacher!  
+> **Teacher:** How are you (all)?  
+> **Iūlia:** Very well, thanks.  
+> **Quīntus:** Not bad. And you, teacher?  
+> **Teacher:** Well, thanks. *(to a new student)* Hello! What's your name?  
+> **John:** My name is John.  
+> **Teacher:** How are you, John?  
+> **John:** Well enough… I don't understand!  
+> **Teacher:** How are you?  
+> **John:** More slowly, please!  
+> **Teacher:** How… are… you?  
+> **John:** Ah! Well, thanks!  
+> **Teacher:** Excellent. Goodbye, students!  
+> **Everyone:** Goodbye, teacher!  
+:::
 
 {#g-12}
 
@@ -362,7 +382,7 @@ Say each line slowly, then at normal speed. Exaggerate the long vowels.
 
 :: Nūlla diēs sine līneā. || No day without a line. (after Pliny)
 
-- [ ] Read the *Lectiō* aloud three times. The third time, cover the Latin and rebuild it from the English cues.
+- [ ] Read the *Lectiō* aloud three times. The third time, hide the Latin with its tablet button and rebuild it from the English.
 - [ ] Greet five real things today (people, pets, groceries), choosing *salvē* or *salvēte* correctly. Say *valē* or *valēte* when you leave.
 - [ ] Record yourself saying the minimal pairs (item 9) and listen back. Can you hear the length?
 - [ ] Answer *quid agis?* honestly each morning this week, using the scale of moods.

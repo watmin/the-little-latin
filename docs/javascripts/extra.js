@@ -95,7 +95,47 @@
     });
   }
 
-  function safeInit() { try { initTasks(); } catch (e) { if (window.console) console.error("tll tasks", e); }
+  // Coverable blocks (::: cover ... in markdown): toggle a wax tablet over the block.
+  function initCovers() {
+    const blocks = document.querySelectorAll(".md-typeset .tll-cover");
+    if (!blocks.length) return;
+    const K = "tll:covers:" + location.pathname.replace(/\/+$/, "/");
+    const rd = () => { try { return JSON.parse(localStorage.getItem(K)) || {}; } catch (e) { return {}; } };
+    const st = rd();
+    blocks.forEach((blk) => {
+      const id = blk.dataset.coverId;
+      const label = blk.dataset.label || "";
+      const apply = (hidden) => {
+        blk.classList.toggle("is-covered", hidden);
+        const b = blk.previousElementSibling;
+        if (b && b.classList.contains("tll-cover-bar")) {
+          const btn = b.querySelector("button");
+          btn.textContent = hidden ? "Ostende · show " + label : "Tege · hide " + label;
+          btn.setAttribute("aria-expanded", hidden ? "false" : "true");
+        }
+        blk.setAttribute("aria-hidden", hidden ? "true" : "false");
+      };
+      if (!blk.dataset.tllReady) {
+        blk.dataset.tllReady = "1";
+        const bar = document.createElement("div");
+        bar.className = "tll-cover-bar";
+        const btn = document.createElement("button");
+        btn.type = "button"; btn.className = "tll-cover-btn";
+        btn.addEventListener("click", () => {
+          const hidden = !blk.classList.contains("is-covered");
+          const s = rd(); s[id] = hidden ? "hidden" : "shown";
+          try { localStorage.setItem(K, JSON.stringify(s)); } catch (e) {}
+          apply(hidden);
+        });
+        blk.addEventListener("click", () => { if (blk.classList.contains("is-covered")) btn.click(); });
+        bar.appendChild(btn);
+        blk.parentNode.insertBefore(bar, blk);
+      }
+      apply((st[id] || blk.dataset.default) === "hidden");
+    });
+  }
+
+  function safeInit() { try { initCovers(); } catch (e) { if (window.console) console.error("tll covers", e); } try { initTasks(); } catch (e) { if (window.console) console.error("tll tasks", e); }
     try { init(); } catch (e) { if (window.console) console.error("tll init", e); } }
   // Don't depend on Material's document$: init now/at DOM ready, and again on instant navigation.
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", safeInit);
