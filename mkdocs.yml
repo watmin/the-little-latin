@@ -1,0 +1,21 @@
+site_name: The Little Latin
+site_url: https://watmin.github.io/the-little-latin/
+repo_url: https://github.com/watmin/the-little-latin
+theme:
+  name: material
+  features: [navigation.instant, navigation.tracking, navigation.top, navigation.footer, search.suggest, search.highlight, content.code.copy]
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      toggle: {icon: material/weather-night, name: Dark mode}
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      toggle: {icon: material/weather-sunny, name: Light mode}
+plugins: [search]
+markdown_extensions: [admonition, pymdownx.details, pymdownx.superfences, tables, attr_list, md_in_html]
+nav:
+  - Home: index.md
+  - Chapters:
+      - "1. Salvē!": chapters/01-salve.md
