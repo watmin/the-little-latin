@@ -72,3 +72,28 @@ html.tll-js [data-md-color-scheme="slate"] .md-typeset .group-mark + .md-typeset
 .tll-ctl:hover,.tll-ctl:focus-visible{color:var(--md-accent-fg-color);border-color:currentColor}
 .tll-reset-wrap{text-align:center;margin-top:2em}
 .tll-reset{font-size:.8em}
+
+/* Homework checkboxes: wax tablets with a gold Cinzel check */
+.md-typeset .task-list-item{list-style:none;margin:.15em 0 .15em -.4em;padding:.6em .4em .6em 2.9em;position:relative;border-radius:.3em;transition:opacity .3s,color .3s}
+.md-typeset .task-list-item+.task-list-item{border-top:1px dashed var(--tll-rule)}
+.md-typeset .task-list-control{position:absolute;left:0;top:0;bottom:0;width:2.9em;display:flex;align-items:center;justify-content:center;cursor:pointer;margin:0}
+.md-typeset .task-list-control [type=checkbox]{position:absolute;inset:0;width:100%;height:100%;opacity:0;margin:0;cursor:pointer;z-index:2}
+.md-typeset .task-list-control .task-list-indicator{position:relative!important;inset:auto!important;display:flex!important;align-items:center;justify-content:center;
+  width:1.55em!important;height:1.55em!important;margin:0!important;border-radius:.2em;transform:none!important;
+  border:2px solid #8b1e1e;box-shadow:0 0 0 1px var(--tll-gold),inset 0 1px 3px rgba(0,0,0,.45);
+  background:repeating-linear-gradient(115deg,rgba(255,255,255,.06) 0 2px,transparent 2px 6px),radial-gradient(ellipse at 30% 30%,#b07a32 0%,#7a4a1a 75%,#5e3812 100%)!important;
+  transition:transform .2s ease}
+.md-typeset .task-list-control .task-list-indicator::before{content:"✓";position:static!important;display:block;width:auto!important;height:auto!important;
+  background:none!important;-webkit-mask-image:none!important;mask-image:none!important;
+  font-family:"Cinzel","EB Garamond",Georgia,serif;font-weight:700;font-size:1.15em;line-height:1;color:#f3cf6e;
+  text-shadow:0 1px 1px rgba(0,0,0,.6);transform:scale(0);opacity:0;transition:transform .25s cubic-bezier(.3,1.6,.6,1),opacity .2s}
+.md-typeset [type=checkbox]:checked+.task-list-indicator::before{transform:scale(1);opacity:1}
+.md-typeset .task-list-control:active .task-list-indicator{transform:scale(.88)!important}
+.md-typeset [type=checkbox]:focus-visible+.task-list-indicator{outline:2px solid var(--md-accent-fg-color);outline-offset:3px}
+.md-typeset .tll-done{color:var(--md-default-fg-color--light);font-style:italic}
+.md-typeset .tll-done>*:not(.task-list-control),.md-typeset .tll-done{text-decoration:line-through;text-decoration-color:var(--tll-gold);text-decoration-thickness:1.5px}
+.md-typeset .tll-pop .task-list-indicator{animation:tll-press .35s ease}
+@keyframes tll-press{0%{transform:scale(1)}40%{transform:scale(.82) rotate(-6deg)}100%{transform:scale(1)}}
+[data-md-color-scheme="slate"] .md-typeset .task-list-control .task-list-indicator{border-color:#b33a3a;
+  background:repeating-linear-gradient(115deg,rgba(255,255,255,.04) 0 2px,transparent 2px 6px),radial-gradient(ellipse at 30% 30%,#7a5220 0%,#4e3010 75%,#3a230b 100%)!important}
+@media (prefers-reduced-motion:reduce){.md-typeset .tll-pop .task-list-indicator{animation:none}.md-typeset .task-list-control .task-list-indicator::before{transition:none}}

@@ -48,3 +48,7 @@ _Last updated: 2026-10-26 (America/Los_Angeles)_
 - Persistence: localStorage key `tll:revealed:<page path>`, an object of `<group id>:<row index>` → 1. Because group IDs are stable, a group's revealed state survives reloads. If rows are later inserted in a published group, row indexes shift; that only affects which answers are shown, never the content.
 - Controls: each group's badge row has "Ostende omnia · reveal all" and "Tege · hide all"; the page ends with "Dēlē tabulās · hide every answer on this page" (clears that page's key).
 - Works with Material instant navigation via `document$.subscribe`. Has dark-mode wax colors and honors prefers-reduced-motion.
+
+## Homework checkboxes
+- Write homework as task-list items, `- [ ] item`. pymdownx.tasklist (custom_checkbox, clickable_checkbox) renders real checkboxes, and extra.js re-enables them. State is saved in localStorage under `tll:tasks:<page path>`, keyed `<index>:<first 40 chars>`, using the same robust init as the reveal code.
+- Styling: each box is a wax tablet with a Roman red (#8b1e1e) border and a gold ring. When ticked, a gold Cinzel ✓ pops in. Ticked text turns italic with a gold strikethrough. A small press animation runs on tap (skipped with reduced motion). The tap target is the whole 2.9em left gutter. Dark mode uses deeper wax.

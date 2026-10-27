@@ -68,7 +68,35 @@
     }
   }
 
-  function safeInit() { try { init(); } catch (e) { if (window.console) console.error("tll init", e); } }
+  // Homework checkboxes: persist per page, keyed by item index + text.
+  function initTasks() {
+    const boxes = document.querySelectorAll(".md-typeset .task-list-item input[type=checkbox]");
+    if (!boxes.length) return;
+    const K = "tll:tasks:" + location.pathname.replace(/\/+$/, "/");
+    const rd = () => { try { return JSON.parse(localStorage.getItem(K)) || {}; } catch (e) { return {}; } };
+    const st = rd();
+    boxes.forEach((cb, i) => {
+      const li = cb.closest("li");
+      const key = i + ":" + (li ? li.textContent.trim().slice(0, 40) : "");
+      cb.disabled = false;
+      cb.checked = !!st[key];
+      if (li) li.classList.toggle("tll-done", cb.checked);
+      if (cb.dataset.tllReady) return;
+      cb.dataset.tllReady = "1";
+      cb.addEventListener("change", () => {
+        const s = rd();
+        if (cb.checked) s[key] = 1; else delete s[key];
+        try { localStorage.setItem(K, JSON.stringify(s)); } catch (e) {}
+        if (li) {
+          li.classList.toggle("tll-done", cb.checked);
+          li.classList.remove("tll-pop"); void li.offsetWidth; li.classList.add("tll-pop");
+        }
+      });
+    });
+  }
+
+  function safeInit() { try { initTasks(); } catch (e) { if (window.console) console.error("tll tasks", e); }
+    try { init(); } catch (e) { if (window.console) console.error("tll init", e); } }
   // Don't depend on Material's document$: init now/at DOM ready, and again on instant navigation.
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", safeInit);
   else safeInit();
