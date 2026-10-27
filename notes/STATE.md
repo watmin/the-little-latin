@@ -63,3 +63,14 @@ _Last updated: 2026-10-26 (America/Los_Angeles)_
   `hooks/frames.py` turns this into a `div.tll-cover`. `extra.js` adds a red-and-gold Cinzel button above it ("Ostende · show <label>" / "Tege · hide <label>", at least 44px tall). A covered block sits under a wax tablet; tapping the tablet also uncovers it. State is saved in localStorage under `tll:covers:<page path>` → `{id: shown|hidden}`, with the same robust init as the other features. Use a unique `<id>` per block within a page, and never rename it once published.
 - Never write "cover X with your hand/thumb" in prose; use a cover block. Ch1 Lectiō has `lectio-la` (Latin, shown) and `lectio-en` (English translation, hidden by default).
 - Reveal robustness: extra.js covers every Question|Answer table between a group marker and the next marker or heading, so a Law box or prose in the middle of a group is fine. Row keys: the first table is `g-NN:<row>`, later tables are `g-NN:t<k>:<row>`. All plain tables render full width.
+
+## Two-column dialogue (reading texts)
+- Markdown, one line per utterance:
+  ```
+  ::: dialogue <id>
+  Magistra | Salvēte, discipulī! || Teacher | Hello, students!
+  :::
+  ```
+  The format is `Latin speaker | Latin text || English speaker | English text`, with inline `*em*` / `**strong**` allowed. hooks/frames.py renders a two-column grid at every width (phone included), Latin on the left and English (italic) on the right, one row per line, under a Latīna | Anglica header. The font is compact at 390px with wrapping and no horizontal scroll.
+- extra.js: every cell has its own tap-to-toggle wax cover; Latin is shown by default and English covered. Tap or Enter toggles one cell. Bar buttons: "Ostende/Tege Anglica" (all English) and "Ostende/Tege Latīna" (all Latin, for the reverse drill). State is saved per line under `tll:dlg:<page path>` → `<id>:<line>:<la|en>`. Uses the same robust init. Don't reorder lines once published; append new ones.
+- Ch1 Lectiō uses `::: dialogue lectio` (it replaced the earlier two `::: cover` blocks; the cover pattern remains available).

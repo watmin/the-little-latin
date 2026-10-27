@@ -143,7 +143,64 @@
     });
   }
 
-  function safeInit() { try { initCovers(); } catch (e) { if (window.console) console.error("tll covers", e); } try { initTasks(); } catch (e) { if (window.console) console.error("tll tasks", e); }
+  // Interleaved dialogues (::: dialogue in markdown): per-line wax covers + section toggles.
+  function initDialogues() {
+    const dlgs = document.querySelectorAll(".md-typeset .tll-dialogue");
+    if (!dlgs.length) return;
+    const K = "tll:dlg:" + location.pathname.replace(/\/+$/, "/");
+    const rd = () => { try { return JSON.parse(localStorage.getItem(K)) || {}; } catch (e) { return {}; } };
+    const wr = (s) => { try { localStorage.setItem(K, JSON.stringify(s)); } catch (e) {} };
+    dlgs.forEach((dlg) => {
+      const id = dlg.dataset.dlgId;
+      const cells = { la: [...dlg.querySelectorAll(".dlg-la")], en: [...dlg.querySelectorAll(".dlg-en")] };
+      const def = { la: "shown", en: "hidden" };
+      const keyOf = (lang, i) => id + ":" + i + ":" + lang;
+      const btns = {};
+      const names = { la: ["Latīna", "Latin"], en: ["Anglica", "English"] };
+      const refresh = () => {
+        ["la", "en"].forEach((lang) => {
+          const allHidden = cells[lang].every((c) => c.classList.contains("is-covered"));
+          if (btns[lang]) {
+            btns[lang].textContent = (allHidden ? "Ostende " : "Tege ") + names[lang][0] + " · " + (allHidden ? "show " : "hide ") + names[lang][1];
+            btns[lang].setAttribute("aria-pressed", allHidden ? "true" : "false");
+          }
+        });
+      };
+      const set = (lang, i, hidden, st) => {
+        const c = cells[lang][i];
+        c.classList.toggle("is-covered", hidden);
+        c.setAttribute("aria-expanded", hidden ? "false" : "true");
+        c.setAttribute("aria-label", hidden ? (lang === "en" ? "Hidden English: tap to reveal" : "Hidden Latin: tap to reveal") : "");
+        if (st) st[keyOf(lang, i)] = hidden ? "hidden" : "shown";
+      };
+      const st0 = rd();
+      ["la", "en"].forEach((lang) => cells[lang].forEach((c, i) => set(lang, i, (st0[keyOf(lang, i)] || def[lang]) === "hidden")));
+      if (!dlg.dataset.tllReady) {
+        dlg.dataset.tllReady = "1";
+        ["la", "en"].forEach((lang) => cells[lang].forEach((c, i) => {
+          c.tabIndex = 0; c.setAttribute("role", "button");
+          const t = () => { const s = rd(); set(lang, i, !c.classList.contains("is-covered"), s); wr(s); refresh(); };
+          c.addEventListener("click", (e) => { if (!e.target.closest("a")) t(); });
+          c.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); t(); } });
+        }));
+        const bar = document.createElement("div");
+        bar.className = "tll-cover-bar tll-dlg-bar";
+        ["en", "la"].forEach((lang) => {
+          const b = document.createElement("button");
+          b.type = "button"; b.className = "tll-cover-btn";
+          b.addEventListener("click", () => {
+            const hide = !cells[lang].every((c) => c.classList.contains("is-covered"));
+            const s = rd(); cells[lang].forEach((c, i) => set(lang, i, hide, s)); wr(s); refresh();
+          });
+          btns[lang] = b; bar.appendChild(b);
+        });
+        dlg.parentNode.insertBefore(bar, dlg);
+      }
+      refresh();
+    });
+  }
+
+  function safeInit() { try { initDialogues(); } catch (e) { if (window.console) console.error("tll dialogue", e); } try { initCovers(); } catch (e) { if (window.console) console.error("tll covers", e); } try { initTasks(); } catch (e) { if (window.console) console.error("tll tasks", e); }
     try { init(); } catch (e) { if (window.console) console.error("tll init", e); } }
   // Don't depend on Material's document$: init now/at DOM ready, and again on instant navigation.
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", safeInit);

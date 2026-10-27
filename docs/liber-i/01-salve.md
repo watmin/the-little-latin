@@ -279,42 +279,24 @@
 
 :: Tolle, lege! || Pick it up and read! (Augustine)
 
-Read the Latin aloud twice. Check yourself with the English, which starts under its wax tablet: tap **Ostende** to uncover it. Then hide the English again and read the Latin once more. To test yourself the other way, hide the Latin and rebuild it from the English.
+Read each Latin line aloud. Its English sits beside it, under a small wax tablet: guess first, then tap to check (tap again to re-cover). Any Latin line can be covered the same way. Read the whole dialogue twice. For the reverse drill, tap **Tege Latīna** to hide the Latin, then rebuild each line out loud from the English.
 
-::: cover lectio-la "Latīna · Latin" shown
-> **Magistra:** Salvēte, discipulī!  
-> **Discipulī:** Salvē, magistra!  
-> **Magistra:** Quid agitis?  
-> **Iūlia:** Optimē, grātiās.  
-> **Quīntus:** Nōn male. Et tū, magistra?  
-> **Magistra:** Bene, grātiās. *(to a new student)* Salvē! Quid est nōmen tibi?  
-> **John:** Nōmen mihi est John.  
-> **Magistra:** Quid agis, John?  
-> **John:** Satis bene… nōn intellegō!  
-> **Magistra:** Quid agis?  
-> **John:** Lentius, quaesō!  
-> **Magistra:** Quid… agis?  
-> **John:** Ah! Bene, grātiās!  
-> **Magistra:** Optimē. Valēte, discipulī!  
-> **Omnēs:** Valē, magistra!  
-:::
-
-::: cover lectio-en "Anglicē · English" hidden
-> **Teacher:** Hello, students!  
-> **Students:** Hello, teacher!  
-> **Teacher:** How are you (all)?  
-> **Iūlia:** Very well, thanks.  
-> **Quīntus:** Not bad. And you, teacher?  
-> **Teacher:** Well, thanks. *(to a new student)* Hello! What's your name?  
-> **John:** My name is John.  
-> **Teacher:** How are you, John?  
-> **John:** Well enough… I don't understand!  
-> **Teacher:** How are you?  
-> **John:** More slowly, please!  
-> **Teacher:** How… are… you?  
-> **John:** Ah! Well, thanks!  
-> **Teacher:** Excellent. Goodbye, students!  
-> **Everyone:** Goodbye, teacher!  
+::: dialogue lectio
+Magistra | Salvēte, discipulī! || Teacher | Hello, students!
+Discipulī | Salvē, magistra! || Students | Hello, teacher!
+Magistra | Quid agitis? || Teacher | How are you (all)?
+Iūlia | Optimē, grātiās. || Iūlia | Very well, thanks.
+Quīntus | Nōn male. Et tū, magistra? || Quīntus | Not bad. And you, teacher?
+Magistra | Bene, grātiās. *(to a new student)* Salvē! Quid est nōmen tibi? || Teacher | Well, thanks. *(to a new student)* Hello! What's your name?
+John | Nōmen mihi est John. || John | My name is John.
+Magistra | Quid agis, John? || Teacher | How are you, John?
+John | Satis bene… nōn intellegō! || John | Well enough… I don't understand!
+Magistra | Quid agis? || Teacher | How are you?
+John | Lentius, quaesō! || John | More slowly, please!
+Magistra | Quid… agis? || Teacher | How… are… you?
+John | Ah! Bene, grātiās! || John | Ah! Well, thanks!
+Magistra | Optimē. Valēte, discipulī! || Teacher | Excellent. Goodbye, students!
+Omnēs | Valē, magistra! || Everyone | Goodbye, teacher!
 :::
 
 {#g-12}
@@ -402,7 +384,7 @@ Say each line slowly, then at normal speed. Exaggerate the long vowels.
 
 :: Nūlla diēs sine līneā. || No day without a line. (after Pliny)
 
-- [ ] Read the *Lectiō* aloud three times. The third time, hide the Latin with its tablet button and rebuild it from the English.
+- [ ] Read the *Lectiō* aloud three times. The third time, use **Tege Latīna** and rebuild the Latin from the English.
 - [ ] Greet five real things today (people, pets, groceries), choosing *salvē* or *salvēte* correctly. Say *valē* or *valēte* when you leave.
 - [ ] Record yourself saying the minimal pairs (item 9) and listen back. Can you hear the length?
 - [ ] Answer *quid agis?* honestly each morning this week, using the scale of moods.
