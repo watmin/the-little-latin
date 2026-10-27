@@ -147,7 +147,10 @@
 | Now Iūlia and the teacher walk in together. Is *salvē* still right? | Not quite. *Salvē* is for one person. |
 | What do you say to two or more? | *Salvēte!* sal-WĒ-te. |
 | What did we add? | *-te* |
-| What does *-te* seem to mean? | "You, more than one of you." |
+| What does *-te* seem to mean? | "You all." Or, if you prefer, "y'all." |
+| Doesn't English already have a word for plural "you"? | Not anymore. Older English had *ye* for a group, but modern English uses *you* for one person and for a crowd. |
+| So how do English speakers patch the hole? | *You all*, *you guys*, *youse*, or the champion: *y'all*. |
+| Latin never lost its plural. So *salvēte* means… | "Be well, y'all!" Hello, you all! |
 | Iūlia, the teacher, and the bread all walk in. | *Salvēte!* |
 | What does *salvē* literally mean? | "Be well! Be healthy!" |
 | So is *salvē* a command? | Yes. Romans greeted each other by ordering good health. |
@@ -170,7 +173,7 @@
 | Is that a coincidence? | No. It's a law. |
 
 !!! success "The First Law of *-te*"
-    When you speak **to** more than one person and tell or wish them something (*be well! be healthy!*), add **-te**.
+    When you speak **to** more than one person (*you all*, *y'all*) and tell or wish them something (*be well! be healthy!*), add **-te**.
 
     | to one | to many |
     |---|---|
@@ -222,7 +225,7 @@
 | You ask a whole table how they are. Will *-te* work on *agis*? | No. *Agis* isn't a command. It's a question. |
 | Then what do you say to a group? | *Quid agitis?* A-gi-tis. |
 | What changed? | *-s* became *-tis*. |
-| Have you seen a *t* meaning "more than one of you" before? | Yes, in *-te*. |
+| Have you seen a *t* meaning "you all" before? | Yes, in *-te*. |
 | Should you memorize the pattern now? | Just notice it. It comes back in Chapter 5. |
 
 !!! info "Scale of moods"
@@ -349,10 +352,10 @@ Read the Latin aloud twice. Check yourself with the English, which starts under 
 
 | Latin | English |
 |---|---|
-| *salvē, salvēte* | hello (to one, to many) |
-| *avē, avēte* | hail, greetings |
-| *valē, valēte* | goodbye |
-| *quid agis? quid agitis?* | how are you? (one, many) |
+| *salvē, salvēte* | hello (to you; to you all) |
+| *avē, avēte* | hail, greetings (to you; to you all) |
+| *valē, valēte* | goodbye (to you; to you all) |
+| *quid agis? quid agitis?* | how are you? how are you all? |
 | *quid?* | what? |
 | *quis?* | who? |
 | *bene* | well |
