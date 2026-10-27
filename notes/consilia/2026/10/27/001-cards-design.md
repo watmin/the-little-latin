@@ -1,24 +1,64 @@
 # Consilium: Tabellae (Cards page), design sketch (2026-10-27)
 
-Status: **sketch only**. Nothing built, no site code changed. For John to react to.
+Status: **sketch, revised after John's review (2026-10-27)**. Nothing built, no site code changed.
 
-## 1. What the learner sees
-One published page, `docs/tabellae.md` ("Tabellae · Cards"), top-level in nav.
+## Decisions (2026-10-27)
+John's review of the first sketch settled these:
+1. **Selector:** a collapsible book selector; inside each book, a collapsible chapter selector. Both hidden by default.
+2. **One reusable quiz component, three scopes:** global Cards page (the reader's selection), per-book quiz (linked at the bottom of each book's chapter list in the nav), per-chapter quiz. Same component; the scope only decides the card pool.
+3. **No answer history in v1.** No spaced repetition, no "missed" tracking. Only the selection persists.
+4. **Vocab in both directions**, still at most one direction per word per round.
+5. **Tap to reveal only.** No typed answers.
+6. **No voice-check / personal cards.** Cards are strictly chapter content.
+7. **Lean: fixed 50% toward the furthest selected chapter.** Not adjustable. Moot for a single-chapter scope.
 
-1. **Unlock panel** (a `::: cover` block, so it collapses on phone): one checkbox per chapter, grouped by Liber, with "all of Liber I" toggles. Only chapters that have cards appear.
-2. **Options**: "Lean on newest chapter" (default on), card count (default 20), type filters (vocab / forms / choose / error).
-3. **The round**: up to 20 cards rendered as a normal Question|Answer table under a `{#g-01}`-style marker, so the **existing wax-tablet reveal code in extra.js works unchanged** (tap to reveal, "Ostende omnia", "Tege"). Each row shows a small tag like `I.3 · forms`.
-4. "Nova manus · new round" button = reload. Refresh also deals a new round.
+## 1. The quiz component
 
-Persistence (localStorage, same `tll:` prefix style):
+### What the reader sees
+- **Selector** (global scope only): a `<details>` "Librī" (closed by default) listing each book that has cards; each book is its own nested `<details>` (closed) holding a "whole book" checkbox and one checkbox per chapter. Summary lines show a count, e.g. "Liber I · 3/3 capita".
+- **Type filters** (vocab / forms / choose / error) sit in the same collapsed panel.
+- **The round:** up to 20 cards as a normal Question|Answer table under a group marker, so the **existing wax-tablet reveal code in extra.js works unchanged** (tap, "Ostende omnia", "Tege"). Each row carries a small tag like `I.3 · forms`.
+- "Nova manus · new round" button = reload. Refresh also deals a new round.
+
+### Persistence
+Only the selection, in localStorage:
 - `tll:cards:unlocked` → `["i-01","i-02","i-03"]`
-- `tll:cards:opts` → `{"lean":true,"n":20,"types":["vocab","forms","choose","error"]}`
-- Revealed state is **not** persisted for the round (the reveal code keys on `tll:revealed:<path>`; the Cards page should clear that key on load, or the JS gets a `data-no-persist` opt-out). Small change to extra.js, the only change it needs.
+- `tll:cards:types` → `["vocab","forms","choose","error"]`
 
-### Drawing a round (client JS, ~60 lines, new `javascripts/cards.js` or a section of extra.js)
-- Pool = all cards whose `ch` is unlocked and type is enabled. Vocab cards expand into two directions (la→en, en→la) as separate candidates, but at most one direction per word per round.
-- If "lean" is on: newest unlocked chapter supplies ceil(n/2) cards (or all it has, if fewer); the rest are drawn uniformly from older unlocked chapters. Else uniform.
-- Fisher–Yates shuffle, no duplicates by `id`. That's the whole "difficulty" model: picking later chapters raises it, the lean keeps new stuff in front. No separate scalar for v1.
+Nothing about answers is stored. The reveal code normally saves `tll:revealed:<path>`; quiz mounts opt out via a `data-no-persist` attribute (the one small change extra.js needs), so each round starts fully covered.
+
+### Scopes and how they're passed
+One script (`javascripts/cards.js`) mounts on any element:
+
+```html
+<div class="tll-quiz" data-scope="all"></div>                          <!-- global -->
+<div class="tll-quiz" data-scope="book" data-book="i"></div>           <!-- per book -->
+<div class="tll-quiz" data-scope="chapter" data-book="i" data-ch="3"
+     data-upto="false"></div>                                          <!-- per chapter -->
+```
+
+Pages never hand-write that div. A marker line, handled by `hooks/frames.py` like the other `:::` blocks, emits it:
+
+```
+::: quiz all
+::: quiz book i
+::: quiz chapter i 3            (or: ::: quiz chapter i 3 upto)
+```
+
+Pool per scope:
+- `all`: chapters in `tll:cards:unlocked`, selector shown.
+- `book`: every chapter of that book with cards. No selector, nothing stored.
+- `chapter`: that chapter only (default), or with `upto` every chapter from I.1 through it. No selector. (Open question 1.)
+
+### Where the scopes live and how nav is generated
+- Global: `docs/tabellae.md` ("Tabellae · Cards"), one hand-added top-level nav entry.
+- Per book: generated, not hand-written. The hook's `on_files` adds a virtual page `liber-<roman>/tabellae/` for each book that has a card file (title + `::: quiz book <b>`), and `on_nav` appends it as the **last item in that book's nav section**, after the chapters. A new chapter's cards join its book quiz automatically; no mkdocs.yml edit.
+- Per chapter: no separate page and no nav entry (would double the nav). The hook appends a final `## Tabellae` section (with motto) after Homework on every chapter page that has a card file, containing `::: quiz chapter <b> <n>`.
+
+### Drawing a round (client JS)
+- Pool = cards in scope with enabled types. Each vocab card is a candidate in both directions (la→en, en→la); once one direction of a word is drawn, the other is dropped for that round.
+- Lean (`all`, `book`, and `chapter … upto`): the **furthest** chapter in the pool supplies ceil(n/2) cards (or all it has, if fewer); the rest come uniformly from earlier chapters. Fixed, no setting. Single-chapter scope draws uniformly.
+- Fisher–Yates shuffle, no duplicate `id`s, n = 20.
 
 ## 2. Card data format
 One YAML file per chapter, next to the chapter, inside docs but excluded from pages:
@@ -69,6 +109,7 @@ Extend `hooks/frames.py`:
 - `on_config`/`on_files`: glob `docs/liber-*/cards/*.yml`, load (PyYAML is already a mkdocs dependency), **validate** (see §4 automated checks), and fail the build under `--strict` on errors (raise `PluginError`).
 - Write one merged `cards.json` into the site (`on_post_build`, or emit as a generated file) with `{"chapters":[{"key":"i-03","title":"III. Magnus et Parvus","url":...}], "cards":[...]}`. Pre-render `q/a` HTML in Python so the JS just inserts strings.
 - `tabellae.md` holds a placeholder `<div id="tll-cards"></div>`; JS fetches `cards.json` relative to site root, builds the table + `{#g}`-style group-mark, then calls the existing reveal init.
+- The same `cards.json` serves all three scopes (§1); the scope only filters it.
 - Cache-busting: add `cards.json` to `_HASHES` handling (or fetch with `?v=<hash>` injected into the page).
 
 ## 3. Real example cards from Chapters 1–3 (draft starter set)
@@ -98,13 +139,7 @@ cards:
     options: [mālum, malum]
     a: mālum
     why: "Long *ā* = apple; short *a* = a bad thing. The macron is the whole difference."
-  - id: i01-e-gratis
-    type: error
-    q: "Saying thanks: *grātīs tibi agō*. What's wrong?"
-    a: "*Grātiās tibi agō*. *grātīs* means \"for free.\""
-    why: "John's own voice-check slip; keeps the retest alive."
 ```
-(Note: *grātīs* is formally taught in Caput III; this card should carry `ch: 3` or the "for free" gloss should be cut. Exactly the kind of thing review check C5 catches. Kept here as a worked example.)
 
 ### Caput II (Quid est?)
 ```yaml
@@ -193,13 +228,11 @@ Manual, in the review file (same L1/L2/L3 scale):
 
 Review file gains a line under Checks: `- **Cards:** N cards (v/f/c/e counts); C1–C4 pass in build; C5–C9 notes.`
 
+- Cards are strictly chapter content: no personal or voice-check cards.
+
 Retro-fit: one review pass carding Chapters 1–3 (this sketch is the starting point), logged in `notes/iudicia/`.
 
 ## 5. Open questions for John
-1. Name/placement: "Tabellae" top-level in nav, or one Cards page per Liber?
-2. Unlock granularity: per chapter (proposed) or auto-unlock "everything up to my latest chapter" with one slider?
-3. Should rounds remember anything (e.g. cards you tapped "missed" come back more often)? That's a step toward spaced repetition; v1 says no.
-4. Vocab direction: both directions, or Latin→English only until a word is "seen" a few times?
-5. Typed answers for forms cards, or tap-to-reveal only (proposed, matches chapters)?
-6. Are voice-check slips (like *grātīs*) welcome as personal cards, or keep cards strictly chapter content?
-7. Is ~50% newest-chapter the right lean, or adjustable?
+1. **Per-chapter scope:** only that chapter (current default), or everything up to it (`upto`)? Or both buttons on the chapter page?
+2. **Global page with nothing selected yet:** default to everything, or to the latest chapter?
+3. **Book quiz nav label:** "Tabellae Librī I", "Probā tē" (test yourself), or plain "Cards"?
