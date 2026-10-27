@@ -25,6 +25,7 @@ nav:
   - "Liber I: Prīma Verba":
       - liber-i/index.md
       - "I. Salvē!": liber-i/01-salve.md
+      - "II. Quid est?": liber-i/02-quid-est.md
   - "Liber II: Rēs Cotīdiānae":
       - liber-ii/index.md
   - "Liber III: Fābulae":

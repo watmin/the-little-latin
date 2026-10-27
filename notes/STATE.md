@@ -4,7 +4,7 @@ _Last updated: 2026-10-26 (America/Los_Angeles)_
 
 ## What exists
 - Repo: https://github.com/watmin/the-little-latin (public). Site: https://watmin.github.io/the-little-latin/ (MkDocs Material, GitHub Actions deploy on push to main; Pages source = GitHub Actions, set by John manually).
-- Published: `docs/index.md` (intro + list of the six books), `docs/liber-i/01-salve.md` (Liber I Caput I "Salvē!", rewritten in full 2026-10-26; the original proof-of-concept chapter was scrapped).
+- Published: `docs/index.md` (intro + list of the six books), `docs/liber-i/02-quid-est.md` (Caput II "Quid est?", 2026-10-26: est/sunt, nominative sg/pl, gender, -ne/nōnne/num), `docs/liber-i/01-salve.md` (Liber I Caput I "Salvē!", rewritten in full 2026-10-26; the original proof-of-concept chapter was scrapped).
 - Site path convention: `docs/liber-<roman>/NN-slug.md` (NN = chapter within the book), nav grouped as "Liber I: Prīma Verba" etc.
 - Unpublished workshop in `notes/` (outside docs/, never built). Convention: `notes/<category>/YYYY/MM/DD/NNN-slug-name.md`, ASCII paths with no macrons, NNN = per-day sequence per category. Categories: `consilia/` (plans), `iudicia/` (reviews), `acta/` (session logs, grades, voice results), `commentarii/` (working notes). See `notes/README.md`.
 - Current files:
@@ -31,7 +31,7 @@ _Last updated: 2026-10-26 (America/Los_Angeles)_
 - Wants frequent additions (a few times a day) and durable, substantial content.
 
 ## Next steps
-1. Write Liber I Caput II "Quid est?" (docs/liber-i/02-quid-est.md) per the dependency order; run the judging rubric; write the review into notes/iudicia/<date>/; push. Log voice grades in notes/acta/<date>/.
+1. Write Liber I Caput III "Magnus et Parvus" (docs/liber-i/03-magnus-et-parvus.md) per the dependency order. Remember to update the Liber I page row + nav + the home page list; run the judging rubric; write the review into notes/iudicia/<date>/; push. Log voice grades in notes/acta/<date>/.
 3. Apply L3s from notes/iudicia/2026/10/26/001-scope-and-order-review.md when touching those chapters.
 4. Maybe add a glossary/vocab page per book and a grammar-tables appendix (published).
 
@@ -77,3 +77,9 @@ _Last updated: 2026-10-26 (America/Los_Angeles)_
 
 ## Reader's name
 - In Latin, the reader (John) is **Iōannēs** (yō-AN-nēs: consonantal i, stress on the penult *an*, long by position). English text keeps "John". The vocative is used as *Iōannēs* unchanged for now; the vocative isn't taught until Ch9.
+
+## Authoring lessons from John's Ch1 feedback
+- Define every grammar term in plain words, with its English and old-school synonyms, before using it (e.g. stress = emphasis).
+- Gloss plural "you" as "you all / y'all".
+- Never tell the reader to cover anything by hand; use the reveal and cover features.
+- Session logs go in notes/acta/<date>/.
