@@ -1,6 +1,6 @@
-# Review: scope-map.md + dependency-order.md (2026-10-26, first pass)
+# Review: consilia/2026/10/26/001-scope-map.md + 002-dependency-order.md (2026-10-26, first pass)
 
-Reviewer: Grok Bot, using judging.md.
+Reviewer: Grok Bot, using `notes/consilia/2026/10/26/003-judging-rubric.md`.
 
 ## L1 (blocks)
 - None found. Checked every Latin form in the plan for macrons and accuracy, and checked that no construction is analyzed before its prerequisites.
