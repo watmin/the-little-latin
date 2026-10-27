@@ -41,3 +41,10 @@ _Last updated: 2026-10-26 (America/Los_Angeles)_
 - **Section mottos:** right after each `##` heading, add one line `:: Latin motto || English gloss`. Use simple, accurate Latin with macrons; famous sayings are OK if attributed. It renders as the Latin with a small italic gloss beneath.
 - **Heading permalinks:** `toc: permalink: true` is on; headings show a ¶ link.
 - Styles: docs/stylesheets/extra.css. The bookmarked group's table is outlined when it's the URL target.
+
+## Hidden answers ("wax tablets"; docs/javascripts/extra.js + extra.css)
+- Only tables directly after a `{#g-NN}` group marker count as frame tables. Their Answer column (2nd cell of each body row) is covered by a wax-tablet texture with the hint "tange ✎". Vocabulary and Law tables are untouched.
+- Tap, click, Enter, or Space reveals the answer (a short melt/fade-in); tapping again re-covers it. Cells are role=button, focusable, with aria-expanded and aria-label.
+- Persistence: localStorage key `tll:revealed:<page path>`, an object of `<group id>:<row index>` → 1. Because group IDs are stable, a group's revealed state survives reloads. If rows are later inserted in a published group, row indexes shift; that only affects which answers are shown, never the content.
+- Controls: each group's badge row has "Ostende omnia · reveal all" and "Tege · hide all"; the page ends with "Dēlē tabulās · hide every answer on this page" (clears that page's key).
+- Works with Material instant navigation via `document$.subscribe`. Has dark-mode wax colors and honors prefers-reduced-motion.
