@@ -10,7 +10,7 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 |---|---|---|---|
 | 1 | [**Salvē!**](01-salve.md) | G: salvē/valē ± -te as chunks (plural imperative law), sound values, macrons. V: greetings. S: greet, name, how are you. | ✅ available |
 | 2 | [**Quid est?**](02-quid-est.md) | G: est/sunt, nominative sg/pl 1st & 2nd decl, gender by ending, -ne / num / nōnne preview. V: classroom & food objects. S: "Quid est? Pōmum est." | ✅ available |
-| 3 | **Magnus et Parvus** | G: 1st/2nd decl adjectives in nominative, agreement in gender/number. V: sizes, colors, tastes. S: describe things. | coming |
+| 3 | [**Magnus et Parvus**](03-magnus-et-parvus.md) | G: 1st/2nd decl adjectives in nominative, agreement in gender/number. V: sizes, colors, tastes. S: describe things. | ✅ available |
 | 4 | **Marcus pōmum edit** | G: accusative sg/pl; nom+acc+verb; 3rd-person present (-at/-et/-it). V: food, eating verbs. S: who eats what. | coming |
 | 5 | **Ego et Tū** | G: all six persons present of 1st/2nd conj + sum; personal pronoun nominatives. V: daily actions. S: talk about yourself. | coming |
 | 6 | **Audī! Venī!** | G: all 4 conjugations + io-verbs, present + imperative sg/pl (generalizes Ch1's -te law), dīc/dūc/fac/fer, nōlī(te) + inf. as chunk. V: commands. S: give/obey commands. | coming |

@@ -1,10 +1,10 @@
 # STATE: resumption notes for The Little Latin
 
-_Last updated: 2026-10-26 (America/Los_Angeles)_
+_Last updated: 2026-10-27 (America/Los_Angeles)_
 
 ## What exists
 - Repo: https://github.com/watmin/the-little-latin (public). Site: https://watmin.github.io/the-little-latin/ (MkDocs Material, GitHub Actions deploy on push to main; Pages source = GitHub Actions, set by John manually).
-- Published: `docs/index.md` (intro + list of the six books), `docs/liber-i/02-quid-est.md` (Caput II "Quid est?", 2026-10-26: est/sunt, nominative sg/pl, gender, -ne/nōnne/num), `docs/liber-i/01-salve.md` (Liber I Caput I "Salvē!", rewritten in full 2026-10-26; the original proof-of-concept chapter was scrapped).
+- Published: `docs/liber-i/03-magnus-et-parvus.md` (Caput III, 2026-10-27: adjectives, agreement, colors/tastes, et/sed/-que), `docs/index.md` (intro + list of the six books), `docs/liber-i/02-quid-est.md` (Caput II "Quid est?", 2026-10-26: est/sunt, nominative sg/pl, gender, -ne/nōnne/num), `docs/liber-i/01-salve.md` (Liber I Caput I "Salvē!", rewritten in full 2026-10-26; the original proof-of-concept chapter was scrapped).
 - Site path convention: `docs/liber-<roman>/NN-slug.md` (NN = chapter within the book), nav grouped as "Liber I: Prīma Verba" etc.
 - Unpublished workshop in `notes/` (outside docs/, never built). Convention: `notes/<category>/YYYY/MM/DD/NNN-slug-name.md`, ASCII paths with no macrons, NNN = per-day sequence per category. Categories: `consilia/` (plans), `iudicia/` (reviews), `acta/` (session logs, grades, voice results), `commentarii/` (working notes). See `notes/README.md`.
 - Current files:
@@ -31,7 +31,7 @@ _Last updated: 2026-10-26 (America/Los_Angeles)_
 - Wants frequent additions (a few times a day) and durable, substantial content.
 
 ## Next steps
-1. Write Liber I Caput III "Magnus et Parvus" (docs/liber-i/03-magnus-et-parvus.md) per the dependency order. Remember to update the Liber I page row + nav + the home page list; run the judging rubric; write the review into notes/iudicia/<date>/; push. Log voice grades in notes/acta/<date>/.
+1. Write Liber I Caput IV "Marcus pōmum edit" (docs/liber-i/04-marcus-pomum-edit.md) per the dependency order (accusative sg/pl, 3rd-person present). Remember to update the Liber I page row + nav + the home page list; run the judging rubric; write the review into notes/iudicia/<date>/; push. Log voice grades in notes/acta/<date>/.
 3. Apply L3s from notes/iudicia/2026/10/26/001-scope-and-order-review.md when touching those chapters.
 4. Maybe add a glossary/vocab page per book and a grammar-tables appendix (published).
 

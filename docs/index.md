@@ -35,3 +35,4 @@ We use **classical (restored)** pronunciation: the Latin of Cicero, said *KEE-ke
 
 1. [Caput I: Salvē!](liber-i/01-salve.md): sounds, hello and goodbye, how are you, names, classroom survival.
 2. [Caput II: Quid est?](liber-i/02-quid-est.md): naming things, est and sunt, singular and plural, the three genders, asking yes/no questions.
+3. [Caput III: Magnus et Parvus](liber-i/03-magnus-et-parvus.md): describing things, sizes, colors, and tastes, and making adjectives agree.
