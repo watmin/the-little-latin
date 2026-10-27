@@ -36,8 +36,8 @@ _Last updated: 2026-10-26 (America/Los_Angeles)_
 4. Maybe add a glossary/vocab page per book and a grammar-tables appendix (published).
 
 ## Chapter markup conventions (implemented by hooks/frames.py)
-- **Frame anchors:** every Question|Answer row starts with `{#f-NNN}`, e.g. `| {#f-012} What is salvē? | Hello. |`. On the page this becomes a tappable number badge with id `f-012`, so `…/01-salve/#f-012` is a bookmarkable link. Numbering is per chapter.
-- **Stability rule:** anchors are never renumbered once published. A frame inserted later takes the previous anchor plus a letter suffix (`f-012a`, `f-012b`). Deleted frames retire their number; it's never reused. Run `python3 tools/number_frames.py <file>` to fill in missing anchors: a file with no anchors gets 001, 002, …; otherwise rows get suffixes.
+- **Group bookmarks (one per question group, not per question):** put a marker line `{#g-NN}` directly above each Question|Answer table. It renders as a tappable 🔖 NN badge with id `g-NN`, so `…/01-salve/#g-07` is a bookmarkable link. Numbering is per chapter.
+- **Stability rule:** markers are never renumbered once published. A group inserted later takes the previous marker plus a letter suffix (`g-07a`, `g-07b`). A removed group's number is retired, never reused. Run `python3 tools/number_frames.py <file>` to fill in missing markers: a file with no markers gets g-01, g-02, …; otherwise new groups get suffixes. Individual frames have no anchors (an earlier per-frame `f-NNN` scheme was dropped on 2026-10-26 at John's request).
 - **Section mottos:** right after each `##` heading, add one line `:: Latin motto || English gloss`. Use simple, accurate Latin with macrons; famous sayings are OK if attributed. It renders as the Latin with a small italic gloss beneath.
 - **Heading permalinks:** `toc: permalink: true` is on; headings show a ¶ link.
-- Styles: docs/stylesheets/extra.css. A linked frame is highlighted when it's the URL target.
+- Styles: docs/stylesheets/extra.css. The bookmarked group's table is outlined when it's the URL target.

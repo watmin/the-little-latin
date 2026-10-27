@@ -1,21 +1,23 @@
-"""MkDocs hook: frame permalinks + section mottos for The Little Latin.
+"""MkDocs hook: question-group bookmarks + section mottos for The Little Latin.
 
 Markdown conventions (see notes/STATE.md):
-  Frame row:  | {#f-012} Question text | Answer |
-      -> the question cell gets a tappable anchor "012" with id="f-012".
+  Group marker (own line, directly above a Question|Answer table):
+      {#g-03}
+      -> a tappable bookmark badge with id="g-03".
   Motto line: :: Latin motto || English gloss
       -> a styled motto block (Latin, then a small italic gloss).
 """
 import html
 import re
 
-FRAME = re.compile(r"^\| \{#(f-(\d{3}[a-z]*))\} ", re.M)
+GROUP = re.compile(r"^\{#(g-(\d{2}[a-z]*))\}[ \t]*$", re.M)
 MOTTO = re.compile(r"^:: (.+?) \|\| (.+)$", re.M)
 
 
 def on_page_markdown(markdown, **kwargs):
-    markdown = FRAME.sub(
-        lambda m: f'| <a class="frame-id" id="{m[1]}" href="#{m[1]}" title="Link to this frame">{m[2]}</a> ',
+    markdown = GROUP.sub(
+        lambda m: f'<p class="group-mark"><a class="group-id" id="{m[1]}" href="#{m[1]}" '
+        f'title="Bookmark this group of questions">🔖 {m[2]}</a></p>\n',
         markdown,
     )
     markdown = MOTTO.sub(
