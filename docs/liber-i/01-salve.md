@@ -244,17 +244,17 @@
 | So, literally? | "What is the name to you?" |
 | Have you seen *quid* before? | Yes, in *quid agis*. |
 | Which vowel is long in *nōmen*? | The ō. NŌ-men. |
-| How do you answer? | *Nōmen mihi est John.* |
+| How do you answer? | *Nōmen mihi est Iōannēs.* (*Iōannēs*, yō-AN-nēs, is John in Latin.) |
 | Literally? | "The name to me is John." |
 | What is *mihi*? | "To me." MI-hi, with a light h. |
 | And *tibi*? | "To you." TI-bi. |
 | Are *mihi* and *tibi* a pair? | Yes. *mihi* to me, *tibi* to you. Chapter 11 explains them. For now they're a chunk. |
-| Can the words move around? | Yes. *Mihi nōmen est John* is just as good. Latin word order is flexible. |
+| Can the words move around? | Yes. *Mihi nōmen est Iōannēs* is just as good. Latin word order is flexible. |
 | Is *quod nōmen tibi est?* also correct? | Yes. "What name is to you?" Same question, slightly different words. |
-| A bread roll asks your name. | *Nōmen mihi est John.* |
+| A bread roll asks your name. | *Nōmen mihi est Iōannēs.* |
 | You ask the bread roll. | *Quid est nōmen tibi?* |
 | It says *Nōmen mihi est Pānis*. Surprised? | No. |
-| Someone tells you their name. You want to say "And mine is John." | *Et mihi nōmen est John.* |
+| Someone tells you their name. You want to say "And mine is John." | *Et mihi nōmen est Iōannēs.* |
 
 ## 6. Classroom survival
 
@@ -288,13 +288,13 @@ Magistra | Quid agitis? || Teacher | How are you (all)?
 Iūlia | Optimē, grātiās. || Iūlia | Very well, thanks.
 Quīntus | Nōn male. Et tū, magistra? || Quīntus | Not bad. And you, teacher?
 Magistra | Bene, grātiās. *(to a new student)* Salvē! Quid est nōmen tibi? || Teacher | Well, thanks. *(to a new student)* Hello! What's your name?
-John | Nōmen mihi est John. || John | My name is John.
-Magistra | Quid agis, John? || Teacher | How are you, John?
-John | Satis bene… nōn intellegō! || John | Well enough… I don't understand!
+Iōannēs | Nōmen mihi est Iōannēs. || John | My name is John.
+Magistra | Quid agis, Iōannēs? || Teacher | How are you, John?
+Iōannēs | Satis bene… nōn intellegō! || John | Well enough… I don't understand!
 Magistra | Quid agis? || Teacher | How are you?
-John | Lentius, quaesō! || John | More slowly, please!
+Iōannēs | Lentius, quaesō! || John | More slowly, please!
 Magistra | Quid… agis? || Teacher | How… are… you?
-John | Ah! Bene, grātiās! || John | Ah! Well, thanks!
+Iōannēs | Ah! Bene, grātiās! || John | Ah! Well, thanks!
 Magistra | Optimē. Valēte, discipulī! || Teacher | Excellent. Goodbye, students!
 Omnēs | Valē, magistra! || Everyone | Goodbye, teacher!
 :::
@@ -374,7 +374,7 @@ Say each line slowly, then at normal speed. Exaggerate the long vowels.
 3. *Quid agis? · Quid agitis?*
 4. *Optimē · bene · satis bene · nōn male · male*
 5. *Bene, grātiās. Et tū?*
-6. *Quid est nōmen tibi? · Nōmen mihi est John.*
+6. *Quid est nōmen tibi? · Nōmen mihi est Iōannēs.*
 7. *Iterum, quaesō. · Lentius, quaesō. · Nōn intellegō.*
 8. *Grātiās tibi agō.*
 9. Minimal pairs: *grātiās / grātīs · malum / mālum · liber / līber*
