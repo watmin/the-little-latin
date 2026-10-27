@@ -24,12 +24,12 @@ We use **classical (restored)** pronunciation: the Latin of Cicero, said *KEE-ke
 
 ## The books
 
-- **Liber I: Prīma Verba** (First Words): sounds, greetings, simple sentences, the cases one by one
-- **Liber II: Rēs Cotīdiānae** (Daily Things): more nouns, past and future, numbers and time
-- **Liber III: Fābulae** (Stories): narrating the past, relative clauses, the passive
-- **Liber IV: Verba Agentia** (Verbals): participles and infinitives, reported speech
-- **Liber V: Modus Subiūnctīvus** (The Subjunctive): wishes, purposes, conditions
-- **Liber VI: Ad Auctōrēs** (To the Authors): gerunds, poetry, real Roman texts
+- [**Liber I: Prīma Verba**](liber-i/index.md) (First Words): Hear it, say it, make simple sentences
+- [**Liber II: Rēs Cotīdiānae**](liber-ii/index.md) (Daily Things): More nouns, past and future *(coming)*
+- [**Liber III: Fābulae**](liber-iii/index.md) (Stories): Narrating the past, relatives, passive *(coming)*
+- [**Liber IV: Verba Agentia**](liber-iv/index.md) (Verbals): Participles and infinitives *(coming)*
+- [**Liber V: Modus Subiūnctīvus**](liber-v/index.md) (The Subjunctive): Wishes, purposes, reported thought *(coming)*
+- [**Liber VI: Ad Auctōrēs**](liber-vi/index.md) (To the Authors): Gerunds, ōrātiō oblīqua, poetry, real texts *(coming)*
 
 ## Start here
 

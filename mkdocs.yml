@@ -3,7 +3,7 @@ site_url: https://watmin.github.io/the-little-latin/
 repo_url: https://github.com/watmin/the-little-latin
 theme:
   name: material
-  features: [navigation.instant, navigation.tracking, navigation.top, navigation.footer, search.suggest, search.highlight, content.code.copy]
+  features: [navigation.instant, navigation.indexes, navigation.tracking, navigation.top, navigation.footer, search.suggest, search.highlight, content.code.copy]
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -18,4 +18,15 @@ markdown_extensions: [admonition, pymdownx.details, pymdownx.superfences, tables
 nav:
   - Home: index.md
   - "Liber I: Prīma Verba":
+      - liber-i/index.md
       - "I. Salvē!": liber-i/01-salve.md
+  - "Liber II: Rēs Cotīdiānae":
+      - liber-ii/index.md
+  - "Liber III: Fābulae":
+      - liber-iii/index.md
+  - "Liber IV: Verba Agentia":
+      - liber-iv/index.md
+  - "Liber V: Modus Subiūnctīvus":
+      - liber-v/index.md
+  - "Liber VI: Ad Auctōrēs":
+      - liber-vi/index.md
