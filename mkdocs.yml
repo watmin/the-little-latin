@@ -17,5 +17,5 @@ plugins: [search]
 markdown_extensions: [admonition, pymdownx.details, pymdownx.superfences, tables, attr_list, md_in_html]
 nav:
   - Home: index.md
-  - Chapters:
-      - "1. Salvē!": chapters/01-salve.md
+  - "Liber I: Prīma Verba":
+      - "I. Salvē!": liber-i/01-salve.md

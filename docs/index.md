@@ -22,6 +22,15 @@ Each chapter is a long column of questions and answers.
 
 We use **classical (restored)** pronunciation: the Latin of Cicero, said *KEE-ke-rō*.
 
-## Chapters
+## The books
 
-1. [Salvē!](chapters/01-salve.md): hello, goodbye, how are you, what's your name.
+- **Liber I: Prīma Verba** (First Words): sounds, greetings, simple sentences, the cases one by one
+- **Liber II: Rēs Cotīdiānae** (Daily Things): more nouns, past and future, numbers and time
+- **Liber III: Fābulae** (Stories): narrating the past, relative clauses, the passive
+- **Liber IV: Verba Agentia** (Verbals): participles and infinitives, reported speech
+- **Liber V: Modus Subiūnctīvus** (The Subjunctive): wishes, purposes, conditions
+- **Liber VI: Ad Auctōrēs** (To the Authors): gerunds, poetry, real Roman texts
+
+## Start here
+
+1. [Caput I: Salvē!](liber-i/01-salve.md): sounds, hello and goodbye, how are you, names, classroom survival.
