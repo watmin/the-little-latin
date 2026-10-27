@@ -42,21 +42,25 @@
 [data-md-color-scheme="slate"] .group-id:hover,[data-md-color-scheme="slate"] .group-id:target{background:var(--md-accent-fg-color);color:#1e1a12}
 
 /* Wax-tablet answers */
-.md-typeset td.tll-answer{position:relative;cursor:pointer;border-radius:.25em;transition:background-color .35s ease}
-.md-typeset td.tll-answer:not(.is-revealed){
+.md-typeset td.tll-answer, html.tll-js .md-typeset .group-mark + .md-typeset__scrollwrap td:nth-child(2){position:relative;cursor:pointer;border-radius:.25em;transition:background-color .35s ease}
+.md-typeset td.tll-answer:not(.is-revealed),
+html.tll-js .md-typeset .group-mark + .md-typeset__scrollwrap td:nth-child(2):not(.is-revealed), html.tll-js .md-typeset .group-mark + table td:nth-child(2):not(.is-revealed){
   color:transparent;user-select:none;
   background:
     repeating-linear-gradient(115deg,rgba(255,255,255,.05) 0 2px,transparent 2px 7px),
     radial-gradient(ellipse at 30% 30%,#b07a32 0%,#7a4a1a 70%,#5e3812 100%);
   box-shadow:inset 0 1px 3px rgba(0,0,0,.45),inset 0 0 0 1px #4a2c0e}
-.md-typeset td.tll-answer:not(.is-revealed) *{visibility:hidden}
-.md-typeset td.tll-answer:not(.is-revealed)::after{
+.md-typeset td.tll-answer:not(.is-revealed) *,
+html.tll-js .md-typeset .group-mark + .md-typeset__scrollwrap td:nth-child(2):not(.is-revealed) * , html.tll-js .md-typeset .group-mark + table td:nth-child(2):not(.is-revealed) *{visibility:hidden}
+.md-typeset td.tll-answer:not(.is-revealed)::after,
+html.tll-js .md-typeset .group-mark + .md-typeset__scrollwrap td:nth-child(2):not(.is-revealed)::after, html.tll-js .md-typeset .group-mark + table td:nth-child(2):not(.is-revealed)::after{
   content:"tange ✎";position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
   font-family:"Cinzel",Georgia,serif;font-size:.8em;letter-spacing:.12em;color:#f3dcae;opacity:.85}
 .md-typeset td.tll-answer.is-revealed{animation:tll-melt .4s ease}
 @keyframes tll-melt{from{opacity:0;filter:blur(3px)}to{opacity:1;filter:none}}
 .md-typeset td.tll-answer:focus-visible{outline:2px solid var(--md-accent-fg-color);outline-offset:2px}
-[data-md-color-scheme="slate"] .md-typeset td.tll-answer:not(.is-revealed){
+[data-md-color-scheme="slate"] .md-typeset td.tll-answer:not(.is-revealed),
+html.tll-js [data-md-color-scheme="slate"] .md-typeset .group-mark + .md-typeset__scrollwrap td:nth-child(2):not(.is-revealed), html.tll-js [data-md-color-scheme="slate"] .md-typeset .group-mark + table td:nth-child(2):not(.is-revealed){
   background:
     repeating-linear-gradient(115deg,rgba(255,255,255,.04) 0 2px,transparent 2px 7px),
     radial-gradient(ellipse at 30% 30%,#7a5220 0%,#4e3010 70%,#3a230b 100%)}

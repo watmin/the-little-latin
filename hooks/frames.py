@@ -26,3 +26,25 @@ def on_page_markdown(markdown, **kwargs):
         markdown,
     )
     return markdown
+
+
+# Cache-busting: append ?v=<content hash> to our own CSS/JS so phones never mix stale assets.
+import hashlib
+import os
+
+_ASSETS = ("stylesheets/extra.css", "javascripts/extra.js")
+_HASHES = {}
+
+
+def on_config(config, **kwargs):
+    for a in _ASSETS:
+        p = os.path.join(config["docs_dir"], a)
+        with open(p, "rb") as f:
+            _HASHES[a] = hashlib.sha1(f.read()).hexdigest()[:10]
+    return config
+
+
+def on_post_page(output, **kwargs):
+    for a, h in _HASHES.items():
+        output = re.sub(re.escape(a) + r'(?=")', f"{a}?v={h}", output)
+    return output

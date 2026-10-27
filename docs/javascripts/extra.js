@@ -1,5 +1,6 @@
 /* The Little Latin: wax-tablet answers. Tap to reveal; state persists per page. */
 (function () {
+  document.documentElement.classList.add("tll-js");
   const KEY = () => "tll:revealed:" + location.pathname.replace(/\/+$/, "/");
   const load = () => { try { return JSON.parse(localStorage.getItem(KEY())) || {}; } catch (e) { return {}; } };
   const save = (s) => { try { localStorage.setItem(KEY(), JSON.stringify(s)); } catch (e) {} };
@@ -67,6 +68,10 @@
     }
   }
 
-  if (typeof document$ !== "undefined") document$.subscribe(init);
-  else document.addEventListener("DOMContentLoaded", init);
+  function safeInit() { try { init(); } catch (e) { if (window.console) console.error("tll init", e); } }
+  // Don't depend on Material's document$: init now/at DOM ready, and again on instant navigation.
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", safeInit);
+  else safeInit();
+  try { if (window.document$ && window.document$.subscribe) window.document$.subscribe(safeInit); } catch (e) {}
+  window.addEventListener("pageshow", safeInit);
 })();
