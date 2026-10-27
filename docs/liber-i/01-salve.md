@@ -5,7 +5,7 @@
 *In which we learn how Latin sounds, say hello and goodbye to one person and to many, ask how someone is, trade names, and survive our first Latin conversation. Snacks will be mentioned.*
 
 !!! abstract "In this chapter"
-    - **Sounds:** classical (restored) pronunciation: vowels, long vowels and macrons, diphthongs, consonants, stress
+    - **Sounds:** classical (restored) pronunciation: vowels, long vowels and macrons, diphthongs, consonants, stress (also called emphasis: the syllable you lean on)
     - **Saying:** *salvē / salvēte*, *avē / avēte*, *valē / valēte*, *quid agis? / quid agitis?*, *bene, grātiās*, *et tū?*, *quid est nōmen tibi?*, *nōmen mihi est…*
     - **Law:** the First Law of *-te*
     - **Classroom survival:** *iterum, quaesō*, *lentius, quaesō*, *nōn intellegō*
@@ -97,6 +97,23 @@
 | How is **ph** pronounced? | A *p* with a puff of air, not *f*. Same for **th** and **ch**. Mostly in Greek words. |
 
 ### Where the stress falls
+
+{#g-04a}
+
+| Question | Answer |
+|---|---|
+| Say "a world record." Which part of *record* do you lean on? | REC-ord. |
+| Now say "record a song." | re-CORD. |
+| Same letters. What changed? | Which syllable you leaned on. |
+| Did the meaning change? | Yes. REC-ord is a thing; re-CORD is something you do. |
+| Say *banana* the normal way. | ba-NA-na. |
+| Now say BA-na-na. | It sounds wrong. A little funny, even. |
+| What does a leaned-on syllable sound like? | Louder and a bit longer. Often a little higher, too. |
+| What is that lean called? | **Stress.** It's also called **emphasis** (your high-school teacher's word) or **accent**. Same idea. |
+| How does this book mark stress? | With capital letters: SAL-vē puts the stress on SAL. |
+| Where is the stress in PIZ-za? | On PIZ. |
+| Does every Latin word of two or more syllables have a stressed syllable? | Yes, exactly one. |
+| So the question is… | …which syllable gets the stress. Let's find out. |
 
 {#g-05}
 
