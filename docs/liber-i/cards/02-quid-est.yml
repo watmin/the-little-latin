@@ -1,0 +1,64 @@
+book: i
+ch: 2
+page: liber-i/02-quid-est.md
+cards:
+  - {id: i02-v-malum, type: vocab, la: "mālum · māla", en: "apple (n.)", ref: g-01}
+  - {id: i02-v-pomum, type: vocab, la: "pōmum · pōma", en: "fruit (n.)", ref: g-01}
+  - {id: i02-v-ovum, type: vocab, la: "ōvum · ōva", en: "egg (n.)", ref: g-01}
+  - {id: i02-v-vinum, type: vocab, la: "vīnum · vīna", en: "wine (n.)", ref: g-01}
+  - {id: i02-v-pirum, type: vocab, la: "pirum · pira", en: "pear (n.)", ref: g-02}
+  - {id: i02-v-caseus, type: vocab, la: "cāseus · cāseī", en: "cheese (m.)", ref: g-02}
+  - {id: i02-v-stilus, type: vocab, la: "stilus · stilī", en: "stylus, pen (m.)", ref: g-02}
+  - {id: i02-v-discipulus, type: vocab, la: "discipulus · discipulī", en: "student, male (m.)", ref: g-03}
+  - {id: i02-v-liber, type: vocab, la: "liber · librī", en: "book (m.)", ref: g-02}
+  - {id: i02-v-magister, type: vocab, la: "magister · magistrī", en: "teacher, male (m.)", ref: g-03}
+  - {id: i02-v-puer, type: vocab, la: "puer · puerī", en: "boy (m.)", ref: g-02}
+  - {id: i02-v-agricola, type: vocab, la: "agricola · agricolae", en: "farmer (m.)", ref: g-05}
+  - {id: i02-v-nauta, type: vocab, la: "nauta · nautae", en: "sailor (m.)", ref: g-05}
+  - {id: i02-v-mensa, type: vocab, la: "mēnsa · mēnsae", en: "table (f.)", ref: g-02}
+  - {id: i02-v-sella, type: vocab, la: "sella · sellae", en: "chair (f.)", ref: g-02}
+  - {id: i02-v-tabula, type: vocab, la: "tabula · tabulae", en: "writing tablet (f.)", ref: g-02}
+  - {id: i02-v-aqua, type: vocab, la: "aqua · aquae", en: "water (f.)", ref: g-02}
+  - {id: i02-v-uva, type: vocab, la: "ūva · ūvae", en: "grape (f.)", ref: g-02}
+  - {id: i02-v-puella, type: vocab, la: "puella · puellae", en: "girl (f.)", ref: g-02}
+  - {id: i02-v-est-sunt, type: vocab, la: "est · sunt", en: "is · are", ref: g-04}
+  - {id: i02-v-ita, type: vocab, la: "ita, ita est", en: "yes, it is so", ref: g-08}
+  - {id: i02-v-minime, type: vocab, la: "minimē", en: "no, not at all", ref: g-08}
+  - {id: i02-f-ovum-pl, type: forms, q: "One *ōvum*, many…?", a: "*ōva*", ref: g-05}
+  - {id: i02-f-liber-pl, type: forms, q: "One *liber*, many…?", a: "*librī*", ref: g-05}
+  - {id: i02-f-puella-pl, type: forms, q: "One *puella*, many…?", a: "*puellae*", ref: g-05}
+  - {id: i02-f-caseus-pl, type: forms, q: "One *cāseus*, many…?", a: "*cāseī*", ref: g-05}
+  - {id: i02-f-nauta-gender, type: forms, q: "Gender of *nauta*?", a: "Masculine, even though it ends in *-a*.", ref: g-05}
+  - {id: i02-f-ova-number, type: forms, q: "*ōva*: one thing or many? Gender?", a: "Many. Neuter plural of *ōvum*.", ref: g-06}
+  - {id: i02-f-estne, type: forms, q: "Turn *mālum est* into a yes/no question.", a: "*Estne mālum?*", ref: g-08}
+  - id: i02-c-est-sunt
+    type: choose
+    q: "*Ūvae ___.*"
+    options: [est, sunt]
+    a: sunt
+    why: "*Ūvae* is plural, so the verb is plural: *sunt*."
+    ref: g-04
+  - id: i02-c-nonne-num
+    type: choose
+    q: "You expect yes: \"___ mālum est?\" (Isn't it an apple?)"
+    options: [nōnne, num]
+    a: nōnne
+    why: "*Nōnne* expects yes; *num* expects no."
+    ref: g-08
+  - id: i02-c-quid-sunt
+    type: choose
+    q: "Holding up some grapes: ___ sunt?"
+    options: [quis, quid]
+    a: quid
+    why: "Grapes are things, so *quid*."
+    ref: g-04
+  - id: i02-e-mala-est
+    type: error
+    q: "*Māla est.* What's wrong?"
+    a: "*Māla sunt.* Plural subject, plural verb."
+    ref: g-09
+  - id: i02-e-mala-apples
+    type: error
+    q: "Serving apples: *mala sunt*. What's wrong?"
+    a: "*Māla sunt.* Without the long ā, you're serving bad things."
+    ref: g-04

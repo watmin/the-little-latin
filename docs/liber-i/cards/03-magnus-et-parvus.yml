@@ -1,0 +1,69 @@
+book: i
+ch: 3
+page: liber-i/03-magnus-et-parvus.md
+cards:
+  - {id: i03-v-magnus, type: vocab, la: "magnus · magna · magnum", en: "big, great", ref: g-01}
+  - {id: i03-v-parvus, type: vocab, la: "parvus · parva · parvum", en: "small", ref: g-01}
+  - {id: i03-v-bonus, type: vocab, la: "bonus · bona · bonum", en: "good", ref: g-04}
+  - {id: i03-v-malus, type: vocab, la: "malus · mala · malum", en: "bad", ref: g-07}
+  - {id: i03-v-novus, type: vocab, la: "novus · nova · novum", en: "new", ref: g-07}
+  - {id: i03-v-antiquus, type: vocab, la: "antīquus · antīqua · antīquum", en: "old, ancient", ref: g-07}
+  - {id: i03-v-longus, type: vocab, la: "longus · longa · longum", en: "long", ref: g-07}
+  - {id: i03-v-albus, type: vocab, la: "albus · alba · album", en: "white", ref: g-05}
+  - {id: i03-v-niger, type: vocab, la: "niger · nigra · nigrum", en: "black, dark", ref: g-05}
+  - {id: i03-v-ruber, type: vocab, la: "ruber · rubra · rubrum", en: "red", ref: g-05}
+  - {id: i03-v-flavus, type: vocab, la: "flāvus · flāva · flāvum", en: "yellow, golden", ref: g-05}
+  - {id: i03-v-caeruleus, type: vocab, la: "caeruleus · caerulea · caeruleum", en: "sky blue", ref: g-05}
+  - {id: i03-v-salsus, type: vocab, la: "salsus · salsa · salsum", en: "salty", ref: g-06}
+  - {id: i03-v-acerbus, type: vocab, la: "acerbus · acerba · acerbum", en: "sour, unripe, harsh", ref: g-06}
+  - {id: i03-v-amarus, type: vocab, la: "amārus · amāra · amārum", en: "bitter", ref: g-06}
+  - {id: i03-v-calidus, type: vocab, la: "calidus · calida · calidum", en: "hot", ref: g-06}
+  - {id: i03-v-frigidus, type: vocab, la: "frīgidus · frīgida · frīgidum", en: "cold", ref: g-06}
+  - {id: i03-v-plenus, type: vocab, la: "plēnus · plēna · plēnum", en: "full", ref: g-06}
+  - {id: i03-v-vacuus, type: vocab, la: "vacuus · vacua · vacuum", en: "empty", ref: g-06}
+  - {id: i03-v-poculum, type: vocab, la: "pōculum · pōcula", en: "cup (n.)", ref: g-06}
+  - {id: i03-v-sed, type: vocab, la: "sed", en: "but", ref: g-08}
+  - {id: i03-v-que, type: vocab, la: "-que", en: "and (stuck on the second word)", ref: g-08}
+  - {id: i03-f-magnus-fpl, type: forms, q: "Two big tables.", a: "*Mēnsae magnae.*", ref: g-03}
+  - {id: i03-f-magnus-mpl, type: forms, q: "Many big cheeses.", a: "*Cāseī magnī.*", ref: g-03}
+  - {id: i03-f-parvus-npl, type: forms, q: "Many small eggs.", a: "*Ōva parva.*", ref: g-03}
+  - {id: i03-f-albus-n, type: forms, q: "A white egg.", a: "*Ōvum album.*", ref: g-05}
+  - {id: i03-f-ruber-f, type: forms, q: "A red grape.", a: "*Ūva rubra.* The -er adjective drops its e, like *liber → librī*.", ref: g-05}
+  - {id: i03-f-plenus-npl, type: forms, q: "Full cups.", a: "*Pōcula plēna.*", ref: g-06}
+  - {id: i03-f-salsus, type: forms, q: "Salty cheese.", a: "*Cāseus salsus.*", ref: g-06}
+  - id: i03-c-agricola
+    type: choose
+    q: "A good farmer: *agricola* ___"
+    options: [bonus, bona]
+    a: bonus
+    why: "Agreement follows gender, not rhyme. *Agricola* is masculine."
+    ref: g-04
+  - id: i03-c-mala-magna
+    type: choose
+    q: "Big apples: *māla* ___"
+    options: [magna, magnae]
+    a: magna
+    why: "*Māla* is neuter plural, so the adjective takes neuter plural *-a*."
+    ref: g-10
+  - id: i03-c-et-sed
+    type: choose
+    q: "The cheese is salty ___ good: *Cāseus salsus ___ bonus est.*"
+    options: [et, sed]
+    a: sed
+    why: "Salty-but-good is a contrast, so *sed*."
+    ref: g-08
+  - id: i03-e-vinum-alba
+    type: error
+    q: "*Vīnum alba.* What's wrong?"
+    a: "*Vīnum album.* *Vīnum* is neuter."
+    ref: g-05
+  - id: i03-e-mensa-magnum
+    type: error
+    q: "*Mēnsa magnum.* What's wrong?"
+    a: "*Mēnsa magna.* *Mēnsa* is feminine."
+    ref: g-02
+  - id: i03-e-agricola-bona
+    type: error
+    q: "*Agricola bona est.* What's wrong?"
+    a: "*Agricola bonus est.* The farmer is masculine; don't follow the rhyme."
+    ref: g-04

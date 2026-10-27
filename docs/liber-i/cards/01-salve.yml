@@ -1,0 +1,67 @@
+book: i
+ch: 1
+page: liber-i/01-salve.md
+cards:
+  - {id: i01-v-salve, type: vocab, la: "salvē, salvēte", en: "hello (to one; to many)", ref: g-06}
+  - {id: i01-v-ave, type: vocab, la: "avē, avēte", en: "hail, greetings (to one; to many)", ref: g-07}
+  - {id: i01-v-vale, type: vocab, la: "valē, valēte", en: "goodbye (to one; to many)", ref: g-07}
+  - {id: i01-v-quid-agis, type: vocab, la: "quid agis? quid agitis?", en: "how are you? how are you all?", ref: g-09}
+  - {id: i01-v-quid, type: vocab, la: "quid?", en: "what?", ref: g-10}
+  - {id: i01-v-quis, type: vocab, la: "quis?", en: "who?", ref: g-10}
+  - {id: i01-v-bene, type: vocab, la: "bene", en: "well", ref: g-09}
+  - {id: i01-v-optime, type: vocab, la: "optimē", en: "very well, excellently", ref: g-09}
+  - {id: i01-v-satis-bene, type: vocab, la: "satis bene", en: "well enough", ref: g-09}
+  - {id: i01-v-male, type: vocab, la: "male", en: "badly", ref: g-09}
+  - {id: i01-v-gratias, type: vocab, la: "grātiās", en: "thanks", ref: g-09}
+  - {id: i01-v-gratias-tibi-ago, type: vocab, la: "grātiās tibi agō", en: "thank you", ref: g-11}
+  - {id: i01-v-nomen-tibi, type: vocab, la: "quid est nōmen tibi?", en: "what is your name?", ref: g-10}
+  - {id: i01-v-nomen-mihi, type: vocab, la: "nōmen mihi est…", en: "my name is…", ref: g-10}
+  - {id: i01-v-quaeso, type: vocab, la: "quaesō", en: "please", ref: g-11}
+  - {id: i01-v-iterum, type: vocab, la: "iterum", en: "again", ref: g-11}
+  - {id: i01-v-lentius, type: vocab, la: "lentius", en: "more slowly", ref: g-11}
+  - {id: i01-v-intellego, type: vocab, la: "(nōn) intellegō", en: "I (don't) understand", ref: g-11}
+  - {id: i01-v-magister, type: vocab, la: "magister, magistra", en: "teacher (m., f.)", ref: g-12}
+  - {id: i01-v-panis, type: vocab, la: "pānis", en: "bread", ref: g-12}
+  - {id: i01-v-malum-apple, type: vocab, la: "mālum", en: "apple", ref: g-01}
+  - {id: i01-v-malum-bad, type: vocab, la: "malum", en: "a bad thing", ref: g-01}
+  - id: i01-c-salve-salvete
+    type: choose
+    q: "The teacher greets the whole class: ___, discipulī!"
+    options: [salvē, salvēte]
+    a: salvēte
+    why: "*-te* is for more than one person; *salvē* greets one."
+    ref: g-12
+  - id: i01-c-vale-valete
+    type: choose
+    q: "Two friends leave. You say ___!"
+    options: [valē, valēte]
+    a: valēte
+    why: "Two people, so add *-te*."
+    ref: g-08
+  - id: i01-c-quis-quid
+    type: choose
+    q: "Someone knocks at the door. ___ est?"
+    options: [quis, quid]
+    a: quis
+    why: "*Quis* asks about a person; *quid* asks about a thing."
+    ref: g-10
+  - id: i01-c-malum-macron
+    type: choose
+    q: "Which one is the apple?"
+    options: [mālum, malum]
+    a: mālum
+    why: "Long *ā* is the apple; short *a* is a bad thing. The macron is the whole difference."
+    ref: g-01
+  - {id: i01-f-c-hard, type: forms, q: "How is the *c* in *Cicerō* said?", a: "Hard, like k: KI-ke-rō.", ref: g-04}
+  - {id: i01-f-v-w, type: forms, q: "How is the *v* in *salvē* said?", a: "Like English w: SAL-wē.", ref: g-06}
+  - {id: i01-f-ae, type: forms, q: "How is *ae* said, as in *quaesō*?", a: "\"eye\": KWAI-sō.", ref: g-03}
+  - id: i01-e-salve-many
+    type: error
+    q: "John greets three students: *Salvē, discipulī!* What's wrong?"
+    a: "*Salvēte!* Three people need *-te*."
+    ref: g-08
+  - id: i01-e-church-c
+    type: error
+    q: "*Cicerō* read as CHEE-che-rō. What's wrong for this course?"
+    a: "That's Church Latin. Classical *c* is always hard: KI-ke-rō."
+    ref: g-04

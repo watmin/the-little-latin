@@ -10,7 +10,9 @@ John's review of the first sketch settled these:
 4. **Vocab in both directions**, still at most one direction per word per round.
 5. **Tap to reveal only.** No typed answers.
 6. **No voice-check / personal cards.** Cards are strictly chapter content.
-7. **Lean: fixed 50% toward the furthest selected chapter.** Not adjustable. Moot for a single-chapter scope.
+7. ~~Lean: fixed 50% toward the furthest selected chapter.~~ **Dropped (John, 2026-10-27): every scope draws uniformly at random from its whole pool.**
+8. **Chapter quiz = that chapter only.** No `upto` option.
+9. **Defaults (v1 build):** global page with nothing saved yet = everything unlocked; book quiz nav label = "Tabellae".
 
 ## 1. The quiz component
 
@@ -33,8 +35,7 @@ One script (`javascripts/cards.js`) mounts on any element:
 ```html
 <div class="tll-quiz" data-scope="all"></div>                          <!-- global -->
 <div class="tll-quiz" data-scope="book" data-book="i"></div>           <!-- per book -->
-<div class="tll-quiz" data-scope="chapter" data-book="i" data-ch="3"
-     data-upto="false"></div>                                          <!-- per chapter -->
+<div class="tll-quiz" data-scope="chapter" data-book="i" data-ch="3"></div>                                          <!-- per chapter -->
 ```
 
 Pages never hand-write that div. A marker line, handled by `hooks/frames.py` like the other `:::` blocks, emits it:
@@ -42,13 +43,13 @@ Pages never hand-write that div. A marker line, handled by `hooks/frames.py` lik
 ```
 ::: quiz all
 ::: quiz book i
-::: quiz chapter i 3            (or: ::: quiz chapter i 3 upto)
+::: quiz chapter i 3
 ```
 
 Pool per scope:
 - `all`: chapters in `tll:cards:unlocked`, selector shown.
 - `book`: every chapter of that book with cards. No selector, nothing stored.
-- `chapter`: that chapter only (default), or with `upto` every chapter from I.1 through it. No selector. (Open question 1.)
+- `chapter`: that chapter only. No selector.
 
 ### Where the scopes live and how nav is generated
 - Global: `docs/tabellae.md` ("Tabellae · Cards"), one hand-added top-level nav entry.
@@ -56,9 +57,8 @@ Pool per scope:
 - Per chapter: no separate page and no nav entry (would double the nav). The hook appends a final `## Tabellae` section (with motto) after Homework on every chapter page that has a card file, containing `::: quiz chapter <b> <n>`.
 
 ### Drawing a round (client JS)
-- Pool = cards in scope with enabled types. Each vocab card is a candidate in both directions (la→en, en→la); once one direction of a word is drawn, the other is dropped for that round.
-- Lean (`all`, `book`, and `chapter … upto`): the **furthest** chapter in the pool supplies ceil(n/2) cards (or all it has, if fewer); the rest come uniformly from earlier chapters. Fixed, no setting. Single-chapter scope draws uniformly.
-- Fisher–Yates shuffle, no duplicate `id`s, n = 20.
+- Pool = cards in scope with enabled types. Shuffle (Fisher–Yates), take up to 20: every card equally likely, in every scope. No lean.
+- Each drawn vocab card picks a random direction (la→en or en→la), so both directions show up across rounds and only one per word per round.
 
 ## 2. Card data format
 One YAML file per chapter, next to the chapter, inside docs but excluded from pages:
@@ -233,6 +233,4 @@ Review file gains a line under Checks: `- **Cards:** N cards (v/f/c/e counts); C
 Retro-fit: one review pass carding Chapters 1–3 (this sketch is the starting point), logged in `notes/iudicia/`.
 
 ## 5. Open questions for John
-1. **Per-chapter scope:** only that chapter (current default), or everything up to it (`upto`)? Or both buttons on the chapter page?
-2. **Global page with nothing selected yet:** default to everything, or to the latest chapter?
-3. **Book quiz nav label:** "Tabellae Librī I", "Probā tē" (test yourself), or plain "Cards"?
+- Resolved 2026-10-27: chapter quiz is that chapter only; empty global selection = everything; nav label "Tabellae". Nothing open; riff after seeing v1.

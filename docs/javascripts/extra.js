@@ -31,19 +31,22 @@
       }
       if (!tables.length) return;
       const gid = a.id;
+      // Quiz rounds (inside [data-no-persist]) never read or write saved reveal state.
+      const np = !!mark.closest("[data-no-persist]");
       const cells = [];
       tables.forEach((table, ti) => table.querySelectorAll("tbody tr").forEach((tr, ri) => {
         const i = ti === 0 ? ri : "t" + ti + ":" + ri;
         const td = tr.cells[1];
         if (!td) return;
         td.classList.add("tll-answer");
+        if (np) td.dataset.np = "1";
         td.dataset.tllKey = gid + ":" + i;
         td.tabIndex = 0;
         td.setAttribute("role", "button");
-        setCell(td, !!state[td.dataset.tllKey], state, false);
+        setCell(td, !np && !!state[td.dataset.tllKey], state, false);
         const toggle = (e) => {
           if (e.target.closest("a")) return;
-          setCell(td, !td.classList.contains("is-revealed"), load(), true);
+          setCell(td, !td.classList.contains("is-revealed"), load(), !np);
         };
         td.addEventListener("click", toggle);
         td.addEventListener("keydown", (e) => {
@@ -55,13 +58,13 @@
         const b = document.createElement("button");
         b.type = "button"; b.className = "tll-ctl"; b.textContent = label;
         b.setAttribute("aria-label", (open ? "Reveal" : "Hide") + " all answers in group " + gid.slice(2));
-        b.addEventListener("click", () => { const s = load(); cells.forEach((td) => setCell(td, open, s, true)); });
+        b.addEventListener("click", () => { const s = load(); cells.forEach((td) => setCell(td, open, s, !np)); });
         return b;
       };
       mark.prepend(mk("Ostende omnia · reveal all", true), mk("Tege · hide all", false));
     });
     const article = document.querySelector(".md-content__inner");
-    if (article && document.querySelector(".tll-answer") && !document.querySelector(".tll-reset")) {
+    if (article && document.querySelector(".tll-answer:not([data-np])") && !document.querySelector(".tll-reset")) {
       const wrap = document.createElement("p");
       wrap.className = "tll-reset-wrap";
       const b = document.createElement("button");
@@ -209,4 +212,5 @@
   else safeInit();
   try { if (window.document$ && window.document$.subscribe) window.document$.subscribe(safeInit); } catch (e) {}
   window.addEventListener("pageshow", safeInit);
+  window.tllInit = safeInit;
 })();
