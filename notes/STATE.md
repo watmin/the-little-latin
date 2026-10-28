@@ -1,10 +1,10 @@
 # STATE: resumption notes for The Little Latin
 
-_Last updated: 2026-10-27 night (America/Los_Angeles)_
+_Last updated: 2026-10-28 morning (America/Los_Angeles)_
 
 ## What exists
 - Repo: https://github.com/watmin/the-little-latin (public). Site: https://watmin.github.io/the-little-latin/ (MkDocs Material, GitHub Actions deploy on push to main; Pages source = GitHub Actions, set by John manually).
-- Published: `docs/liber-i/05-ego-et-tu.md` (Caput V, 2026-10-27: six persons present, 1st/2nd conj + sum, ego/tū/nōs/vōs, 40 cards; review notes/iudicia/2026/10/27/003), `docs/liber-i/04-marcus-pomum-edit.md` (Caput IV, 2026-10-27: accusative sg/pl, 3rd-person present sg/pl, endings over order, quem as recognition), `docs/liber-i/03-magnus-et-parvus.md` (Caput III, 2026-10-27: adjectives, agreement, colors/tastes, et/sed/-que), `docs/index.md` (short, stable: what the course is, links to the books (open-ended series, no count) and the Cards page, Little Schemer acknowledgment; **chapters never touch it**), `docs/liber-i/02-quid-est.md` (Caput II "Quid est?", 2026-10-26: est/sunt, nominative sg/pl, gender, -ne/nōnne/num), `docs/liber-i/01-salve.md` (Liber I Caput I "Salvē!", rewritten in full 2026-10-26; the original proof-of-concept chapter was scrapped).
+- Published: `docs/liber-i/06-audi-veni.md` (Caput VI, 2026-10-28: 3rd/4th conj + -iō verbs present, imperatives sg/pl incl. dīc/dūc/fac/fer, nōlī(te) + inf. chunk, venī vs vēnī payoff, 44 cards; review notes/iudicia/2026/10/28/001), `docs/liber-i/05-ego-et-tu.md` (Caput V, 2026-10-27: six persons present, 1st/2nd conj + sum, ego/tū/nōs/vōs, 40 cards; review notes/iudicia/2026/10/27/003), `docs/liber-i/04-marcus-pomum-edit.md` (Caput IV, 2026-10-27: accusative sg/pl, 3rd-person present sg/pl, endings over order, quem as recognition), `docs/liber-i/03-magnus-et-parvus.md` (Caput III, 2026-10-27: adjectives, agreement, colors/tastes, et/sed/-que), `docs/index.md` (short, stable: what the course is, links to the books (open-ended series, no count) and the Cards page, Little Schemer acknowledgment; **chapters never touch it**), `docs/liber-i/02-quid-est.md` (Caput II "Quid est?", 2026-10-26: est/sunt, nominative sg/pl, gender, -ne/nōnne/num), `docs/liber-i/01-salve.md` (Liber I Caput I "Salvē!", rewritten in full 2026-10-26; the original proof-of-concept chapter was scrapped).
 - Site path convention: `docs/liber-<roman>/NN-slug.md` (NN = chapter within the book), nav grouped as "Liber I: Prīma Verba" etc.
 - Unpublished workshop in `notes/` (outside docs/, never built). Convention: `notes/<category>/YYYY/MM/DD/NNN-slug-name.md`, ASCII paths with no macrons, NNN = per-day sequence per category. Categories: `consilia/` (plans), `iudicia/` (reviews), `acta/` (session logs, grades, voice results), `commentarii/` (working notes). See `notes/README.md`.
 - Current files:
@@ -14,6 +14,8 @@ _Last updated: 2026-10-27 night (America/Los_Angeles)_
   - `notes/iudicia/2026/10/26/001-scope-and-order-review.md`: first judging pass
   - `notes/commentarii/2026/10/26/001-liber-i-01-salve-draft.md`: Ch1 draft (published copy is canonical)
   - `notes/iudicia/2026/10/26/002-liber-i-01-salve-review.md`: Ch1 judging pass (1 L1, 4 L2, all fixed)
+  - `notes/commentarii/2026/10/27/00{1,2,3}-*` and `notes/iudicia/2026/10/27/00{1,2,3}-*`: Ch3-5 drafts and reviews
+  - `notes/commentarii/2026/10/28/001-liber-i-06-audi-veni-draft.md`, `notes/iudicia/2026/10/28/001-liber-i-06-audi-veni-review.md`: Ch6 draft and review (2 L1, 6 L2, all fixed)
   - `notes/acta/`: empty so far
 - Local working copy: /workspace/tll on the shared box. Push via `https://x-access-token:$LATIN_REPO_GH_TOKEN@github.com/watmin/the-little-latin.git`. The token is a fine-grained PAT for this repo only (Contents/Pages/Workflows write; no Administration). Never print it.
 
@@ -31,7 +33,7 @@ _Last updated: 2026-10-27 night (America/Los_Angeles)_
 - Wants frequent additions (a few times a day) and durable, substantial content.
 
 ## Next steps
-1. Write Liber I Caput VI "Audī! Venī!" (docs/liber-i/06-audi-veni.md): all 4 conjugations + io-verbs, present + imperative; Ch5 promised the 3rd family's full set (edō, bibō, emō…) here, and *ēs* vs *es* is a good macron card. Same workflow. Keep in mind the pending Book II reorder proposals (simple ubi/postquam/dum, sī + indicative, dīcit/putō + acc.-inf. as chunks); plan files not yet changed, awaiting John. Log Ch5 voice grades in notes/acta/<date>/.
+1. Write Liber I Caput VII "Ubi est?" (docs/liber-i/07-ubi-est.md): ablative with in/ex/ab/cum/sine; place where / place from. V: house & town. S: where is X. Same workflow. Ch6 used *hūc* vs *hīc* (to here / here), a natural lead-in. Watch frame count (Ch6 was 137; aim nearer the ~40–80 guide). Keep in mind the pending Book II reorder proposals (simple ubi/postquam/dum, sī + indicative, dīcit/putō + acc.-inf. as chunks); plan files not yet changed, awaiting John. Log voice grades for Ch5/Ch6 in notes/acta/<date>/ when John does them.
 2. Cards coverage backfill (from Ch1-3 L2s): uncarded Vocābula rows in Ch1-3 (nōn, et, tū, nōmen, est, -ne, nōnne, num, discipula, optimus …).
 3. Apply L3s from notes/iudicia/2026/10/26/001-scope-and-order-review.md when touching those chapters.
 4. Maybe add a glossary/vocab page per book and a grammar-tables appendix (published).

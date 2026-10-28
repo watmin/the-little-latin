@@ -1,0 +1,110 @@
+book: i
+ch: 6
+page: liber-i/06-audi-veni.md
+cards:
+  - {id: i06-v-edo, type: vocab, la: "edō, edere", en: "eat", ref: g-01}
+  - {id: i06-v-bibo, type: vocab, la: "bibō, bibere", en: "drink", ref: g-01}
+  - {id: i06-v-emo, type: vocab, la: "emō, emere", en: "buy", ref: g-01}
+  - {id: i06-v-vendo, type: vocab, la: "vendō, vendere", en: "sell", ref: g-08}
+  - {id: i06-v-lego, type: vocab, la: "legō, legere", en: "read", ref: g-01}
+  - {id: i06-v-ago, type: vocab, la: "agō, agere", en: "do, drive (*age!*: come on!)", ref: g-06}
+  - {id: i06-v-dico, type: vocab, la: "dīcō, dīcere", en: "say, tell", ref: g-07}
+  - {id: i06-v-duco, type: vocab, la: "dūcō, dūcere", en: "lead", ref: g-07}
+  - {id: i06-v-scribo, type: vocab, la: "scrībō, scrībere", en: "write", ref: g-06}
+  - {id: i06-v-curro, type: vocab, la: "currō, currere", en: "run", ref: g-06}
+  - {id: i06-v-capio, type: vocab, la: "capiō, capere", en: "take, grab", ref: g-04}
+  - {id: i06-v-facio, type: vocab, la: "faciō, facere", en: "make, do", ref: g-04}
+  - {id: i06-v-audio, type: vocab, la: "audiō, audīre", en: "hear, listen", ref: g-03}
+  - {id: i06-v-venio, type: vocab, la: "veniō, venīre", en: "come", ref: g-03}
+  - {id: i06-v-dormio, type: vocab, la: "dormiō, dormīre", en: "sleep", ref: g-03}
+  - {id: i06-v-scio, type: vocab, la: "sciō, scīre", en: "know (*nesciō*: I don't know)", ref: g-03}
+  - {id: i06-v-fer, type: vocab, la: "fer, ferte", en: "bring! carry! (to one; to y'all)", ref: g-07}
+  - {id: i06-v-noli, type: vocab, la: "nōlī, nōlīte", en: "don't…! (+ infinitive: *nōlī timēre*)", ref: g-08}
+  - {id: i06-v-huc, type: vocab, la: "hūc", en: "to here, this way", ref: g-09}
+  - {id: i06-v-statim, type: vocab, la: "statim", en: "at once, right away", ref: g-09}
+  - {id: i06-f-lego-six, type: forms, q: "Chant *legō* through all six persons.", a: "*legō, legis, legit, legimus, legitis, legunt*", ref: g-01}
+  - {id: i06-f-audio-six, type: forms, q: "Chant *audiō* through all six persons.", a: "*audiō, audīs, audit, audīmus, audītis, audiunt*", ref: g-03}
+  - {id: i06-f-capio-six, type: forms, q: "Chant *capiō* through all six persons.", a: "*capiō, capis, capit, capimus, capitis, capiunt*", ref: g-04}
+  - {id: i06-f-families, type: forms, q: "*legere* vs *docēre*: which family is each?", a: "*legere* (short e): 3rd conjugation. *docēre* (long ē): 2nd.", ref: g-02}
+  - {id: i06-f-clip, type: forms, q: "How do you make a command to one person?", a: "Clip *-re* off the infinitive: *audīre → audī*, *legere → lege*.", ref: g-05}
+  - {id: i06-f-yall-listen, type: forms, q: "\"Listen, y'all!\"", a: "*Audīte!*", ref: g-05}
+  - {id: i06-f-read-class, type: forms, q: "\"Read!\" (to a whole class)", a: "*Legite!*", ref: g-06}
+  - {id: i06-f-rebels, type: forms, q: "The four short commands (to one; to y'all)?", a: "*dīc, dūc, fac, fer* · *dīcite, dūcite, facite, ferte*", ref: g-07}
+  - {id: i06-f-again, type: forms, q: "\"Say it again, please.\"", a: "*Dīc iterum, quaesō.*", ref: g-07}
+  - {id: i06-f-dont-fear, type: forms, q: "\"Don't be afraid!\" (to one; to y'all)", a: "*Nōlī timēre! Nōlīte timēre!*", ref: g-08}
+  - {id: i06-f-obey, type: forms, q: "*Venīte statim!* Obey, for the group.", a: "*Statim venīmus!*", ref: g-09}
+  - {id: i06-f-nescio, type: forms, q: "\"I don't know.\"", a: "*Nesciō.*", ref: g-03}
+  - id: i06-c-es-es
+    type: choose
+    q: "*Tū bonus ___.* (You are good.)"
+    options: [es, ēs]
+    a: es
+    why: "Short *es* is \"you are\"; long *ēs* is \"you eat\" (a short form of *edis*)."
+    ref: g-02
+  - id: i06-c-veni
+    type: choose
+    q: "Caesar: *___, vīdī, vīcī.* (I came, I saw, I conquered.)"
+    options: [vēnī, venī]
+    a: vēnī
+    why: "Long ē *vēnī* is \"I came\"; short e *venī* is \"come!\""
+    ref: g-09
+  - id: i06-c-legite
+    type: choose
+    q: "\"Read, y'all!\" *___ librum!*"
+    options: [Legite, Legete]
+    a: Legite
+    why: "The third family turns its e into i before *-te*."
+    ref: g-06
+  - id: i06-c-noli
+    type: choose
+    q: "\"Don't laugh!\" *Nōlī ___!*"
+    options: [rīdēre, rīdē]
+    a: rīdēre
+    why: "After *nōlī*, use the infinitive."
+    ref: g-08
+  - id: i06-c-audis
+    type: choose
+    q: "*Tū ___.* (You hear.)"
+    options: [audīs, audis]
+    a: audīs
+    why: "The ī family keeps its long ī: *audīs*. Short i is the *legis* family."
+    ref: g-03
+  - id: i06-c-capiunt
+    type: choose
+    q: "\"They take\": *___*"
+    options: [capiunt, capunt]
+    a: capiunt
+    why: "-iō verbs show their i in \"I\" and \"they\": *capiō, capiunt*."
+    ref: g-04
+  - id: i06-c-answer
+    type: choose
+    q: "*Audīte, discipulī!* Answer for the class: *___.*"
+    options: [Audīmus, Audiō]
+    a: Audīmus
+    why: "A command to y'all gets a \"we\" answer: *-mus*."
+    ref: g-09
+  - id: i06-e-dice
+    type: error
+    q: "*Dīce iterum, quaesō.* What's wrong?"
+    a: "*Dīc iterum.* *Dīc* is one of the four rebels with no *-e*."
+    ref: g-07
+  - id: i06-e-noli-time
+    type: error
+    q: "*Nōlī timē!* What's wrong?"
+    a: "*Nōlī timēre!* *Nōlī* takes the infinitive."
+    ref: g-08
+  - id: i06-e-audunt
+    type: error
+    q: "*Puerī audunt.* What's wrong?"
+    a: "*Puerī audiunt.* The ī family keeps its i in \"they\"."
+    ref: g-03
+  - id: i06-e-legimus-macron
+    type: error
+    q: "*legīmus* · *audīmus*: which is wrong?"
+    a: "*legīmus* → *legimus*. The third family's i is short."
+    ref: g-01
+  - id: i06-e-ferite
+    type: error
+    q: "*Ferite aquam!* (to y'all) What's wrong?"
+    a: "*Ferte aquam!* *Fer* drops the i in the plural too."
+    ref: g-07

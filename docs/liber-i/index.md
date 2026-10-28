@@ -17,7 +17,7 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 | 3 | [**Magnus et Parvus**](03-magnus-et-parvus.md) | G: 1st/2nd decl adjectives in nominative, agreement in gender/number. V: sizes, colors, tastes. S: describe things. | ✅ available |
 | 4 | [**Marcus pōmum edit**](04-marcus-pomum-edit.md) | G: accusative sg/pl; nom+acc+verb; 3rd-person present (-at/-et/-it). V: food, eating verbs. S: who eats what. | ✅ available |
 | 5 | [**Ego et Tū**](05-ego-et-tu.md) | G: all six persons present of 1st/2nd conj + sum; personal pronoun nominatives. V: daily actions. S: talk about yourself. | ✅ available |
-| 6 | **Audī! Venī!** | G: all 4 conjugations + io-verbs, present + imperative sg/pl (generalizes Ch1's -te law), dīc/dūc/fac/fer, nōlī(te) + inf. as chunk. V: commands. S: give/obey commands. | coming |
+| 6 | [**Audī! Venī!**](06-audi-veni.md) | G: all 4 conjugations + io-verbs, present + imperative sg/pl (generalizes Ch1's -te law), dīc/dūc/fac/fer, nōlī(te) + inf. as chunk. V: commands. S: give/obey commands. | ✅ available |
 | 7 | **Ubi est?** | G: ablative with in/ex/ab/cum/sine; place where/from. V: house & town. S: where is X. | coming |
 | 8 | **Quō īs?** | G: (*quō īs? / eō* used as a chunk; analyzed in Ch32) accusative with ad/in/per etc.; place to which; locative Rōmae/domī. V: places, motion. S: where are you going. | coming |
 | 9 | **Quīnte!** | G: vocative (-e, -ī); possessives meus/tuus/noster/vester. V: family. S: address people, my/your. | coming |
