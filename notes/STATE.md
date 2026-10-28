@@ -88,5 +88,5 @@ _Last updated: 2026-10-27 evening (America/Los_Angeles)_
 ## Book covers
 - Concept and how-to: notes/consilia/2026/10/27/002-book-covers.md. The mascot legionary ages across books (recruit with a chick, wooden sword and wicker shield in I; grey-bearded veteran with an adult eagle, worn scutum and gladius in VI). Pen-and-ink, cream background, one red crest accent.
 - Home hero: docs/assets/hero.jpg (the legionary on a Roman road toward the Colosseum, eagle alongside; the title is in the image, so the H1 is visually hidden). Approved; keep it until John asks for a new one. The home page presents an open-ended series (no fixed book count).
-- Done: I, VI (docs/assets/covers/). Still needed: II–V (their landing pages say "Cover coming soon").
+- Done: I–VI (docs/assets/covers/liber-<roman>.jpg, 720×960).
 - Liber landing pages = cover, then outline. Chapters never change them except to flip a row to ✅.

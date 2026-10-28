@@ -1,6 +1,8 @@
 # Liber IV: Verba Agentia
 
-<p class="book-cover-soon">Cover coming soon.</p>
+<figure class="book-cover" markdown="1">
+![Cover of The Little Latin, Liber IV: the legionary, now bearded, reads a scroll with a nearly grown eagle perched on the bench. A scutum, a gladius and a spear lean beside him.](../assets/covers/liber-iv.jpg){ width="360" height="480" }
+</figure>
 
 *Verbals: Participles and infinitives*
 

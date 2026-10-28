@@ -1,6 +1,8 @@
 # Liber II: Rēs Cotīdiānae
 
-<p class="book-cover-soon">Cover coming soon.</p>
+<figure class="book-cover" markdown="1">
+![Cover of The Little Latin, Liber II: the legionary, a little older, writes on a wax tablet on his bench while a half-grown eagle watches. A wooden sword and a round wicker shield lean against the bench.](../assets/covers/liber-ii.jpg){ width="360" height="480" }
+</figure>
 
 *Daily Things: More nouns, past and future*
 

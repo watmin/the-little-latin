@@ -1,6 +1,8 @@
 # Liber III: Fābulae
 
-<p class="book-cover-soon">Cover coming soon.</p>
+<figure class="book-cover" markdown="1">
+![Cover of The Little Latin, Liber III: the legionary, now a young soldier, writes on a wax tablet beside a young eagle with fluffy head feathers. A real scutum and a gladius lean against the bench.](../assets/covers/liber-iii.jpg){ width="360" height="480" }
+</figure>
 
 *Stories: Narrating the past, relatives, passive*
 

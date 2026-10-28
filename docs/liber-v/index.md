@@ -1,6 +1,8 @@
 # Liber V: Modus Subiūnctīvus
 
-<p class="book-cover-soon">Cover coming soon.</p>
+<figure class="book-cover" markdown="1">
+![Cover of The Little Latin, Liber V: the bearded legionary, a seasoned soldier, smiles over a scroll beside a grown eagle. A worn scutum, a gladius and a spear lean against the bench.](../assets/covers/liber-v.jpg){ width="360" height="480" }
+</figure>
 
 *The Subjunctive: Wishes, purposes, reported thought*
 
