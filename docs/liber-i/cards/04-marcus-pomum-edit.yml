@@ -1,0 +1,83 @@
+book: i
+ch: 4
+page: liber-i/04-marcus-pomum-edit.md
+cards:
+  - {id: i04-v-edit, type: vocab, la: "edit · edunt", en: "eats", ref: g-01}
+  - {id: i04-v-bibit, type: vocab, la: "bibit · bibunt", en: "drinks", ref: g-01}
+  - {id: i04-v-amat, type: vocab, la: "amat · amant", en: "loves, likes", ref: g-05}
+  - {id: i04-v-portat, type: vocab, la: "portat · portant", en: "carries", ref: g-07}
+  - {id: i04-v-parat, type: vocab, la: "parat · parant", en: "prepares", ref: g-07}
+  - {id: i04-v-lavat, type: vocab, la: "lavat · lavant", en: "washes", ref: g-03}
+  - {id: i04-v-habet, type: vocab, la: "habet · habent", en: "has", ref: g-07}
+  - {id: i04-v-videt, type: vocab, la: "videt · vident", en: "sees", ref: g-04}
+  - {id: i04-v-ridet, type: vocab, la: "rīdet · rīdent", en: "laughs, smiles", ref: g-07}
+  - {id: i04-v-emit, type: vocab, la: "emit · emunt", en: "buys", ref: g-07}
+  - {id: i04-v-vendit, type: vocab, la: "vendit · vendunt", en: "sells", ref: g-07}
+  - {id: i04-v-legit, type: vocab, la: "legit · legunt", en: "reads", ref: g-07}
+  - {id: i04-v-agit, type: vocab, la: "agit · agunt", en: "does", ref: g-09}
+  - {id: i04-v-cena, type: vocab, la: "cēna · cēnae", en: "dinner (f.)", ref: g-07}
+  - {id: i04-v-pecunia, type: vocab, la: "pecūnia", en: "money (f.)", ref: g-09}
+  - {id: i04-v-ecce, type: vocab, la: "ecce", en: "look! here's…", ref: g-09}
+  - {id: i04-v-nunc, type: vocab, la: "nunc", en: "now", ref: g-09}
+  - {id: i04-f-uva-acc, type: forms, q: "*ūva* as an object (one)?", a: "*ūvam*", ref: g-02}
+  - {id: i04-f-caseus-acc, type: forms, q: "*cāseus* as an object (one)?", a: "*cāseum*", ref: g-02}
+  - {id: i04-f-liber-acc, type: forms, q: "*liber* as an object (one)?", a: "*librum*. It drops its e, like *librī*.", ref: g-03}
+  - {id: i04-f-puer-acc, type: forms, q: "*puer* as an object (one)?", a: "*puerum*. It keeps its e, like *puerī*.", ref: g-03}
+  - {id: i04-f-agricola-acc, type: forms, q: "*agricola* as an object (one)?", a: "*agricolam*. The noun follows its pattern, not its gender.", ref: g-03}
+  - {id: i04-f-uvae-acc, type: forms, q: "*ūvae* as an object (many)?", a: "*ūvās*", ref: g-04}
+  - {id: i04-f-casei-acc, type: forms, q: "*cāseī* as an object (many)?", a: "*cāseōs*", ref: g-04}
+  - {id: i04-f-ova-acc, type: forms, q: "*ōva* as an object (many)?", a: "*ōva*. Neuter twins.", ref: g-04}
+  - {id: i04-f-caseus-four, type: forms, q: "*cāseus*: all four forms (one/many, subject/object).", a: "*cāseus, cāseum · cāseī, cāseōs*", ref: g-04}
+  - {id: i04-f-edit-pl, type: forms, q: "*edit* → several people?", a: "*edunt*", ref: g-08}
+  - {id: i04-f-amat-pl, type: forms, q: "*amat* → several people?", a: "*amant*", ref: g-08}
+  - {id: i04-f-habet-pl, type: forms, q: "*habet* → several people?", a: "*habent*", ref: g-08}
+  - {id: i04-f-cold-water, type: forms, q: "Iūlia drinks cold water.", a: "*Iūlia aquam frīgidam bibit.*", ref: g-03}
+  - {id: i04-f-white-grapes, type: forms, q: "Iūlia eats white grapes.", a: "*Iūlia ūvās albās edit.*", ref: g-04}
+  - id: i04-c-who-loves
+    type: choose
+    q: "*Puellam puer amat.* Who loves whom?"
+    options: ["the boy loves the girl", "the girl loves the boy"]
+    a: "the boy loves the girl"
+    why: "*Puer* is nominative, *puellam* accusative. Endings over order."
+    ref: g-05
+  - id: i04-c-quis-quem
+    type: choose
+    q: "Marcus sees someone. ___ videt Marcus?"
+    options: [quis, quem]
+    a: quem
+    why: "The person seen is the object, so the accusative *quem*."
+    ref: g-06
+  - id: i04-c-aquam
+    type: choose
+    q: "*Quid bibit Iūlia?* ___ bibit."
+    options: [aqua, aquam]
+    a: aquam
+    why: "The answer keeps the case of what's asked about: she drinks it, so object, *aquam*."
+    ref: g-06
+  - id: i04-c-emunt
+    type: choose
+    q: "*Nautae vīnum ___.* (buy)"
+    options: [emit, emunt]
+    a: emunt
+    why: "Several sailors, so *-unt*. The *-it* verbs make *-unt*, not *-int*."
+    ref: g-08
+  - id: i04-e-iulia-aqua
+    type: error
+    q: "*Iūlia aqua bibit.* What's wrong?"
+    a: "*Iūlia aquam bibit.* The water is the object."
+    ref: g-03
+  - id: i04-e-ovas
+    type: error
+    q: "*Agricolae ōvās vendunt.* What's wrong?"
+    a: "*Agricolae ōva vendunt.* Neuter twins: *ōva* stays *ōva*."
+    ref: g-08
+  - id: i04-e-puer-puella
+    type: error
+    q: "*Puer puella videt.* (The boy sees the girl.) What's wrong?"
+    a: "*Puer puellam videt.* The girl is the object."
+    ref: g-05
+  - id: i04-e-pueri-edit
+    type: error
+    q: "*Puerī mālum edit.* What's wrong?"
+    a: "*Puerī mālum edunt.* The verb agrees with its plural subject."
+    ref: g-08

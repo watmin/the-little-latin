@@ -1,10 +1,10 @@
 # STATE: resumption notes for The Little Latin
 
-_Last updated: 2026-10-27 (America/Los_Angeles)_
+_Last updated: 2026-10-27 evening (America/Los_Angeles)_
 
 ## What exists
 - Repo: https://github.com/watmin/the-little-latin (public). Site: https://watmin.github.io/the-little-latin/ (MkDocs Material, GitHub Actions deploy on push to main; Pages source = GitHub Actions, set by John manually).
-- Published: `docs/liber-i/03-magnus-et-parvus.md` (Caput III, 2026-10-27: adjectives, agreement, colors/tastes, et/sed/-que), `docs/index.md` (intro + list of the six books), `docs/liber-i/02-quid-est.md` (Caput II "Quid est?", 2026-10-26: est/sunt, nominative sg/pl, gender, -ne/nōnne/num), `docs/liber-i/01-salve.md` (Liber I Caput I "Salvē!", rewritten in full 2026-10-26; the original proof-of-concept chapter was scrapped).
+- Published: `docs/liber-i/04-marcus-pomum-edit.md` (Caput IV, 2026-10-27: accusative sg/pl, 3rd-person present sg/pl, endings over order, quem as recognition), `docs/liber-i/03-magnus-et-parvus.md` (Caput III, 2026-10-27: adjectives, agreement, colors/tastes, et/sed/-que), `docs/index.md` (short, stable: what the course is, links to the six books and the Cards page, Little Schemer acknowledgment; **chapters never touch it**), `docs/liber-i/02-quid-est.md` (Caput II "Quid est?", 2026-10-26: est/sunt, nominative sg/pl, gender, -ne/nōnne/num), `docs/liber-i/01-salve.md` (Liber I Caput I "Salvē!", rewritten in full 2026-10-26; the original proof-of-concept chapter was scrapped).
 - Site path convention: `docs/liber-<roman>/NN-slug.md` (NN = chapter within the book), nav grouped as "Liber I: Prīma Verba" etc.
 - Unpublished workshop in `notes/` (outside docs/, never built). Convention: `notes/<category>/YYYY/MM/DD/NNN-slug-name.md`, ASCII paths with no macrons, NNN = per-day sequence per category. Categories: `consilia/` (plans), `iudicia/` (reviews), `acta/` (session logs, grades, voice results), `commentarii/` (working notes). See `notes/README.md`.
 - Current files:
@@ -22,7 +22,7 @@ _Last updated: 2026-10-27 (America/Los_Angeles)_
 - Classical (restored) pronunciation. **Macrons on every long vowel, always.** Flag ecclesiastical habits (John had Catholic-school Latin early on, classics in college).
 - Goal: conversational Latin + reading real authors. Chunks before rules.
 - Every chapter ends with "Speak it aloud" + Homework; grading is done by voice chat with Grok Bot.
-- Chapter files: `docs/liber-<roman>/NN-slug.md`; add each to the `nav` in mkdocs.yml under its Liber. Workflow: draft in commentarii → judge → review in iudicia → fix L1/L2 → copy to docs → `mkdocs build --strict` (local venv at /tmp/mk, may need recreating) → push → confirm deploy. Consider nav grouping by Book once Book I has more than 3 chapters.
+- Chapter files: `docs/liber-<roman>/NN-slug.md`; add each to the `nav` in mkdocs.yml under its Liber, and flip its row on the Liber index page to ✅. **Do not edit the home page (docs/index.md) for new chapters.** Workflow: draft in commentarii (with a `## Tabellae (draft)` card section) → judge (rubric incl. Cards dimension) → review in iudicia → fix L1/L2 → copy to docs + write `docs/liber-<roman>/cards/NN-slug.yml` → `mkdocs build --strict` (local venv at /tmp/mk, may need recreating) → push → confirm deploy. Consider nav grouping by Book once Book I has more than 3 chapters.
 
 ## John's preferences / weak spots
 - Reads almost only on his phone. Retained pronunciation, remembers almost no vocabulary.
@@ -31,7 +31,8 @@ _Last updated: 2026-10-27 (America/Los_Angeles)_
 - Wants frequent additions (a few times a day) and durable, substantial content.
 
 ## Next steps
-1. Write Liber I Caput IV "Marcus pōmum edit" (docs/liber-i/04-marcus-pomum-edit.md) per the dependency order (accusative sg/pl, 3rd-person present). Remember to update the Liber I page row + nav + the home page list; run the judging rubric; write the review into notes/iudicia/<date>/; push. Log voice grades in notes/acta/<date>/.
+1. Write Liber I Caput V "Ego et Tū" (docs/liber-i/05-ego-et-tu.md) per the dependency order (all six persons, present, 1st/2nd conj + sum; personal pronoun nominatives). Update nav + Liber I page row (not the home page); write the cards YAML; run the judging rubric incl. Cards; review into notes/iudicia/<date>/; push. Log voice grades in notes/acta/<date>/.
+2. Cards coverage backfill (from Ch1-3 L2s): uncarded Vocābula rows in Ch1-3 (nōn, et, tū, nōmen, est, -ne, nōnne, num, discipula, optimus …).
 3. Apply L3s from notes/iudicia/2026/10/26/001-scope-and-order-review.md when touching those chapters.
 4. Maybe add a glossary/vocab page per book and a grammar-tables appendix (published).
 

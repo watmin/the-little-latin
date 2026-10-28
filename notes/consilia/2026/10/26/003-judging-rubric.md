@@ -8,6 +8,7 @@ Score each dimension; record findings as L1/L2/L3 in `notes/iudicia/YYYY/MM/DD/N
 3. **Ordering / prerequisites**: nothing analyzed before its prerequisites (see `notes/consilia/2026/10/26/002-dependency-order.md`); early-use forms are explicitly framed as chunks.
 4. **Structural correctness**: Q|A tables render, admonitions valid, macrons in headings/nav, mkdocs builds `--strict`, chapter added to nav, ~40–80 frames, ends with Speak-it-aloud drill + homework. **Every Question|Answer table has a `{#g-NN}` group marker directly above it. Published markers are unchanged: diff against main, no marker renumbered, retired numbers not reused, inserted groups use letter suffixes.** Every `##` section has a `:: Latin || gloss` motto.
 5. **Directional usefulness**: does it move John toward *speaking* (usable phrases, drill) and *reading real texts* (real constructions, real vocab by frequency)? Playful Little-Schemer tone, food/everyday examples, tiny steps.
+6. **Cards** (`docs/liber-<roman>/cards/NN-slug.yml`): build checks pass (unique prefixed ids, required fields, refs exist, choose answer in options, vocab matches Vocābula exactly). Manually: only material taught at or before the chapter (L1); macrons, genders, forms correct (L1); exactly one right answer (L1/L2); choose cards have a one-line why (L2); Vocābula and each Law covered (L2); fits a phone line (L3).
 
 ## Severity
 - **L1 (blocks)**: wrong Latin, wrong grammar claim, missing/incorrect macrons on taught words, prerequisite violation that confuses, broken build. *Must fix before publish.*

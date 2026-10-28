@@ -24,15 +24,19 @@ We use **classical (restored)** pronunciation: the Latin of Cicero, said *KEE-ke
 
 ## The books
 
-- [**Liber I: Prīma Verba**](liber-i/index.md) (First Words): Hear it, say it, make simple sentences
-- [**Liber II: Rēs Cotīdiānae**](liber-ii/index.md) (Daily Things): More nouns, past and future *(coming)*
-- [**Liber III: Fābulae**](liber-iii/index.md) (Stories): Narrating the past, relatives, passive *(coming)*
-- [**Liber IV: Verba Agentia**](liber-iv/index.md) (Verbals): Participles and infinitives *(coming)*
-- [**Liber V: Modus Subiūnctīvus**](liber-v/index.md) (The Subjunctive): Wishes, purposes, reported thought *(coming)*
-- [**Liber VI: Ad Auctōrēs**](liber-vi/index.md) (To the Authors): Gerunds, ōrātiō oblīqua, poetry, real texts *(coming)*
+The course runs in six books, from first words to reading real Roman authors. Each book page lists its chapters and what's ready.
 
-## Start here
+- [**Liber I: Prīma Verba**](liber-i/index.md) (First Words): Hear it, say it, make simple sentences. **Start here.**
+- [**Liber II: Rēs Cotīdiānae**](liber-ii/index.md) (Daily Things): More nouns, past and future
+- [**Liber III: Fābulae**](liber-iii/index.md) (Stories): Narrating the past, relatives, passive
+- [**Liber IV: Verba Agentia**](liber-iv/index.md) (Verbals): Participles and infinitives
+- [**Liber V: Modus Subiūnctīvus**](liber-v/index.md) (The Subjunctive): Wishes, purposes, reported thought
+- [**Liber VI: Ad Auctōrēs**](liber-vi/index.md) (To the Authors): Gerunds, ōrātiō oblīqua, poetry, real texts
 
-1. [Caput I: Salvē!](liber-i/01-salve.md): sounds, hello and goodbye, how are you, names, classroom survival.
-2. [Caput II: Quid est?](liber-i/02-quid-est.md): naming things, est and sunt, singular and plural, the three genders, asking yes/no questions.
-3. [Caput III: Magnus et Parvus](liber-i/03-magnus-et-parvus.md): describing things, sizes, colors, and tastes, and making adjectives agree.
+## Cards
+
+[**Tabellae · Cards**](tabellae.md): pick the chapters you've covered and drill random cards from them. Every book and chapter also has its own quiz.
+
+## With thanks
+
+The question-and-answer frames and tiny steps are borrowed, with gratitude, from *The Little Schemer* by Daniel P. Friedman and Matthias Felleisen.
