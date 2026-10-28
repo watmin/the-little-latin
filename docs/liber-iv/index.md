@@ -1,5 +1,7 @@
 # Liber IV: Verba Agentia
 
+<p class="book-cover-soon">Cover coming soon.</p>
+
 *Verbals: Participles and infinitives*
 
 !!! info "Coming soon"

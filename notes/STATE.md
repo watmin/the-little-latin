@@ -84,3 +84,8 @@ _Last updated: 2026-10-27 evening (America/Los_Angeles)_
 - Gloss plural "you" as "you all / y'all".
 - Never tell the reader to cover anything by hand; use the reveal and cover features.
 - Session logs go in notes/acta/<date>/.
+
+## Book covers
+- Concept and how-to: notes/consilia/2026/10/27/002-book-covers.md. The mascot legionary ages across books (recruit with a chick, wooden sword and wicker shield in I; grey-bearded veteran with an adult eagle, worn scutum and gladius in VI). Pen-and-ink, cream background, one red crest accent.
+- Done: I, VI (docs/assets/covers/). Still needed: II–V (their landing pages say "Cover coming soon").
+- Liber landing pages = cover, then outline. Chapters never change them except to flip a row to ✅.

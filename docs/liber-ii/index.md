@@ -1,5 +1,7 @@
 # Liber II: Rēs Cotīdiānae
 
+<p class="book-cover-soon">Cover coming soon.</p>
+
 *Daily Things: More nouns, past and future*
 
 !!! info "Coming soon"

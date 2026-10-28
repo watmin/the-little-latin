@@ -168,3 +168,8 @@ html.tll-js [data-md-color-scheme="slate"] .md-typeset .group-mark + .md-typeset
 .tll-card-tag { font-size: .7em; opacity: .65; text-decoration: none; }
 .tll-quiz-count { font-size: .8em; opacity: .7; margin-bottom: 0; }
 .tll-quiz-again { text-align: center; }
+
+/* Book covers on landing pages */
+.md-typeset .book-cover { margin: 0 auto 1.5em; text-align: center; }
+.md-typeset .book-cover img { display: block; margin: 0 auto; width: 100%; max-width: 360px; height: auto; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,.18); }
+.md-typeset .book-cover-soon { text-align: center; font-style: italic; opacity: .6; margin: 0 0 1.2em; }

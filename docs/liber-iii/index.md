@@ -1,5 +1,7 @@
 # Liber III: Fābulae
 
+<p class="book-cover-soon">Cover coming soon.</p>
+
 *Stories: Narrating the past, relatives, passive*
 
 !!! info "Coming soon"

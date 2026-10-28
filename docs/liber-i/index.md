@@ -1,5 +1,9 @@
 # Liber I: Prīma Verba
 
+<figure class="book-cover" markdown="1">
+![Cover of The Little Latin, Liber I: a young Roman recruit in a red-crested helmet sits on a wooden bench, tongue out in concentration, writing on a wax tablet while a fluffy eagle chick watches. A wooden practice sword and a wicker shield lean against the bench.](../assets/covers/liber-i.jpg){ width="360" height="480" }
+</figure>
+
 *First Words: Hear it, say it, make simple sentences*
 
 Start with [Caput I: Salvē!](01-salve.md).

@@ -1,5 +1,7 @@
 # Liber V: Modus Subiūnctīvus
 
+<p class="book-cover-soon">Cover coming soon.</p>
+
 *The Subjunctive: Wishes, purposes, reported thought*
 
 !!! info "Coming soon"

@@ -1,5 +1,9 @@
 # Liber VI: Ad Auctōrēs
 
+<figure class="book-cover" markdown="1">
+![Cover of The Little Latin, Liber VI: the same legionary, now a grey-bearded veteran in a red-crested helmet, reads a scroll on the bench with a full-grown eagle perched beside him. A worn scutum and a gladius lean against the bench.](../assets/covers/liber-vi.jpg){ width="360" height="480" }
+</figure>
+
 *To the Authors: Gerunds, ōrātiō oblīqua, poetry, real texts*
 
 !!! info "Coming soon"
