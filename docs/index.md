@@ -1,4 +1,8 @@
-# The Little Latin
+# The Little Latin { .visually-hidden }
+
+<figure class="home-hero" markdown="1">
+![The Little Latin: a Roman legionary with a red-crested helmet, shield on his arm and scrolls under the other, walks a paved Roman road toward the Colosseum and a cluster of temples, while an eagle flies alongside him. Pen-and-ink on cream.](assets/hero.jpg){ width="1280" height="720" }
+</figure>
 
 *Salvē!* This is a book for relearning Latin by **ear and mouth first**, one tiny step at a time.
 
@@ -24,7 +28,7 @@ We use **classical (restored)** pronunciation: the Latin of Cicero, said *KEE-ke
 
 ## The books
 
-The course runs in six books, from first words to reading real Roman authors. Each book page lists its chapters and what's ready.
+The course is a growing series of books, from first words toward reading real Roman authors. New books join the road as the course grows. Each book page lists its chapters and what's ready.
 
 - [**Liber I: Prīma Verba**](liber-i/index.md) (First Words): Hear it, say it, make simple sentences. **Start here.**
 - [**Liber II: Rēs Cotīdiānae**](liber-ii/index.md) (Daily Things): More nouns, past and future

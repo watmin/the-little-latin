@@ -4,7 +4,7 @@ _Last updated: 2026-10-27 evening (America/Los_Angeles)_
 
 ## What exists
 - Repo: https://github.com/watmin/the-little-latin (public). Site: https://watmin.github.io/the-little-latin/ (MkDocs Material, GitHub Actions deploy on push to main; Pages source = GitHub Actions, set by John manually).
-- Published: `docs/liber-i/04-marcus-pomum-edit.md` (Caput IV, 2026-10-27: accusative sg/pl, 3rd-person present sg/pl, endings over order, quem as recognition), `docs/liber-i/03-magnus-et-parvus.md` (Caput III, 2026-10-27: adjectives, agreement, colors/tastes, et/sed/-que), `docs/index.md` (short, stable: what the course is, links to the six books and the Cards page, Little Schemer acknowledgment; **chapters never touch it**), `docs/liber-i/02-quid-est.md` (Caput II "Quid est?", 2026-10-26: est/sunt, nominative sg/pl, gender, -ne/nōnne/num), `docs/liber-i/01-salve.md` (Liber I Caput I "Salvē!", rewritten in full 2026-10-26; the original proof-of-concept chapter was scrapped).
+- Published: `docs/liber-i/04-marcus-pomum-edit.md` (Caput IV, 2026-10-27: accusative sg/pl, 3rd-person present sg/pl, endings over order, quem as recognition), `docs/liber-i/03-magnus-et-parvus.md` (Caput III, 2026-10-27: adjectives, agreement, colors/tastes, et/sed/-que), `docs/index.md` (short, stable: what the course is, links to the books (open-ended series, no count) and the Cards page, Little Schemer acknowledgment; **chapters never touch it**), `docs/liber-i/02-quid-est.md` (Caput II "Quid est?", 2026-10-26: est/sunt, nominative sg/pl, gender, -ne/nōnne/num), `docs/liber-i/01-salve.md` (Liber I Caput I "Salvē!", rewritten in full 2026-10-26; the original proof-of-concept chapter was scrapped).
 - Site path convention: `docs/liber-<roman>/NN-slug.md` (NN = chapter within the book), nav grouped as "Liber I: Prīma Verba" etc.
 - Unpublished workshop in `notes/` (outside docs/, never built). Convention: `notes/<category>/YYYY/MM/DD/NNN-slug-name.md`, ASCII paths with no macrons, NNN = per-day sequence per category. Categories: `consilia/` (plans), `iudicia/` (reviews), `acta/` (session logs, grades, voice results), `commentarii/` (working notes). See `notes/README.md`.
 - Current files:
@@ -87,5 +87,6 @@ _Last updated: 2026-10-27 evening (America/Los_Angeles)_
 
 ## Book covers
 - Concept and how-to: notes/consilia/2026/10/27/002-book-covers.md. The mascot legionary ages across books (recruit with a chick, wooden sword and wicker shield in I; grey-bearded veteran with an adult eagle, worn scutum and gladius in VI). Pen-and-ink, cream background, one red crest accent.
+- Home hero: docs/assets/hero.jpg (the legionary on a Roman road toward the Colosseum, eagle alongside; the title is in the image, so the H1 is visually hidden). Approved; keep it until John asks for a new one. The home page presents an open-ended series (no fixed book count).
 - Done: I, VI (docs/assets/covers/). Still needed: II–V (their landing pages say "Cover coming soon").
 - Liber landing pages = cover, then outline. Chapters never change them except to flip a row to ✅.
