@@ -1,0 +1,84 @@
+book: i
+ch: 5
+page: liber-i/05-ego-et-tu.md
+cards:
+  - {id: i05-v-ego, type: vocab, la: "ego · nōs", en: "I · we", ref: g-05}
+  - {id: i05-v-tu, type: vocab, la: "tū · vōs", en: "you · you all, y'all", ref: g-05}
+  - {id: i05-v-sum, type: vocab, la: "sum, es, est, sumus, estis, sunt", en: "I am, you are, … they are", ref: g-04}
+  - {id: i05-v-ambulo, type: vocab, la: "ambulō, ambulāre", en: "walk", ref: g-01}
+  - {id: i05-v-laboro, type: vocab, la: "labōrō, labōrāre", en: "work", ref: g-01}
+  - {id: i05-v-canto, type: vocab, la: "cantō, cantāre", en: "sing", ref: g-01}
+  - {id: i05-v-habito, type: vocab, la: "habitō, habitāre", en: "live (somewhere), dwell", ref: g-06}
+  - {id: i05-v-specto, type: vocab, la: "spectō, spectāre", en: "watch, look at", ref: g-02}
+  - {id: i05-v-cogito, type: vocab, la: "cōgitō, cōgitāre", en: "think", ref: g-07}
+  - {id: i05-v-sedeo, type: vocab, la: "sedeō, sedēre", en: "sit", ref: g-03}
+  - {id: i05-v-maneo, type: vocab, la: "maneō, manēre", en: "stay, remain", ref: g-07}
+  - {id: i05-v-doceo, type: vocab, la: "doceō, docēre", en: "teach", ref: g-07}
+  - {id: i05-v-timeo, type: vocab, la: "timeō, timēre", en: "fear, be afraid", ref: g-03}
+  - {id: i05-v-taceo, type: vocab, la: "taceō, tacēre", en: "be quiet", ref: g-05}
+  - {id: i05-v-respondeo, type: vocab, la: "respondeō, respondēre", en: "answer", ref: g-07}
+  - {id: i05-v-valeo, type: vocab, la: "valeō, valēre", en: "be well, be strong", ref: g-06}
+  - {id: i05-v-hodie, type: vocab, la: "hodiē", en: "today", ref: g-06}
+  - {id: i05-v-saepe, type: vocab, la: "saepe", en: "often", ref: g-07}
+  - {id: i05-v-semper, type: vocab, la: "semper", en: "always", ref: g-07}
+  - {id: i05-v-quoque, type: vocab, la: "quoque", en: "also, too (after the word it leans on)", ref: g-05}
+  - {id: i05-v-hic, type: vocab, la: "hīc", en: "here", ref: g-06}
+  - {id: i05-f-endings, type: forms, q: "The six present endings, in order?", a: "*-ō, -s, -t, -mus, -tis, -nt*", ref: g-02}
+  - {id: i05-f-amo-six, type: forms, q: "Chant *amō* through all six persons.", a: "*amō, amās, amat, amāmus, amātis, amant*", ref: g-02}
+  - {id: i05-f-habeo-six, type: forms, q: "Chant *habeō* through all six persons.", a: "*habeō, habēs, habet, habēmus, habētis, habent*", ref: g-03}
+  - {id: i05-f-sum-six, type: forms, q: "Chant *sum* through all six persons.", a: "*sum, es, est, sumus, estis, sunt*", ref: g-04}
+  - {id: i05-f-we-work, type: forms, q: "\"We work.\"", a: "*Labōrāmus.*", ref: g-02}
+  - {id: i05-f-yall-fear, type: forms, q: "\"Y'all are afraid.\"", a: "*Timētis.*", ref: g-03}
+  - {id: i05-f-you-sit, type: forms, q: "\"You (one person) sit.\"", a: "*Sedēs.*", ref: g-03}
+  - {id: i05-f-we-students, type: forms, q: "\"We are students.\" (boys)", a: "*Discipulī sumus.*", ref: g-04}
+  - {id: i05-f-family, type: forms, q: "*doceō, docēre*: which family?", a: "The ē family, the 2nd conjugation. The *-ēre* gives it away.", ref: g-03}
+  - {id: i05-f-i-sing-you-work, type: forms, q: "\"*I* sing; *you* work.\" (stress both people)", a: "*Ego cantō, tū labōrās.*", ref: g-05}
+  - {id: i05-f-me-too, type: forms, q: "\"Me too.\"", a: "*Ego quoque.*", ref: g-05}
+  - id: i05-c-sum-acc
+    type: choose
+    q: "*___ sum.* (I'm a student, male)"
+    options: [discipulus, discipulum]
+    a: discipulus
+    why: "After *sum*, the noun naming the subject stays nominative."
+    ref: g-04
+  - id: i05-c-answer-person
+    type: choose
+    q: "*Labōrātisne?* Answer yes for the group: *Ita, ___.*"
+    options: [labōrāmus, labōrō]
+    a: labōrāmus
+    why: "Asked with *-tis* (y'all), answer with *-mus* (we)."
+    ref: g-06
+  - id: i05-c-valeo
+    type: choose
+    q: "*Quid agis?* \"I'm well.\""
+    options: [valeō, valē]
+    a: valeō
+    why: "*Valeō* is \"I am well\"; *valē* is \"be well!\", goodbye."
+    ref: g-06
+  - id: i05-c-es-est
+    type: choose
+    q: "*Tū bonus ___.* (You are good.)"
+    options: [es, est]
+    a: es
+    why: "*Tū* is 2nd person singular: *es*. *Est* is he, she, it."
+    ref: g-04
+  - id: i05-e-ego-cantat
+    type: error
+    q: "*Ego cantat.* What's wrong?"
+    a: "*Ego cantō.* \"I\" needs *-ō*."
+    ref: g-02
+  - id: i05-e-nos-laborant
+    type: error
+    q: "*Nōs labōrant.* What's wrong?"
+    a: "*Nōs labōrāmus.* \"We\" needs *-mus*."
+    ref: g-02
+  - id: i05-e-habeo-macron
+    type: error
+    q: "*habēō* · *habēmus*: which is wrong?"
+    a: "*habēō* → *habeō*. A vowel before another vowel is short."
+    ref: g-03
+  - id: i05-e-tu-sum
+    type: error
+    q: "*Tū sum discipulus.* What's wrong?"
+    a: "*Tū es discipulus.* \"You\" takes *es*; *sum* is \"I am.\""
+    ref: g-04

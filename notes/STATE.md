@@ -1,10 +1,10 @@
 # STATE: resumption notes for The Little Latin
 
-_Last updated: 2026-10-27 evening (America/Los_Angeles)_
+_Last updated: 2026-10-27 night (America/Los_Angeles)_
 
 ## What exists
 - Repo: https://github.com/watmin/the-little-latin (public). Site: https://watmin.github.io/the-little-latin/ (MkDocs Material, GitHub Actions deploy on push to main; Pages source = GitHub Actions, set by John manually).
-- Published: `docs/liber-i/04-marcus-pomum-edit.md` (Caput IV, 2026-10-27: accusative sg/pl, 3rd-person present sg/pl, endings over order, quem as recognition), `docs/liber-i/03-magnus-et-parvus.md` (Caput III, 2026-10-27: adjectives, agreement, colors/tastes, et/sed/-que), `docs/index.md` (short, stable: what the course is, links to the books (open-ended series, no count) and the Cards page, Little Schemer acknowledgment; **chapters never touch it**), `docs/liber-i/02-quid-est.md` (Caput II "Quid est?", 2026-10-26: est/sunt, nominative sg/pl, gender, -ne/nōnne/num), `docs/liber-i/01-salve.md` (Liber I Caput I "Salvē!", rewritten in full 2026-10-26; the original proof-of-concept chapter was scrapped).
+- Published: `docs/liber-i/05-ego-et-tu.md` (Caput V, 2026-10-27: six persons present, 1st/2nd conj + sum, ego/tū/nōs/vōs, 40 cards; review notes/iudicia/2026/10/27/003), `docs/liber-i/04-marcus-pomum-edit.md` (Caput IV, 2026-10-27: accusative sg/pl, 3rd-person present sg/pl, endings over order, quem as recognition), `docs/liber-i/03-magnus-et-parvus.md` (Caput III, 2026-10-27: adjectives, agreement, colors/tastes, et/sed/-que), `docs/index.md` (short, stable: what the course is, links to the books (open-ended series, no count) and the Cards page, Little Schemer acknowledgment; **chapters never touch it**), `docs/liber-i/02-quid-est.md` (Caput II "Quid est?", 2026-10-26: est/sunt, nominative sg/pl, gender, -ne/nōnne/num), `docs/liber-i/01-salve.md` (Liber I Caput I "Salvē!", rewritten in full 2026-10-26; the original proof-of-concept chapter was scrapped).
 - Site path convention: `docs/liber-<roman>/NN-slug.md` (NN = chapter within the book), nav grouped as "Liber I: Prīma Verba" etc.
 - Unpublished workshop in `notes/` (outside docs/, never built). Convention: `notes/<category>/YYYY/MM/DD/NNN-slug-name.md`, ASCII paths with no macrons, NNN = per-day sequence per category. Categories: `consilia/` (plans), `iudicia/` (reviews), `acta/` (session logs, grades, voice results), `commentarii/` (working notes). See `notes/README.md`.
 - Current files:
@@ -31,7 +31,7 @@ _Last updated: 2026-10-27 evening (America/Los_Angeles)_
 - Wants frequent additions (a few times a day) and durable, substantial content.
 
 ## Next steps
-1. Write Liber I Caput V "Ego et Tū" (docs/liber-i/05-ego-et-tu.md) per the dependency order (all six persons, present, 1st/2nd conj + sum; personal pronoun nominatives). Update nav + Liber I page row (not the home page); write the cards YAML; run the judging rubric incl. Cards; review into notes/iudicia/<date>/; push. Log voice grades in notes/acta/<date>/.
+1. Write Liber I Caput VI "Audī! Venī!" (docs/liber-i/06-audi-veni.md): all 4 conjugations + io-verbs, present + imperative; Ch5 promised the 3rd family's full set (edō, bibō, emō…) here, and *ēs* vs *es* is a good macron card. Same workflow. Keep in mind the pending Book II reorder proposals (simple ubi/postquam/dum, sī + indicative, dīcit/putō + acc.-inf. as chunks); plan files not yet changed, awaiting John. Log Ch5 voice grades in notes/acta/<date>/.
 2. Cards coverage backfill (from Ch1-3 L2s): uncarded Vocābula rows in Ch1-3 (nōn, et, tū, nōmen, est, -ne, nōnne, num, discipula, optimus …).
 3. Apply L3s from notes/iudicia/2026/10/26/001-scope-and-order-review.md when touching those chapters.
 4. Maybe add a glossary/vocab page per book and a grammar-tables appendix (published).
