@@ -1,0 +1,122 @@
+book: i
+ch: 8
+page: liber-i/08-quo-is.md
+cards:
+  - {id: i08-v-ludus, type: vocab, la: "lūdus · lūdī", en: "school; game", ref: g-03}
+  - {id: i08-v-templum, type: vocab, la: "templum · templa", en: "temple", ref: g-04}
+  - {id: i08-v-silva, type: vocab, la: "silva · silvae", en: "woods, forest", ref: g-05}
+  - {id: i08-v-fenestra, type: vocab, la: "fenestra · fenestrae", en: "window", ref: g-05}
+  - {id: i08-v-thermae, type: vocab, la: "thermae", en: "the (public) baths (plural only)", ref: g-03}
+  - {id: i08-v-domus, type: vocab, la: "domus", en: "home, house (f.)", ref: g-06}
+  - {id: i08-v-roma, type: vocab, la: "Rōma", en: "Rome", ref: g-07}
+  - {id: i08-v-quo, type: vocab, la: "quō?", en: "where to?", ref: g-01}
+  - {id: i08-v-eo, type: vocab, la: "eō, īs, it, īmus, ītis, eunt", en: "I go, you go, he/she goes, we go, y'all go, they go", ref: g-02}
+  - {id: i08-v-i-ite, type: vocab, la: "ī, īte", en: "go! (to one; to y'all)", ref: g-02}
+  - {id: i08-v-ire, type: vocab, la: "īre", en: "to go", ref: g-02}
+  - {id: i08-v-ad, type: vocab, la: "ad", en: "to, toward (+ accusative)", ref: g-03}
+  - {id: i08-v-in-acc, type: vocab, la: "in", en: "into, onto (+ accusative)", ref: g-04}
+  - {id: i08-v-per, type: vocab, la: "per", en: "through (+ accusative)", ref: g-05}
+  - {id: i08-v-circum, type: vocab, la: "circum", en: "around (+ accusative)", ref: g-05}
+  - {id: i08-v-trans, type: vocab, la: "trāns", en: "across (+ accusative)", ref: g-05}
+  - {id: i08-v-usque, type: vocab, la: "usque", en: "all the way", ref: g-03}
+  - {id: i08-v-domum, type: vocab, la: "domum · domī · domō", en: "(to) home · at home · from home", ref: g-06}
+  - {id: i08-v-romam, type: vocab, la: "Rōmam · Rōmae · Rōmā", en: "to Rome · at Rome · from Rome", ref: g-07}
+  - {id: i08-f-quo-is, type: forms, q: "\"Where are you going?\" \"I'm going to the forum.\"", a: "*Quō īs? Ad forum eō.*", ref: g-01}
+  - {id: i08-f-eo, type: forms, q: "\"go\" in all six persons, I → they", a: "*eō, īs, it, īmus, ītis, eunt*", ref: g-02}
+  - {id: i08-f-ite, type: forms, q: "\"Go!\" (to one · to y'all) · \"to go\"", a: "*Ī! · Īte! · īre*", ref: g-02}
+  - {id: i08-f-ad-mala, type: forms, q: "Decode Horace's *ab ōvō usque ad māla*.", a: "From the egg (ablative) all the way to the apples (accusative): start to finish.", ref: g-03}
+  - {id: i08-f-kitchen, type: forms, q: "\"I sit in the kitchen; I run into the kitchen.\"", a: "*In culīnā sedeō; in culīnam currō.*", ref: g-04}
+  - {id: i08-f-in-hortos, type: forms, q: "\"We run into the gardens.\"", a: "*In hortōs currimus.*", ref: g-04}
+  - {id: i08-f-circum, type: forms, q: "\"The boys run around the table.\"", a: "*Puerī circum mēnsam currunt.*", ref: g-05}
+  - {id: i08-f-per-trans, type: forms, q: "\"through the woods\" · \"across the street\"", a: "*per silvam · trāns viam*", ref: g-05}
+  - {id: i08-f-home, type: forms, q: "\"(to) home\" · \"at home\" · \"from home\"", a: "*domum · domī · domō*", ref: g-06}
+  - {id: i08-f-rome, type: forms, q: "\"I live at Rome, but I'm going to Capua.\"", a: "*Rōmae habitō, sed Capuam eō.*", ref: g-07}
+  - {id: i08-f-tarentum, type: forms, q: "Tarentum: to it · at it · from it", a: "*Tarentum · Tarentī · Tarentō*", ref: g-07}
+  - id: i08-c-in-culinam
+    type: choose
+    q: "*Marcus in ___ currit.* (into the kitchen)"
+    options: [culīnam, culīnā]
+    a: culīnam
+    why: "Motion into: *in* + accusative."
+    ref: g-04
+  - id: i08-c-in-culina
+    type: choose
+    q: "*Iūlia in ___ sedet.* (in the kitchen)"
+    options: [culīnā, culīnam]
+    a: culīnā
+    why: "Sitting still: *in* + ablative, long *-ā*."
+    ref: g-04
+  - id: i08-c-eunt
+    type: choose
+    q: "*Puerī ad forum ___.* (go)"
+    options: [eunt, it, īmus]
+    a: eunt
+    why: "Many boys: \"they go,\" *eunt*."
+    ref: g-02
+  - id: i08-c-imus
+    type: choose
+    q: "*Nōs domum ___.* (go)"
+    options: [īmus, ītis, eunt]
+    a: īmus
+    why: "*Nōs*, \"we\": the *-mus* form, *īmus*."
+    ref: g-02
+  - id: i08-c-domum
+    type: choose
+    q: "\"I'm going home.\" *___ eō.*"
+    options: [Domum, Domī, Domō]
+    a: Domum
+    why: "*Domum* is \"to home\"; *domī* is \"at home,\" *domō* \"from home.\""
+    ref: g-06
+  - id: i08-c-romae
+    type: choose
+    q: "\"We live in Rome.\" *___ habitāmus.*"
+    options: [Rōmae, Rōmam, Rōmā]
+    a: Rōmae
+    why: "\"At Rome\" is the locative *Rōmae*; *Rōmam* is \"to,\" *Rōmā* \"from.\""
+    ref: g-07
+  - id: i08-c-quo
+    type: choose
+    q: "*___ īs? Ad tabernam.*"
+    options: [Quō, Ubi, Unde]
+    a: Quō
+    why: "*Quō* asks \"where to?\"; *ubi* \"where?\"; *unde* \"from where?\""
+    ref: g-01
+  - id: i08-c-per
+    type: choose
+    q: "\"through the streets\": *per ___*"
+    options: [viās, viīs]
+    a: viās
+    why: "*Per* always takes the accusative."
+    ref: g-05
+  - id: i08-c-circum-sit
+    type: choose
+    q: "*Circum ___ sedent.* (They sit around the table.)"
+    options: [mēnsam, mēnsā]
+    a: mēnsam
+    why: "*Circum* takes the accusative even with no motion."
+    ref: g-05
+  - id: i08-e-in-culinam-sum
+    type: error
+    q: "*In culīnam sum.* (I'm in the kitchen.) What's wrong?"
+    a: "*In culīnā sum.* Being somewhere is *in* + ablative; *in culīnam* is \"into.\""
+    ref: g-04
+  - id: i08-e-ad-romam
+    type: error
+    q: "*Ad Rōmam habitō.* (I live in Rome.) What's wrong?"
+    a: "*Rōmae habitō.* A town takes the locative, no preposition."
+    ref: g-07
+  - id: i08-e-domi-eo
+    type: error
+    q: "*Domī eō.* (I'm going home.) What's wrong?"
+    a: "*Domum eō.* *Domī* is \"at home\"; \"to home\" is *domum*."
+    ref: g-06
+  - id: i08-e-in-domum
+    type: error
+    q: "*In domum eō.* (I'm going home.) What's wrong?"
+    a: "*Domum eō.* Like a town name, *domum* needs no preposition."
+    ref: g-06
+  - id: i08-e-per-viis
+    type: error
+    q: "*Per viīs ambulāmus.* What's wrong?"
+    a: "*Per viās ambulāmus.* *Per* takes the accusative."
+    ref: g-05
