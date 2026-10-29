@@ -18,7 +18,7 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 | 4 | [**Marcus pōmum edit**](04-marcus-pomum-edit.md) | G: accusative sg/pl; nom+acc+verb; 3rd-person present (-at/-et/-it). V: food, eating verbs. S: who eats what. | ✅ available |
 | 5 | [**Ego et Tū**](05-ego-et-tu.md) | G: all six persons present of 1st/2nd conj + sum; personal pronoun nominatives. V: daily actions. S: talk about yourself. | ✅ available |
 | 6 | [**Audī! Venī!**](06-audi-veni.md) | G: all 4 conjugations + io-verbs, present + imperative sg/pl (generalizes Ch1's -te law), dīc/dūc/fac/fer, nōlī(te) + inf. as chunk. V: commands. S: give/obey commands. | ✅ available |
-| 7 | **Ubi est?** | G: ablative with in/ex/ab/cum/sine; place where/from. V: house & town. S: where is X. | coming |
+| 7 | [**Ubi est?**](07-ubi-est.md) | G: ablative with in/ex/ab/cum/sine; place where/from. V: house & town. S: where is X. | ✅ available |
 | 8 | **Quō īs?** | G: (*quō īs? / eō* used as a chunk; analyzed in Ch32) accusative with ad/in/per etc.; place to which; locative Rōmae/domī. V: places, motion. S: where are you going. | coming |
 | 9 | **Quīnte!** | G: vocative (-e, -ī); possessives meus/tuus/noster/vester. V: family. S: address people, my/your. | coming |
 | 10 | **Liber Puerī** | G: genitive (possession), the five-case 1st/2nd decl table assembled. V: belongings. S: whose is this. | coming |

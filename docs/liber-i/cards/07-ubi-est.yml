@@ -1,0 +1,108 @@
+book: i
+ch: 7
+page: liber-i/07-ubi-est.md
+cards:
+  - {id: i07-v-culina, type: vocab, la: "culīna · culīnae", en: "kitchen", ref: g-02}
+  - {id: i07-v-villa, type: vocab, la: "vīlla · vīllae", en: "house, country house", ref: g-02}
+  - {id: i07-v-taberna, type: vocab, la: "taberna · tabernae", en: "shop, inn", ref: g-04}
+  - {id: i07-v-via, type: vocab, la: "via · viae", en: "street, road", ref: g-04}
+  - {id: i07-v-hortus, type: vocab, la: "hortus · hortī", en: "garden", ref: g-03}
+  - {id: i07-v-amicus, type: vocab, la: "amīcus · amīcī", en: "friend", ref: g-07}
+  - {id: i07-v-stomachus, type: vocab, la: "stomachus · stomachī", en: "stomach", ref: g-08}
+  - {id: i07-v-forum, type: vocab, la: "forum · fora", en: "forum, town square", ref: g-03}
+  - {id: i07-v-oppidum, type: vocab, la: "oppidum · oppida", en: "town", ref: g-03}
+  - {id: i07-v-atrium, type: vocab, la: "ātrium · ātria", en: "front hall (atrium)", ref: g-05}
+  - {id: i07-v-cubiculum, type: vocab, la: "cubiculum · cubicula", en: "bedroom", ref: g-03}
+  - {id: i07-v-ubi, type: vocab, la: "ubi?", en: "where?", ref: g-01}
+  - {id: i07-v-unde, type: vocab, la: "unde?", en: "from where? where … from?", ref: g-05}
+  - {id: i07-v-ibi, type: vocab, la: "ibi", en: "there", ref: g-01}
+  - {id: i07-v-fortasse, type: vocab, la: "fortasse", en: "maybe, perhaps", ref: g-08}
+  - {id: i07-v-in, type: vocab, la: "in", en: "in, on (+ ablative)", ref: g-02}
+  - {id: i07-v-ex, type: vocab, la: "ex, ē", en: "out of, from (+ ablative)", ref: g-05}
+  - {id: i07-v-ab, type: vocab, la: "ab, ā", en: "away from, from (+ ablative)", ref: g-05}
+  - {id: i07-v-cum, type: vocab, la: "cum", en: "with (+ ablative)", ref: g-07}
+  - {id: i07-v-sine, type: vocab, la: "sine", en: "without (+ ablative)", ref: g-07}
+  - {id: i07-v-mecum, type: vocab, la: "mēcum, tēcum", en: "with me, with you", ref: g-07}
+  - {id: i07-f-where-cheese, type: forms, q: "\"Where's the cheese? It's on the table.\"", a: "*Ubi est cāseus? In mēnsā est.*", ref: g-02}
+  - {id: i07-f-abl-a, type: forms, q: "Ablative of *culīna*, one and many?", a: "*culīnā · culīnīs*", ref: g-04}
+  - {id: i07-f-abl-us, type: forms, q: "Ablative of *hortus*, one and many?", a: "*hortō · hortīs*", ref: g-04}
+  - {id: i07-f-abl-um, type: forms, q: "Ablative of *oppidum*, one and many?", a: "*oppidō · oppidīs*", ref: g-04}
+  - {id: i07-f-libro, type: forms, q: "\"In the book\"", a: "*In librō.*", ref: g-03}
+  - {id: i07-f-unde, type: forms, q: "\"Where are you coming from?\" \"From the forum.\"", a: "*Unde venīs? Ā forō.*", ref: g-05}
+  - {id: i07-f-big-house, type: forms, q: "\"I live in a big house.\"", a: "*In vīllā magnā habitō.*", ref: g-06}
+  - {id: i07-f-friends, type: forms, q: "\"with friends\" · \"without money\"", a: "*cum amīcīs · sine pecūniā*", ref: g-07}
+  - {id: i07-f-mecum, type: forms, q: "\"Come with me!\"", a: "*Venī mēcum!*", ref: g-07}
+  - id: i07-c-mensa
+    type: choose
+    q: "*Cāseus in ___ est.* (on the table)"
+    options: [mēnsā, mēnsa]
+    a: mēnsā
+    why: "After *in*, the *-a* noun stretches to long *-ā*."
+    ref: g-02
+  - id: i07-c-ex-atrio
+    type: choose
+    q: "\"out of the front hall\": *___ ātriō*"
+    options: [ex, ē]
+    a: ex
+    why: "*Ē* only goes before a consonant; *ātriō* starts with a vowel."
+    ref: g-05
+  - id: i07-c-ab-oppido
+    type: choose
+    q: "\"away from the town\": *___ oppidō*"
+    options: [ab, ā]
+    a: ab
+    why: "*Ā* only goes before a consonant; *oppidō* starts with a vowel."
+    ref: g-05
+  - id: i07-c-hortis
+    type: choose
+    q: "*In ___ sumus.* (in the gardens)"
+    options: [hortīs, hortōs, hortō]
+    a: hortīs
+    why: "Plural ablative is *-īs* in every family."
+    ref: g-04
+  - id: i07-c-ubi-unde
+    type: choose
+    q: "*___ venīs? Ē tabernā.*"
+    options: [Unde, Ubi]
+    a: Unde
+    why: "*Unde* asks \"from where?\"; *ubi* asks plain \"where?\""
+    ref: g-06
+  - id: i07-c-cum
+    type: choose
+    q: "*Vīnum ___ aquā bibimus.* (with water)"
+    options: [cum, sine]
+    a: cum
+    why: "*Cum* is \"with\"; *sine* is \"without.\""
+    ref: g-07
+  - id: i07-c-mensa-subj
+    type: choose
+    q: "*Ecce, ___ vacua est.* (the table is empty)"
+    options: [mēnsa, mēnsā]
+    a: mēnsa
+    why: "No preposition: the table is the subject, so it's nominative, short *-a*."
+    ref: g-08
+  - id: i07-e-in-mensa
+    type: error
+    q: "*In mensa est.* (It's on the table.) What's wrong?"
+    a: "*In mēnsā est.* Long ē in the stem, and long ā after *in*."
+    ref: g-02
+  - id: i07-e-e-atrio
+    type: error
+    q: "*Ē ātriō venit.* What's wrong?"
+    a: "*Ex ātriō venit.* *Ē* never goes before a vowel."
+    ref: g-05
+  - id: i07-e-in-hortos
+    type: error
+    q: "*In hortōs sumus.* (We're in the gardens.) What's wrong?"
+    a: "*In hortīs sumus.* Sitting still takes the ablative: *-īs*."
+    ref: g-04
+  - id: i07-e-cum-amicus
+    type: error
+    q: "*Cum amīcus veniō.* What's wrong?"
+    a: "*Cum amīcō veniō.* *Cum* takes the ablative."
+    ref: g-07
+  - id: i07-e-a-oppido
+    type: error
+    q: "*Ā oppidō currit.* What's wrong?"
+    a: "*Ab oppidō currit.* A vowel needs the full *ab*."
+    ref: g-05
