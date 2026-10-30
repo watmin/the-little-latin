@@ -21,6 +21,6 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 | 7 | [**Ubi est?**](07-ubi-est.md) | G: ablative with in/ex/ab/cum/sine; place where/from. V: house & town. S: where is X. | ✅ available |
 | 8 | [**Quō īs?**](08-quo-is.md) | G: (*quō īs? / eō* used as a chunk; analyzed in Ch32) accusative with ad/in/per etc.; place to which; locative Rōmae/domī. V: places, motion. S: where are you going. | ✅ available |
 | 9 | [**Quīnte!**](09-quinte.md) | G: vocative (-e, -ī); possessives meus/tuus/noster/vester. V: family. S: address people, my/your. | ✅ available |
-| 10 | **Liber Puerī** | G: genitive (possession), the five-case 1st/2nd decl table assembled. V: belongings. S: whose is this. | coming |
+| 10 | [**Liber Puerī**](10-liber-pueri.md) | G: genitive (possession), the five-case 1st/2nd decl table assembled. V: belongings. S: whose is this. | ✅ available |
 | 11 | **Dā mihi pānem** | G: dative (indirect object), mihi/tibi analyzed → mihi nōmen est explained (dative of possession). V: giving, table. S: asking for things politely (quaesō, amābō tē). | coming |
 | 12 | **Recapitulātiō I** | Story chapter + review; 1st/2nd decl full; present system so far. S: a 2-minute self-introduction. | coming |

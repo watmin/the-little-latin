@@ -1,0 +1,141 @@
+book: i
+ch: 10
+page: liber-i/10-liber-pueri.md
+cards:
+  - {id: i10-v-capsa, type: vocab, la: "capsa, capsae", en: "box for book rolls, school bag (f.)", ref: g-03}
+  - {id: i10-v-pila, type: vocab, la: "pila, pilae", en: "ball (f.)", ref: g-03}
+  - {id: i10-v-pupa, type: vocab, la: "pūpa, pūpae", en: "doll (f.)", ref: g-02}
+  - {id: i10-v-toga, type: vocab, la: "toga, togae", en: "toga (f.)", ref: g-05}
+  - {id: i10-v-tunica, type: vocab, la: "tunica, tunicae", en: "tunic (f.)", ref: g-03}
+  - {id: i10-v-vita, type: vocab, la: "vīta, vītae", en: "life (f.)", ref: g-02}
+  - {id: i10-v-calceus, type: vocab, la: "calceus, calceī", en: "shoe (m.)", ref: g-03}
+  - {id: i10-v-gladius, type: vocab, la: "gladius, gladiī", en: "sword (m.)", ref: g-03}
+  - {id: i10-v-anulus, type: vocab, la: "ānulus, ānulī", en: "ring (m.)", ref: g-02}
+  - {id: i10-v-sacculus, type: vocab, la: "sacculus, sacculī", en: "little bag, purse (m.)", ref: g-06}
+  - {id: i10-v-crustulum, type: vocab, la: "crustulum, crustulī", en: "cookie, little cake (n.)", ref: g-04}
+  - {id: i10-v-studium, type: vocab, la: "studium, studiī", en: "study, eagerness (n.)", ref: g-04}
+  - {id: i10-v-cuius, type: vocab, la: "cuius?", en: "whose?", ref: g-03}
+  - {id: i10-v-cuius-est, type: vocab, la: "Cuius est? Cuius sunt?", en: "Whose is it? Whose are they?", ref: g-03}
+  - {id: i10-v-ae-arum, type: vocab, la: "-ae · -ārum", en: "of (*-a* family: one owner · many)", ref: g-04}
+  - {id: i10-v-i-orum, type: vocab, la: "-ī · -ōrum", en: "of (*hortus* family: one owner · many)", ref: g-04}
+  - {id: i10-f-liber-pueri, type: forms, q: "\"the boy's book\" · \"Marcus's book\" · \"the teacher's book\"", a: "*liber puerī · liber Marcī · liber magistrī*", ref: g-01}
+  - {id: i10-f-in-horto-amici, type: forms, q: "\"We're in the friend's garden.\"", a: "*In hortō amīcī sumus.* *Hortō* changes for *in*; the owner *amīcī* doesn't.", ref: g-01}
+  - {id: i10-f-forum-tarenti, type: forms, q: "\"the forum of Tarentum\"", a: "*forum Tarentī*", ref: g-01}
+  - {id: i10-f-anno-domini, type: forms, q: "Decode *Annō Dominī*.", a: "\"In the year of the Lord\" (A.D.). *Dominī* is the genitive of *dominus*.", ref: g-01}
+  - {id: i10-f-pupa-corneliae, type: forms, q: "\"Cornēlia's doll\" · \"Grandma's ring\"", a: "*pūpa Cornēliae · ānulus aviae*", ref: g-02}
+  - {id: i10-f-agricolae, type: forms, q: "\"the farmer's money\"", a: "*pecūnia agricolae.* The ending follows the *-a* family, not the gender.", ref: g-02}
+  - {id: i10-f-aqua-vitae, type: forms, q: "Decode *Aqua vītae*.", a: "\"The water of life\": *vītae* is the genitive of *vīta*.", ref: g-02}
+  - {id: i10-f-cuius-capsa, type: forms, q: "\"Whose is the book box?\" \"It's Marcus's.\"", a: "*Cuius est capsa? Marcī est.*", ref: g-03}
+  - {id: i10-f-mei-sunt, type: forms, q: "*Cuius sunt calceī?* Answer \"They're mine!\"", a: "*Meī sunt!* *Meī* matches *calceī*.", ref: g-03}
+  - {id: i10-f-non-marci, type: forms, q: "\"It's not Marcus's, it's Quīntus's.\"", a: "*Nōn Marcī est, sed Quīntī.*", ref: g-03}
+  - {id: i10-f-pueri-puerorum, type: forms, q: "\"the boy's books\" · \"the boys' books\"", a: "*librī puerī · librī puerōrum*", ref: g-04}
+  - {id: i10-f-puellarum, type: forms, q: "\"the girls' cookies\"", a: "*crustula puellārum*", ref: g-04}
+  - {id: i10-f-liberorum, type: forms, q: "\"the children's books\"", a: "*librī līberōrum*", ref: g-04}
+  - {id: i10-f-studiorum, type: forms, q: "In *Repetītiō māter studiōrum*, which word is genitive?", a: "*Studiōrum*, \"of studies\": genitive plural of *studium*.", ref: g-04}
+  - {id: i10-f-filii-cornelii, type: forms, q: "\"I'm Cornēlius's son.\" (Marcus)", a: "*Fīlius Cornēliī sum.*", ref: g-05}
+  - {id: i10-f-toga-pupa, type: forms, q: "\"Cornēlius's toga\" · \"Cornēlia's doll\"", a: "*toga Cornēliī · pūpa Cornēliae*", ref: g-05}
+  - {id: i10-f-stomacho-marci, type: forms, q: "\"The cheese is in Marcus's stomach!\"", a: "*Cāseus in stomachō Marcī est!*", ref: g-06}
+  - {id: i10-f-amici-mei, type: forms, q: "\"in my friend's kitchen\"", a: "*in culīnā amīcī meī*", ref: g-06}
+  - {id: i10-f-decline-puella, type: forms, q: "Decline *puella*, singular (nom., gen., acc., abl., voc.).", a: "*puella, puellae, puellam, puellā, puella*", ref: g-07}
+  - {id: i10-f-decline-hortus, type: forms, q: "Decline *hortus*, singular (nom., gen., acc., abl., voc.).", a: "*hortus, hortī, hortum, hortō, horte*", ref: g-07}
+  - {id: i10-f-dictionary, type: forms, q: "A dictionary lists *hortus, hortī*. Which two forms are those?", a: "Nominative and genitive singular. The genitive *-ī* shows the second declension.", ref: g-07}
+  - id: i10-c-pueri
+    type: choose
+    q: "\"the boy's book\": *liber ___*"
+    options: [puerī, puerum, puerō]
+    a: puerī
+    why: "The owner goes in the genitive: *-ī*."
+    ref: g-01
+  - id: i10-c-amici-abl
+    type: choose
+    q: "\"in the friend's garden\": *in hortō ___*"
+    options: [amīcī, amīcō, amīcum]
+    a: amīcī
+    why: "The owner stays genitive, whatever the owned thing is doing."
+    ref: g-01
+  - id: i10-c-puellae
+    type: choose
+    q: "\"the girl's doll\": *pūpa ___*"
+    options: [puellae, puellam, puellā]
+    a: puellae
+    why: "*-a* family genitive singular: *-ae*."
+    ref: g-02
+  - id: i10-c-agricolae
+    type: choose
+    q: "\"the farmer's money\": *pecūnia ___*"
+    options: [agricolae, agricolī]
+    a: agricolae
+    why: "*Agricola* is masculine, but the ending follows its *-a* family."
+    ref: g-02
+  - id: i10-c-cuius-mea
+    type: choose
+    q: "*Cuius est capsa?* \"It's mine!\": *___ est!*"
+    options: [Mea, Meus, Meum]
+    a: Mea
+    why: "It matches *capsa*, feminine."
+    ref: g-03
+  - id: i10-c-puerorum
+    type: choose
+    q: "\"the boys' books\": *librī ___*"
+    options: [puerōrum, puerī, puerārum]
+    a: puerōrum
+    why: "Many owners from the *hortus* family: *-ōrum*."
+    ref: g-04
+  - id: i10-c-puellarum
+    type: choose
+    q: "\"the girls' cookies\": *crustula ___*"
+    options: [puellārum, puellae, puellōrum]
+    a: puellārum
+    why: "Many owners from the *-a* family: *-ārum*."
+    ref: g-04
+  - id: i10-c-filii
+    type: choose
+    q: "\"the son's sword\" (this book's spelling): *gladius ___*"
+    options: [fīliī, fīlī, fīlius]
+    a: fīliī
+    why: "*-ius → -iī*. One-i *fīlī* is the calling form (and Cicero's older genitive)."
+    ref: g-05
+  - id: i10-c-corneliae
+    type: choose
+    q: "\"Cornēlia's doll\": *pūpa ___*"
+    options: [Cornēliae, Cornēliī]
+    a: Cornēliae
+    why: "*Cornēlia* is an *-a* name: *-ae*. *Cornēliī* is \"of Cornēlius.\""
+    ref: g-05
+  - id: i10-c-parvi
+    type: choose
+    q: "\"the little boy's cookie\": *crustulum puerī ___*"
+    options: [parvī, parvum, parvus]
+    a: parvī
+    why: "The adjective matches the owner *puerī*: genitive."
+    ref: g-06
+  - id: i10-e-liber-puerum
+    type: error
+    q: "*liber puerum* (\"the boy's book\") What's wrong?"
+    a: "*liber puerī.* The owner is genitive, not accusative."
+    ref: g-01
+  - id: i10-e-pupa-cornelii
+    type: error
+    q: "*pūpa Cornēliī* (\"Cornēlia's doll\") What's wrong?"
+    a: "*pūpa Cornēliae.* *Cornēliī* is \"of Cornēlius,\" her father."
+    ref: g-05
+  - id: i10-e-libri-pueri
+    type: error
+    q: "*librī puerī* (\"the boys' books,\" two boys) What's wrong?"
+    a: "*librī puerōrum.* Many owners need *-ōrum*; *puerī* is one boy's."
+    ref: g-04
+  - id: i10-e-agricoli
+    type: error
+    q: "*pecūnia agricolī* What's wrong?"
+    a: "*pecūnia agricolae.* *Agricola* belongs to the *-a* family."
+    ref: g-02
+  - id: i10-e-meus-calcei
+    type: error
+    q: "*Cuius sunt calceī? Meus est.* What's wrong?"
+    a: "*Meī sunt.* The possessive and the verb match *calceī*: plural."
+    ref: g-03
+  - id: i10-e-in-hortum-amici
+    type: error
+    q: "*In hortō amīcō sumus.* (We're in the friend's garden.) What's wrong?"
+    a: "*In hortō amīcī sumus.* Only *hortō* takes the ablative; the owner stays genitive."
+    ref: g-01
