@@ -1,0 +1,134 @@
+book: i
+ch: 9
+page: liber-i/09-quinte.md
+cards:
+  - {id: i09-v-filius, type: vocab, la: "fīlius · fīliī", en: "son", ref: g-03}
+  - {id: i09-v-filia, type: vocab, la: "fīlia · fīliae", en: "daughter", ref: g-03}
+  - {id: i09-v-avus, type: vocab, la: "avus · avī", en: "grandfather", ref: g-04}
+  - {id: i09-v-avia, type: vocab, la: "avia · aviae", en: "grandmother", ref: g-04}
+  - {id: i09-v-liberi, type: vocab, la: "līberī", en: "children (plural only)", ref: g-04}
+  - {id: i09-v-familia, type: vocab, la: "familia · familiae", en: "family, household", ref: g-04}
+  - {id: i09-v-dominus, type: vocab, la: "dominus · dominī", en: "master (of the house); lord", ref: g-04}
+  - {id: i09-v-domina, type: vocab, la: "domina · dominae", en: "mistress (of the house); lady", ref: g-04}
+  - {id: i09-v-pater, type: vocab, la: "pater", en: "father (m.)", ref: g-04}
+  - {id: i09-v-mater, type: vocab, la: "māter", en: "mother (f.)", ref: g-04}
+  - {id: i09-v-frater, type: vocab, la: "frāter", en: "brother (m.)", ref: g-04}
+  - {id: i09-v-soror, type: vocab, la: "soror", en: "sister (f.)", ref: g-04}
+  - {id: i09-v-names, type: vocab, la: "Quīntus, Cornēlius", en: "Roman names (m.)", ref: g-03}
+  - {id: i09-v-meus, type: vocab, la: "meus · mea · meum", en: "my", ref: g-05}
+  - {id: i09-v-tuus, type: vocab, la: "tuus · tua · tuum", en: "your (one owner)", ref: g-05}
+  - {id: i09-v-noster, type: vocab, la: "noster · nostra · nostrum", en: "our", ref: g-06}
+  - {id: i09-v-vester, type: vocab, la: "vester · vestra · vestrum", en: "your, y'all's (many owners)", ref: g-06}
+  - {id: i09-v-mi, type: vocab, la: "mī", en: "my! (calling a male: *mī fīlī*)", ref: g-05}
+  - {id: i09-f-marce, type: forms, q: "\"Hello, Marcus! How are you, Marcus?\"", a: "*Salvē, Marce! Quid agis, Marce?*", ref: g-01}
+  - {id: i09-f-amice, type: forms, q: "\"Hello, friend!\" · \"Hello, friends!\"", a: "*Salvē, amīce! · Salvēte, amīcī!*", ref: g-02}
+  - {id: i09-f-fili, type: forms, q: "\"Come here, son!\" · \"Come here, sons!\"", a: "*Venī hūc, fīlī! · Venīte, fīliī!*", ref: g-03}
+  - {id: i09-f-corneli, type: forms, q: "Call a Cornēlius, then a Cornēlia.", a: "*Cornēlī! · Cornēlia!*", ref: g-03}
+  - {id: i09-f-ave-ave, type: forms, q: "\"Hello, Grandpa!\" (with *avē*)", a: "*Avē, ave!* Long ē = hello; short e = Grandpa!", ref: g-04}
+  - {id: i09-f-mi-fili, type: forms, q: "\"My son!\" · \"My daughter!\" (calling them)", a: "*Mī fīlī! · Mea fīlia!*", ref: g-05}
+  - {id: i09-f-mater-mea, type: forms, q: "Marcus says \"my mother\"; Iūlia says \"my son.\"", a: "*Māter mea; fīlius meus.* The possessive matches the thing owned.", ref: g-05}
+  - {id: i09-f-noster, type: forms, q: "\"our house\" · \"y'all's dinner\"", a: "*vīlla nostra · cēna vestra*", ref: g-06}
+  - {id: i09-f-pater-noster, type: forms, q: "*Pater noster*: subject or vocative?", a: "Vocative: the prayer speaks *to* the Father. Neither word changes.", ref: g-06}
+  - {id: i09-f-stomachum, type: forms, q: "\"The cheese goes onto the table, Marcus, not into your stomach!\"", a: "*Cāseus in mēnsam it, Marce, nōn in stomachum tuum!*", ref: g-07}
+  - {id: i09-f-culina-nostra, type: forms, q: "\"in our kitchen\" · \"with my friends\"", a: "*in culīnā nostrā · cum amīcīs meīs*", ref: g-07}
+  - {id: i09-f-brute, type: forms, q: "Decode *Et tū, Brūte?*", a: "\"You too, Brutus?\" *Brūte* is the vocative of *Brūtus*.", ref: g-01}
+  - id: i09-c-marce
+    type: choose
+    q: "*Salvē, ___!* (to Marcus)"
+    options: [Marce, Marcus, Marcī]
+    a: Marce
+    why: "Calling an *-us* name: *-us → -e*."
+    ref: g-01
+  - id: i09-c-iulia
+    type: choose
+    q: "*Salvē, ___!* (to Iūlia)"
+    options: [Iūlia, Iūliā, Iūlie]
+    a: Iūlia
+    why: "*-a* names don't change; the long *-ā* is the ablative."
+    ref: g-02
+  - id: i09-c-puer
+    type: choose
+    q: "*Venī hūc, ___!* (to a boy)"
+    options: [puer, puere]
+    a: puer
+    why: "*-er* words keep their naming form."
+    ref: g-02
+  - id: i09-c-fili
+    type: choose
+    q: "*Venī hūc, ___!* (to one son)"
+    options: [fīlī, fīlie, fīliī]
+    a: fīlī
+    why: "*-ius → -ī*. *Fīliī* is \"sons.\""
+    ref: g-03
+  - id: i09-c-ioannes
+    type: choose
+    q: "*Salvē, ___!* (to John)"
+    options: [Iōannēs, Iōanne]
+    a: Iōannēs
+    why: "A third-family name: the calling form is the naming form."
+    ref: g-02
+  - id: i09-c-meus
+    type: choose
+    q: "Iūlia: \"*Fīlius ___ in hortō est.*\" (my)"
+    options: [meus, mea, meum]
+    a: meus
+    why: "It matches *fīlius* (masculine), not Iūlia."
+    ref: g-05
+  - id: i09-c-mi
+    type: choose
+    q: "Calling Quīntus: \"*___ fīlī, venī!*\" (my)"
+    options: [Mī, Meus, Mea]
+    a: Mī
+    why: "*Mī* is the calling form of *meus*."
+    ref: g-05
+  - id: i09-c-vester
+    type: choose
+    q: "To Marcus and Quīntus: \"*Cāseus ___ in mēnsā est.*\" (your)"
+    options: [vester, tuus]
+    a: vester
+    why: "Many owners (y'all): *vester*. One owner: *tuus*."
+    ref: g-06
+  - id: i09-c-nostra
+    type: choose
+    q: "\"*In culīnā ___ edimus.*\" (our)"
+    options: [nostrā, nostra, nostram]
+    a: nostrā
+    why: "It matches *culīnā*: ablative, long *-ā*."
+    ref: g-07
+  - id: i09-c-tuum
+    type: choose
+    q: "\"*Cāseus in stomachum ___ it.*\" (your)"
+    options: [tuum, tuus, tuō]
+    a: tuum
+    why: "It matches *stomachum*: accusative after *in* \"into.\""
+    ref: g-07
+  - id: i09-e-salve-marcus
+    type: error
+    q: "*Salvē, Marcus!* What's wrong?"
+    a: "*Salvē, Marce!* You're calling him: *-us → -e*."
+    ref: g-01
+  - id: i09-e-filie
+    type: error
+    q: "*Venī, fīlie!* What's wrong?"
+    a: "*Venī, fīlī!* *-ius* words call with a long *-ī*."
+    ref: g-03
+  - id: i09-e-filius-mea
+    type: error
+    q: "Iūlia: *Fīlius mea in hortō est.* (My son is in the garden.) What's wrong?"
+    a: "*Fīlius meus.* The possessive agrees with the son, not with Iūlia."
+    ref: g-05
+  - id: i09-e-salvete-amice
+    type: error
+    q: "*Salvēte, amīce!* (to two friends) What's wrong?"
+    a: "*Salvēte, amīcī!* The plural calling form is the plural naming form."
+    ref: g-02
+  - id: i09-e-vester-one
+    type: error
+    q: "To Marcus alone: *Ubi est cāseus vester?* What's wrong?"
+    a: "*Ubi est cāseus tuus?* One owner: *tuus*. *Vester* is y'all's."
+    ref: g-06
+  - id: i09-e-dome
+    type: error
+    q: "*Salvē, dome!* (Hello, house!) What's wrong?"
+    a: "*Salvē, domus!* Only *hortus*-family *-us* words switch to *-e*; *domus* is from another family."
+    ref: g-02
