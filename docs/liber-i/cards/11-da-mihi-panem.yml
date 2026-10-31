@@ -1,0 +1,150 @@
+book: i
+ch: 11
+page: liber-i/11-da-mihi-panem.md
+cards:
+  - {id: i11-v-gratia, type: vocab, la: "grātia, grātiae", en: "thanks, favor (f.)", ref: g-06}
+  - {id: i11-v-mappa, type: vocab, la: "mappa, mappae", en: "napkin (f.)", ref: g-07}
+  - {id: i11-v-patella, type: vocab, la: "patella, patellae", en: "dish, plate (f.)", ref: g-07}
+  - {id: i11-v-oliva, type: vocab, la: "olīva, olīvae", en: "olive (f.)", ref: g-07}
+  - {id: i11-v-cibus, type: vocab, la: "cibus, cibī", en: "food (m.)", ref: g-09}
+  - {id: i11-v-donum, type: vocab, la: "dōnum, dōnī", en: "gift (n.)", ref: g-02}
+  - {id: i11-v-garum, type: vocab, la: "garum, garī", en: "fish sauce (n.)", ref: g-07}
+  - {id: i11-v-panis, type: vocab, la: "pānis, pānis", en: "bread (m.; third family, object *pānem*)", ref: g-01}
+  - {id: i11-v-do, type: vocab, la: "dō, dare", en: "give (short a: *damus, datis*)", ref: g-01}
+  - {id: i11-v-da, type: vocab, la: "dā, date", en: "give! (to one; to y'all)", ref: g-01}
+  - {id: i11-v-mihi, type: vocab, la: "mihi · tibi", en: "to/for me · to/for you", ref: g-05}
+  - {id: i11-v-nobis, type: vocab, la: "nōbīs · vōbīs", en: "to/for us · to/for y'all", ref: g-04}
+  - {id: i11-v-me-te, type: vocab, la: "mē · tē", en: "me · you (as the object)", ref: g-05}
+  - {id: i11-v-quaeso, type: vocab, la: "quaesō", en: "please (word for word: I ask)", ref: g-07}
+  - {id: i11-v-amabo, type: vocab, la: "amābō tē", en: "please, pretty please (word for word: I will love you)", ref: g-07}
+  - {id: i11-v-cras, type: vocab, la: "crās", en: "tomorrow", ref: g-05}
+  - {id: i11-v-ae-is, type: vocab, la: "-ae · -īs", en: "to/for (*-a* family: one · many)", ref: g-03}
+  - {id: i11-v-o-is, type: vocab, la: "-ō · -īs", en: "to/for (*hortus* family: one · many)", ref: g-02}
+  - {id: i11-f-chant-do, type: forms, q: "Chant *dō* in all six persons.", a: "*dō, dās, dat, damus, datis, dant.* Short a except in *dās*.", ref: g-01}
+  - {id: i11-f-da-mihi-panem, type: forms, q: "\"Give me bread!\" (to one) · (to y'all)", a: "*Dā mihi pānem! · Date mihi pānem!*", ref: g-01}
+  - {id: i11-f-panem, type: forms, q: "Why *dā mihi pānem*, not *pānis*?", a: "*Pānem* is the object. *Pānis* is third family, whose object form ends in *-em*.", ref: g-01}
+  - {id: i11-f-marcus-quinto, type: forms, q: "\"Marcus gives Quīntus the cheese.\"", a: "*Marcus Quīntō cāseum dat.*", ref: g-02}
+  - {id: i11-f-magistro, type: forms, q: "\"I give the book to the teacher.\"", a: "*Librum magistrō dō.*", ref: g-02}
+  - {id: i11-f-donum-avo, type: forms, q: "\"We give Grandpa a gift.\"", a: "*Dōnum avō damus.*", ref: g-02}
+  - {id: i11-f-ad-vs-dat, type: forms, q: "*Librum ad magistrum portō* vs *Librum magistrō dō*?", a: "Carrying it toward him (*ad* + acc.) · handing it to him (dative).", ref: g-02}
+  - {id: i11-f-dative-term, type: forms, q: "What is the dative? Its old-school name?", a: "The \"to/for\" case, the receiver's form. Its job: the **indirect object**.", ref: g-02}
+  - {id: i11-f-aviae, type: forms, q: "\"Cornēlia gives Grandma a cookie.\"", a: "*Cornēlia aviae crustulum dat.*", ref: g-03}
+  - {id: i11-f-agricolae, type: forms, q: "\"Marcus gives money to the farmer.\"", a: "*Marcus pecūniam agricolae dat.* *Agricola* bends like *puella*.", ref: g-03}
+  - {id: i11-f-puellae-three, type: forms, q: "Three meanings of *puellae*?", a: "girls · of the girl · to/for the girl", ref: g-03}
+  - {id: i11-f-liberis, type: forms, q: "\"Grandma gives cookies to the children.\"", a: "*Avia līberīs crustula dat.*", ref: g-04}
+  - {id: i11-f-cum-amicis, type: forms, q: "*Cum amīcīs edimus* vs *Amīcīs crustula damus*?", a: "\"We eat with friends\" (abl. after *cum*) · \"We give cookies to friends\" (dative).", ref: g-04}
+  - {id: i11-f-caseum-tibi, type: forms, q: "\"I give you the cheese.\"", a: "*Cāseum tibi dō.*", ref: g-05}
+  - {id: i11-f-dic-mihi, type: forms, q: "\"Tell me!\" · \"Bring me wine, please!\"", a: "*Dīc mihi! · Fer mihi vīnum, quaesō!*", ref: g-05}
+  - {id: i11-f-cenam-tibi, type: forms, q: "*Cēnam tibi parō.*", a: "\"I'm preparing dinner for you.\" The dative is also \"for.\"", ref: g-05}
+  - {id: i11-f-ego-family, type: forms, q: "*ego, mē, mihi, mēcum*?", a: "I · me (object) · to/for me · with me", ref: g-05}
+  - {id: i11-f-nomen-mihi, type: forms, q: "*Nōmen mihi est Iōannēs*, word for word?", a: "\"A name is to me: Iōannēs.\" *Mihi* is dative: \"I have the name John.\"", ref: g-06}
+  - {id: i11-f-liber-mihi, type: forms, q: "\"I have a book,\" two ways.", a: "*Librum habeō.* · *Liber mihi est.*", ref: g-06}
+  - {id: i11-f-marci-marco, type: forms, q: "*Pila Marcī est* vs *Pila Marcō est*?", a: "\"The ball is Marcus's\" (whose?) · \"Marcus has a ball\" (what does he have?).", ref: g-06}
+  - {id: i11-f-gratias, type: forms, q: "*Grātiās tibi agō*: what form is *grātiās*?", a: "Accusative plural of *grātia*, the object: \"I give thanks to you.\"", ref: g-06}
+  - {id: i11-f-gratis, type: forms, q: "*grātiās* vs *grātīs*?", a: "Thanks · free (a squeezed *grātiīs*, \"for thanks only\").", ref: g-06}
+  - {id: i11-f-amabo-te, type: forms, q: "Ask Grandma for a cookie, \"pretty please.\"", a: "*Amābō tē, avia, dā mihi crustulum!*", ref: g-07}
+  - {id: i11-f-mappam, type: forms, q: "\"Please give me a napkin.\"", a: "*Dā mihi mappam, quaesō.*", ref: g-07}
+  - {id: i11-f-panem-nostrum, type: forms, q: "Decode *Pānem nostrum cotīdiānum dā nōbīs hodiē*.", a: "\"Give us this day our daily bread\": *dā nōbīs*, give to us; *pānem nostrum*, our bread (object).", ref: g-07}
+  - {id: i11-f-decline-puella, type: forms, q: "Decline *puella*, singular, all six cases.", a: "*puella, puellae, puellae, puellam, puellā, puella*", ref: g-08}
+  - {id: i11-f-decline-hortus, type: forms, q: "Decline *hortus*, singular, all six cases.", a: "*hortus, hortī, hortō, hortum, hortō, horte*", ref: g-08}
+  - {id: i11-f-deo-gratias, type: forms, q: "Decode *Deō grātiās*.", a: "\"Thanks (be) to God\": *Deō* is the dative of *Deus*.", ref: g-08}
+  - id: i11-c-damus
+    type: choose
+    q: "\"we give\": *___*"
+    options: [damus, dāmus, damās]
+    a: damus
+    why: "*Dō* is the short-a verb: *damus, datis, dare*."
+    ref: g-01
+  - id: i11-c-quinto
+    type: choose
+    q: "\"Marcus gives Quīntus the cheese\": *Marcus ___ cāseum dat.*"
+    options: [Quīntō, Quīntum, Quīntī]
+    a: Quīntō
+    why: "The receiver goes in the dative: *-ō*."
+    ref: g-02
+  - id: i11-c-aviae
+    type: choose
+    q: "\"We give cookies to Grandma\": *___ crustula damus.*"
+    options: [Aviae, Aviam, Aviā]
+    a: Aviae
+    why: "*-a* family dative singular: *-ae*."
+    ref: g-03
+  - id: i11-c-pueris
+    type: choose
+    q: "\"Grandma gives cookies to the boys\": *Avia ___ crustula dat.*"
+    options: [puerīs, puerōs, puerōrum]
+    a: puerīs
+    why: "Many receivers: *-īs*."
+    ref: g-04
+  - id: i11-c-magistro-ad
+    type: choose
+    q: "\"I hand the book to the teacher\": *Librum ___ dō.*"
+    options: [magistrō, ad magistrum, magistrī]
+    a: magistrō
+    why: "A receiver takes the dative, no preposition; *ad* is for carrying toward."
+    ref: g-02
+  - id: i11-c-tibi
+    type: choose
+    q: "\"I give you the cheese\": *Cāseum ___ dō.*"
+    options: [tibi, tē, tū]
+    a: tibi
+    why: "To you = *tibi* (dative). *Tē* is you as the object."
+    ref: g-05
+  - id: i11-c-mihi-est
+    type: choose
+    q: "\"I have a book\": *Liber ___ est.*"
+    options: [mihi, mē, ego]
+    a: mihi
+    why: "Dative of possession: \"a book is to me.\""
+    ref: g-06
+  - id: i11-c-sunt
+    type: choose
+    q: "\"We have cookies\": *Crustula nōbīs ___.*"
+    options: [sunt, est, sumus]
+    a: sunt
+    why: "The cookies are the subject, and they're plural."
+    ref: g-06
+  - id: i11-c-amabo
+    type: choose
+    q: "Which is the \"pretty please\" chunk?"
+    options: [amābō tē, amō tē, amā mē]
+    a: amābō tē
+    why: "\"I will love you\": the Romans' warm please."
+    ref: g-07
+  - id: i11-c-cum-amico
+    type: choose
+    q: "*Cum amīcō edō.* What case is *amīcō*?"
+    options: [ablative, dative]
+    a: ablative
+    why: "After a preposition it's ablative; no preposition takes the dative."
+    ref: g-08
+  - id: i11-e-panis
+    type: error
+    q: "*Dā mihi pānis.* What's wrong?"
+    a: "*Dā mihi pānem.* The bread is the object: *pānem*."
+    ref: g-01
+  - id: i11-e-quintum
+    type: error
+    q: "*Marcus Quīntum cāseum dat.* (Marcus gives Quīntus the cheese.) What's wrong?"
+    a: "*Quīntō.* Quīntus receives; the receiver is dative, not accusative."
+    ref: g-02
+  - id: i11-e-avia-abl
+    type: error
+    q: "*Crustula aviā damus.* (We give Grandma cookies.) What's wrong?"
+    a: "*aviae.* *Aviā* (long ā) is the ablative; the receiver is *aviae*."
+    ref: g-03
+  - id: i11-e-damus
+    type: error
+    q: "*Dāmus tibi mālum.* What's wrong?"
+    a: "*Damus*: short a. *Dō* keeps its a short except in *dās* and *dā*."
+    ref: g-01
+  - id: i11-e-mihi-sunt
+    type: error
+    q: "*Mihi liber sunt.* (I have a book.) What's wrong?"
+    a: "*Mihi liber est.* The verb matches *liber*, one thing; *mihi* is only the owner."
+    ref: g-06
+  - id: i11-e-pueri-dat
+    type: error
+    q: "*Avia puerī crustula dat.* (Grandma gives the boys cookies.) What's wrong?"
+    a: "*puerīs.* Many receivers take *-īs*; *puerī* is \"boys\" (subject) or \"of the boy.\""
+    ref: g-04
