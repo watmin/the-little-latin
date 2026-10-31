@@ -1,0 +1,164 @@
+book: i
+ch: 12
+page: liber-i/12-recapitulatio-i.md
+cards:
+  - {id: i12-v-tabernarius, type: vocab, la: "tabernārius, tabernāriī", en: "shopkeeper (m.)", ref: g-07}
+  - {id: i12-v-fessus, type: vocab, la: "fessus, fessa, fessum", en: "tired", ref: g-07}
+  - {id: i12-v-tandem, type: vocab, la: "tandem", en: "at last", ref: g-07}
+  - {id: i12-v-latine, type: vocab, la: "Latīnē", en: "in Latin", ref: g-08}
+  - {id: i12-f-six-cases, type: forms, q: "Name the six cases in order, with a job for each.", a: "Nominative (subject) · genitive (of) · dative (to, for) · accusative (object; where to) · ablative (where, from, with) · vocative (calling).", ref: g-01}
+  - {id: i12-f-puer-parvus-sg, type: forms, q: "Decline *puer parvus*, singular, all six cases.", a: "*puer parvus, puerī parvī, puerō parvō, puerum parvum, puerō parvō, puer parve*", ref: g-01}
+  - {id: i12-f-puer-parvus-pl, type: forms, q: "Decline *puer parvus*, plural, all six cases.", a: "*puerī parvī, puerōrum parvōrum, puerīs parvīs, puerōs parvōs, puerīs parvīs, puerī parvī*", ref: g-01}
+  - {id: i12-f-puella-bona, type: forms, q: "Decline *puella bona*, singular, all six cases.", a: "*puella bona, puellae bonae, puellae bonae, puellam bonam, puellā bonā, puella bona*", ref: g-01}
+  - {id: i12-f-amicis-meis, type: forms, q: "\"I give a cookie to my friend\" · \"to my friends.\"", a: "*Crustulum amīcō meō dō.* · *Crustulum amīcīs meīs dō.*", ref: g-01}
+  - {id: i12-f-agricolae-bono, type: forms, q: "\"We give money to the good farmer.\"", a: "*Pecūniam agricolae bonō damus.* Same case and gender, not same letters.", ref: g-01}
+  - {id: i12-f-libro-nostro, type: forms, q: "\"In our book\" · \"of our books.\"", a: "*In librō nostrō* · *librōrum nostrōrum*", ref: g-01}
+  - {id: i12-f-quem, type: forms, q: "\"Whom do you see? I see Marcus.\"", a: "*Quem vidēs? Marcum videō.*", ref: g-02}
+  - {id: i12-f-ubi-unde-quo, type: forms, q: "Ask and answer about the forum: where are you, where from, where to?", a: "*Ubi es? In forō sum.* · *Unde venīs? Ā forō veniō.* · *Quō īs? In forum eō.*", ref: g-02}
+  - {id: i12-f-ne-nonne-num, type: forms, q: "\"Is the cheese good?\" Open · expecting yes · expecting no.", a: "*Estne cāseus bonus?* · *Nōnne cāseus bonus est?* · *Num cāseus bonus est?*", ref: g-02}
+  - {id: i12-f-chant-amo, type: forms, q: "Chant *amō*, six persons + \"to love.\"", a: "*amō, amās, amat, amāmus, amātis, amant · amāre*", ref: g-03}
+  - {id: i12-f-chant-habeo, type: forms, q: "Chant *habeō*, six persons + \"to have.\"", a: "*habeō, habēs, habet, habēmus, habētis, habent · habēre*", ref: g-03}
+  - {id: i12-f-chant-lego, type: forms, q: "Chant *legō*, six persons + \"to read.\"", a: "*legō, legis, legit, legimus, legitis, legunt · legere*", ref: g-03}
+  - {id: i12-f-chant-audio, type: forms, q: "Chant *audiō*, six persons + \"to hear.\"", a: "*audiō, audīs, audit, audīmus, audītis, audiunt · audīre*", ref: g-03}
+  - {id: i12-f-chant-capio, type: forms, q: "Chant *capiō*, six persons + \"to take.\"", a: "*capiō, capis, capit, capimus, capitis, capiunt · capere*", ref: g-03}
+  - {id: i12-f-chant-sum-eo, type: forms, q: "Chant *sum* and *eō*.", a: "*sum, es, est, sumus, estis, sunt* · *eō, īs, it, īmus, ītis, eunt*", ref: g-03}
+  - {id: i12-f-legimus, type: forms, q: "\"We read books. Y'all hear Marcus. They grab the cheese.\"", a: "*Librōs legimus. Marcum audītis. Cāseum capiunt.*", ref: g-03}
+  - {id: i12-f-commands, type: forms, q: "\"Sit! Read! Listen! Grab!\" to one, then to y'all.", a: "*Sedē! Lege! Audī! Cape!* · *Sedēte! Legite! Audīte! Capite!*", ref: g-04}
+  - {id: i12-f-short-commands, type: forms, q: "The four short commands, and their plurals.", a: "*Dīc, dūc, fac, fer* · *dīcite, dūcite, facite, ferte*", ref: g-04}
+  - {id: i12-f-noli, type: forms, q: "\"Don't eat the cheese!\" to one, then to y'all.", a: "*Nōlī cāseum edere!* · *Nōlīte cāseum edere!*", ref: g-04}
+  - {id: i12-f-fer-mihi, type: forms, q: "\"Marcus, bring me the bread, please!\"", a: "*Marce, fer mihi pānem, quaesō!*", ref: g-04}
+  - {id: i12-f-switch, type: forms, q: "*In culīnā* vs *in culīnam*?", a: "In the kitchen (abl., where) · into the kitchen (acc., where to).", ref: g-05}
+  - {id: i12-f-domum, type: forms, q: "\"I'm going home · I'm at home · I'm coming from home.\"", a: "*Domum eō · Domī sum · Domō veniō.*", ref: g-05}
+  - {id: i12-f-romam, type: forms, q: "\"I'm going to Rome · I'm at Rome · I'm coming from Rome.\"", a: "*Rōmam eō · Rōmae sum · Rōmā veniō.*", ref: g-05}
+  - {id: i12-f-domo-romam, type: forms, q: "\"Marcus goes from home to Rome with Quīntus.\"", a: "*Marcus cum Quīntō domō Rōmam it.*", ref: g-05}
+  - {id: i12-f-quintus-jobs, type: forms, q: "Quīntus, four jobs: call him · his book · give it to him · I see him.", a: "*Quīnte! · liber Quīntī · Quīntō librum dō · Quīntum videō*", ref: g-06}
+  - {id: i12-f-sort-sentence, type: forms, q: "*Marcus puerīs librōs magistrī dat.*", a: "\"Marcus gives the teacher's books to the boys.\"", ref: g-06}
+  - {id: i12-f-filius-meus, type: forms, q: "\"My son!\" · \"of my son\" · \"to my son\"", a: "*Mī fīlī! · fīliī meī · fīliō meō*", ref: g-06}
+  - {id: i12-f-scholae, type: forms, q: "Decode *Nōn scholae sed vītae discimus.*", a: "\"We learn not for school but for life\": *scholae, vītae* are datives.", ref: g-06}
+  - {id: i12-f-domi-romae-domum, type: forms, q: "*Domī · Rōmae · Domum*?", a: "At home · at Rome · (to) home. No prepositions.", ref: g-07}
+  - {id: i12-f-caseum-avo, type: forms, q: "\"I'm buying a cheese for Grandpa.\"", a: "*Cāseum avō emō.*", ref: g-07}
+  - {id: i12-f-nomen, type: forms, q: "Say your name, two ways.", a: "*Nōmen mihi est Iōannēs.* · *Iōannēs sum.*", ref: g-08}
+  - {id: i12-f-habito, type: forms, q: "\"I live in a small town.\" · \"I live in a big house.\"", a: "*In oppidō parvō habitō.* · *In vīllā magnā habitō.*", ref: g-08}
+  - {id: i12-f-amici-mihi, type: forms, q: "\"I have good friends\" (with *mihi*).", a: "*Amīcī bonī mihi sunt.*", ref: g-08}
+  - {id: i12-f-latine, type: forms, q: "\"I read and write in Latin.\"", a: "*Latīnē legō et scrībō.*", ref: g-08}
+  - {id: i12-f-ask-back, type: forms, q: "Ask someone their name and where they live.", a: "*Quid est nōmen tibi? Ubi habitās?*", ref: g-08}
+  - {id: i12-f-liber-puer, type: forms, q: "*Līber puer* vs *liber puerī*?", a: "A free boy · the boy's book.", ref: g-09}
+  - id: i12-c-puer-parve
+    type: choose
+    q: "\"Little boy, come here!\": *Puer ___, venī hūc!*"
+    options: [parve, parvus, parvī]
+    a: parve
+    why: "Calling: *parvus* is an *-us* word, so *-e*; *puer* stays *puer*."
+    ref: g-01
+  - id: i12-c-agricolae-bono
+    type: choose
+    q: "\"to the good farmer\": *agricolae ___*"
+    options: [bonō, bonae, bonīs]
+    a: bonō
+    why: "Dative singular, masculine: the farmer is a man, whatever his ending."
+    ref: g-01
+  - id: i12-c-nonne
+    type: choose
+    q: "Expecting \"yes\": *___ cāseus bonus est?*"
+    options: [Nōnne, Num, Estne]
+    a: Nōnne
+    why: "*Nōnne* expects yes; *num* expects no; *-ne* is open."
+    ref: g-02
+  - id: i12-c-unde
+    type: choose
+    q: "\"Where are you coming from?\": *___ venīs?*"
+    options: [Unde, Ubi, Quō]
+    a: Unde
+    why: "*Unde* = from where; *ubi* = where; *quō* = where to."
+    ref: g-02
+  - id: i12-c-audiunt
+    type: choose
+    q: "\"they hear\": *___*"
+    options: [audiunt, audunt, audīnt]
+    a: audiunt
+    why: "Fourth family keeps its i: *audiunt*, like *capiunt*."
+    ref: g-03
+  - id: i12-c-legite
+    type: choose
+    q: "\"Read!\" to y'all: *___!*"
+    options: [Legite, Legete, Legāte]
+    a: Legite
+    why: "Third family: *lege, legite*."
+    ref: g-04
+  - id: i12-c-domum
+    type: choose
+    q: "\"I'm going home\": *___ eō.*"
+    options: [Domum, Domī, Ad domum]
+    a: Domum
+    why: "Where to, no preposition: *domum*. *Domī* is \"at home.\""
+    ref: g-05
+  - id: i12-c-romae
+    type: choose
+    q: "\"We're at Rome\": *___ sumus.*"
+    options: [Rōmae, Rōmam, In Rōmam]
+    a: Rōmae
+    why: "Place where, for a town: the locative *Rōmae*."
+    ref: g-05
+  - id: i12-c-ex-atrio
+    type: choose
+    q: "\"out of the front hall\": *___ ātriō*"
+    options: [ex, ē]
+    a: ex
+    why: "*Ē* goes only before a consonant; *ātriō* starts with a vowel."
+    ref: g-05
+  - id: i12-c-quinto
+    type: choose
+    q: "\"I give the book to Quīntus\": *___ librum dō.*"
+    options: [Quīntō, Quīntī, Quīntum]
+    a: Quīntō
+    why: "The receiver is dative: *-ō*."
+    ref: g-06
+  - id: i12-c-avi
+    type: choose
+    q: "\"Don't eat Grandpa's cheese!\": *Nōlī cāseum ___ edere!*"
+    options: [avī, avō, ave]
+    a: avī
+    why: "Whose cheese: genitive *avī*. *Avō* is \"to Grandpa\"; *ave* is calling him."
+    ref: g-07
+  - id: i12-c-habito
+    type: choose
+    q: "\"I live in a big house\": *In vīllā ___ habitō.*"
+    options: [magnā, magnō, magnam]
+    a: magnā
+    why: "Ablative after *in* (where), feminine to match *vīllā*."
+    ref: g-08
+  - id: i12-e-in-culinam-sum
+    type: error
+    q: "*In culīnam sum.* (I'm in the kitchen.) What's wrong?"
+    a: "*In culīnā sum.* Being somewhere takes the ablative; *culīnam* is \"into.\""
+    ref: g-05
+  - id: i12-e-romae-eo
+    type: error
+    q: "*Rōmae eō.* (I'm going to Rome.) What's wrong?"
+    a: "*Rōmam eō.* Where to is *Rōmam*; *Rōmae* is \"at Rome.\""
+    ref: g-05
+  - id: i12-e-bonae
+    type: error
+    q: "*Pecūniam agricolae bonae damus.* What's wrong?"
+    a: "*bonō.* The farmer is masculine: *agricolae bonō*."
+    ref: g-01
+  - id: i12-e-venite
+    type: error
+    q: "*Marce, venīte!* What's wrong?"
+    a: "*Venī!* One person, one command: *-te* is for y'all."
+    ref: g-04
+  - id: i12-e-damus
+    type: error
+    q: "*Dāmus puerō librum.* What's wrong?"
+    a: "*Damus*: short a. *Dō* keeps its a short except in *dās* and *dā*."
+    ref: g-03
+  - id: i12-e-in-villa-parvo
+    type: error
+    q: "*In vīllā parvō habitō.* What's wrong?"
+    a: "*parvā.* The adjective matches *vīllā*: feminine ablative."
+    ref: g-08
+  - id: i12-e-nomen-me
+    type: error
+    q: "*Nōmen mē est Iōannēs.* What's wrong?"
+    a: "*mihi.* \"A name is **to me**\": dative *mihi*. *Mē* is \"me\" as the object."
+    ref: g-08

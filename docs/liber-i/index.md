@@ -23,4 +23,4 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 | 9 | [**Quīnte!**](09-quinte.md) | G: vocative (-e, -ī); possessives meus/tuus/noster/vester. V: family. S: address people, my/your. | ✅ available |
 | 10 | [**Liber Puerī**](10-liber-pueri.md) | G: genitive (possession), the five-case 1st/2nd decl table assembled. V: belongings. S: whose is this. | ✅ available |
 | 11 | [**Dā mihi pānem**](11-da-mihi-panem.md) | G: dative (indirect object), mihi/tibi analyzed → mihi nōmen est explained (dative of possession). V: giving, table. S: asking for things politely (quaesō, amābō tē). | ✅ available |
-| 12 | **Recapitulātiō I** | Story chapter + review; 1st/2nd decl full; present system so far. S: a 2-minute self-introduction. | coming |
+| 12 | [**Recapitulātiō I**](12-recapitulatio-i.md) | Story chapter + review; 1st/2nd decl full; present system so far. S: a 2-minute self-introduction. | ✅ available |
