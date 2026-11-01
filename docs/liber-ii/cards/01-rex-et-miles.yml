@@ -1,0 +1,154 @@
+book: ii
+ch: 13
+page: liber-ii/01-rex-et-miles.md
+cards:
+  - {id: ii13-v-rex, type: vocab, la: "rēx, rēgis", en: "king (m.)", ref: g-01}
+  - {id: ii13-v-miles, type: vocab, la: "mīles, mīlitis", en: "soldier (m.)", ref: g-01}
+  - {id: ii13-v-dux, type: vocab, la: "dux, ducis", en: "leader, general (m.)", ref: g-07}
+  - {id: ii13-v-iudex, type: vocab, la: "iūdex, iūdicis", en: "judge (m.)", ref: g-07}
+  - {id: ii13-v-mercator, type: vocab, la: "mercātor, mercātōris", en: "merchant, trader (m.)", ref: g-07}
+  - {id: ii13-v-custos, type: vocab, la: "custōs, custōdis", en: "guard (m., also f.)", ref: g-07}
+  - {id: ii13-v-fur, type: vocab, la: "fūr, fūris", en: "thief (m.)", ref: g-07}
+  - {id: ii13-v-homo, type: vocab, la: "homō, hominis", en: "human being, person (m.)", ref: g-01}
+  - {id: ii13-v-mulier, type: vocab, la: "mulier, mulieris", en: "woman (f.)", ref: g-07}
+  - {id: ii13-v-uxor, type: vocab, la: "uxor, uxōris", en: "wife (f.)", ref: g-07}
+  - {id: ii13-v-pater, type: vocab, la: "pater, patris", en: "father (m.)", ref: g-01}
+  - {id: ii13-v-mater, type: vocab, la: "māter, mātris", en: "mother (f.)", ref: g-01}
+  - {id: ii13-v-frater, type: vocab, la: "frāter, frātris", en: "brother (m.)", ref: g-01}
+  - {id: ii13-v-soror, type: vocab, la: "soror, sorōris", en: "sister (f.)", ref: g-01}
+  - {id: ii13-v-ioannes, type: vocab, la: "Iōannēs, Iōannis", en: "John (m.)", ref: g-08}
+  - {id: ii13-v-pax, type: vocab, la: "pāx, pācis", en: "peace (f.)", ref: g-03}
+  - {id: ii13-v-vox, type: vocab, la: "vōx, vōcis", en: "voice (f.)", ref: g-07}
+  - {id: ii13-v-corona, type: vocab, la: "corōna, corōnae", en: "crown (f.)", ref: g-01}
+  - {id: ii13-v-endings-sg, type: vocab, la: "-is · -ī · -em · -e", en: "third family, one: of · to/for · object · with/from", ref: g-04}
+  - {id: ii13-v-endings-pl, type: vocab, la: "-ēs · -um · -ibus", en: "third family, many: subject and object · of · to/for and with/from", ref: g-06}
+  - {id: ii13-f-regis, type: forms, q: "*Rēx*: the \"of\" form, and the stem?", a: "*rēgis*; stem *rēg-* (g + s = x).", ref: g-01}
+  - {id: ii13-f-militis, type: forms, q: "*Mīles*: the \"of\" form, and the stem?", a: "*mīlitis*; stem *mīlit-*. The naming form hides it.", ref: g-01}
+  - {id: ii13-f-patris, type: forms, q: "*Pater, māter, frāter*: their \"of\" forms?", a: "*patris, mātris, frātris*: the e drops, like *magister, magistrī*.", ref: g-01}
+  - {id: ii13-f-sororis, type: forms, q: "*Soror*: the \"of\" form?", a: "*sorōris*: the o is long in the stem (so-ROH-ris).", ref: g-01}
+  - {id: ii13-f-stem-law, type: forms, q: "Where do you find a third-family noun's stem?", a: "In the genitive: take off *-is*. *rēgis → rēg-*. The Law of the Stem.", ref: g-01}
+  - {id: ii13-f-ioannis-sunt, type: forms, q: "Claim the shoes: \"They're John's!\"", a: "*Iōannis sunt!*", ref: g-01}
+  - {id: ii13-f-patri, type: forms, q: "\"I give the cheese to Father.\"", a: "*Patrī cāseum dō.*", ref: g-02}
+  - {id: ii13-f-militi, type: forms, q: "\"Marcus gives the sword to the soldier.\"", a: "*Marcus gladium mīlitī dat.*", ref: g-02}
+  - {id: ii13-f-marci-militi, type: forms, q: "*Marcī* vs *mīlitī*?", a: "\"of Marcus\" (second family genitive) · \"to the soldier\" (third family dative)", ref: g-02}
+  - {id: ii13-f-homo-homini, type: forms, q: "Decode *Homō hominī lupus*.", a: "\"A human is a wolf to a human\": *hominī* is dative.", ref: g-02}
+  - {id: ii13-f-regem, type: forms, q: "\"I see the king.\"", a: "*Rēgem videō.*", ref: g-03}
+  - {id: ii13-f-patrem-matrem, type: forms, q: "\"We love Father and Mother.\"", a: "*Patrem et mātrem amāmus.*", ref: g-03}
+  - {id: ii13-f-cum-patre, type: forms, q: "\"with Father\" · \"without Mother\" · \"from the king\"", a: "*cum patre · sine mātre · ā rēge*", ref: g-04}
+  - {id: ii13-f-rege-marce, type: forms, q: "*Rēge* vs *Marce*?", a: "Ablative (after a preposition) · calling Marcus. To call a king: just *Rēx!*", ref: g-04}
+  - {id: ii13-f-sg-rex, type: forms, q: "Decline *rēx*, singular, all six cases.", a: "*rēx, rēgis, rēgī, rēgem, rēge, rēx*", ref: g-06}
+  - {id: ii13-f-pl-miles, type: forms, q: "Decline *mīles*, plural, all six cases.", a: "*mīlitēs, mīlitum, mīlitibus, mīlitēs, mīlitibus, mīlitēs*", ref: g-06}
+  - {id: ii13-f-who-sees, type: forms, q: "*Rēx mīlitēs videt.* Who sees whom?", a: "The king sees the soldiers: *videt* is singular, so *rēx* is the subject.", ref: g-05}
+  - {id: ii13-f-leges, type: forms, q: "Decode *Inter arma silent lēgēs*.", a: "\"Among weapons the laws are silent\": *lēgēs*, plural of *lēx, lēgis*.", ref: g-05}
+  - {id: ii13-f-rex-regum, type: forms, q: "*Rēx rēgum*?", a: "\"King of kings\": *-um* is the third family's \"of many.\"", ref: g-06}
+  - {id: ii13-f-militibus, type: forms, q: "\"Grandpa gives cheese to the soldiers.\" · \"with the soldiers\"", a: "*Avus mīlitibus cāseum dat.* · *cum mīlitibus*: *-ibus* does both (the Law of Double Duty).", ref: g-06}
+  - {id: ii13-f-tor, type: forms, q: "What does *-tor* mean in *mercātor, imperātor*?", a: "The doer, like English -er: the one who trades, the one who commands.", ref: g-07}
+  - {id: ii13-f-gender, type: forms, q: "*Soror, uxor, mercātor*: same ending. Same gender?", a: "No: *soror, uxor* f., *mercātor* m. In the third family, learn the gender with the word (for people, the meaning decides).", ref: g-07}
+  - {id: ii13-f-ioannes-decline, type: forms, q: "Your name, all six cases, singular.", a: "*Iōannēs, Iōannis, Iōannī, Iōannem, Iōanne, Iōannēs*", ref: g-08}
+  - {id: ii13-f-patri-meo, type: forms, q: "\"I give the cheese to my father.\"", a: "*Patrī meō cāseum dō.* Same case, not same letters.", ref: g-08}
+  - {id: ii13-f-fur-furem, type: forms, q: "Decode *Fūr fūrem cognōscit*.", a: "\"A thief recognizes a thief\": it takes one to know one.", ref: g-09}
+  - id: ii13-c-regis
+    type: choose
+    q: "\"the king's crown\": *corōna ___*"
+    options: [rēgis, rēgīs, rēx]
+    a: rēgis
+    why: "Genitive: stem *rēg-* + *-is*, short i."
+    ref: g-01
+  - id: ii13-c-patri
+    type: choose
+    q: "\"I give Father the bread\": *___ pānem dō.*"
+    options: [Patrī, Patrem, Patre]
+    a: Patrī
+    why: "The receiver is dative: *-ī*."
+    ref: g-02
+  - id: ii13-c-regem
+    type: choose
+    q: "\"Riches don't make a king\": *___ nōn faciunt opēs.*"
+    options: [Rēgem, Rēgī, Rēx]
+    a: Rēgem
+    why: "The king is the object: *-em*."
+    ref: g-03
+  - id: ii13-c-cum-patre
+    type: choose
+    q: "\"with Father\": *cum ___*"
+    options: [patre, patrem, patrī]
+    a: patre
+    why: "*Cum* takes the ablative: *-e*."
+    ref: g-04
+  - id: ii13-c-rex-voc
+    type: choose
+    q: "\"Hello, king!\": *Salvē, ___!*"
+    options: [rēx, rēge, rēgī]
+    a: rēx
+    why: "In the third family the calling form is the naming form."
+    ref: g-04
+  - id: ii13-c-vident
+    type: choose
+    q: "\"The kings see the soldier\": *Rēgēs mīlitem ___.*"
+    options: [vident, videt]
+    a: vident
+    why: "*Rēgēs* is plural, so the verb is plural."
+    ref: g-05
+  - id: ii13-c-militum
+    type: choose
+    q: "\"the soldiers' swords\": *gladiī ___*"
+    options: [mīlitum, mīlitēs, mīlitibus]
+    a: mīlitum
+    why: "\"Of many\" in the third family: *-um*."
+    ref: g-06
+  - id: ii13-c-militibus
+    type: choose
+    q: "\"Grandma gives cookies to the soldiers\": *Avia ___ crustula dat.*"
+    options: [mīlitibus, mīlitēs, mīlitī]
+    a: mīlitibus
+    why: "Many receivers: *-ibus*."
+    ref: g-06
+  - id: ii13-c-fratrem
+    type: choose
+    q: "\"I see my brother\": *___ meum videō.*"
+    options: [Frātrem, Frāterem, Frātrum]
+    a: Frātrem
+    why: "The stem is *frātr-* (from *frātris*): *frātr-em*."
+    ref: g-08
+  - id: ii13-c-ioannis
+    type: choose
+    q: "\"John's book\": *liber ___*"
+    options: [Iōannis, Iōannī, Iōannēs]
+    a: Iōannis
+    why: "\"Of John\": genitive *-is*."
+    ref: g-08
+  - id: ii13-e-regis-dat
+    type: error
+    q: "*Dā cāseum rēgis.* (Give the cheese to the king.) What's wrong?"
+    a: "*rēgī.* The receiver is dative *-ī*; *rēgis* is \"of the king.\""
+    ref: g-02
+  - id: ii13-e-cum-patrem
+    type: error
+    q: "*Cum patrem ambulō.* What's wrong?"
+    a: "*cum patre.* *Cum* takes the ablative."
+    ref: g-04
+  - id: ii13-e-frater-em
+    type: error
+    q: "*Frāterem videō.* What's wrong?"
+    a: "*Frātrem.* Build on the stem *frātr-* from the genitive *frātris*."
+    ref: g-01
+  - id: ii13-e-ioannis-long
+    type: error
+    q: "*Iōannīs sunt.* (They're John's.) What's wrong?"
+    a: "*Iōannis*: short i. Long *-īs* is the first and second families' \"to/with many.\""
+    ref: g-01
+  - id: ii13-e-reges-videt
+    type: error
+    q: "*Rēgēs mīlitem videt.* (The kings see the soldier.) What's wrong?"
+    a: "*vident.* A plural subject takes a plural verb."
+    ref: g-05
+  - id: ii13-e-soror-meus
+    type: error
+    q: "*Soror meus Cornēlia est.* What's wrong?"
+    a: "*Soror mea.* *Soror* is feminine (a sister); the *-or* ending doesn't decide."
+    ref: g-07
+  - id: ii13-e-militibus-gen
+    type: error
+    q: "*Gladiī mīlitibus in ātriō sunt.* (The soldiers' swords are in the hall.) What's wrong?"
+    a: "*mīlitum.* \"Of many\" is *-um*; *-ibus* is to/for or with/from."
+    ref: g-06
