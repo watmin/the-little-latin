@@ -1,0 +1,148 @@
+book: ii
+ch: 14
+page: liber-ii/02-corpus-et-nomen.md
+cards:
+  - {id: ii14-v-nomen, type: vocab, la: "nōmen, nōminis", en: "name (n.)", ref: g-01}
+  - {id: ii14-v-omen, type: vocab, la: "ōmen, ōminis", en: "sign, omen (n.)", ref: g-01}
+  - {id: ii14-v-corpus, type: vocab, la: "corpus, corporis", en: "body (n.)", ref: g-02}
+  - {id: ii14-v-tempus, type: vocab, la: "tempus, temporis", en: "time (n.)", ref: g-02}
+  - {id: ii14-v-pectus, type: vocab, la: "pectus, pectoris", en: "chest, heart (n.)", ref: g-02}
+  - {id: ii14-v-vulnus, type: vocab, la: "vulnus, vulneris", en: "wound (n.)", ref: g-02}
+  - {id: ii14-v-caput, type: vocab, la: "caput, capitis", en: "head (n.)", ref: g-03}
+  - {id: ii14-v-os, type: vocab, la: "ōs, ōris", en: "mouth (n.)", ref: g-05}
+  - {id: ii14-v-crus, type: vocab, la: "crūs, crūris", en: "leg (n.)", ref: g-06}
+  - {id: ii14-v-pes, type: vocab, la: "pēs, pedis", en: "foot (m.)", ref: g-06}
+  - {id: ii14-v-lac, type: vocab, la: "lac, lactis", en: "milk (n.)", ref: g-05}
+  - {id: ii14-v-mel, type: vocab, la: "mel, mellis", en: "honey (n.)", ref: g-05}
+  - {id: ii14-v-oculus, type: vocab, la: "oculus, oculī", en: "eye (m.)", ref: g-06}
+  - {id: ii14-v-nasus, type: vocab, la: "nāsus, nāsī", en: "nose (m.)", ref: g-06}
+  - {id: ii14-v-lingua, type: vocab, la: "lingua, linguae", en: "tongue; language (f.)", ref: g-06}
+  - {id: ii14-v-bracchium, type: vocab, la: "bracchium, bracchiī", en: "arm (n.)", ref: g-06}
+  - {id: ii14-v-digitus, type: vocab, la: "digitus, digitī", en: "finger (m.)", ref: g-06}
+  - {id: ii14-v-catulus, type: vocab, la: "catulus, catulī", en: "puppy (m.)", ref: g-08}
+  - {id: ii14-v-regina, type: vocab, la: "rēgīna, rēgīnae", en: "queen (f.)", ref: g-08}
+  - {id: ii14-v-tango, type: vocab, la: "tangō, tangere", en: "touch", ref: g-06}
+  - {id: ii14-v-doleo, type: vocab, la: "doleō, dolēre", en: "hurt, ache", ref: g-03}
+  - {id: ii14-v-caput-dolet, type: vocab, la: "Caput mihi dolet.", en: "My head hurts.", ref: g-03}
+  - {id: ii14-v-endings-sg, type: vocab, la: "= nom. · -is · -ī · = nom. · -e", en: "third-family neuter, one: naming · of · to/for · object · with/from", ref: g-04}
+  - {id: ii14-v-endings-pl, type: vocab, la: "-a · -um · -ibus", en: "third-family neuter, many: subject and object · of · to/for and with/from", ref: g-04}
+  - {id: ii14-f-nominis, type: forms, q: "*Nōmen*: the \"of\" form, the stem, and the gender?", a: "*nōminis*; stem *nōmin-*; neuter.", ref: g-01}
+  - {id: ii14-f-in-nomine, type: forms, q: "\"In the name of the Father.\"", a: "*In nōmine Patris.* Ablative *-e*, then Chapter 13's genitive *Patris*.", ref: g-01}
+  - {id: ii14-f-corporis, type: forms, q: "*Corpus*: second family or third? The \"of\" form?", a: "Third, neuter: *corpus, corporis*. The *-us* is a disguise (the Law of the Disguise).", ref: g-02}
+  - {id: ii14-f-corpus-meum, type: forms, q: "Decode *Hoc est corpus meum*. Why *meum*?", a: "\"This is my body.\" *Corpus* is neuter, so *meum*.", ref: g-02}
+  - {id: ii14-f-vulneris, type: forms, q: "*Vulnus* and *tempus*: their \"of\" forms?", a: "*vulneris* (e), *temporis* (o). You can't guess the vowel: learn the pair.", ref: g-02}
+  - {id: ii14-f-capitis, type: forms, q: "*Caput*: the \"of\" form and the stem?", a: "*capitis*; stem *capit-* (u turns i).", ref: g-03}
+  - {id: ii14-f-caput-dolet, type: forms, q: "\"My head hurts.\" · \"Grandpa's head hurts.\"", a: "*Caput mihi dolet.* · *Caput avō dolet.* (dative, like *Nōmen mihi est*)", ref: g-03}
+  - {id: ii14-f-per-capita, type: forms, q: "What is *per capita* in Latin?", a: "\"By heads\": *per* + accusative plural *capita*.", ref: g-03}
+  - {id: ii14-f-sg-caput, type: forms, q: "Decline *caput*, singular, all six cases.", a: "*caput, capitis, capitī, caput, capite, caput*", ref: g-03}
+  - {id: ii14-f-tempora-mores, type: forms, q: "*Ō tempora, ō mōrēs!* Why *-a* in one and *-ēs* in the other?", a: "*Tempus* is neuter (plural *-a*); *mōs, mōris* is masculine (plural *-ēs*).", ref: g-04}
+  - {id: ii14-f-pl-nomen, type: forms, q: "Decline *nōmen*, plural, all six cases.", a: "*nōmina, nōminum, nōminibus, nōmina, nōminibus, nōmina*", ref: g-04}
+  - {id: ii14-f-twins-law, type: forms, q: "The Law of the Neuter Twins, in every family?", a: "Naming = object = calling. In the plural all three end in *-a*: *māla, nōmina, corpora*.", ref: g-04}
+  - {id: ii14-f-rex-nomen, type: forms, q: "*Rēx* vs *nōmen*: where do their endings differ?", a: "Only in the object singular (*rēgem* vs *nōmen*) and the plural naming/object/calling (*rēgēs* vs *nōmina*).", ref: g-04}
+  - {id: ii14-f-capitibus, type: forms, q: "\"There are crowns on the kings' heads.\"", a: "*Corōnae in capitibus rēgum sunt.*", ref: g-04}
+  - {id: ii14-f-ex-lacte, type: forms, q: "\"Cheese is (made) from milk.\"", a: "*Cāseus ex lacte est.*", ref: g-05}
+  - {id: ii14-f-os-os, type: forms, q: "*ōs, ōris* vs *os, ossis*?", a: "Mouth (long ō) vs bone (short o).", ref: g-05}
+  - {id: ii14-f-pes-gender, type: forms, q: "*Pēs, pedis*: neuter? \"I see the foot\"?", a: "No, masculine: *pedem videō*; plural *pedēs*.", ref: g-06}
+  - {id: ii14-f-tangite, type: forms, q: "\"Touch your nose!\" to one, then to y'all.", a: "*Tange nāsum!* · *Tangite nāsum!*", ref: g-06}
+  - {id: ii14-f-mens-sana, type: forms, q: "Decode *Mēns sāna in corpore sānō*. What does *sānō* match?", a: "\"A healthy mind in a healthy body.\" *Sānō* matches *corpore*: ablative, one, neuter.", ref: g-07}
+  - {id: ii14-f-men-gender, type: forms, q: "A new noun ends in *-men, -minis*. Gender?", a: "Neuter, like *nōmen, ōmen*.", ref: g-07}
+  - {id: ii14-f-nomen-tuum, type: forms, q: "Two ways to ask \"What's your name?\"", a: "*Quid est nōmen tibi?* · *Quid est nōmen tuum?*", ref: g-07}
+  - {id: ii14-f-catulo-nomen, type: forms, q: "\"The puppy's name is Cheese\" (Chapter 11's pattern).", a: "*Nōmen catulō est Cāseus.*", ref: g-08}
+  - id: ii14-c-nomine
+    type: choose
+    q: "\"in the name\": *in ___*"
+    options: [nōmine, nōmen, nōminī]
+    a: nōmine
+    why: "*In* (where) takes the ablative: *-e*."
+    ref: g-01
+  - id: ii14-c-corpus-obj
+    type: choose
+    q: "\"I see the body\": *___ videō.*"
+    options: [Corpus, Corpum, Corporem]
+    a: Corpus
+    why: "Neuter: the object is the naming form."
+    ref: g-02
+  - id: ii14-c-caput-pupae
+    type: choose
+    q: "\"the doll's head\": *___ pūpae*"
+    options: [caput, capitis, capita]
+    a: caput
+    why: "The head is the thing owned, in the naming form; *pūpae* is the owner."
+    ref: g-03
+  - id: ii14-c-tempora
+    type: choose
+    q: "\"Oh, the times!\": *Ō ___!*"
+    options: [tempora, tempōrēs, tempī]
+    a: tempora
+    why: "Neuter plural: *-a*."
+    ref: g-04
+  - id: ii14-c-nominum
+    type: choose
+    q: "\"the kings' names\": *nōmina ___*"
+    options: [rēgum, rēgēs, rēgibus]
+    a: rēgum
+    why: "\"Of many\" in the third family: *-um*."
+    ref: g-04
+  - id: ii14-c-lacte
+    type: choose
+    q: "\"Cheese is from milk\": *Cāseus ex ___ est.*"
+    options: [lacte, lac, lactis]
+    a: lacte
+    why: "*Ex* takes the ablative: *lact-* + *-e*."
+    ref: g-05
+  - id: ii14-c-pedem
+    type: choose
+    q: "\"Give me your paw!\": *Dā mihi ___!*"
+    options: [pedem, pēs, pedis]
+    a: pedem
+    why: "*Pēs* is masculine: the object is *-em*."
+    ref: g-06
+  - id: ii14-c-meum
+    type: choose
+    q: "\"my body\": *corpus ___*"
+    options: [meum, meus, mea]
+    a: meum
+    why: "*Corpus* is neuter, so the possessive is *meum*: same gender, not same letters."
+    ref: g-07
+  - id: ii14-c-crura
+    type: choose
+    q: "\"little legs\": *___ parva*"
+    options: [crūra, crūrēs, crūrī]
+    a: crūra
+    why: "*Crūs* is neuter: plural *-a*."
+    ref: g-08
+  - id: ii14-e-corpum
+    type: error
+    q: "*Corpum videō.* (I see the body.) What's wrong?"
+    a: "*Corpus.* A neuter's object is its naming form; *corpus* is third family, not second."
+    ref: g-02
+  - id: ii14-e-corpus-meus
+    type: error
+    q: "*Corpus meus.* (my body) What's wrong?"
+    a: "*Corpus meum.* *Corpus* is neuter; the *-us* is a disguise."
+    ref: g-02
+  - id: ii14-e-in-capiti
+    type: error
+    q: "*In capitī.* (on the head) What's wrong?"
+    a: "*In capite.* *In* (where) takes the ablative *-e*; *capitī* is \"to the head.\""
+    ref: g-03
+  - id: ii14-e-nomina-reges
+    type: error
+    q: "*Nōmina rēgēs.* (the kings' names) What's wrong?"
+    a: "*rēgum.* \"Of many\" is *-um*; *rēgēs* is subject or object."
+    ref: g-04
+  - id: ii14-e-capites
+    type: error
+    q: "*Capitēs videō.* (I see the heads.) What's wrong?"
+    a: "*Capita.* *Caput* is neuter: plural subject and object end in *-a*."
+    ref: g-04
+  - id: ii14-e-ex-lac
+    type: error
+    q: "*Cāseus ex lac est.* What's wrong?"
+    a: "*ex lacte.* *Ex* takes the ablative: stem *lact-* + *-e*."
+    ref: g-05
+  - id: ii14-e-pedes-dolent
+    type: error
+    q: "*Pedēs mihi dolet.* (My feet hurt.) What's wrong?"
+    a: "*dolent.* *Pedēs* is plural, so the verb is plural."
+    ref: g-06

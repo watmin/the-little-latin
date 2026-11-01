@@ -14,7 +14,7 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 | # | Chapter | Contents | Status |
 |---|---|---|---|
 | 13 | [**Rēx et Mīles**](01-rex-et-miles.md) | G: 3rd decl consonant stems m/f. V: people/roles. | ✅ available |
-| 14 | **Corpus et Nōmen** | G: 3rd decl neuters. V: body. | coming |
+| 14 | [**Corpus et Nōmen**](02-corpus-et-nomen.md) | G: 3rd decl neuters. V: body. | ✅ available |
 | 15 | **Ovēs et Marē** | G: 3rd decl i-stems. V: animals, nature. | coming |
 | 16 | **Heri et Crās** | G: imperfect & future active (1st/2nd conj), erat/erit. V: time words. S: what you were doing / will do. | coming |
 | 17 | **Legam, Audiam** | G: future/imperfect of 3rd/4th/io; future in -am/-ēs vs -bō. S: plans. | coming |

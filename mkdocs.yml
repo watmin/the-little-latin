@@ -40,6 +40,7 @@ nav:
   - "Liber II: Rēs Cotīdiānae":
       - liber-ii/index.md
       - "XIII. Rēx et Mīles": liber-ii/01-rex-et-miles.md
+      - "XIV. Corpus et Nōmen": liber-ii/02-corpus-et-nomen.md
   - "Liber III: Fābulae":
       - liber-iii/index.md
   - "Liber IV: Verba Agentia":
