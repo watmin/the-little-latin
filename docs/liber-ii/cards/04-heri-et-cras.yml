@@ -1,0 +1,166 @@
+book: ii
+ch: 16
+page: liber-ii/04-heri-et-cras.md
+cards:
+  - {id: ii16-v-heri, type: vocab, la: "heri", en: "yesterday", ref: g-01}
+  - {id: ii16-v-hodie, type: vocab, la: "hodiē", en: "today", ref: g-07}
+  - {id: ii16-v-cras, type: vocab, la: "crās", en: "tomorrow", ref: g-01}
+  - {id: ii16-v-nunc, type: vocab, la: "nunc", en: "now", ref: g-07}
+  - {id: ii16-v-tum, type: vocab, la: "tum", en: "then, at that time; next", ref: g-07}
+  - {id: ii16-v-mox, type: vocab, la: "mox", en: "soon", ref: g-07}
+  - {id: ii16-v-semper, type: vocab, la: "semper", en: "always", ref: g-07}
+  - {id: ii16-v-saepe, type: vocab, la: "saepe", en: "often", ref: g-07}
+  - {id: ii16-v-numquam, type: vocab, la: "numquam", en: "never", ref: g-07}
+  - {id: ii16-v-iam, type: vocab, la: "iam", en: "already, by now; *nōn iam*, no longer", ref: g-07}
+  - {id: ii16-v-mane, type: vocab, la: "māne", en: "in the morning", ref: g-07}
+  - {id: ii16-v-vesperi, type: vocab, la: "vesperī", en: "in the evening", ref: g-07}
+  - {id: ii16-v-amabam, type: vocab, la: "amābam, amābās, amābat, amābāmus, amābātis, amābant", en: "I was loving (used to love), you were loving, … they were loving", ref: g-02}
+  - {id: ii16-v-habebam, type: vocab, la: "habēbam, habēbās, habēbat, habēbāmus, habēbātis, habēbant", en: "I was having (used to have), … they were having", ref: g-03}
+  - {id: ii16-v-amabo, type: vocab, la: "amābō, amābis, amābit, amābimus, amābitis, amābunt", en: "I will love, you will love, … they will love", ref: g-04}
+  - {id: ii16-v-habebo, type: vocab, la: "habēbō, habēbis, habēbit, habēbimus, habēbitis, habēbunt", en: "I will have, … they will have", ref: g-05}
+  - {id: ii16-v-eram, type: vocab, la: "eram, erās, erat, erāmus, erātis, erant", en: "I was, you were, … they were", ref: g-06}
+  - {id: ii16-v-ero, type: vocab, la: "erō, eris, erit, erimus, eritis, erunt", en: "I will be, you will be, … they will be", ref: g-06}
+  - {id: ii16-v-ibam-ibo, type: vocab, la: "ībam · ībō", en: "I was going · I will go", ref: g-06}
+  - {id: ii16-v-ba, type: vocab, la: "-bā-", en: "imperfect sign: was …ing, used to", ref: g-02}
+  - {id: ii16-v-bi, type: vocab, la: "-bi-", en: "future sign (1st and 2nd conjugations): will; *-bō, -bunt*", ref: g-04}
+  - {id: ii16-f-tense, type: forms, q: "What is a verb's *tense*? Name the three you know.", a: "The time of the verb. Present (now), imperfect (was …ing, used to), future (will).", ref: g-01}
+  - {id: ii16-f-imperfect-name, type: forms, q: "Why is the imperfect called \"imperfect\"?", a: "*Imperfectum* = not finished: an action still going on (was …ing) or repeated (used to).", ref: g-01}
+  - {id: ii16-f-amabo-te, type: forms, q: "*Amābō tē*: word for word, and what it really means?", a: "\"I will love you\" (*amā-bō*, future): \"please, pretty please.\"", ref: g-01}
+  - {id: ii16-f-dabo, type: forms, q: "Decode *Dā mihi factum, dabō tibi iūs.*", a: "\"Give me the facts, I will give you the law.\" *Dabō*: future of *dō*, short a.", ref: g-01}
+  - {id: ii16-f-amabam-chant, type: forms, q: "Chant *amō* in the imperfect, all six persons.", a: "*amābam, amābās, amābat, amābāmus, amābātis, amābant*", ref: g-02}
+  - {id: ii16-f-m-ending, type: forms, q: "In the imperfect, what ending means \"I\"? Where else have you seen it?", a: "*-m* (*amābam*), as in *sum*.", ref: g-02}
+  - {id: ii16-f-cantabat, type: forms, q: "*Marcus cantābat.* Three Englishes?", a: "Marcus was singing · used to sing · kept singing.", ref: g-02}
+  - {id: ii16-f-perfect-note, type: forms, q: "Is *cantābam* the usual way to say \"I sang (once, done)\"?", a: "No: that's the perfect (later). The imperfect is the film still running.", ref: g-02}
+  - {id: ii16-f-sedebamus, type: forms, q: "\"We were sitting on the shore.\"", a: "*In lītore sedēbāmus.*", ref: g-03}
+  - {id: ii16-f-dabam, type: forms, q: "\"I was giving\" and \"I will give\" from *dō*?", a: "*dabam* · *dabō* (short *da-* in both).", ref: g-03}
+  - {id: ii16-f-bo-bi-bu, type: forms, q: "The future vowels after *b*, all six persons?", a: "bō, bi, bi, bi, bi, bu: *amābō, amābis, amābit, amābimus, amābitis, amābunt*.", ref: g-04}
+  - {id: ii16-f-portabo, type: forms, q: "\"I'll bring you a big cheese, Grandpa!\"", a: "*Cāseum magnum tibi portābō, ave!*", ref: g-04}
+  - {id: ii16-f-laborabimus, type: forms, q: "\"Tomorrow we will work.\"", a: "*Crās labōrābimus.*", ref: g-04}
+  - {id: ii16-f-habebo-chant, type: forms, q: "Chant *habeō* in the future, all six persons.", a: "*habēbō, habēbis, habēbit, habēbimus, habēbitis, habēbunt*", ref: g-05}
+  - {id: ii16-f-videbunt, type: forms, q: "*… quoniam ipsī Deum vidēbunt.* (Matthew 5:8) The verb?", a: "*Vidēbunt*, they will see: \"for they shall see God.\"", ref: g-05}
+  - {id: ii16-f-time-signs, type: forms, q: "The Law of the Time Signs?", a: "No sign = present; *-bā-* = imperfect (was …ing; \"I\" in *-m*); *-bi-* = future (will; *-bō*, *-bunt*). Old person endings. 1st/2nd conjugations.", ref: g-05}
+  - {id: ii16-f-eram-chant, type: forms, q: "*Sum* in the imperfect and the future?", a: "*eram, erās, erat, erāmus, erātis, erant* · *erō, eris, erit, erimus, eritis, erunt*", ref: g-06}
+  - {id: ii16-f-in-principio, type: forms, q: "\"In the beginning was the Word.\" (John 1:1)", a: "*In prīncipiō erat Verbum.*", ref: g-06}
+  - {id: ii16-f-qualis-eram, type: forms, q: "Decode Horace's *Nōn sum quālis eram.*", a: "\"I'm not the man I used to be.\" *Sum* now, *eram* then.", ref: g-06}
+  - {id: ii16-f-ibimus, type: forms, q: "\"Tomorrow we'll go to Rome.\"", a: "*Crās Rōmam ībimus.*", ref: g-06}
+  - {id: ii16-f-hodie-mihi, type: forms, q: "*Hodiē mihi, crās tibi*: fill in the missing verbs.", a: "*Hodiē mihi est, crās tibi erit*: today it's my turn, tomorrow it will be yours.", ref: g-07}
+  - {id: ii16-f-clock, type: forms, q: "The Law of the Clock?", a: "The verb carries the clock (no sign now, *-bā-* was, *-bi-* will). A time word sets the scene, and the verb must match it.", ref: g-07}
+  - id: ii16-c-amabamus
+    type: choose
+    q: "\"We were loving\": *___*"
+    options: [amābāmus, amābimus, amāmus]
+    a: amābāmus
+    why: "*-bā-* is the imperfect sign; *-bi-* would be \"will.\""
+    ref: g-02
+  - id: ii16-c-amabis
+    type: choose
+    q: "\"You will love\": *___*"
+    options: [amābis, amābās, amās]
+    a: amābis
+    why: "Future: *-bi-*. *Amābās* is \"you were loving.\""
+    ref: g-04
+  - id: ii16-c-amabunt
+    type: choose
+    q: "\"They will love\": *___*"
+    options: [amābunt, amābint, amābant]
+    a: amābunt
+    why: "Before *-nt* the future sign turns into *-bu-*: bō, bi, bi, bi, bi, bu."
+    ref: g-04
+  - id: ii16-c-habebat
+    type: choose
+    q: "\"Grandpa used to have a cheese\": *Avus cāseum ___.*"
+    options: [habēbat, habēbit, habet]
+    a: habēbat
+    why: "\"Used to\" is the imperfect: *-bā-*."
+    ref: g-03
+  - id: ii16-c-manebimus
+    type: choose
+    q: "\"Tomorrow we'll stay home\": *Crās domī ___.*"
+    options: [manēbimus, manēbāmus, manēmus]
+    a: manēbimus
+    why: "*Crās* + future: *-bi-*."
+    ref: g-05
+  - id: ii16-c-erat
+    type: choose
+    q: "\"There was a bird on the shore\": *Avis in lītore ___.*"
+    options: [erat, erit, est]
+    a: erat
+    why: "*Erat* was (*a*, the past); *erit* will be."
+    ref: g-06
+  - id: ii16-c-erimus
+    type: choose
+    q: "\"We will be at home\": *Domī ___.*"
+    options: [erimus, erāmus, sumus]
+    a: erimus
+    why: "Future of *sum*: *erō, eris, erit, erimus*…"
+    ref: g-06
+  - id: ii16-c-erant
+    type: choose
+    q: "\"There were lots of fish\": *Multī piscēs ___.*"
+    options: [erant, erat, erunt]
+    a: erant
+    why: "Past, and plural to match *piscēs*."
+    ref: g-08
+  - id: ii16-c-ibo
+    type: choose
+    q: "\"I will go\": *___*"
+    options: [ībō, ībam, eō]
+    a: ībō
+    why: "*Eō* builds its future like *amābō*: *ī + bō*."
+    ref: g-06
+  - id: ii16-c-heri
+    type: choose
+    q: "\"Yesterday I was walking in the garden\": *___ in hortō ambulābam.*"
+    options: [Heri, Crās, Mox]
+    a: Heri
+    why: "*-bam* is past, so the time word must be yesterday."
+    ref: g-07
+  - id: ii16-c-numquam
+    type: choose
+    q: "\"Grandpa never used to swim\": *Avus ___ natābat.*"
+    options: [numquam, semper, saepe]
+    a: numquam
+    why: "*Numquam* = never (*ne* + *umquam*)."
+    ref: g-07
+  - id: ii16-c-dabis
+    type: choose
+    q: "\"Will you give me the cheese?\": *Cāseum mihi ___?*"
+    options: [dabis, dābis, dabās]
+    a: dabis
+    why: "Future of *dō*, short *da-*: *dabō, dabis*…"
+    ref: g-08
+  - id: ii16-e-cras-laborabam
+    type: error
+    q: "*Crās labōrābam.* (Tomorrow I'll work.) What's wrong?"
+    a: "*Crās labōrābō.* *-bam* is past; tomorrow needs the future."
+    ref: g-07
+  - id: ii16-e-heri-cantabo
+    type: error
+    q: "*Heri cantābō.* (Yesterday I was singing.) What's wrong?"
+    a: "*Heri cantābam.* *-bō* is \"will.\""
+    ref: g-07
+  - id: ii16-e-legabo
+    type: error
+    q: "*Legābō.* (I will read.) What's wrong?"
+    a: "The *-bō* future is only for *-āre/-ēre* verbs (and *eō*). *Legō*'s future comes in Chapter 17."
+    ref: g-05
+  - id: ii16-e-amabint
+    type: error
+    q: "*Amābint.* (They will love.) What's wrong?"
+    a: "*Amābunt.* Before *-nt*, the future sign is *-bu-*."
+    ref: g-04
+  - id: ii16-e-erit-plural
+    type: error
+    q: "*Multī piscēs erit.* (There were many fish.) What's wrong?"
+    a: "*Erant.* Past (*a*), not future (*i*), and plural to match *piscēs*."
+    ref: g-06
+  - id: ii16-e-amabunt-te
+    type: error
+    q: "*Amābunt tē.* (Pretty please.) What's wrong?"
+    a: "*Amābō tē*: \"I will love you.\" *Amābunt* is \"they will love.\""
+    ref: g-01
+  - id: ii16-e-eras-es
+    type: error
+    q: "*Crās domī erās.* (Tomorrow you'll be at home.) What's wrong?"
+    a: "*Crās domī eris.* *Erās* is \"you were.\""
+    ref: g-06
