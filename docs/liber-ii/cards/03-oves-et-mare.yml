@@ -1,0 +1,144 @@
+book: ii
+ch: 15
+page: liber-ii/03-oves-et-mare.md
+cards:
+  - {id: ii15-v-ovis, type: vocab, la: "ovis, ovis", en: "sheep (f.)", ref: g-01}
+  - {id: ii15-v-canis, type: vocab, la: "canis, canis", en: "dog (m./f.; gen. pl. *canum*)", ref: g-04}
+  - {id: ii15-v-feles, type: vocab, la: "fēlēs, fēlis", en: "cat (f.)", ref: g-02}
+  - {id: ii15-v-avis, type: vocab, la: "avis, avis", en: "bird (f.)", ref: g-05}
+  - {id: ii15-v-piscis, type: vocab, la: "piscis, piscis", en: "fish (m.)", ref: g-05}
+  - {id: ii15-v-vulpes, type: vocab, la: "vulpēs, vulpis", en: "fox (f.)", ref: g-05}
+  - {id: ii15-v-mus, type: vocab, la: "mūs, mūris", en: "mouse (m.)", ref: g-04}
+  - {id: ii15-v-animal, type: vocab, la: "animal, animālis", en: "animal (n.)", ref: g-06}
+  - {id: ii15-v-cubile, type: vocab, la: "cubīle, cubīlis", en: "bed, den (n.)", ref: g-06}
+  - {id: ii15-v-mare, type: vocab, la: "mare, maris", en: "sea (n.)", ref: g-06}
+  - {id: ii15-v-litus, type: vocab, la: "lītus, lītoris", en: "shore (n.)", ref: g-07}
+  - {id: ii15-v-mons, type: vocab, la: "mōns, montis", en: "mountain, hill (m.)", ref: g-03}
+  - {id: ii15-v-nox, type: vocab, la: "nox, noctis", en: "night (f.)", ref: g-07}
+  - {id: ii15-v-ignis, type: vocab, la: "ignis, ignis", en: "fire (m.)", ref: g-07}
+  - {id: ii15-v-nubes, type: vocab, la: "nūbēs, nūbis", en: "cloud (f.)", ref: g-07}
+  - {id: ii15-v-urbs, type: vocab, la: "urbs, urbis", en: "city; the City, Rome (f.)", ref: g-03}
+  - {id: ii15-v-civis, type: vocab, la: "cīvis, cīvis", en: "citizen (m./f.)", ref: g-02}
+  - {id: ii15-v-hostis, type: vocab, la: "hostis, hostis", en: "enemy (m.)", ref: g-02}
+  - {id: ii15-v-navis, type: vocab, la: "nāvis, nāvis", en: "ship (f.)", ref: g-02}
+  - {id: ii15-v-pars, type: vocab, la: "pars, partis", en: "part (f.)", ref: g-03}
+  - {id: ii15-v-dens, type: vocab, la: "dēns, dentis", en: "tooth (m.)", ref: g-03}
+  - {id: ii15-v-mens, type: vocab, la: "mēns, mentis", en: "mind (f.)", ref: g-03}
+  - {id: ii15-v-os, type: vocab, la: "os, ossis", en: "bone (n.)", ref: g-03}
+  - {id: ii15-v-latro, type: vocab, la: "lātrō, lātrāre", en: "bark", ref: g-04}
+  - {id: ii15-v-nato, type: vocab, la: "natō, natāre", en: "swim", ref: g-06}
+  - {id: ii15-v-cave-canem, type: vocab, la: "Cavē canem!", en: "Beware of the dog!", ref: g-04}
+  - {id: ii15-v-ium, type: vocab, la: "-ium", en: "i-stem \"of many\" (*ovium, urbium*)", ref: g-03}
+  - {id: ii15-v-neuter-endings, type: vocab, la: "-ī · -ia · -ium", en: "neuters in *-e, -al, -ar*: with/from one · many · of many", ref: g-06}
+  - {id: ii15-f-ovis, type: forms, q: "*Ovis*: the \"of\" form, the gender, and \"of many\"?", a: "*ovis* (the same!); feminine; *ovium*.", ref: g-01}
+  - {id: ii15-f-parisyllabic, type: forms, q: "What does *parisyllabic* mean? Give two examples.", a: "\"Equal-syllabled\": the naming and \"of\" forms have the same number of syllables, e.g. *ovis, ovis* · *fēlēs, fēlis*.", ref: g-01}
+  - {id: ii15-f-pasce, type: forms, q: "Decode *Pāsce ovēs meās.* Why *meās*?", a: "\"Feed my sheep.\" *Ovēs* is the plural object, feminine, so *meās*.", ref: g-01}
+  - {id: ii15-f-civis-romanus, type: forms, q: "\"I am a Roman citizen.\"", a: "*Cīvis Rōmānus sum.* (Cicero)", ref: g-02}
+  - {id: ii15-f-miles-not, type: forms, q: "*Mīles, mīlitis* ends in *-ēs*. Is it an i-stem?", a: "No: two syllables vs three. *Mīlitum*. The count decides.", ref: g-02}
+  - {id: ii15-f-urbium, type: forms, q: "*Urbs, urbis* isn't equal-syllabled. Why is \"of many\" *urbium*?", a: "Its stem *urb-* ends in two consonants (and the naming form ends in *-s*).", ref: g-03}
+  - {id: ii15-f-mentis, type: forms, q: "*Mēns*: the \"of\" form, the gender, and \"of many\"?", a: "*mentis*; feminine; *mentium*. Long e only before *ns*.", ref: g-03}
+  - {id: ii15-f-urbi-orbi, type: forms, q: "Decode *Urbī et orbī*.", a: "\"To the City (Rome) and to the world\": two i-stem datives.", ref: g-03}
+  - {id: ii15-f-little-i, type: forms, q: "The Law of the Little i: the two tests for an i-stem?", a: "1. Naming in *-is/-ēs* with as many syllables as the \"of\" form (*ovis, ovis*). 2. Naming in *-s/-x* with a stem ending in two consonants (*urbs, urb-is*). Then \"of many\" is *-ium*.", ref: g-03}
+  - {id: ii15-f-canum, type: forms, q: "*Canis, canis* passes the first test. \"Of many dogs\"?", a: "*Canum*: a rebel. Learn it with the pair.", ref: g-04}
+  - {id: ii15-f-cavete, type: forms, q: "\"Beware of the dog!\" Then to y'all, about many dogs.", a: "*Cavē canem!* · *Cavēte canēs!*", ref: g-04}
+  - {id: ii15-f-latro, type: forms, q: "*lātrō* vs *latrō*?", a: "I bark (long ā) vs a robber (short a, *latrōnis*).", ref: g-04}
+  - {id: ii15-f-feles-murem, type: forms, q: "\"The cat sees the mouse.\" · \"The mouse sees the cat.\"", a: "*Fēlēs mūrem videt.* · *Mūs fēlem videt.*", ref: g-05}
+  - {id: ii15-f-in-mari, type: forms, q: "\"Fish swim in the sea.\"", a: "*In marī piscēs natant.* (*-ī*, not *-e*: the Law of the Sea)", ref: g-06}
+  - {id: ii15-f-sea-law, type: forms, q: "The Law of the Sea?", a: "Neuters in *-e, -al, -ar* (*mare, animal, cubīle*): with/from one *-ī*, many *-ia*, of many *-ium*. Naming = object = calling.", ref: g-06}
+  - {id: ii15-f-animal-pl, type: forms, q: "Decline *animal*, plural, all six cases.", a: "*animālia, animālium, animālibus, animālia, animālibus, animālia*", ref: g-06}
+  - {id: ii15-f-ossis, type: forms, q: "*Os, ossis* (bone): \"of many\"? Plural? \"In the bone\"?", a: "*ossium*; *ossa*; *in osse*. Only *-ium* is i-stem: it's not an *-e/-al/-ar* neuter.", ref: g-06}
+  - {id: ii15-f-noctium, type: forms, q: "*Nox, noctis*: which test? \"Of many nights\"?", a: "The second: *-x*, stem *noct-* (two consonants). *Noctium*.", ref: g-07}
+  - {id: ii15-f-litore, type: forms, q: "\"On the shore.\" Why not *-ī*?", a: "*In lītore.* *Lītus, lītoris* is a consonant-stem neuter (the Law of the Disguise), not an *-e/-al/-ar* neuter.", ref: g-07}
+  - id: ii15-c-ovium
+    type: choose
+    q: "\"of many sheep\": *___*"
+    options: [ovium, ovum, ovis]
+    a: ovium
+    why: "*Ovis, ovis* is equal-syllabled: an i-stem, so *-ium*."
+    ref: g-01
+  - id: ii15-c-montium
+    type: choose
+    q: "\"of the hills\": *___*"
+    options: [montium, montum, montēs]
+    a: montium
+    why: "Stem *mont-* ends in two consonants: *-ium*."
+    ref: g-03
+  - id: ii15-c-canum
+    type: choose
+    q: "\"the dogs' food\": *cibus ___*"
+    options: [canum, canium, canēs]
+    a: canum
+    why: "*Canis* is a rebel: *canum*."
+    ref: g-04
+  - id: ii15-c-felem
+    type: choose
+    q: "\"The mouse sees the cat\": *Mūs ___ videt.*"
+    options: [fēlem, fēlēs, fēlī]
+    a: fēlem
+    why: "The cat is the object: *-em*."
+    ref: g-05
+  - id: ii15-c-ovis-alba
+    type: choose
+    q: "\"a white sheep\": *ovis ___*"
+    options: [alba, albus, album]
+    a: alba
+    why: "*Ovis* is feminine: same gender, not same letters."
+    ref: g-01
+  - id: ii15-c-mari
+    type: choose
+    q: "\"in the sea\": *in ___*"
+    options: [marī, mare, maria]
+    a: marī
+    why: "The Law of the Sea: a neuter in *-e* says with/from with *-ī*."
+    ref: g-06
+  - id: ii15-c-maria
+    type: choose
+    q: "\"I see seas\": *___ videō.*"
+    options: [maria, mara, marēs]
+    a: maria
+    why: "Neuter i-stem plural: *-ia*."
+    ref: g-06
+  - id: ii15-c-litore
+    type: choose
+    q: "\"on the shore\": *in ___*"
+    options: [lītore, lītorī, lītus]
+    a: lītore
+    why: "*Lītus* is a consonant-stem neuter: ablative *-e*."
+    ref: g-07
+  - id: ii15-c-avis-gen
+    type: choose
+    q: "\"in the stomach of a bird\": *in stomachō ___*"
+    options: [avis, avem, aviae]
+    a: avis
+    why: "The \"of\" form of *avis* is *avis*: equal syllables, same look."
+    ref: g-08
+  - id: ii15-e-in-mare
+    type: error
+    q: "*In mare natō.* (I swim in the sea.) What's wrong?"
+    a: "*In marī.* A neuter in *-e* takes *-ī* for with/from (the Law of the Sea)."
+    ref: g-06
+  - id: ii15-e-animala
+    type: error
+    q: "*Animāla videō.* (I see animals.) What's wrong?"
+    a: "*Animālia.* Neuters in *-al* add the little i: *-ia*."
+    ref: g-06
+  - id: ii15-e-canium
+    type: error
+    q: "*Cibus canium.* (the dogs' food) What's wrong?"
+    a: "*Canum.* *Canis* is the rebel."
+    ref: g-04
+  - id: ii15-e-urbum
+    type: error
+    q: "*Nōmina urbum.* (the names of the cities) What's wrong?"
+    a: "*Urbium.* *Urb-* ends in two consonants: an i-stem."
+    ref: g-03
+  - id: ii15-e-militium
+    type: error
+    q: "*Corpora mīlitium.* (the soldiers' bodies) What's wrong?"
+    a: "*Mīlitum.* *Mīles, mīlitis* isn't equal-syllabled: a consonant stem."
+    ref: g-02
+  - id: ii15-e-ovis-albus
+    type: error
+    q: "*Ovis albus.* (a white sheep) What's wrong?"
+    a: "*Ovis alba.* *Ovis* is feminine."
+    ref: g-01
