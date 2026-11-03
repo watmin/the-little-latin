@@ -1,0 +1,166 @@
+book: ii
+ch: 17
+page: liber-ii/05-legam-audiam.md
+cards:
+  - {id: ii17-v-quaero, type: vocab, la: "quaerō, quaerere", en: "seek, look for; ask", ref: g-04}
+  - {id: ii17-v-invenio, type: vocab, la: "inveniō, invenīre", en: "find, come upon", ref: g-04}
+  - {id: ii17-v-vivo, type: vocab, la: "vīvō, vīvere", en: "live, be alive", ref: g-03}
+  - {id: ii17-v-sterto, type: vocab, la: "stertō, stertere", en: "snore", ref: g-07}
+  - {id: ii17-v-quando, type: vocab, la: "quandō?", en: "when?", ref: g-06}
+  - {id: ii17-v-perendie, type: vocab, la: "perendiē", en: "the day after tomorrow", ref: g-06}
+  - {id: ii17-v-gladiator, type: vocab, la: "gladiātor, gladiātōris", en: "gladiator, swordsman (m.)", ref: g-07}
+  - {id: ii17-v-auxilium, type: vocab, la: "auxilium, auxiliī", en: "help (n.)", ref: g-04}
+  - {id: ii17-v-legebam, type: vocab, la: "legēbam, legēbās, legēbat, legēbāmus, legēbātis, legēbant", en: "I was reading (used to read), you were reading, … they were reading", ref: g-01}
+  - {id: ii17-v-audiebam, type: vocab, la: "audiēbam, audiēbās, audiēbat, audiēbāmus, audiēbātis, audiēbant", en: "I was hearing (used to hear), … they were hearing", ref: g-02}
+  - {id: ii17-v-capiebam, type: vocab, la: "capiēbam, capiēbās, capiēbat, capiēbāmus, capiēbātis, capiēbant", en: "I was taking (used to take), … they were taking", ref: g-02}
+  - {id: ii17-v-legam, type: vocab, la: "legam, legēs, leget, legēmus, legētis, legent", en: "I will read, you will read, … they will read", ref: g-03}
+  - {id: ii17-v-audiam, type: vocab, la: "audiam, audiēs, audiet, audiēmus, audiētis, audient", en: "I will hear, … they will hear", ref: g-04}
+  - {id: ii17-v-capiam, type: vocab, la: "capiam, capiēs, capiet, capiēmus, capiētis, capient", en: "I will take, … they will take", ref: g-04}
+  - {id: ii17-v-eba, type: vocab, la: "-ēbā-", en: "imperfect sign in the 3rd and 4th conjugations (*-iēbā-* in the ī family and *-iō* verbs): was …ing", ref: g-02}
+  - {id: ii17-v-am-e, type: vocab, la: "-am, -ē-", en: "future in the 3rd and 4th conjugations: \"I\" in *-am*, then *-ēs, -et, -ēmus, -ētis, -ent*", ref: g-03}
+  - {id: ii17-f-legebam-chant, type: forms, q: "Chant *legō* in the imperfect, all six persons.", a: "*legēbam, legēbās, legēbat, legēbāmus, legēbātis, legēbant*", ref: g-01}
+  - {id: ii17-f-borrowed-e, type: forms, q: "Why is there a long *ē* in *legēbam*?", a: "*Legō, legere* has no long vowel of its own, so it borrows *ē* before the sign *-bā-*: *leg-ē-ba-m*.", ref: g-01}
+  - {id: ii17-f-currebat, type: forms, q: "\"Marcus was running in the garden.\"", a: "*Marcus in hortō currēbat.*", ref: g-01}
+  - {id: ii17-f-ducebat, type: forms, q: "Catullus: *Quō puella dūcēbat.* Meaning, and why the imperfect?", a: "\"Wherever the girl was leading\": again and again, so *dūcēbat*.", ref: g-01}
+  - {id: ii17-f-audiebam-chant, type: forms, q: "Chant *audiō* in the imperfect, all six persons.", a: "*audiēbam, audiēbās, audiēbat, audiēbāmus, audiēbātis, audiēbant*", ref: g-02}
+  - {id: ii17-f-all-imperfects, type: forms, q: "\"I was …ing\" from *amō, habeō, legō, audiō, capiō*?", a: "*amābam, habēbam, legēbam, audiēbam, capiēbam*: different vowels in front, *-bam* every time.", ref: g-02}
+  - {id: ii17-f-dormiebat, type: forms, q: "\"Grandpa was sleeping.\"", a: "*Avus dormiēbat.*", ref: g-02}
+  - {id: ii17-f-faciebatis, type: forms, q: "\"What were y'all doing?\"", a: "*Quid faciēbātis?*", ref: g-02}
+  - {id: ii17-f-audiebat, type: forms, q: "*Libenter eum audiēbat.* (Mark 6:20)", a: "\"He liked to listen to him\" (Herod, about John the Baptist). *Audiēbat*: imperfect, again and again.", ref: g-02}
+  - {id: ii17-f-legam-chant, type: forms, q: "Chant *legō* in the future, all six persons.", a: "*legam, legēs, leget, legēmus, legētis, legent* (am, ēs, et, ēmus, ētis, ent)", ref: g-03}
+  - {id: ii17-f-legit-leget, type: forms, q: "*Legit* vs *leget*?", a: "*Legit*, he reads (now, short i). *Leget*, he will read (short e).", ref: g-03}
+  - {id: ii17-f-legam-legebam, type: forms, q: "*Legam* vs *legēbam*?", a: "*Legam*, I will read. *Legēbam*, I was reading: the *b* makes the past.", ref: g-03}
+  - {id: ii17-f-leges-leges, type: forms, q: "*Legēs* vs *lēgēs*?", a: "*Legēs* (short first e), you will read. *Lēgēs* (long), laws (*lēx, lēgis*). *Lēgēs legēs*: you will read the laws.", ref: g-03}
+  - {id: ii17-f-vinces, type: forms, q: "*In hōc signō vincēs.*", a: "\"In this sign you will conquer\" (Constantine's vision). *Vincēs*: future of *vincō, vincere*.", ref: g-03}
+  - {id: ii17-f-vives, type: forms, q: "Martial: *Crās vīvēs?* Meaning?", a: "\"You'll live tomorrow?\" (*vīvō, vīvere*, future). Today is already too late.", ref: g-03}
+  - {id: ii17-f-audiam-chant, type: forms, q: "Chant *audiō* in the future, all six persons.", a: "*audiam, audiēs, audiet, audiēmus, audiētis, audient*", ref: g-04}
+  - {id: ii17-f-capiam-chant, type: forms, q: "Chant *capiō* in the future, all six persons.", a: "*capiam, capiēs, capiet, capiēmus, capiētis, capient*", ref: g-04}
+  - {id: ii17-f-invenietis, type: forms, q: "*Quaerite et inveniētis.* (Matthew 7:7) Find the future.", a: "*Inveniētis*, y'all will find: \"Seek, and you will find.\"", ref: g-04}
+  - {id: ii17-f-veniam, type: forms, q: "\"I'll come!\" and \"He will come.\"", a: "*Veniam!* · *Veniet.*", ref: g-04}
+  - {id: ii17-f-faciemus, type: forms, q: "\"What will we do tomorrow?\"", a: "*Quid crās faciēmus?*", ref: g-04}
+  - {id: ii17-f-vivam, type: forms, q: "The last word of Ovid's *Metamorphōsēs*?", a: "*Vīvam*, \"I will live.\"", ref: g-04}
+  - {id: ii17-f-habes-leges, type: forms, q: "*Habēs* vs *legēs*: same ending, what's the difference?", a: "*Habēs* (*habēre*): you have, now. *Legēs* (*legere*): you will read. The dictionary form tells the family.", ref: g-05}
+  - {id: ii17-f-veritas, type: forms, q: "*Et cognōscētis vēritātem, et vēritās līberābit vōs.* Find both futures.", a: "*Cognōscētis* (*-ere*, the ē kind) and *līberābit* (*-āre*, the bō kind): \"You will know the truth, and the truth will set you free.\"", ref: g-05}
+  - {id: ii17-f-two-futures, type: forms, q: "The Law of the Two Futures?", a: "Ask the infinitive. *-āre/-ēre*: bō, bi, bi, bi, bi, bu. *-ere/-īre* and *-iō* verbs: am, ēs, et, ēmus, ētis, ent. (*Eō* → *ībō*, *sum* → *erō*.)", ref: g-05}
+  - {id: ii17-f-quando-venies, type: forms, q: "\"When will you come?\" \"I'll come tomorrow morning.\"", a: "*Quandō veniēs? Crās māne veniam.*", ref: g-06}
+  - {id: ii17-f-mixed-plans, type: forms, q: "\"Tomorrow I'll read, Dad will work, and Grandpa will sleep.\"", a: "*Crās legam, Pater labōrābit, Avus dormiet.*", ref: g-06}
+  - {id: ii17-f-leges-command, type: forms, q: "Mother: *In viā librum legēs.* What does she mean?", a: "\"On the road you will read a book\": a future used as a firm order (like *Tacēbitis!*).", ref: g-07}
+  - id: ii17-c-legemus
+    type: choose
+    q: "\"We will read\": *___*"
+    options: [legēmus, legimus, legēbāmus]
+    a: legēmus
+    why: "Future of *legō*: *-ē-*. *Legimus* is now, *legēbāmus* was."
+    ref: g-03
+  - id: ii17-c-leget
+    type: choose
+    q: "\"Marcus will read the book\": *Marcus librum ___.*"
+    options: [leget, legit, legēbit]
+    a: leget
+    why: "Short *e* = will. *Legit* is \"reads\"; there's no *b* in this future."
+    ref: g-03
+  - id: ii17-c-current
+    type: choose
+    q: "\"They will run\": *___*"
+    options: [current, currunt, currēbunt]
+    a: current
+    why: "*Currō, currere*: the ē future, short e before *-nt*."
+    ref: g-03
+  - id: ii17-c-audiebat
+    type: choose
+    q: "\"He was listening\": *___*"
+    options: [audiēbat, audībat, audiet]
+    a: audiēbat
+    why: "Ī family imperfect: *audi-ē-bat*. *Audiet* is \"he will hear.\""
+    ref: g-02
+  - id: ii17-c-capiet
+    type: choose
+    q: "\"The bird won't grab the cheese\": *Avis cāseum nōn ___.*"
+    options: [capiet, capit, capiēbat]
+    a: capiet
+    why: "*-iō* future: *capiam, capiēs, capiet*."
+    ref: g-04
+  - id: ii17-c-veniam
+    type: choose
+    q: "\"I'll come!\": *___*"
+    options: [Veniam, Veniō, Veniēbam]
+    a: Veniam
+    why: "\"I\" in the ē future ends in *-am*."
+    ref: g-04
+  - id: ii17-c-dormiet
+    type: choose
+    q: "\"Grandpa will sleep\": *Avus ___.*"
+    options: [dormiet, dormit, dormiēbat]
+    a: dormiet
+    why: "Future: *dormi-e-t*."
+    ref: g-04
+  - id: ii17-c-which-future
+    type: choose
+    q: "\"He will carry\" from *portō, portāre*: *___*"
+    options: [portābit, portet, portēbit]
+    a: portābit
+    why: "*-āre*: the bō, bi, bu future."
+    ref: g-05
+  - id: ii17-c-ducet
+    type: choose
+    q: "\"He will lead\" from *dūcō, dūcere*: *___*"
+    options: [dūcet, dūcābit, dūcit]
+    a: dūcet
+    why: "*-ere* (short e): the ē future."
+    ref: g-05
+  - id: ii17-c-habes
+    type: choose
+    q: "Which one is the future? *___*"
+    options: [legēs, habēs, vidēs]
+    a: legēs
+    why: "*Legere* has no ē of its own, so *-ēs* means \"will.\" *Habēs, vidēs* are 2nd-conjugation presents."
+    ref: g-05
+  - id: ii17-c-quando
+    type: choose
+    q: "\"When will we go home?\": *___ domum ībimus?*"
+    options: [Quandō, Ubi, Unde]
+    a: Quandō
+    why: "*Quandō?* = when? (*Ubi* where, *unde* from where.)"
+    ref: g-06
+  - id: ii17-c-perendie
+    type: choose
+    q: "\"The day after tomorrow we'll go to Rome\": *___ Rōmam ībimus.*"
+    options: [Perendiē, Heri, Hodiē]
+    a: Perendiē
+    why: "*Perendiē* = the day after tomorrow; the future *ībimus* fits."
+    ref: g-06
+  - id: ii17-e-legabo
+    type: error
+    q: "*Legābō.* (I will read.) What's wrong?"
+    a: "*Legam.* *Legō, legere* takes the ē future, not *-bō*."
+    ref: g-03
+  - id: ii17-e-cras-legebam
+    type: error
+    q: "*Crās legēbam.* (Tomorrow I'll read.) What's wrong?"
+    a: "*Crās legam.* *-bā-* is was; tomorrow needs the future."
+    ref: g-06
+  - id: ii17-e-heri-audiam
+    type: error
+    q: "*Heri audiam.* (Yesterday I was listening.) What's wrong?"
+    a: "*Heri audiēbam.* *Audiam* is \"I will hear.\""
+    ref: g-06
+  - id: ii17-e-legit-future
+    type: error
+    q: "*Crās Marcus librum legit.* (Tomorrow Marcus will read the book.) What's wrong?"
+    a: "*Leget.* *Legit* (short i) is \"reads,\" now."
+    ref: g-03
+  - id: ii17-e-audiunt
+    type: error
+    q: "*Audiunt.* (They will hear.) What's wrong?"
+    a: "*Audient.* *Audiunt* is \"they hear,\" now."
+    ref: g-04
+  - id: ii17-e-capiet-macron
+    type: error
+    q: "*Capiēt.* (He will take.) What's wrong?"
+    a: "*Capiet*: short e before final *-t* (like *leget, amat*)."
+    ref: g-04
+  - id: ii17-e-leges-macron
+    type: error
+    q: "*Lēgēs librum.* (You will read the book.) What's wrong?"
+    a: "*Librum legēs*: short first e. *Lēgēs* is \"laws.\""
+    ref: g-03
