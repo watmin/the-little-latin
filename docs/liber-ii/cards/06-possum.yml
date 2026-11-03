@@ -1,0 +1,160 @@
+book: ii
+ch: 18
+page: liber-ii/06-possum.md
+cards:
+  - {id: ii18-v-possum, type: vocab, la: "possum, posse", en: "be able, can", ref: g-01}
+  - {id: ii18-v-volo, type: vocab, la: "volō, velle", en: "want, be willing", ref: g-04}
+  - {id: ii18-v-nolo, type: vocab, la: "nōlō, nōlle", en: "not want, be unwilling", ref: g-05}
+  - {id: ii18-v-malo, type: vocab, la: "mālō, mālle", en: "prefer, would rather (to recognize; full chant in Chapter 32)", ref: g-05}
+  - {id: ii18-v-exspecto, type: vocab, la: "exspectō, exspectāre", en: "wait, wait for", ref: g-05}
+  - {id: ii18-v-volo-fly, type: vocab, la: "volō, volāre", en: "fly (a different verb from *volō, velle*)", ref: g-04}
+  - {id: ii18-v-si, type: vocab, la: "sī", en: "if", ref: g-04}
+  - {id: ii18-v-simul, type: vocab, la: "simul", en: "together, at the same time", ref: g-07}
+  - {id: ii18-v-nimis, type: vocab, la: "nimis", en: "too, too much", ref: g-07}
+  - {id: ii18-v-iam-non, type: vocab, la: "iam nōn", en: "no longer, not anymore", ref: g-07}
+  - {id: ii18-v-bellum, type: vocab, la: "bellum, bellī", en: "war (n.)", ref: g-04}
+  - {id: ii18-v-possum-chant, type: vocab, la: "possum, potes, potest, possumus, potestis, possunt", en: "I can, you can, … they can", ref: g-01}
+  - {id: ii18-v-poteram, type: vocab, la: "poteram, poterās, poterat, poterāmus, poterātis, poterant", en: "I could (was able), … they could", ref: g-03}
+  - {id: ii18-v-potero, type: vocab, la: "poterō, poteris, poterit, poterimus, poteritis, poterunt", en: "I will be able, … they will be able", ref: g-03}
+  - {id: ii18-v-esse, type: vocab, la: "esse", en: "to be (infinitive of *sum*)", ref: g-03}
+  - {id: ii18-v-volo-chant, type: vocab, la: "volō, vīs, vult, volumus, vultis, volunt", en: "I want, you want, … they want", ref: g-04}
+  - {id: ii18-v-nolo-chant, type: vocab, la: "nōlō, nōn vīs, nōn vult, nōlumus, nōn vultis, nōlunt", en: "I don't want, … they don't want", ref: g-05}
+  - {id: ii18-v-malo-chant, type: vocab, la: "mālō, māvīs, māvult", en: "I prefer, you prefer, he/she prefers", ref: g-05}
+  - {id: ii18-v-noli, type: vocab, la: "nōlī, nōlīte", en: "don't…! (the command of *nōlō*)", ref: g-05}
+  - {id: ii18-f-pot-sum, type: forms, q: "*Possum* is built from what two pieces?", a: "*pot-* (\"able\") + *sum* (\"I am\"); the *t* melts before *s*: *possum*.", ref: g-01}
+  - {id: ii18-f-possum-chant, type: forms, q: "Chant *possum* in the present, all six persons.", a: "*possum, potes, potest, possumus, potestis, possunt*", ref: g-01}
+  - {id: ii18-f-pos-pot, type: forms, q: "*Possum*: when *pos-*, when *pot-*?", a: "*Pos-* before an *s* (*possum, possumus, possunt*); *pot-* before a vowel (*potes, potest, potestis, poteram, poterō*).", ref: g-01}
+  - {id: ii18-f-possum-yes, type: forms, q: "*Potesne?* Answer yes, then no, the Roman way.", a: "*Possum!* · *Nōn possum.* (Latin says yes by repeating the verb.)", ref: g-01}
+  - {id: ii18-f-possum-legere, type: forms, q: "\"I can read.\"", a: "*Possum legere* (or *Legere possum*).", ref: g-02}
+  - {id: ii18-f-complementary, type: forms, q: "What is a complementary infinitive?", a: "The infinitive that completes a verb like *possum, volō, nōlō*: *possum **legere***, *nōlī **timēre***.", ref: g-02}
+  - {id: ii18-f-object-inf, type: forms, q: "\"I can read the book.\"", a: "*Librum legere possum.* The object belongs to the infinitive.", ref: g-02}
+  - {id: ii18-f-nemo-potest, type: forms, q: "*Nēmō potest duōbus dominīs servīre.* (Matthew 6:24)", a: "\"No one can serve two masters.\" *Potest* + the infinitive *servīre*.", ref: g-02}
+  - {id: ii18-f-poteram-chant, type: forms, q: "Chant *possum* in the imperfect, all six persons.", a: "*poteram, poterās, poterat, poterāmus, poterātis, poterant* (*pot-* + *eram*)", ref: g-03}
+  - {id: ii18-f-potero-chant, type: forms, q: "Chant *possum* in the future, all six persons.", a: "*poterō, poteris, poterit, poterimus, poteritis, poterunt* (*pot-* + *erō*)", ref: g-03}
+  - {id: ii18-f-heri-poteram, type: forms, q: "\"Yesterday I couldn't sleep.\"", a: "*Heri dormīre nōn poteram.*", ref: g-03}
+  - {id: ii18-f-posse, type: forms, q: "\"To be\" and \"to be able\"?", a: "*Esse* and *posse* (*pot-* + *esse*, squeezed).", ref: g-03}
+  - {id: ii18-f-non-omnia, type: forms, q: "Vergil: *Nōn omnia possumus omnēs.*", a: "\"We can't all do everything.\"", ref: g-03}
+  - {id: ii18-f-volo-chant, type: forms, q: "Chant *volō* in the present, all six persons.", a: "*volō, vīs, vult, volumus, vultis, volunt*", ref: g-04}
+  - {id: ii18-f-velle, type: forms, q: "\"To want\"?", a: "*Velle* (not *volere*).", ref: g-04}
+  - {id: ii18-f-caseum-edere, type: forms, q: "\"I want cheese!\" and \"I want to eat cheese!\"", a: "*Cāseum volō!* · *Cāseum edere volō!*", ref: g-04}
+  - {id: ii18-f-quid-vultis, type: forms, q: "\"What do you want?\" to one person, then to y'all.", a: "*Quid vīs?* · *Quid vultis?*", ref: g-04}
+  - {id: ii18-f-volant-volunt, type: forms, q: "*Volant* vs *volunt*?", a: "*Volant*, they fly (*volō, volāre*). *Volunt*, they want (*volō, velle*).", ref: g-04}
+  - {id: ii18-f-si-vis-pace, type: forms, q: "Finish the rhyme: *Audī, vidē, tacē…*", a: "*…sī vīs vīvere in pāce*: \"if you want to live in peace.\"", ref: g-04}
+  - {id: ii18-f-si-vis-pacem, type: forms, q: "*Sī vīs pācem, parā bellum.*", a: "\"If you want peace, prepare for war.\" (proverb, after Vegetius)", ref: g-04}
+  - {id: ii18-f-domine-si-vis, type: forms, q: "*Domine, sī vīs, potes mē mundāre.* (Matthew 8:2)", a: "\"Lord, if you want to, you can make me clean.\" The answer: *Volō.*", ref: g-04}
+  - {id: ii18-f-nolo-chant, type: forms, q: "Chant *nōlō* in the present, all six persons.", a: "*nōlō, nōn vīs, nōn vult, nōlumus, nōn vultis, nōlunt*", ref: g-05}
+  - {id: ii18-f-noli-nolo, type: forms, q: "What is *nōlī* (Chapter 6), really?", a: "The command of *nōlō*: \"be unwilling!\" *Nōlī* to one, *nōlīte* to y'all, + infinitive.", ref: g-05}
+  - {id: ii18-f-malo, type: forms, q: "*Crustula mālō.*", a: "\"I'd rather have cookies\": *mālō* = *magis volō*, \"I prefer.\"", ref: g-05}
+  - {id: ii18-f-completing-law, type: forms, q: "The Law of the Completing Infinitive?", a: "*Possum, volō, nōlō, mālō* + infinitive. The first verb carries person and time; the infinitive carries the action and never changes.", ref: g-05}
+  - id: ii18-c-potest
+    type: choose
+    q: "\"Marcus can swim\": *Marcus natāre ___.*"
+    options: [potest, possunt, potes]
+    a: potest
+    why: "He: *pot-* + *est*."
+    ref: g-02
+  - id: ii18-c-possumus
+    type: choose
+    q: "\"We can!\": *___!*"
+    options: [Possumus, Potumus, Possunt]
+    a: Possumus
+    why: "*Pot-* + *sumus*: the *t* melts before *s*."
+    ref: g-01
+  - id: ii18-c-potestis
+    type: choose
+    q: "\"Can y'all hear me?\": *___ mē audīre?*"
+    options: [Potestisne, Possuntne, Potesne]
+    a: Potestisne
+    why: "Y'all: *pot-* + *estis*, with *-ne* for the question."
+    ref: g-02
+  - id: ii18-c-poterimus
+    type: choose
+    q: "\"Tomorrow we'll be able to see Rome\": *Crās Rōmam vidēre ___.*"
+    options: [poterimus, possumus, poterāmus]
+    a: poterimus
+    why: "*Crās* wants the future: *pot-* + *erimus*."
+    ref: g-03
+  - id: ii18-c-poterat
+    type: choose
+    q: "\"Grandpa couldn't walk anymore\": *Avus ambulāre iam nōn ___.*"
+    options: [poterat, poterit, possunt]
+    a: poterat
+    why: "Past and ongoing: *pot-* + *erat*. *Poterit* is \"he will be able.\""
+    ref: g-03
+  - id: ii18-c-posse
+    type: choose
+    q: "\"To be able\": *___*"
+    options: [posse, potēre, possere]
+    a: posse
+    why: "*Pot-* + *esse*, squeezed."
+    ref: g-03
+  - id: ii18-c-vult
+    type: choose
+    q: "\"Marcus wants to watch gladiators\": *Marcus gladiātōrēs spectāre ___.*"
+    options: [vult, vīs, volunt]
+    a: vult
+    why: "He wants: *vult*. *Vīs* is \"you want.\""
+    ref: g-04
+  - id: ii18-c-velle
+    type: choose
+    q: "\"To want\": *___*"
+    options: [velle, volere, volāre]
+    a: velle
+    why: "*Velle* is the infinitive of *volō*. *Volāre* is \"to fly.\""
+    ref: g-04
+  - id: ii18-c-nolunt
+    type: choose
+    q: "\"The boys don't want to read\": *Puerī legere ___.*"
+    options: [nōlunt, nōlumus, nōn vult]
+    a: nōlunt
+    why: "They: *nōl-* + *-unt*, like *volunt*."
+    ref: g-05
+  - id: ii18-c-non-vult
+    type: choose
+    q: "\"Grandpa doesn't want to wait\": *Avus exspectāre ___.*"
+    options: [nōn vult, nōvult, nōlunt]
+    a: nōn vult
+    why: "Where *volō* is wild (*vīs, vult, vultis*), *nōlō* just puts *nōn* in front."
+    ref: g-05
+  - id: ii18-c-noli-inf
+    type: choose
+    q: "\"Don't wait!\" (to one person): *Nōlī ___!*"
+    options: [exspectāre, exspectā, exspectat]
+    a: exspectāre
+    why: "*Nōlī* + the infinitive."
+    ref: g-05
+  - id: ii18-e-possum-lego
+    type: error
+    q: "*Possum legō.* (I can read.) What's wrong?"
+    a: "*Possum legere.* The second verb is the infinitive."
+    ref: g-02
+  - id: ii18-e-potunt
+    type: error
+    q: "*Potunt.* (They can.) What's wrong?"
+    a: "*Possunt*: *pot-* + *sunt*, and the *t* melts before *s*."
+    ref: g-06
+  - id: ii18-e-marcus-vis
+    type: error
+    q: "*Marcus cāseum vīs.* (Marcus wants cheese.) What's wrong?"
+    a: "*Marcus cāseum vult.* *Vīs* is \"you want.\""
+    ref: g-06
+  - id: ii18-e-cras-possum
+    type: error
+    q: "*Crās venīre possum.* (Tomorrow I'll be able to come.) What's wrong?"
+    a: "*Crās venīre poterō.* Tomorrow wants the future."
+    ref: g-06
+  - id: ii18-e-verba-volunt
+    type: error
+    q: "*Verba volunt.* (Words fly.) What's wrong?"
+    a: "*Verba volant*: \"fly\" is *volō, volāre*. *Volunt* is \"they want.\""
+    ref: g-04
+  - id: ii18-e-potere
+    type: error
+    q: "*Potēre.* (To be able.) What's wrong?"
+    a: "*Posse*: *pot-* + *esse*."
+    ref: g-03
+  - id: ii18-e-nolite-one
+    type: error
+    q: "*Nōlīte timēre, Marce!* (Don't be afraid, Marcus!) What's wrong?"
+    a: "*Nōlī timēre, Marce!* One person gets *nōlī*; *nōlīte* is for y'all."
+    ref: g-05
