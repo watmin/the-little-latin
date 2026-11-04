@@ -1,0 +1,152 @@
+book: ii
+ch: 19
+page: liber-ii/07-hic-et-ille.md
+cards:
+  - {id: ii19-v-hic, type: vocab, la: "hic, haec, hoc", en: "this (near me); this one", ref: g-01}
+  - {id: ii19-v-ille, type: vocab, la: "ille, illa, illud", en: "that (over there); that one", ref: g-04}
+  - {id: ii19-v-iste, type: vocab, la: "iste, ista, istud", en: "that (near you), that … of yours; often scornful", ref: g-05}
+  - {id: ii19-v-is, type: vocab, la: "is, ea, id", en: "he, she, it; that (the plain pointer)", ref: g-06}
+  - {id: ii19-v-idem, type: vocab, la: "īdem, eadem, idem", en: "the same", ref: g-07}
+  - {id: ii19-v-demonstro, type: vocab, la: "dēmōnstrō, dēmōnstrāre", en: "point out, show", ref: g-01}
+  - {id: ii19-v-iubeo, type: vocab, la: "iubeō, iubēre", en: "order, command", ref: g-09}
+  - {id: ii19-v-obsecro, type: vocab, la: "obsecrō", en: "please, I beg you", ref: g-05}
+  - {id: ii19-v-sic, type: vocab, la: "sīc", en: "so, like this, thus", ref: g-09}
+  - {id: ii19-v-atque, type: vocab, la: "atque", en: "and (shorter form: *ac*)", ref: g-07}
+  - {id: ii19-v-id-est, type: vocab, la: "id est", en: "that is (i.e.)", ref: g-06}
+  - {id: ii19-v-huius-huic, type: vocab, la: "huius, huic", en: "of this, to/for this (all genders)", ref: g-02}
+  - {id: ii19-v-illius-illi, type: vocab, la: "illīus, illī", en: "of that, to/for that (all genders)", ref: g-04}
+  - {id: ii19-v-eius-ei, type: vocab, la: "eius, eī", en: "of him/her/it (his, her, its), to/for him/her/it", ref: g-06}
+  - {id: ii19-v-hoc-hac, type: vocab, la: "hōc, hāc", en: "by/with/in this (ablative)", ref: g-02}
+  - {id: ii19-v-eum-eam-id, type: vocab, la: "eum, eam, id", en: "him, her, it (objects)", ref: g-06}
+  - {id: ii19-v-eos-eas-ea, type: vocab, la: "eōs, eās, ea", en: "them (objects)", ref: g-06}
+  - {id: ii19-v-eundem, type: vocab, la: "eundem, eandem, idem", en: "the same (objects)", ref: g-07}
+  - {id: ii19-f-hic-haec-hoc, type: forms, q: "\"This\" in three genders: this boy, this girl, this apple.", a: "*Hic puer, haec puella, hoc mālum.*", ref: g-01}
+  - {id: ii19-f-demonstrative, type: forms, q: "What is a demonstrative?", a: "A \"pointing word\": this, that (*hic, ille, iste, is*). From *dēmōnstrāre*, \"point out.\"", ref: g-01}
+  - {id: ii19-f-hic-hic, type: forms, q: "*Hic* vs *hīc*?", a: "*Hic* (short i): \"this\" (masc.). *Hīc* (long ī): \"here.\" *Hic puer hīc est.*", ref: g-01}
+  - {id: ii19-f-hic-est-filius, type: forms, q: "*Hic est Fīlius meus dīlēctus.* (Matthew 3:17)", a: "\"This is my beloved Son.\" *Hic* alone: \"this man.\"", ref: g-01}
+  - {id: ii19-f-hoc-erat, type: forms, q: "*Hoc erat in prīncipiō apud Deum.* Why *hoc*?", a: "It points at *Verbum* (neuter): \"This (Word) was in the beginning with God.\" The pointer takes the thing's gender.", ref: g-01}
+  - {id: ii19-f-hunc-hanc, type: forms, q: "\"I want this cheese. I want this ball.\"", a: "*Hunc cāseum volō. Hanc pilam volō.* (*-m* turns to *n* before the pointing *-c*.)", ref: g-02}
+  - {id: ii19-f-in-hoc-signo, type: forms, q: "*In hōc signō vincēs.* What is *hōc*?", a: "Ablative after *in*, long ō: \"in this sign you will conquer.\"", ref: g-02}
+  - {id: ii19-f-huius, type: forms, q: "\"Of this boy,\" \"of this girl\"?", a: "*Huius puerī, huius puellae*: one genitive for all genders (like *cuius?*).", ref: g-02}
+  - {id: ii19-f-huic, type: forms, q: "\"To this boy,\" \"to this girl\"?", a: "*Huic puerō, huic puellae*: one dative for all genders, one syllable.", ref: g-02}
+  - {id: ii19-f-huius-filii, type: forms, q: "\"Of this son\"?", a: "*Huius fīliī.* *Huius* is a pointing word's genitive; *fīliī* is the *-ius* noun's genitive (Chapter 10).", ref: g-02}
+  - {id: ii19-f-hi-hae-haec, type: forms, q: "\"These boys, these girls, these apples.\"", a: "*Hī puerī, hae puellae, haec māla.*", ref: g-03}
+  - {id: ii19-f-forsan-haec, type: forms, q: "*Forsan et haec ōlim meminisse iuvābit.* Which *haec*?", a: "Neuter plural, \"these things\": \"Maybe someday it will be a pleasure to remember even this.\" (Vergil)", ref: g-03}
+  - {id: ii19-f-dabit-his, type: forms, q: "*Dabit deus hīs quoque fīnem.* What is *hīs*?", a: "Dative plural, \"to these\": \"God will put an end to these too.\" (Vergil)", ref: g-03}
+  - {id: ii19-f-ille-illa-illud, type: forms, q: "\"That boy, that girl, that apple.\"", a: "*Ille puer, illa puella, illud mālum* (neuter *-ud*).", ref: g-04}
+  - {id: ii19-f-hunc-an-illum, type: forms, q: "\"Do you want this cheese or that one?\"", a: "*Hunc cāseum an illum vīs?*", ref: g-04}
+  - {id: ii19-f-illius-illi, type: forms, q: "\"Of that\" and \"to/for that\"?", a: "*Illīus* (il-LEE-us) and *illī*, the same for all genders.", ref: g-04}
+  - {id: ii19-f-ille-el, type: forms, q: "Where do Spanish *el* and French *le, la* come from?", a: "From *ille, illa*: \"that\" wore down into \"the.\" Classical Latin has no \"the.\"", ref: g-04}
+  - {id: ii19-f-pointing-law, type: forms, q: "The Law of the Pointing Words: the three surprises?", a: "Genitive sg. *-īus* and dative sg. *-ī* for all genders (*illīus, illī; eius, eī; huius, huic*); neuter *-d* (*illud, istud, id*).", ref: g-04}
+  - {id: ii19-f-iste, type: forms, q: "*Hic, iste, ille*: where is each?", a: "*Hic* near me, *iste* near you, *ille* over there.", ref: g-05}
+  - {id: ii19-f-furor-iste, type: forms, q: "*Quam diū etiam furor iste tuus nōs ēlūdet?* (Cicero)", a: "\"How long will that madness of yours keep mocking us?\" *Iste* + *tuus*: scorn.", ref: g-05}
+  - {id: ii19-f-istum-disturbare, type: forms, q: "Archimedes in Valerius Maximus: *Nōlī, obsecrō, istum disturbāre!*", a: "\"Please, don't mess up that (dust by you)!\" *Istum*: near the soldier.", ref: g-05}
+  - {id: ii19-f-near-far, type: forms, q: "The Law of Near and Far?", a: "*Hic*: this, near me. *Iste*: that, near you (often scornful). *Ille*: that, over there. *Is*: just points back (he, she, it).", ref: g-05}
+  - {id: ii19-f-eum-eam, type: forms, q: "\"I don't see him. I don't see her.\"", a: "*Eum nōn videō. Eam nōn videō.*", ref: g-06}
+  - {id: ii19-f-docebat-eos, type: forms, q: "*Docēbat eōs* · *Libenter eum audiēbat.*", a: "\"He was teaching them\" · \"He liked to listen to him.\"", ref: g-06}
+  - {id: ii19-f-eius-ei, type: forms, q: "\"Of him/her\" and \"to/for him/her\"?", a: "*Eius* (EH-yus) and *eī*, the same for all genders. *Liber eius*: his (or her) book.", ref: g-06}
+  - {id: ii19-f-id-est, type: forms, q: "*Id est*?", a: "\"That is\" (English *i.e.*).", ref: g-06}
+  - {id: ii19-f-idem-idem, type: forms, q: "*Īdem* vs *idem*?", a: "*Īdem* (long ī) = masc. *is* + *-dem*; *idem* (short i) = neut. *id* + *-dem*. Both \"the same.\"", ref: g-07}
+  - {id: ii19-f-idem-velle, type: forms, q: "*Idem velle atque idem nōlle, ea dēmum firma amīcitia est.* (Sallust)", a: "\"To want the same things and not want the same things: that, in the end, is firm friendship.\"", ref: g-07}
+  - id: ii19-c-hoc-corpus
+    type: choose
+    q: "\"This body\": *___ corpus*"
+    options: [hoc, hic, haec]
+    a: hoc
+    why: "*Corpus* is neuter, whatever its *-us* looks like."
+    ref: g-01
+  - id: ii19-c-hunc
+    type: choose
+    q: "\"I want this cheese\": *___ cāseum volō.*"
+    options: [Hunc, Hic, Huius]
+    a: Hunc
+    why: "Masculine object: *hunc*. *Hic* is the subject; *huius* is \"of this.\""
+    ref: g-02
+  - id: ii19-c-huic
+    type: choose
+    q: "\"I give the book to this girl\": *___ puellae librum dō.*"
+    options: [Huic, Huius, Hanc]
+    a: Huic
+    why: "The receiver is dative: *huic*, for every gender."
+    ref: g-02
+  - id: ii19-c-hos
+    type: choose
+    q: "\"I want these cheeses\": *___ cāseōs volō.*"
+    options: [Hōs, Hī, Hās]
+    a: Hōs
+    why: "Masculine plural object, like *bonōs*."
+    ref: g-03
+  - id: ii19-c-illud
+    type: choose
+    q: "\"I want that apple\": *___ mālum volō.*"
+    options: [Illud, Illum, Illa]
+    a: Illud
+    why: "*Mālum* is neuter: the neuter of *ille* is *illud*."
+    ref: g-04
+  - id: ii19-c-illius
+    type: choose
+    q: "\"That boy's book\": *liber ___ puerī*"
+    options: [illīus, illī, illum]
+    a: illīus
+    why: "Genitive: *illīus*. *Illī* is \"to that\" (or \"those\")."
+    ref: g-04
+  - id: ii19-c-istum
+    type: choose
+    q: "\"Give me that cheese (the one by you)\": *Dā mihi ___ cāseum!*"
+    options: [istum, istud, ista]
+    a: istum
+    why: "Near you: *iste*. Masculine object: *istum*."
+    ref: g-05
+  - id: ii19-c-eam
+    type: choose
+    q: "\"Where's Cornēlia? I don't see her\": *Ubi est Cornēlia? ___ nōn videō.*"
+    options: [Eam, Eum, Eius]
+    a: Eam
+    why: "Feminine object: *eam*."
+    ref: g-06
+  - id: ii19-c-ei
+    type: choose
+    q: "\"I give him cheese\": *___ cāseum dō.*"
+    options: [Eī, Eum, Eius]
+    a: Eī
+    why: "\"To him\" is the dative: *eī*."
+    ref: g-06
+  - id: ii19-c-eundem
+    type: choose
+    q: "\"Do you want the same cheese?\": *___ cāseum vīs?*"
+    options: [Eundemne, Īdemne, Idemne]
+    a: Eundemne
+    why: "Masculine object: *eum* + *-dem* = *eundem* (m to n before d)."
+    ref: g-07
+  - id: ii19-c-idem-m
+    type: choose
+    q: "Quīntus: \"I'm always the same!\": *___ semper sum!*"
+    options: [Īdem, Idem, Eadem]
+    a: Īdem
+    why: "Masculine subject: long ī. *Idem* is neuter."
+    ref: g-07
+  - id: ii19-e-hic-malum
+    type: error
+    q: "*Hic mālum bonum est.* (This apple is good.) What's wrong?"
+    a: "*Hoc mālum bonum est.* *Mālum* is neuter."
+    ref: g-08
+  - id: ii19-e-illum-malum
+    type: error
+    q: "*Illum mālum volō.* (I want that apple.) What's wrong?"
+    a: "*Illud mālum volō.* The neuter object is *illud*."
+    ref: g-08
+  - id: ii19-e-huius-puero
+    type: error
+    q: "*Huius puerō librum dō.* (I give the book to this boy.) What's wrong?"
+    a: "*Huic puerō librum dō.* *Huius* is \"of this\"; \"to this\" is *huic*."
+    ref: g-08
+  - id: ii19-e-hic-hic
+    type: error
+    q: "*Hic puer hic est.* (This boy is here.) What's wrong?"
+    a: "*Hic puer hīc est.* \"Here\" is *hīc*, long ī."
+    ref: g-08
+  - id: ii19-e-hoc-corpus
+    type: error
+    q: "*Hōc est corpus meum.* (This is my body.) What's wrong?"
+    a: "*Hoc est corpus meum.* Short o for the subject; *hōc* is the ablative \"by/in this.\""
+    ref: g-02

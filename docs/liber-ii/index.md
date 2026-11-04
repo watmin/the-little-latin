@@ -19,7 +19,7 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 | 16 | [**Heri et Crās**](04-heri-et-cras.md) | G: imperfect & future active (1st/2nd conj), erat/erit. V: time words. S: what you were doing / will do. | ✅ available |
 | 17 | [**Legam, Audiam**](05-legam-audiam.md) | G: future/imperfect of 3rd/4th/io; future in -am/-ēs vs -bō. S: plans. | ✅ available |
 | 18 | [**Possum!**](06-possum.md) | G: possum, complementary infinitive, volō/nōlō present. V: abilities, wants. S: I can / want / don't want. | ✅ available |
-| 19 | **Hic et Ille** | G: hic, ille, iste, is, īdem. S: this one, that one (shopping). | coming |
+| 19 | [**Hic et Ille**](07-hic-et-ille.md) | G: hic, ille, iste, is, īdem. S: this one, that one (shopping). | ✅ available |
 | 20 | **Fortis et Celer** | G: 3rd decl adjectives; adjective agreement across declensions (bonus rēx, fēmina fortis). S: describe people. | coming |
 | 21 | **Sē et Suum** | G: full declension of ego/tū/nōs/vōs (mē, tē, nōbīs, vōbīs, meī/nostrum…); reflexive sē/suus vs eius; ipse. S: "he washes himself" / "his own". | coming |
 | 22 | **Ūnus, Duo, Trēs** | G: numerals, partitive genitive, ablative of time. V: money, time, calendar. S: telling time, prices (quantī?). | coming |
