@@ -1,0 +1,132 @@
+book: ii
+ch: 20
+page: liber-ii/08-fortis-et-celer.md
+cards:
+  - {id: ii20-v-acer, type: vocab, la: "ācer, ācris, ācre", en: "sharp, keen, fierce", ref: g-04}
+  - {id: ii20-v-celer, type: vocab, la: "celer, celeris, celere", en: "fast, swift", ref: g-04}
+  - {id: ii20-v-fortis, type: vocab, la: "fortis, forte", en: "brave, strong", ref: g-01}
+  - {id: ii20-v-dulcis, type: vocab, la: "dulcis, dulce", en: "sweet", ref: g-01}
+  - {id: ii20-v-omnis, type: vocab, la: "omnis, omne", en: "every; (plural) all, everyone", ref: g-03}
+  - {id: ii20-v-brevis, type: vocab, la: "brevis, breve", en: "short, brief", ref: g-06}
+  - {id: ii20-v-tristis, type: vocab, la: "trīstis, trīste", en: "sad", ref: g-06}
+  - {id: ii20-v-gravis, type: vocab, la: "gravis, grave", en: "heavy, serious", ref: g-06}
+  - {id: ii20-v-facilis, type: vocab, la: "facilis, facile", en: "easy", ref: g-06}
+  - {id: ii20-v-qualis, type: vocab, la: "quālis, quāle", en: "what sort of?; such as", ref: g-06}
+  - {id: ii20-v-felix, type: vocab, la: "fēlīx, fēlīcis", en: "lucky, happy", ref: g-05}
+  - {id: ii20-v-ingens, type: vocab, la: "ingēns, ingentis", en: "huge", ref: g-05}
+  - {id: ii20-v-par, type: vocab, la: "pār, paris", en: "equal (to: dative)", ref: g-05}
+  - {id: ii20-v-sapiens, type: vocab, la: "sapiēns, sapientis", en: "wise", ref: g-06}
+  - {id: ii20-v-femina, type: vocab, la: "fēmina, fēminae", en: "woman (f.)", ref: g-02}
+  - {id: ii20-v-fortuna, type: vocab, la: "fortūna, fortūnae", en: "luck, fortune (f.)", ref: g-06}
+  - {id: ii20-v-ars, type: vocab, la: "ars, artis", en: "skill, art (f.; gen. pl. *artium*)", ref: g-06}
+  - {id: ii20-v-adiuvo, type: vocab, la: "adiuvō, adiuvāre", en: "help", ref: g-06}
+  - {id: ii20-v-vinco, type: vocab, la: "vincō, vincere", en: "win, conquer, beat", ref: g-08}
+  - {id: ii20-v-i-endings, type: vocab, la: "-ī · -ia · -ium", en: "the i-stem adjective endings: with/from one; neuter many; of many", ref: g-03}
+  - {id: ii20-v-fortis-sg, type: vocab, la: "fortis, fortis, fortī, fortem, fortī", en: "brave (m./f. singular: subject, of, to/for, object, with/from)", ref: g-03}
+  - {id: ii20-v-fortis-pl, type: vocab, la: "fortēs, fortium, fortibus, fortēs, fortibus", en: "brave (m./f. plural, same order)", ref: g-03}
+  - {id: ii20-v-forte-fortia, type: vocab, la: "forte · fortia", en: "brave (neuter subject and object: one · many)", ref: g-03}
+  - {id: ii20-f-dulcis-dulce, type: forms, q: "\"Sweet honey, a sweet grape, a sweet cheese.\"", a: "*Mel dulce, ūva dulcis, cāseus dulcis.* Two naming forms: *dulcis* (m./f.), *dulce* (n.).", ref: g-01}
+  - {id: ii20-f-two-ending, type: forms, q: "What is a two-ending adjective?", a: "One with two naming forms: one for masculine and feminine, one for neuter (*fortis, forte*). Old name: \"of two terminations.\"", ref: g-01}
+  - {id: ii20-f-dulce-decorum, type: forms, q: "*Dulce et decōrum est prō patriā morī.* (Horace) Why neuter *dulce*?", a: "\"It is sweet and fitting to die for your country.\" The subject is an infinitive, \"to die\": a thing, so neuter.", ref: g-01}
+  - {id: ii20-f-rex-bonus, type: forms, q: "\"The good king\" in four cases: subject, of, to, object.", a: "*Rēx bonus, rēgis bonī, rēgī bonō, rēgem bonum.* Each word keeps its own family's endings.", ref: g-02}
+  - {id: ii20-f-femina-fortis, type: forms, q: "\"The brave woman\" in four cases: subject, of, to, object.", a: "*Fēmina fortis, fēminae fortis, fēminae fortī, fēminam fortem.*", ref: g-02}
+  - {id: ii20-f-mens-sana, type: forms, q: "*Mēns sāna in corpore sānō.* How can *corpore* and *sānō* agree?", a: "Both are ablative, singular, neuter: same case, not same letters. \"A healthy mind in a healthy body.\" (Juvenal)", ref: g-02}
+  - {id: ii20-f-two-families-law, type: forms, q: "The Law of the Two Families?", a: "A noun and its adjective share gender, number, and case, not letters. Each keeps its own family's endings.", ref: g-02}
+  - {id: ii20-f-cum-rege-forti, type: forms, q: "\"With a brave king.\" \"With a brave girl.\"", a: "*Cum rēge fortī. Cum puellā fortī.* The adjective's \"with\" form is always *-ī*.", ref: g-03}
+  - {id: ii20-f-corpora-fortia, type: forms, q: "\"Strong bodies.\" \"Of the brave soldiers.\"", a: "*Corpora fortia. Mīlitum fortium.* The adjective is an i-stem: *-ia, -ium*.", ref: g-03}
+  - {id: ii20-f-omnes-viae, type: forms, q: "*Omnēs viae Rōmam dūcunt* · *Omnia vincit Amor.* What are *omnēs* and *omnia*?", a: "*Omnis, omne*: *omnēs* feminine plural with *viae* (\"all roads\"); *omnia* neuter plural alone (\"all things\").", ref: g-03}
+  - {id: ii20-f-omnia-mea, type: forms, q: "*Omnia mea mēcum portō.* (Bias, in Cicero)", a: "\"I carry all my things with me.\" *Omnia* and *mea*: neuter plural objects from two families.", ref: g-03}
+  - {id: ii20-f-acer, type: forms, q: "\"A sharp cheese, a sharp mind, a sharp wine.\"", a: "*Cāseus ācer, mēns ācris, vīnum ācre.* Three naming forms.", ref: g-04}
+  - {id: ii20-f-celer, type: forms, q: "\"A fast boy, a fast girl, a fast animal.\"", a: "*Puer celer, puella celeris, animal celere.* *Celer* keeps its *e*; *ācer* drops it (*ācris*).", ref: g-04}
+  - {id: ii20-f-felix, type: forms, q: "\"A lucky boy\" as subject and as object.", a: "*Puer fēlīx* · *puerum fēlīcem.* One naming form; the dictionary gives *fēlīx, fēlīcis* for the stem.", ref: g-05}
+  - {id: ii20-f-felix-culpa, type: forms, q: "*Ō fēlīx culpa!*", a: "\"O happy fault!\" (the Easter *Exsultet*). One-ending *fēlīx* fits feminine *culpa*.", ref: g-05}
+  - {id: ii20-f-monstrum, type: forms, q: "*Mōnstrum horrendum, īnfōrme, ingēns.* (Vergil's Cyclops) Name the three shapes.", a: "*Horrendum* (*bonus* family), *īnfōrme* (two-ending), *ingēns* (one-ending): all neuter singular with *mōnstrum*.", ref: g-05}
+  - {id: ii20-f-par, type: forms, q: "*Pār, paris*: vowel lengths? And \"equal to a god\"?", a: "Long ā in *pār*, short a in *paris, parī, parem*. *Pār deō*, with the dative.", ref: g-05}
+  - {id: ii20-f-three-shapes, type: forms, q: "The Law of the Three Shapes?", a: "Three endings (*ācer, ācris, ācre*), two (*fortis, forte*), or one plus the \"of\" form (*fēlīx, fēlīcis*). After that, all go like *fortis*: *-ī, -ia, -ium*.", ref: g-05}
+  - {id: ii20-f-qualis, type: forms, q: "\"What's Grandpa like?\" \"Grandpa is brave.\"", a: "*Quālis est Avus? Avus fortis est.*", ref: g-06}
+  - {id: ii20-f-fortes-fortuna, type: forms, q: "*Fortēs fortūna adiuvat.* What is *fortēs*?", a: "\"Fortune helps the brave.\" *Fortēs*, an adjective alone, is the object: brave people. (Terence wrote *fortīs*.)", ref: g-06}
+  - {id: ii20-f-ars-longa, type: forms, q: "*Ars longa, vīta brevis.*", a: "\"Skill takes long; life is short.\" *Brevis* (third family) agrees with feminine *vīta*.", ref: g-06}
+  - {id: ii20-f-crura-brevia, type: forms, q: "\"My legs are short!\"", a: "*Crūra mea brevia sunt!* *Crūra* is neuter plural, so *-ia*.", ref: g-06}
+  - id: ii20-c-dulce
+    type: choose
+    q: "\"Sweet honey\": *mel ___*"
+    options: [dulce, dulcis, dulcum]
+    a: dulce
+    why: "*Mel* is neuter: *dulce*. *Dulcis* is masculine and feminine."
+    ref: g-01
+  - id: ii20-c-boni
+    type: choose
+    q: "\"The good king's crown\": *corōna rēgis ___*"
+    options: [bonī, bonis, bonae]
+    a: bonī
+    why: "Genitive, masculine: *bonus* keeps its own *-ī*. It doesn't copy *rēgis*."
+    ref: g-02
+  - id: ii20-c-fortem
+    type: choose
+    q: "\"I see a brave woman\": *Fēminam ___ videō.*"
+    options: [fortem, fortam, fortis]
+    a: fortem
+    why: "Object, feminine: *fortis* says *fortem* (third family), whatever *fēminam* says."
+    ref: g-02
+  - id: ii20-c-forti
+    type: choose
+    q: "\"With a brave father\": *Cum patre ___*"
+    options: [fortī, forte, fortis]
+    a: fortī
+    why: "The adjective's \"with\" form is always *-ī*. *Forte* is the neuter subject/object."
+    ref: g-03
+  - id: ii20-c-fortia
+    type: choose
+    q: "\"Strong bodies\": *corpora ___*"
+    options: [fortia, forta, fortēs]
+    a: fortia
+    why: "Neuter plural of an i-stem adjective: *-ia*."
+    ref: g-03
+  - id: ii20-c-omnium
+    type: choose
+    q: "\"Of all the girls\": *___ puellārum*"
+    options: [omnium, omnārum, omnēs]
+    a: omnium
+    why: "Third-family adjective, \"of many\": *-ium*. The noun keeps its *-ārum*."
+    ref: g-07
+  - id: ii20-c-acris
+    type: choose
+    q: "\"A sharp mind\": *mēns ___*"
+    options: [ācris, ācer, ācre]
+    a: ācris
+    why: "*Mēns* is feminine: *ācris*. *Ācer* is masculine, *ācre* neuter."
+    ref: g-04
+  - id: ii20-c-celeris
+    type: choose
+    q: "Cornēlia: \"I'm fast!\": *Ego ___ sum!*"
+    options: [celeris, celer, celere]
+    a: celeris
+    why: "A girl speaking: feminine *celeris*. Marcus says *celer*."
+    ref: g-08
+  - id: ii20-c-felix
+    type: choose
+    q: "\"The girl is lucky\": *Puella ___ est.*"
+    options: [fēlīx, fēlīcis, fēlīca]
+    a: fēlīx
+    why: "One naming form for all genders. *Fēlīcis* is the \"of\" form."
+    ref: g-05
+  - id: ii20-c-ingentia
+    type: choose
+    q: "\"Huge bodies\": *corpora ___*"
+    options: [ingentia, ingēns, ingenta]
+    a: ingentia
+    why: "Neuter plural, i-stem: stem *ingent-* + *-ia*."
+    ref: g-05
+  - id: ii20-c-qualis
+    type: choose
+    q: "\"What's our family like?\": *___ est familia nostra?*"
+    options: [Quālis, Quāle, Quālēs]
+    a: Quālis
+    why: "*Familia* is feminine singular: *quālis*. *Quāle* is neuter; *quālēs* plural."
+    ref: g-08
+  - {id: ii20-e-rex-bonis, type: error, q: "*Rēx bonis est.* (The king is good.) What's wrong?", a: "*Rēx bonus est.* *Bonus* never borrows the third family's *-is*.", ref: g-07}
+  - {id: ii20-e-femina-forta, type: error, q: "*Fēmina forta est.* (The woman is brave.) What's wrong?", a: "*Fēmina fortis est.* *Fortis* has no *-a*: masculine and feminine share *fortis*.", ref: g-07}
+  - {id: ii20-e-patre-forte, type: error, q: "*Cum patre forte.* (With a brave father.) What's wrong?", a: "*Cum patre fortī.* The noun says *-e*; the adjective's \"with\" form is *-ī*.", ref: g-07}
+  - {id: ii20-e-mala-dulca, type: error, q: "*Māla dulca sunt.* (The apples are sweet.) What's wrong?", a: "*Māla dulcia sunt.* Neuter plural of an i-stem adjective: *-ia*.", ref: g-07}
+  - {id: ii20-e-puella-felicis, type: error, q: "*Puella fēlīcis est.* (The girl is lucky.) What's wrong?", a: "*Puella fēlīx est.* *Fēlīcis* is the \"of\" form.", ref: g-07}
+  - {id: ii20-e-nomen-dulcis, type: error, q: "*Nōmen tuum dulcis est.* (Your name is sweet.) What's wrong?", a: "*Nōmen tuum dulce est.* *Nōmen* is neuter.", ref: g-07}
