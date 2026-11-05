@@ -1,0 +1,138 @@
+book: ii
+ch: 21
+page: liber-ii/09-se-et-suum.md
+cards:
+  - {id: ii21-v-lavo, type: vocab, la: "lavō, lavāre", en: "wash", ref: g-03}
+  - {id: ii21-v-nosco, type: vocab, la: "nōscō, nōscere", en: "get to know, learn, know", ref: g-01}
+  - {id: ii21-v-se, type: vocab, la: "sē", en: "himself, herself, itself, themselves (reflexive)", ref: g-03}
+  - {id: ii21-v-suus, type: vocab, la: "suus, sua, suum", en: "his/her/its/their own (reflexive possessive)", ref: g-04}
+  - {id: ii21-v-ipse, type: vocab, la: "ipse, ipsa, ipsum", en: "himself, herself, itself; the very (intensive)", ref: g-06}
+  - {id: ii21-v-mei, type: vocab, la: "meī", en: "of me", ref: g-01}
+  - {id: ii21-v-tui, type: vocab, la: "tuī", en: "of you (sg.)", ref: g-01}
+  - {id: ii21-v-nostrum, type: vocab, la: "nostrum · nostrī", en: "of us (partitive · other)", ref: g-02}
+  - {id: ii21-v-vestrum, type: vocab, la: "vestrum · vestrī", en: "of y'all (partitive · other)", ref: g-02}
+  - {id: ii21-v-secum, type: vocab, la: "sēcum", en: "with himself / herself / themselves", ref: g-03}
+  - {id: ii21-v-nobiscum, type: vocab, la: "nōbīscum", en: "with us", ref: g-02}
+  - {id: ii21-v-vobiscum, type: vocab, la: "vōbīscum", en: "with y'all", ref: g-02}
+  - {id: ii21-v-sibi, type: vocab, la: "sibi", en: "to/for himself, herself, themselves", ref: g-03}
+  - {id: ii21-v-sui, type: vocab, la: "suī", en: "of himself, herself, themselves", ref: g-03}
+  - {id: ii21-v-cuique, type: vocab, la: "cuique", en: "to each (chunk; from *quisque*)", ref: g-04}
+  - {id: ii21-v-alienus, type: vocab, la: "aliēnus, aliēna, aliēnum", en: "belonging to another, another's", ref: g-08}
+  - {id: ii21-v-sordidus, type: vocab, la: "sordidus, sordida, sordidum", en: "dirty", ref: g-08}
+  - {id: ii21-v-sapo, type: vocab, la: "sāpō, sāpōnis", en: "soap (m.)", ref: g-08}
+  - {id: ii21-v-frigidus, type: vocab, la: "frīgidus, frīgida, frīgidum", en: "cold", ref: g-08}
+  - {id: ii21-v-ego, type: vocab, la: "ego, meī, mihi, mē, mē", en: "I: subject, of, to/for, object, with/from", ref: g-01}
+  - {id: ii21-v-tu, type: vocab, la: "tū, tuī, tibi, tē, tē", en: "you (sg.): same order", ref: g-01}
+  - {id: ii21-v-nos, type: vocab, la: "nōs, nostrum/nostrī, nōbīs, nōs, nōbīs", en: "we / us: same order", ref: g-02}
+  - {id: ii21-v-vos, type: vocab, la: "vōs, vestrum/vestrī, vōbīs, vōs, vōbīs", en: "y'all: same order", ref: g-02}
+  - {id: ii21-v-se-paradigm, type: vocab, la: "sē: —, suī, sibi, sē, sē", en: "reflexive: (no subject), of, to/for, object, with/from", ref: g-03}
+  - {id: ii21-f-ego-chant, type: forms, q: "Chant *ego* across (subject, of, to/for, object, with/from, with).", a: "*Ego, meī, mihi, mē, mē · mēcum.*", ref: g-01}
+  - {id: ii21-f-tu-chant, type: forms, q: "Chant *tū* across, including \"with you.\"", a: "*Tū, tuī, tibi, tē, tē · tēcum.*", ref: g-01}
+  - {id: ii21-f-nos-chant, type: forms, q: "Chant *nōs* across, including \"with us.\"", a: "*Nōs, nostrum/nostrī, nōbīs, nōs, nōbīs · nōbīscum.*", ref: g-02}
+  - {id: ii21-f-vos-cum, type: forms, q: "\"Come (y'all) with us!\" \"I'm coming with y'all.\"", a: "*Venīte nōbīscum! Tēcum* is singular; with y'all is *vōbīscum*: *Cum vōbīs* is wrong in ordinary prose — *vōbīscum veniō.*", ref: g-02}
+  - {id: ii21-f-nostrum, type: forms, q: "*Nostrum* or *nostrī*? \"Two of us.\" \"A friend of us\" (rare) vs everyday \"our friend.\"", a: "*Duo nostrum* (partitive). Everyday ownership: *amīcus noster*, not *amīcus nostrī*.", ref: g-02}
+  - {id: ii21-f-mei-meus, type: forms, q: "*Meī* vs *meus*: \"of me\" vs \"my book.\"", a: "*Meī* = of me (pronoun). *Liber meus* = my book (possessive adjective).", ref: g-01}
+  - {id: ii21-f-se-lavat, type: forms, q: "*Avus sē lavat* · *Avus eum lavat.*", a: "Himself (reflexive) · him (someone else, from *is*).", ref: g-03}
+  - {id: ii21-f-se-no-nom, type: forms, q: "Does *sē* have a nominative?", a: "No. It always points back to a subject already there.", ref: g-03}
+  - {id: ii21-f-se-paradigm, type: forms, q: "Forms of *sē*: of, to/for, object, with.", a: "*Suī, sibi, sē, sēcum.*", ref: g-03}
+  - {id: ii21-f-suus-eius, type: forms, q: "*Marcus librum suum legit* · *Marcus librum eius legit.*", a: "His own book · someone else's book.", ref: g-04}
+  - {id: ii21-f-looking-back, type: forms, q: "The Law of Looking Back?", a: "Back to the subject → *sē / suus*. Somebody else → *is / eius*. *Suus* agrees with the thing owned.", ref: g-05}
+  - {id: ii21-f-suus-agree, type: forms, q: "\"The girls love their (own) dog.\" Why *suum*, not *suam*?", a: "*Puellae canem suum amant.* *Suum* agrees with *canem* (m.), not with the girls.", ref: g-04}
+  - {id: ii21-f-ipse, type: forms, q: "What does *ipse* add in *Ipse Avus sē lavat*?", a: "Stress (emphasis): Grandpa himself washes himself. Intensive, not a new object.", ref: g-06}
+  - {id: ii21-f-ipse-vs-se, type: forms, q: "*Ipse* vs *sē*?", a: "*Sē* = reflexive object (same person as subject). *Ipse* = intensive stress on whoever it sits with. Both: *Avus ipse sē lavat.*", ref: g-06}
+  - {id: ii21-f-ipsius, type: forms, q: "Genitive and dative singular of *ipse*?", a: "*Ipsīus, ipsī* — same *-īus / -ī* surprise as Chapter 19's pointing words.", ref: g-06}
+  - {id: ii21-f-nosce, type: forms, q: "*Nōsce tē.* (Cicero) · later *Nōsce tē ipsum.*", a: "\"Know yourself.\" Cicero's Latin for Delphi; later writers add intensive *ipsum*.", ref: g-01}
+  - {id: ii21-f-ipse-dixit, type: forms, q: "*Ipse dīxit.* (Cicero, *N.D.* 1.10)", a: "\"He himself said it\" — the Pythagoreans' appeal to Pythagoras.", ref: g-06}
+  - {id: ii21-f-omnia-sua, type: forms, q: "*Omnia mea mēcum portō* → third-person twin?", a: "*Omnia sua sēcum portat.* Teaching twin of Bias; not a second ancient quote.", ref: g-03}
+  - {id: ii21-f-suum-cuique, type: forms, q: "*Suum cuique.*", a: "\"To each his own.\" *Cuique* (to each) is a chunk until Chapter 29.", ref: g-04}
+  - {id: ii21-f-wash-persons, type: forms, q: "I / you / he / we wash ourselves.", a: "*Ego mē lavō. Tū tē lavās. Sē lavat. Nōs nōs lavāmus.*", ref: g-03}
+  - id: ii21-c-se
+    type: choose
+    q: "\"Grandpa washes himself\": *Avus ___ lavat.*"
+    options: [sē, eum, ipse]
+    a: sē
+    why: "*Sē* looks back to the subject. *Eum* is someone else; *ipse* only adds stress."
+    ref: g-03
+  - id: ii21-c-suum
+    type: choose
+    q: "\"Marcus reads his own book\": *Marcus librum ___ legit.*"
+    options: [suum, eius, suī]
+    a: suum
+    why: "*Suus* = the subject's own. *Eius* = someone else's; *suī* is the pronoun \"of himself.\""
+    ref: g-04
+  - id: ii21-c-vobiscum
+    type: choose
+    q: "\"I come with y'all\": *___ veniō.*"
+    options: [Vōbīscum, Cum vōbīs, Vestrum]
+    a: Vōbīscum
+    why: "*Cum* glues to these pronouns: *vōbīscum*, never ordinary *cum vōbīs*."
+    ref: g-02
+  - id: ii21-c-me
+    type: choose
+    q: "\"I wash myself\": *Ego ___ lavō.*"
+    options: [mē, sē, mēcum]
+    a: mē
+    why: "First person reuses *mē*. *Sē* is only for a third-person subject."
+    ref: g-03
+  - id: ii21-c-ipse
+    type: choose
+    q: "Cicero's chunk \"He himself said it\": *___ dīxit.*"
+    options: [Ipse, Sē, Suus]
+    a: Ipse
+    why: "Intensive *ipse* (Pythagoras). *Sē* would be an object; *suus* is \"his own.\""
+    ref: g-06
+  - id: ii21-c-meus
+    type: choose
+    q: "\"My book is on the table\": *Liber ___ in mēnsā est.*"
+    options: [meus, meī, mihi]
+    a: meus
+    why: "Possessive adjective *meus*. *Meī* is \"of me\"; *mihi* is \"to me.\""
+    ref: g-01
+  - id: ii21-c-suum-canem
+    type: choose
+    q: "\"The girls love their own dog\": *Puellae canem ___ amant.*"
+    options: [suum, suam, eum]
+    a: suum
+    why: "*Suum* agrees with *canem* (masculine), not with the girls."
+    ref: g-04
+  - id: ii21-c-nosce
+    type: choose
+    q: "Delphi in Cicero: *Nōsce ___.*"
+    options: [tē, sē, tibi]
+    a: tē
+    why: "Object *tē* (\"know yourself\"). *Sē* is third person; *tibi* is dative."
+    ref: g-01
+  - id: ii21-c-eius
+    type: choose
+    q: "\"Grandpa eats her cheese\" (Avia's): *Avus cāseum ___ edit.*"
+    options: [eius, suum, suam]
+    a: eius
+    why: "Someone else's → *eius*. *Suum/suam* would be his own."
+    ref: g-04
+  - id: ii21-c-sibi
+    type: choose
+    q: "\"He gives himself cheese\": *___ cāseum dat.*"
+    options: [Sibi, Sē, Suī]
+    a: Sibi
+    why: "Dative *sibi* = to/for himself. *Sē* is object/abl.; *suī* is \"of himself.\""
+    ref: g-03
+  - id: ii21-c-ipsa
+    type: choose
+    q: "\"Grandma herself\": *___ Avia*"
+    options: [Ipsa, Sē, Sua]
+    a: Ipsa
+    why: "Intensive agrees: feminine *ipsa*. *Sē* is the reflexive object."
+    ref: g-06
+  - id: ii21-c-nobis
+    type: choose
+    q: "\"He gives us cheese\": *___ cāseum dat.*"
+    options: [Nōbīs, Nōs, Nostrum]
+    a: Nōbīs
+    why: "Dative *nōbīs*. *Nōs* is subject/object; *nostrum* is genitive."
+    ref: g-02
+  - {id: ii21-e-se-est, type: error, q: "Fix: *Avus sē est.*", a: "*Sē* has no nominative. *Avus est* or *Avus ipse est.*", ref: g-07}
+  - {id: ii21-e-ego-se, type: error, q: "Fix: *Ego sē lavō.*", a: "*Ego mē lavō.* First person uses *mē*, not *sē*.", ref: g-07}
+  - {id: ii21-e-cum-nobis, type: error, q: "Fix: *Cum nōbīs venī!*", a: "*Nōbīscum venī!* *Cum* glues to the end.", ref: g-07}
+  - {id: ii21-e-suum-eius, type: error, q: "Fix: *Marcus librum suum eius legit.*", a: "Pick one: *librum suum* (his own) or *librum eius* (someone else's).", ref: g-07}
+  - {id: ii21-e-liber-tui, type: error, q: "Fix: *Liber tuī in mēnsā est.*", a: "*Liber tuus in mēnsā est.* Ownership wants the adjective *tuus*.", ref: g-07}
+  - {id: ii21-e-eam, type: error, q: "Fix: *Puella eam lavat* (when she means herself).", a: "*Puella sē lavat.* *Eam* is another girl.", ref: g-07}
