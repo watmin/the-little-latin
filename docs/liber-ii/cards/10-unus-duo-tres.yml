@@ -1,0 +1,138 @@
+book: ii
+ch: 22
+page: liber-ii/10-unus-duo-tres.md
+cards:
+  - {id: ii22-v-unus, type: vocab, la: "ūnus, ūna, ūnum (ūnīus, ūnī)", en: "one", ref: g-01}
+  - {id: ii22-v-duo, type: vocab, la: "duo, duae, duo", en: "two", ref: g-02}
+  - {id: ii22-v-tres, type: vocab, la: "trēs, tria", en: "three", ref: g-02}
+  - {id: ii22-v-quattuor, type: vocab, la: "quattuor", en: "four (indeclinable)", ref: g-03}
+  - {id: ii22-v-quinque, type: vocab, la: "quīnque", en: "five (indeclinable)", ref: g-03}
+  - {id: ii22-v-solus, type: vocab, la: "sōlus, sōla, sōlum (sōlīus, sōlī)", en: "alone, only", ref: g-01}
+  - {id: ii22-v-septem, type: vocab, la: "septem", en: "seven (indeclinable)", ref: g-03}
+  - {id: ii22-v-octo, type: vocab, la: "octō", en: "eight (indeclinable)", ref: g-03}
+  - {id: ii22-v-novem, type: vocab, la: "novem", en: "nine (indeclinable)", ref: g-03}
+  - {id: ii22-v-decem, type: vocab, la: "decem", en: "ten (indeclinable)", ref: g-03}
+  - {id: ii22-v-centum, type: vocab, la: "centum", en: "a hundred (indeclinable)", ref: g-03}
+  - {id: ii22-v-mille, type: vocab, la: "mille · mīlia, mīlium", en: "a thousand · thousands (n. pl. + gen.)", ref: g-03}
+  - {id: ii22-v-quot, type: vocab, la: "quot?", en: "how many?", ref: g-03}
+  - {id: ii22-v-quanti, type: vocab, la: "quantī?", en: "for how much? (gen. of price)", ref: g-05}
+  - {id: ii22-v-primus, type: vocab, la: "prīmus, prīma, prīmum", en: "first", ref: g-04}
+  - {id: ii22-v-secundus, type: vocab, la: "secundus, secunda, secundum", en: "second", ref: g-04}
+  - {id: ii22-v-tertius, type: vocab, la: "tertius, tertia, tertium", en: "third", ref: g-04}
+  - {id: ii22-v-hora, type: vocab, la: "hōra, hōrae", en: "hour (f.)", ref: g-06}
+  - {id: ii22-v-as, type: vocab, la: "as, assis", en: "as (bronze coin) (m.)", ref: g-05}
+  - {id: ii22-v-sestertius, type: vocab, la: "sēstertius, sēstertiī", en: "sesterce (m.)", ref: g-05}
+  - {id: ii22-v-denarius, type: vocab, la: "dēnārius, dēnāriī", en: "denarius (silver coin) (m.)", ref: g-05}
+  - {id: ii22-v-consto, type: vocab, la: "cōnstō, cōnstāre", en: "cost, stand at", ref: g-05}
+  - {id: ii22-v-vendo, type: vocab, la: "vendō, vendere", en: "sell", ref: g-05}
+  - {id: ii22-v-totus, type: vocab, la: "tōtus, tōta, tōtum (tōtīus, tōtī)", en: "whole, all", ref: g-01}
+  - {id: ii22-f-unus-chant, type: forms, q: "Chant *ūnus* masculine singular (subject, of, to/for, object, with/from).", a: "*Ūnus, ūnīus, ūnī, ūnum, ūnō.*", ref: g-01}
+  - {id: ii22-f-unius-uni, type: forms, q: "Genitive and dative singular of *ūnus* (all genders)?", a: "*Ūnīus, ūnī* — same *-īus / -ī* surprise as Chapter 19's pointing words.", ref: g-01}
+  - {id: ii22-f-unus-nauta, type: forms, q: "What is the *ūnus nauta* set?", a: "Nine adjectives that share *-īus / -ī*: *ūnus, nūllus, ūllus, sōlus, neuter, alius, uter, tōtus, alter*.", ref: g-01}
+  - {id: ii22-f-duo-table, type: forms, q: "Subject forms of *duo* (m./f./n.). Object masculine?", a: "*Duo, duae, duo.* Object m. *duōs*.", ref: g-02}
+  - {id: ii22-f-duobus, type: forms, q: "\"With two soldiers.\" \"To two girls.\"", a: "*Cum duōbus mīlitibus. Duābus puellīs.*", ref: g-02}
+  - {id: ii22-f-tres-table, type: forms, q: "Forms of *trēs*: subject n., of, to/for.", a: "*Tria; trium; tribus.*", ref: g-02}
+  - {id: ii22-f-1-10, type: forms, q: "Chant 1–10.", a: "*Ūnus, duo, trēs, quattuor, quīnque, sex, septem, octō, novem, decem.*", ref: g-03}
+  - {id: ii22-f-milia, type: forms, q: "*Mille* vs *mīlia*: \"a thousand soldiers\" · \"two thousand soldiers.\"", a: "*Mille mīlitēs* (adj.). *Duo mīlia mīlitum* (*mīlia* + genitive).", ref: g-03}
+  - {id: ii22-f-partitive, type: forms, q: "Law of the Part? Example with *duo*.", a: "After a number/part-word/*quot*, the whole is often genitive: *duo nostrum*, *pars cāseī*, *satis pecūniae*.", ref: g-03}
+  - {id: ii22-f-nostrum, type: forms, q: "\"Three of us\": *nostrum* or *nostrī*?", a: "*Trēs nostrum* — partitive after a number (Chapter 21 paid off).", ref: g-03}
+  - {id: ii22-f-ordinals, type: forms, q: "First, second, third (masculine).", a: "*Prīmus, secundus, tertius.*", ref: g-04}
+  - {id: ii22-f-quintus, type: forms, q: "*Quīntus* the name sits on which number?", a: "*Quīnque* (five); *quīntus* = fifth (ordinal).", ref: g-04}
+  - {id: ii22-f-september, type: forms, q: "*September…December* — underlying numbers?", a: "7, 8, 9, 10 (*septem, octō, novem, decem*); old year began in March.", ref: g-04}
+  - {id: ii22-f-quanti-price, type: forms, q: "*Quantī est?* Answer \"two denarii.\"", a: "*Duōbus dēnāriīs.* Question in genitive; definite price in ablative.", ref: g-05}
+  - {id: ii22-f-coins, type: forms, q: "Name the three coins and the schoolbook ratio.", a: "*As, sēstertius, dēnārius.* One *dēnārius* ≈ four *sēstertiī*.", ref: g-05}
+  - {id: ii22-f-hora, type: forms, q: "\"At the third hour.\" Which Law?", a: "*Hōrā tertiā* — Law of When (bare ablative for time when).", ref: g-06}
+  - {id: ii22-f-anno-domini, type: forms, q: "*Annō Dominī* as grammar?", a: "Ablative of time when: \"in the year of the Lord.\"", ref: g-06}
+  - {id: ii22-f-carpe, type: forms, q: "*Carpe diem.* (Horace)", a: "\"Seize / pluck the day.\" *Diēs* is a chunk until Chapter 23.", ref: g-06}
+  - {id: ii22-f-pecunia, type: forms, q: "*Pecūnia nōn olet.*", a: "\"Money doesn't smell.\" Vespasian (Suetonius).", ref: g-05}
+  - {id: ii22-f-hirundo, type: forms, q: "*Ūna hirundō nōn facit vēr.*", a: "\"One swallow does not make a spring.\"", ref: g-01}
+  - id: ii22-c-unius
+    type: choose
+    q: "\"Of one boy\": *___ puerī*"
+    options: [Ūnīus, Ūnī, Ūnus]
+    a: Ūnīus
+    why: "Genitive singular *ūnīus* (all genders). *Ūnī* is dative; *ūnus* is nominative."
+    ref: g-01
+  - id: ii22-c-uni
+    type: choose
+    q: "\"I give cheese to one girl\": *___ puellae cāseum dō.*"
+    options: [Ūnī, Ūnīus, Ūnam]
+    a: Ūnī
+    why: "Dative *ūnī*. *Ūnīus* is \"of\"; *ūnam* would be an object."
+    ref: g-01
+  - id: ii22-c-duobus
+    type: choose
+    q: "\"With two soldiers\": *Cum ___ mīlitibus.*"
+    options: [duōbus, duo, duōrum]
+    a: duōbus
+    why: "Ablative *duōbus*. *Duo* is nominative; *duōrum* is genitive."
+    ref: g-02
+  - id: ii22-c-nostrum
+    type: choose
+    q: "\"Two of us\": *Duo ___.*"
+    options: [nostrum, nostrī, noster]
+    a: nostrum
+    why: "Partitive after a number → *nostrum* (Chapter 21)."
+    ref: g-03
+  - id: ii22-c-price
+    type: choose
+    q: "\"The cheese costs two denarii\": *Cāseus ___ cōnstat.*"
+    options: [duōbus dēnāriīs, duōrum dēnāriōrum, quantī]
+    a: duōbus dēnāriīs
+    why: "Definite price → ablative. Genitive would be indefinite value; *quantī* asks the question."
+    ref: g-05
+  - id: ii22-c-quanti
+    type: choose
+    q: "Ask \"How much is it?\": *___ est?*"
+    options: [Quantī, Quot, Quantō]
+    a: Quantī
+    why: "*Quantī?* = for how much? *Quot?* = how many?"
+    ref: g-05
+  - id: ii22-c-hora
+    type: choose
+    q: "\"I'll come at the third hour\": *___ veniam.*"
+    options: [Hōrā tertiā, In hōrā tertiā, Hōram tertiam]
+    a: Hōrā tertiā
+    why: "Law of When: bare ablative. No *in* for time when; accusative is duration."
+    ref: g-06
+  - id: ii22-c-quot
+    type: choose
+    q: "\"How many cheeses do you have?\": *___ cāseōs habēs?*"
+    options: [Quot, Quantī, Quā]
+    a: Quot
+    why: "*Quot?* = how many? *Quantī?* = for how much?"
+    ref: g-03
+  - id: ii22-c-tres
+    type: choose
+    q: "Caesar: *in partēs ___.*"
+    options: [trēs, tria, trium]
+    a: trēs
+    why: "*Partēs* is feminine object plural → *trēs*. *Tria* is neuter; *trium* is genitive."
+    ref: g-02
+  - id: ii22-c-solus
+    type: choose
+    q: "Genitive singular of *sōlus* (like *ūnus*)?"
+    options: [sōlīus, sōlī, sōlus]
+    a: sōlīus
+    why: "*Ūnus nauta* set: genitive *-īus*, dative *-ī*."
+    ref: g-01
+  - id: ii22-c-denarius
+    type: choose
+    q: "Schoolbook: one *dēnārius* ≈ how many *sēstertiī*?"
+    options: ["four", "ten", "two"]
+    a: "four"
+    why: "About four sesterces to a denarius in the schoolbook ratio."
+    ref: g-05
+  - id: ii22-c-september
+    type: choose
+    q: "*September* was originally month number…?"
+    options: ["7", "9", "12"]
+    a: "7"
+    why: "Old Roman year began in March; *septem* = seven."
+    ref: g-04
+  - {id: ii22-e-unius-puella, type: error, q: "Fix: *Ūnīus puella est.*", a: "*Ūna puella est.* (Or *ūnīus puellae liber* if you meant \"of one girl.\")", ref: g-07}
+  - {id: ii22-e-cum-duo, type: error, q: "Fix: *Cum duo mīlitibus.*", a: "*Cum duōbus mīlitibus.* Ablative *duōbus*.", ref: g-07}
+  - {id: ii22-e-nostri, type: error, q: "Fix: *Trēs nostrī hīc sunt* (meaning \"three of us\").", a: "*Trēs nostrum hīc sunt.* Partitive → *nostrum*.", ref: g-07}
+  - {id: ii22-e-price-gen, type: error, q: "Fix: *Cāseus duōrum dēnāriōrum cōnstat* (definite price).", a: "*Cāseus duōbus dēnāriīs cōnstat.* Definite price → ablative.", ref: g-07}
+  - {id: ii22-e-in-hora, type: error, q: "Fix: *In hōrā tertiā veniō.*", a: "*Hōrā tertiā veniō.* Time when is bare ablative.", ref: g-07}
+  - {id: ii22-e-quot-quanti, type: error, q: "Fix: *Quantī cāseōs habēs?* (meaning \"how many\").", a: "*Quot cāseōs habēs?* *Quantī?* asks price.", ref: g-07}
