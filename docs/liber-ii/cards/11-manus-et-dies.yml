@@ -1,0 +1,156 @@
+book: ii
+ch: 23
+page: liber-ii/11-manus-et-dies.md
+cards:
+  - {id: ii23-v-manus, type: vocab, la: "manus, manūs", en: "hand (f.)", ref: g-01}
+  - {id: ii23-v-cornu, type: vocab, la: "cornū, cornūs", en: "horn (n.)", ref: g-03}
+  - {id: ii23-v-genu, type: vocab, la: "genū, genūs", en: "knee (n.)", ref: g-03}
+  - {id: ii23-v-exercitus, type: vocab, la: "exercitus, exercitūs", en: "army (m.)", ref: g-03}
+  - {id: ii23-v-senatus, type: vocab, la: "senātus, senātūs", en: "senate (m.)", ref: g-03}
+  - {id: ii23-v-dies, type: vocab, la: "diēs, diēī", en: "day (m.; sometimes f. set day)", ref: g-04}
+  - {id: ii23-v-res, type: vocab, la: "rēs, reī", en: "thing, matter, affair (f.)", ref: g-05}
+  - {id: ii23-v-fides, type: vocab, la: "fidēs, fideī", en: "faith, trust (f.)", ref: g-05}
+  - {id: ii23-v-spes, type: vocab, la: "spēs, speī", en: "hope (f.)", ref: g-05}
+  - {id: ii23-v-meridies, type: vocab, la: "merīdiēs, merīdiēī", en: "midday, noon (m.)", ref: g-04}
+  - {id: ii23-v-publicus, type: vocab, la: "pūblicus, pūblica, pūblicum", en: "public", ref: g-05}
+  - {id: ii23-v-vacuus, type: vocab, la: "vacuus, vacua, vacuum", en: "empty", ref: g-08}
+  - {id: ii23-v-hesternus, type: vocab, la: "hesternus, hesterna, hesternum", en: "of yesterday", ref: g-08}
+  - {id: ii23-v-hodiernus, type: vocab, la: "hodiērnus, hodiērna, hodiērnum", en: "of today", ref: g-08}
+  - {id: ii23-v-onus, type: vocab, la: "onus, oneris", en: "load, burden (n.)", ref: g-02}
+  - {id: ii23-v-levo, type: vocab, la: "levō, levāre", en: "lift, lighten", ref: g-02}
+  - {id: ii23-f-manus-sg, type: forms, q: "Chant *manus* singular (subject, of, to/for, object, with/from).", a: "*Manus, manūs, manuī, manum, manū.*", ref: g-01}
+  - {id: ii23-f-manus-pl, type: forms, q: "Chant *manus* plural.", a: "*Manūs, manuum, manibus, manūs, manibus.*", ref: g-02}
+  - {id: ii23-f-long-u, type: forms, q: "Law of the Long ū — name the key endings.", a: "Gen. sg. / nom.–acc. pl. *-ūs*; abl. sg. *-ū*; dat. sg. *-uī*; gen. pl. *-uum*; dat./abl. pl. *-ibus*.", ref: g-02}
+  - {id: ii23-f-manus-gender, type: forms, q: "Gender of *manus*? Why is that a trap?", a: "Feminine — even though it ends in *-us* like *hortus*. Say *duae manūs*.", ref: g-01}
+  - {id: ii23-f-cornu, type: forms, q: "*Cornū* singular: naming, of, object, ablative. Plural subjects?", a: "*Cornū, cornūs, cornū, cornū.* Plural *cornua*.", ref: g-03}
+  - {id: ii23-f-family-test, type: forms, q: "*Hortus, hortī* vs *manus, manūs* — how do you know the family?", a: "Dictionary genitive: *-ī* → 2nd; *-ūs* → 4th. Naming form *-us* alone lies.", ref: g-02}
+  - {id: ii23-f-domus, type: forms, q: "What do you keep from Chapter 8 for *domus*, and what is new?", a: "Keep *domum / domī / domō*. New: mixed 2nd/4th house; feminine; genitive can be *domūs* or *domī*.", ref: g-03}
+  - {id: ii23-f-dies-sg, type: forms, q: "Chant *diēs* singular.", a: "*Diēs, diēī, diēī, diem, diē.*", ref: g-04}
+  - {id: ii23-f-dies-pl, type: forms, q: "Chant *diēs* plural.", a: "*Diēs, diērum, diēbus, diēs, diēbus.*", ref: g-04}
+  - {id: ii23-f-dies-gender, type: forms, q: "Usual gender of *diēs*? When feminine?", a: "Usually masculine (*diēs longus*). Sometimes feminine for a set/appointed day; plural masculine.", ref: g-04}
+  - {id: ii23-f-res-sg, type: forms, q: "Chant *rēs* singular.", a: "*Rēs, reī, reī, rem, rē.*", ref: g-05}
+  - {id: ii23-f-res-pl, type: forms, q: "Chant *rēs* plural.", a: "*Rēs, rērum, rēbus, rēs, rēbus.*", ref: g-05}
+  - {id: ii23-f-rei-diei, type: forms, q: "*Reī* vs *diēī* — vowel length?", a: "*Reī* has short *e* (after a consonant); *diēī* has long *ē* (after a vowel).", ref: g-05}
+  - {id: ii23-f-law-day, type: forms, q: "Law of the Day — fifth-family endings?", a: "Nom. *-ēs*; gen./dat. *-ēī/-eī*; acc. *-em*; abl. *-ē*; pl. *-ēs, -ērum, -ēbus*. Only *diēs* and *rēs* full plural.", ref: g-05}
+  - {id: ii23-f-five, type: forms, q: "Five-family genitive badges?", a: "*-ae, -ī, -is, -ūs, -ēī/-eī* (*puellae, hortī, rēgis, manūs, diēī*).", ref: g-06}
+  - {id: ii23-f-abl-map, type: forms, q: "Ablative singular map across five families?", a: "1st *-ā*; 2nd *-ō*; 3rd *-e/-ī*; 4th *-ū*; 5th *-ē*.", ref: g-06}
+  - {id: ii23-f-carpe, type: forms, q: "*Carpe diem* fully cracked.", a: "*Carpe* = sg. command of *carpō*; *diem* = 5th-family object; \"pluck/seize the day.\"", ref: g-04}
+  - {id: ii23-f-manus-lavat, type: forms, q: "*Manus manum lavat.* Subject and object?", a: "Subject *manus*; object *manum* — one hand washes another (not *sē*).", ref: g-01}
+  - {id: ii23-f-res-publica, type: forms, q: "*Rēs pūblica.* Literal and English?", a: "\"The public thing\" → commonwealth / republic. Both words feminine.", ref: g-05}
+  - {id: ii23-f-in-manu, type: forms, q: "\"The cheese is in the hand.\" \"On the third day.\"", a: "*In manū cāseus est. Diē tertiā.*", ref: g-04}
+  - {id: ii23-f-nulla-dies, type: forms, q: "*Nūlla diēs sine līneā.*", a: "\"No day without a line.\" (Pliny / Apelles.) Here *diēs* with feminine *nūlla*.", ref: g-04}
+  - {id: ii23-f-quid-rei, type: forms, q: "*Quid rēī est?*", a: "\"What's the matter?\" / \"What's going on?\" (literally \"what of a thing…\").", ref: g-05}
+  - id: ii23-c-manu
+    type: choose
+    q: "\"I have the cheese in my hand\": *___ cāseum habeō.*"
+    options: [Manū, Manī, Manūs]
+    a: Manū
+    why: "Ablative *-ū* (4th). *Manī* is a 2nd-decl trap; *manūs* is gen. sg. or nom./acc. pl."
+    ref: g-07
+  - id: ii23-c-manui
+    type: choose
+    q: "Dative singular of *manus*?"
+    options: [manuī, manū, manum]
+    a: manuī
+    why: "Dative *-uī* (three syllables). *Manū* is ablative; *manum* is accusative."
+    ref: g-01
+  - id: ii23-c-manus-pl
+    type: choose
+    q: "\"I see hands\": *___ videō.*"
+    options: [Manūs, Manus, Manibus]
+    a: Manūs
+    why: "Accusative plural *-ūs*. *Manus* is nominative singular; *manibus* is dat./abl. pl."
+    ref: g-02
+  - id: ii23-c-duae
+    type: choose
+    q: "\"Two hands\": *___ manūs.*"
+    options: [Duae, Duo, Dua]
+    a: Duae
+    why: "*Manus* is feminine → *duae*."
+    ref: g-02
+  - id: ii23-c-diei
+    type: choose
+    q: "\"Of the day\": *___.*"
+    options: [diēī, diē, diem]
+    a: diēī
+    why: "Genitive *diēī*. *Diē* is ablative; *diem* is accusative."
+    ref: g-04
+  - id: ii23-c-die-tertia
+    type: choose
+    q: "\"On the third day\": *___.*"
+    options: [Diē tertiā, In diem tertium, Diēī tertiae]
+    a: Diē tertiā
+    why: "Ablative of time (Law of When). Not *in* + accusative for \"on.\""
+    ref: g-07
+  - id: ii23-c-rem
+    type: choose
+    q: "\"I see the thing\": *___ videō.*"
+    options: [Rem, Rēs, Reī]
+    a: Rem
+    why: "Accusative *rem*. *Rēs* is nominative; *reī* is gen./dat."
+    ref: g-05
+  - id: ii23-c-res-publica
+    type: choose
+    q: "Nominative: *___ pūblica.*"
+    options: [Rēs, Rem, Reī]
+    a: Rēs
+    why: "Both nominative feminine: *rēs pūblica*. Accusative would be *rem pūblicam*."
+    ref: g-05
+  - id: ii23-c-family-manus
+    type: choose
+    q: "*Manus, manūs* belongs to which family?"
+    options: ["4th", "2nd", "5th"]
+    a: "4th"
+    why: "Genitive *-ūs* → fourth declension (long-ū family)."
+    ref: g-01
+  - id: ii23-c-family-dies
+    type: choose
+    q: "*Diēs, diēī* belongs to which family?"
+    options: ["5th", "3rd", "4th"]
+    a: "5th"
+    why: "Genitive *-ēī* → fifth declension (long-ē family)."
+    ref: g-04
+  - id: ii23-c-badge
+    type: choose
+    q: "Fourth-family genitive badge?"
+    options: ["-ūs", "-ī", "-is"]
+    a: "-ūs"
+    why: "*-ūs* = 4th; *-ī* = 2nd; *-is* = 3rd."
+    ref: g-06
+  - id: ii23-c-cornu-pl
+    type: choose
+    q: "Neuter plural of *cornū* (subjects/objects)?"
+    options: [cornua, cornūs, cornū]
+    a: cornua
+    why: "Neuter Twins plural *-ua* in the 4th family."
+    ref: g-03
+  - id: ii23-c-manibus
+    type: choose
+    q: "\"With hands\": *Cum ___.*"
+    options: [manibus, manūs, manuum]
+    a: manibus
+    why: "Ablative plural *-ibus*. *Manūs* is nom./acc. pl.; *manuum* is gen. pl."
+    ref: g-02
+  - id: ii23-c-rei-short
+    type: choose
+    q: "Genitive of *rēs*?"
+    options: [reī, rēī, rē]
+    a: reī
+    why: "Short *e*: *reī*. *Rē* is ablative. (Compare long *ē* in *diēī*.)"
+    ref: g-05
+  - id: ii23-c-five-law
+    type: choose
+    q: "How many noun families (declensions) does Latin have?"
+    options: ["five", "three", "four"]
+    a: "five"
+    why: "Law of Five Families: 1st through 5th."
+    ref: g-06
+  - {id: ii23-e-mani, type: error, q: "Fix: *Manī cāseum habeō.*", a: "*Manū cāseum habeō.* Ablative *-ū*, not 2nd-decl *-ī*.", ref: g-07}
+  - {id: ii23-e-cum-manus, type: error, q: "Fix: *Cum manūs labōrō.*", a: "*Cum manibus labōrō.* Ablative plural *-ibus*.", ref: g-07}
+  - {id: ii23-e-diei-longus, type: error, q: "Fix: *Diēī longus est.*", a: "*Diēs longus est.* Subject is nominative *diēs*.", ref: g-07}
+  - {id: ii23-e-rem-publicum, type: error, q: "Fix: *Rem pūblicum* as a nominative phrase.", a: "*Rēs pūblica.* Both feminine nominative. (Accusative: *rem pūblicam*.)", ref: g-07}
+  - {id: ii23-e-in-diem, type: error, q: "Fix: *In diem tertium veniō* meaning \"on the third day.\"", a: "*Diē tertiā veniō* (bare ablative of time).", ref: g-07}
+  - {id: ii23-e-manum-manus, type: error, q: "Fix: *Manum manūs lavat* (trying to say the motto).", a: "*Manus manum lavat.* Subject *manus*, object *manum*.", ref: g-07}
+  - {id: ii23-f-exercitus, type: forms, q: "Most 4th-decl *-us* nouns are what gender? Examples?", a: "Masculine — *senātus, exercitus*. Feminine exceptions include *manus, domus*.", ref: g-03}
+  - {id: ii23-e-hortus-manus, type: error, q: "Fix the family: treating *manus* like *hortus* → *manī*.", a: "Fourth family: *manūs* (gen.), not *manī*. Learn the dictionary pair.", ref: g-07}
+  - {id: ii23-f-law-five, type: forms, q: "Law of Five Families in one sentence.", a: "Learn every noun as nominative + genitive badge (*-ae, -ī, -is, -ūs, -ēī/-eī*) + gender; the naming form alone will lie.", ref: g-06}
