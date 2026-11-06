@@ -24,4 +24,4 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 | 21 | [**Sē et Suum**](09-se-et-suum.md) | G: full declension of ego/tū/nōs/vōs (mē, tē, nōbīs, vōbīs, meī/nostrum…); reflexive sē/suus vs eius; ipse. S: "he washes himself" / "his own". | ✅ available |
 | 22 | [**Ūnus, Duo, Trēs**](10-unus-duo-tres.md) | G: numerals, partitive genitive, ablative of time. V: money, time, calendar. S: telling time, prices (quantī?). | ✅ available |
 | 23 | [**Manus et Diēs**](11-manus-et-dies.md) | G: 4th & 5th decl; all five declensions summarized. V: days, things (rēs!). | ✅ available |
-| 24 | **Recapitulātiō II** | Review + longer story. | coming |
+| 24 | [**Recapitulātiō II**](12-recapitulatio-ii.md) | Review + longer story. | ✅ available |

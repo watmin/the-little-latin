@@ -1,0 +1,205 @@
+book: ii
+ch: 24
+page: liber-ii/12-recapitulatio-ii.md
+cards:
+  - {id: ii24-v-rursus, type: vocab, la: "rūrsus", en: "again", ref: g-09}
+  - {id: ii24-v-fere, type: vocab, la: "ferē", en: "almost, nearly", ref: g-09}
+  - {id: ii24-v-denique, type: vocab, la: "denique", en: "finally, at last", ref: g-09}
+  - {id: ii24-f-stem, type: forms, q: "Law of the Stem: how do you find the stem of *rēx*?", a: "Take *-is* off the genitive: *rēgis* → *rēg-*.", ref: g-01}
+  - {id: ii24-f-rex-sg, type: forms, q: "Decline *rēx* singular (subject → with/from).", a: "*Rēx, rēgis, rēgī, rēgem, rēge.*", ref: g-01}
+  - {id: ii24-f-milites, type: forms, q: "Plural of *mīles* (Double Duty).", a: "*Mīlitēs, mīlitum, mīlitibus, mīlitēs, mīlitibus.*", ref: g-01}
+  - {id: ii24-f-corpora, type: forms, q: "*Nōmen* and *corpus*: family, gender, plural subjects?", a: "Third-family neuters. Plurals *nōmina, corpora*. Disguise *-us/-oris*.", ref: g-01}
+  - {id: ii24-f-ium, type: forms, q: "Genitive plurals: *ovis · urbs · canis*?", a: "*Ovium · urbium · canum* (rebel).", ref: g-01}
+  - {id: ii24-f-sea, type: forms, q: "Law of the Sea: abl. sg., plural subjects, of many (*animal*)?", a: "*-ī, -ia, -ium* → *animālī, animālia, animālium*. *In marī · maria.*", ref: g-01}
+  - {id: ii24-f-patri, type: forms, q: "\"I give cheese to Father. I see Mother. With John.\"", a: "*Patrī cāseum dō. Mātrem videō. Cum Iōanne.*", ref: g-01}
+  - {id: ii24-f-amabam, type: forms, q: "Chant *amō* imperfect, then future.", a: "*Amābam…amābant.* · *Amābō…amābunt.*", ref: g-02}
+  - {id: ii24-f-time-signs, type: forms, q: "Law of the Time Signs (1st/2nd conj.)?", a: "No sign = present; *-bā-* imperfect; *-bi-* future (*-bō/-bunt*).", ref: g-02}
+  - {id: ii24-f-legam, type: forms, q: "Chant *legō* future. Then \"I\" forms present / imperfect / future.", a: "*Legam, legēs, leget, legēmus, legētis, legent.* · *Legō · legēbam · legam.*", ref: g-02}
+  - {id: ii24-f-two-futures, type: forms, q: "Law of the Two Futures?", a: "*-āre/-ēre* → *bō, bi, bu*; *-ere/-īre/-iō* → *am, ēs, et…*; rebels *ībō, erō*.", ref: g-02}
+  - {id: ii24-f-clock, type: forms, q: "Fix *Heri cantābō* and *Crās legēbam.*", a: "*Heri cantābam. Crās legam.* Law of the Clock.", ref: g-02}
+  - {id: ii24-f-heri-cras, type: forms, q: "\"Yesterday Grandpa was sleeping. Tomorrow we will go to Rome.\"", a: "*Heri Avus dormiēbat. Crās Rōmam ībimus.*", ref: g-02}
+  - {id: ii24-f-possum, type: forms, q: "Chant *possum* present. What is it made of?", a: "*Possum, potes, potest, possumus, potestis, possunt.* = *pot-* + *sum*.", ref: g-03}
+  - {id: ii24-f-comp-inf, type: forms, q: "What is a complementary infinitive? Example.", a: "The infinitive that completes a verb: *possum legere*.", ref: g-03}
+  - {id: ii24-f-volo-nolo, type: forms, q: "Chant *volō* and *nōlō* present. Wild forms? *Nōlī*?", a: "*Volō, vīs, vult, volumus, vultis, volunt · velle.* · *Nōlō…nōlunt · nōlle.* *Nōlī/nōlīte* = *nōlō*'s command.", ref: g-03}
+  - {id: ii24-f-want-buy, type: forms, q: "\"I want to buy cheese. Y'all cannot run. Don't wait!\"", a: "*Cāseum emere volō. Currere nōn potestis. Nōlīte exspectāre!*", ref: g-03}
+  - {id: ii24-f-hic, type: forms, q: "*Hic, haec, hoc* for book / table / body. Gen. and dat.?", a: "*Hic liber · haec mēnsa · hoc corpus.* · *Huius · huic.*", ref: g-04}
+  - {id: ii24-f-near-far, type: forms, q: "Law of Near and Far?", a: "*Hic* near me · *iste* near you · *ille* over there · *is* points back.", ref: g-04}
+  - {id: ii24-f-idem, type: forms, q: "\"This cheese or that? I want the same!\"", a: "*Hunc cāseum an illum vīs? Eundem volō!*", ref: g-04}
+  - {id: ii24-f-two-families, type: forms, q: "Law of the Two Families? *Rēx bonus* genitive?", a: "Same gender/number/case, not letters. *Rēgis bonī* (not *bonis*).", ref: g-05}
+  - {id: ii24-f-fortis, type: forms, q: "*Fortis, forte*: plurals and abl. sg.? Three Shapes?", a: "*-ēs/-ia*; abl. *-ī*. Shapes 3/2/1 (*ācer / fortis / fēlīx*), then all like *fortis*.", ref: g-05}
+  - {id: ii24-f-patre-forti, type: forms, q: "\"With a brave father; brave bodies; of brave soldiers.\"", a: "*Cum patre fortī. Corpora fortia. Mīlitum fortium.*", ref: g-05}
+  - {id: ii24-f-ego, type: forms, q: "Chant *ego* singular (with *mēcum*).", a: "*Ego, meī, mihi, mē, mēcum.*", ref: g-06}
+  - {id: ii24-f-se-suus, type: forms, q: "*Avus sē lavat* vs *eum lavat*? *Suus* vs *eius*?", a: "Himself · him. *Suus* = his own (of the subject); *eius* = someone else's.", ref: g-06}
+  - {id: ii24-f-looking-back, type: forms, q: "Law of Looking Back in one line.", a: "Back to the subject → *sē / suus*; someone else → *eum / eius*.", ref: g-06}
+  - {id: ii24-f-unus, type: forms, q: "*Ūnus* surprise endings? Law of the Part example?", a: "*Ūnīus, ūnī.* · *Duo nostrum · pars cāseī · satis pecūniae.*", ref: g-07}
+  - {id: ii24-f-when, type: forms, q: "Law of When? *Quot?* vs *quantī?*", a: "Bare ablative: *hōrā tertiā · diē tertiā.* · How many? · for how much?", ref: g-07}
+  - {id: ii24-f-manus, type: forms, q: "Chant *manus* singular and plural. Gender?", a: "*Manus, manūs, manuī, manum, manū* · *manūs, manuum, manibus, manūs, manibus.* Feminine.", ref: g-08}
+  - {id: ii24-f-dies-res, type: forms, q: "Chant *diēs* and *rēs* singular. *Reī* vs *diēī*?", a: "*Diēs, diēī, diēī, diem, diē.* · *Rēs, reī, reī, rem, rē.* Short *e* in *reī*.", ref: g-08}
+  - {id: ii24-f-five, type: forms, q: "Five-family badges and abl. sg. map?", a: "*-ae, -ī, -is, -ūs, -ēī/-eī.* Abl. *-ā, -ō, -e/-ī, -ū, -ē.*", ref: g-08}
+  - {id: ii24-f-mottos, type: forms, q: "*Manus manum lavat · Carpe diem · Rēs pūblica.*", a: "One hand washes the other · seize the day · the republic.", ref: g-08}
+  - {id: ii24-f-omnium, type: forms, q: "How does Ch24's cheese gag close the Ch23 ending?", a: "Ch23: *in stomachō canis.* Ch24: *in stomachīs omnium.*", ref: g-09}
+  - id: ii24-c-legam
+    type: choose
+    q: "\"I will read\": *___*"
+    options: [legam, legābō, legēbam]
+    a: legam
+    why: "Third-family future is *am, ēs, et…* — not *bō*. *Legēbam* is imperfect."
+    ref: g-02
+  - id: ii24-c-possum-legere
+    type: choose
+    q: "\"I can read\": *Possum ___*"
+    options: [legere, legō, legis]
+    a: legere
+    why: "Complementary infinitive completes *possum*."
+    ref: g-03
+  - id: ii24-c-hic-hic
+    type: choose
+    q: "\"This boy is here\": *___ puer ___ est.*"
+    options: ["Hic / hīc", "Hīc / hic", "Hic / hic"]
+    a: "Hic / hīc"
+    why: "*Hic* (short) = this; *hīc* (long) = here."
+    ref: g-04
+  - id: ii24-c-forti
+    type: choose
+    q: "\"with a brave father\": *cum patre ___*"
+    options: [fortī, forte, fortis]
+    a: fortī
+    why: "Ablative singular of *fortis* is always *-ī*."
+    ref: g-05
+  - id: ii24-c-se
+    type: choose
+    q: "\"Grandpa washes himself\": *Avus ___ lavat.*"
+    options: [sē, eum, mē]
+    a: sē
+    why: "Reflexive points back to the subject *Avus*."
+    ref: g-06
+  - id: ii24-c-suus
+    type: choose
+    q: "Marcus reads his own book: *Marcus librum ___ legit.*"
+    options: [suum, eius, sē]
+    a: suum
+    why: "*Suus* = his own (belongs to the subject)."
+    ref: g-06
+  - id: ii24-c-quanti
+    type: choose
+    q: "\"For how much?\": *___?*"
+    options: [Quantī, Quot, Quandō]
+    a: Quantī
+    why: "*Quantī?* = for how much?; *quot?* = how many?"
+    ref: g-07
+  - id: ii24-c-die-tertia
+    type: choose
+    q: "\"On the third day\": *___*"
+    options: ["diē tertiā", "diem tertium", "diēī tertiae"]
+    a: "diē tertiā"
+    why: "Ablative of time (Law of When)."
+    ref: g-07
+  - id: ii24-c-manu
+    type: choose
+    q: "\"In the hand\": *in ___*"
+    options: [manū, manī, manus]
+    a: manū
+    why: "Fourth-family ablative *-ū*."
+    ref: g-08
+  - id: ii24-c-duae
+    type: choose
+    q: "\"Two hands\": *___ manūs*"
+    options: [Duae, Duo, Dua]
+    a: Duae
+    why: "*Manus* is feminine → *duae*."
+    ref: g-08
+  - id: ii24-c-ovium
+    type: choose
+    q: "\"Of sheep\": *___*"
+    options: [ovium, ovum, ovis]
+    a: ovium
+    why: "I-stem genitive plural *-ium*."
+    ref: g-01
+  - id: ii24-c-nolo
+    type: choose
+    q: "One-word \"I don't want to!\": *___!*"
+    options: [Nōlō, Nōn volō, Nōlī]
+    a: Nōlō
+    why: "*Nōlō* is the one-word verb; *nōlī* is the command \"don't!\""
+    ref: g-03
+  - id: ii24-c-iste
+    type: choose
+    q: "Near the person you're talking to: *___*"
+    options: [iste, hic, ille]
+    a: iste
+    why: "Law of Near and Far: *iste* = near you."
+    ref: g-04
+  - id: ii24-c-acer
+    type: choose
+    q: "\"a sharp cheese\" (object): *cāseum ___*"
+    options: [ācrem, ācris, ācer]
+    a: ācrem
+    why: "Accusative singular of *ācer* is *ācrem*."
+    ref: g-05
+  - id: ii24-c-five-badge
+    type: choose
+    q: "Fourth-family genitive badge?"
+    options: ["-ūs", "-ī", "-is"]
+    a: "-ūs"
+    why: "Five-family badges: *-ae, -ī, -is, -ūs, -ēī/-eī*."
+    ref: g-08
+  - id: ii24-e-possum-lego
+    type: error
+    q: "*Possum legō.* What's wrong?"
+    a: "*Possum legere.* Completing needs the infinitive."
+    ref: g-03
+  - id: ii24-e-hic-malum
+    type: error
+    q: "*Hic mālum est.* What's wrong?"
+    a: "*Hoc mālum est.* Neuter takes *hoc*."
+    ref: g-04
+  - id: ii24-e-forta
+    type: error
+    q: "*Fēmina forta.* What's wrong?"
+    a: "*Fēmina fortis.* Two-ending adjective: m./f. *fortis*."
+    ref: g-05
+  - id: ii24-e-ego-se
+    type: error
+    q: "*Ego sē lavō.* What's wrong?"
+    a: "*Ego mē lavō.* Reflexive matches the subject (*ego* → *mē*)."
+    ref: g-06
+  - id: ii24-e-cum-nobis
+    type: error
+    q: "*Cum nōbīs.* What's wrong?"
+    a: "*Nōbīscum.* Like *mēcum / tēcum*."
+    ref: g-06
+  - id: ii24-e-mani
+    type: error
+    q: "*Manī cāseum habeō.* What's wrong?"
+    a: "*Manū cāseum habeō.* Fourth-family ablative is *-ū*, not *-ī*."
+    ref: g-08
+  - id: ii24-e-cras-legebam
+    type: error
+    q: "*Crās legēbam.* What's wrong?"
+    a: "*Crās legam.* Tomorrow wants the future (Law of the Clock)."
+    ref: g-02
+  - id: ii24-e-rem-publicum
+    type: error
+    q: "*Rem pūblicum* as a nominative title. What's wrong?"
+    a: "*Rēs pūblica.* Both words feminine nominative."
+    ref: g-08
+  - id: ii24-e-heri-cantabo
+    type: error
+    q: "*Heri cantābō.* What's wrong?"
+    a: "*Heri cantābam.* Yesterday wants the imperfect."
+    ref: g-02
+  - id: ii24-e-rex-bonis
+    type: error
+    q: "*Rēgis bonis* for \"of the good king.\" What's wrong?"
+    a: "*Rēgis bonī.* The adjective keeps second-family letters; agreement is not rhyme."
+    ref: g-05
+  - id: ii24-e-in-diem
+    type: error
+    q: "*In diem tertium veniō* meant as \"on the third day.\" What's wrong?"
+    a: "*Diē tertiā.* Ablative of time, not *in* + accusative."
+    ref: g-07
+  - id: ii24-e-volant
+    type: error
+    q: "Learner writes *Marcus cāseum volant* for \"they want.\" What's wrong?"
+    a: "*Volunt* = they want. *Volant* = they fly (*volāre*)."
+    ref: g-03
