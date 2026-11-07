@@ -6,14 +6,14 @@
 
 *Stories: Narrating the past, relatives, passive*
 
-!!! info "Coming soon"
-    This book hasn't been written yet. Below is the planned sequence of chapters, which may change as the course grows.
+!!! tip "In progress"
+    Chapters are arriving one by one. Below is the planned sequence, which may change as the course grows.
 
 Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · **S** = speaking goal.
 
 | # | Chapter | Contents | Status |
 |---|---|---|---|
-| 25 | **Vēnī, Vīdī, Vīcī** | G: principal parts; perfect active (all conj.). S: what did you do? | coming |
+| 25 | [**Vēnī, Vīdī, Vīcī**](01-veni-vidi-vici.md) | G: principal parts; perfect active (all conj.). S: what did you do? | ✅ available |
 | 26 | **Erat et Fuit** | G: perfect vs imperfect aspect; narration. S: tell a story. | coming |
 | 27 | **Iam Fēceram** | G: pluperfect & future perfect. S: sequencing events. | coming |
 | 28 | **Quī, Quae, Quod** | G: relative pronoun, relative clauses. S: the man who… | coming |

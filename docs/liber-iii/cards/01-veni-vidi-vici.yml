@@ -1,0 +1,364 @@
+book: iii
+ch: 25
+page: liber-iii/01-veni-vidi-vici.md
+cards:
+- id: iii25-v-amo
+  type: vocab
+  la: amō, amāre, amāvī, amātum
+  en: 'love (perfect: I loved / have loved)'
+  ref: g-02
+- id: iii25-v-porto
+  type: vocab
+  la: portō, portāre, portāvī, portātum
+  en: carry, bring
+  ref: g-04
+- id: iii25-v-habeo
+  type: vocab
+  la: habeō, habēre, habuī, habitum
+  en: have, hold
+  ref: g-02
+- id: iii25-v-video
+  type: vocab
+  la: videō, vidēre, vīdī, vīsum
+  en: see
+  ref: g-03
+- id: iii25-v-dico
+  type: vocab
+  la: dīcō, dīcere, dīxī, dictum
+  en: say, tell
+  ref: g-05
+- id: iii25-v-lego
+  type: vocab
+  la: legō, legere, lēgī, lēctum
+  en: read; gather
+  ref: g-02
+- id: iii25-v-scribo
+  type: vocab
+  la: scrībō, scrībere, scrīpsī, scrīptum
+  en: write
+  ref: g-05
+- id: iii25-v-vinco
+  type: vocab
+  la: vincō, vincere, vīcī, victum
+  en: conquer, win, defeat
+  ref: g-05
+- id: iii25-v-emo
+  type: vocab
+  la: emō, emere, ēmī, emptum
+  en: buy
+  ref: g-07
+- id: iii25-v-edo
+  type: vocab
+  la: edō, edere, ēdī, ēsum
+  en: eat
+  ref: g-08
+- id: iii25-v-capio
+  type: vocab
+  la: capiō, capere, cēpī, captum
+  en: take, seize
+  ref: g-03
+- id: iii25-v-facio
+  type: vocab
+  la: faciō, facere, fēcī, factum
+  en: do, make
+  ref: g-01
+- id: iii25-v-audio
+  type: vocab
+  la: audiō, audīre, audīvī, audītum
+  en: hear, listen
+  ref: g-02
+- id: iii25-v-venio
+  type: vocab
+  la: veniō, venīre, vēnī, ventum
+  en: come
+  ref: g-01
+- id: iii25-v-sum
+  type: vocab
+  la: sum, esse, fuī, futūrus
+  en: 'be (perfect: I was / have been)'
+  ref: g-06
+- id: iii25-v-eo
+  type: vocab
+  la: eō, īre, iī (īvī), itum
+  en: go
+  ref: g-06
+- id: iii25-v-fero
+  type: vocab
+  la: ferō, ferre, tulī, lātum
+  en: carry, bring, bear
+  ref: g-06
+- id: iii25-v-do
+  type: vocab
+  la: dō, dare, dedī, datum
+  en: give
+  ref: g-06
+- id: iii25-v-possum
+  type: vocab
+  la: possum, posse, potuī
+  en: be able, can (no fourth key in common school lists)
+  ref: g-06
+- id: iii25-v-perfectum
+  type: vocab
+  la: perfectum
+  en: the perfect (finished-fact past)
+  ref: g-01
+- id: iii25-v-prinparts
+  type: vocab
+  la: principal parts
+  en: the four dictionary keys of a verb
+  ref: g-02
+- id: iii25-v-perfstem
+  type: vocab
+  la: perfect stem
+  en: stem from key 3 (drop *-ī*)
+  ref: g-03
+- id: iii25-v-endings
+  type: vocab
+  la: -ī, -istī, -it, -imus, -istis, -ērunt
+  en: perfect active person endings
+  ref: g-04
+- id: iii25-v-nato
+  type: vocab
+  la: natō, natāre, natāvī, natātum
+  en: swim
+  ref: g-07
+- id: iii25-v-laboro
+  type: vocab
+  la: labōrō, labōrāre, labōrāvī, labōrātum
+  en: work
+  ref: g-04
+- id: iii25-v-canto
+  type: vocab
+  la: cantō, cantāre, cantāvī, cantātum
+  en: sing
+  ref: g-08
+- id: iii25-v-duco
+  type: vocab
+  la: dūcō, dūcere, dūxī, ductum
+  en: lead, take (a person/animal)
+  ref: g-08
+- id: iii25-f-perfect-name
+  type: forms
+  q: What is the *perfect* in plain English?
+  a: 'The finished-fact past: "I …ed" / "I have …ed." Latin *perfectum* = completed. Snapshot, not film.'
+  ref: g-01
+- id: iii25-f-veni-macron
+  type: forms
+  q: '*Venī!* vs *vēnī* — what flips?'
+  a: Short e = command "Come!"; long ē = perfect "I came." One macron flips the clock.
+  ref: g-01
+- id: iii25-f-caesar
+  type: forms
+  q: Say and translate Caesar's line.
+  a: '*Vēnī, vīdī, vīcī* — I came, I saw, I conquered.'
+  ref: g-01
+- id: iii25-f-four-keys
+  type: forms
+  q: Law of the Four Keys?
+  a: 'Four principal parts: keys 1–2 → present stem (pres/imp/fut); key 3 → perfect stem; key 4 banked for passives. Learn the four; don''t invent the third.'
+  ref: g-02
+- id: iii25-f-amo-pp
+  type: forms
+  q: Four principal parts of *amō*?
+  a: '*Amō, amāre, amāvī, amātum.*'
+  ref: g-02
+- id: iii25-f-perf-stem
+  type: forms
+  q: How do you find the perfect stem?
+  a: 'Take principal part 3, drop *-ī*: *amāvī → amāv-*, *lēgī → lēg-*, *vēnī → vēn-*.'
+  ref: g-03
+- id: iii25-f-endings-chant
+  type: forms
+  q: Chant the perfect person endings.
+  a: '*-ī, -istī, -it, -imus, -istis, -ērunt.*'
+  ref: g-04
+- id: iii25-f-amavi-chant
+  type: forms
+  q: Chant *amō* in the perfect, all six.
+  a: '*Amāvī, amāvistī, amāvit, amāvimus, amāvistis, amāvērunt.*'
+  ref: g-04
+- id: iii25-f-finished-fact
+  type: forms
+  q: Law of the Finished Fact?
+  a: Perfect stem + *-ī -istī -it -imus -istis -ērunt* for every family. Finished fact / snapshot; imperfect remains the film.
+  ref: g-04
+- id: iii25-f-habui-chant
+  type: forms
+  q: Chant *habeō* perfect, all six.
+  a: '*Habuī, habuistī, habuit, habuimus, habuistis, habuērunt.*'
+  ref: g-05
+- id: iii25-f-legi-chant
+  type: forms
+  q: Chant *legō* perfect, all six.
+  a: '*Lēgī, lēgistī, lēgit, lēgimus, lēgistis, lēgērunt.*'
+  ref: g-05
+- id: iii25-f-audivi-chant
+  type: forms
+  q: Chant *audiō* perfect, all six.
+  a: '*Audīvī, audīvistī, audīvit, audīvimus, audīvistis, audīvērunt.*'
+  ref: g-05
+- id: iii25-f-cepi-feci
+  type: forms
+  q: '*Capiō* and *faciō* perfect "I"?'
+  a: '*Cēpī* · *fēcī.*'
+  ref: g-05
+- id: iii25-f-quid-fecisti
+  type: forms
+  q: '*Quid fēcistī?* / *Quid fēcistis?*'
+  a: '"What did you do?" / "What did y''all do?"'
+  ref: g-01
+- id: iii25-f-fui-chant
+  type: forms
+  q: Chant *sum* perfect, all six.
+  a: '*Fuī, fuistī, fuit, fuimus, fuistis, fuērunt.*'
+  ref: g-06
+- id: iii25-f-ii-chant
+  type: forms
+  q: Chant *eō* perfect (short set), all six.
+  a: '*Iī, īstī, iit, iimus, īstis, iērunt.* (*Īvī…* also fine.)'
+  ref: g-06
+- id: iii25-f-tuli-dedi
+  type: forms
+  q: Perfect stems of *ferō* and *dō*?
+  a: '*Tul-* (*tulī…*) · *ded-* (*dedī…*).'
+  ref: g-06
+- id: iii25-f-potui
+  type: forms
+  q: '"I couldn''t" as a finished fact (*possum*)?'
+  a: '*Nōn potuī.* (Imperfect *nōn poteram* = the long scene.)'
+  ref: g-06
+- id: iii25-f-natabam-natavi
+  type: forms
+  q: '*Heri natābam* vs *Heri natāvī*?'
+  a: Imperfect = film (was swimming); perfect = snapshot (swam / have swam as fact).
+  ref: g-07
+- id: iii25-c-veni
+  type: choose
+  q: '"I came" (not the command): *___*'
+  options:
+  - vēnī
+  - venī
+  - veniō
+  a: vēnī
+  why: Long ē = perfect "I came." Short *venī* is "Come!"; *veniō* is present.
+  ref: g-01
+- id: iii25-c-amavi
+  type: choose
+  q: 'Perfect "I loved": *___*'
+  options:
+  - amāvī
+  - amābam
+  - amābō
+  a: amāvī
+  why: '*Amāvī* is perfect. *Amābam* imperfect film; *amābō* future.'
+  ref: g-04
+- id: iii25-c-endings
+  type: choose
+  q: Perfect "y'all" ending?
+  options:
+  - -istis
+  - -tis
+  - -itis
+  a: -istis
+  why: Perfect y'all is *-istis* (*amāvistis*). Present/imperfect use *-tis*.
+  ref: g-04
+- id: iii25-c-erunt
+  type: choose
+  q: '"They loved" perfect: *___*'
+  options:
+  - amāvērunt
+  - amābant
+  - amāvunt
+  a: amāvērunt
+  why: Perfect they = stem + *-ērunt* (long ē).
+  ref: g-04
+- id: iii25-c-legi
+  type: choose
+  q: '"We read" (finished): *___*'
+  options:
+  - lēgimus
+  - legimus
+  - legēbāmus
+  a: lēgimus
+  why: Perfect stem *lēg-* (long ē) + *-imus*. Present *legimus*; imperfect *legēbāmus*.
+  ref: g-05
+- id: iii25-c-feci
+  type: choose
+  q: '"What did you do?": *Quid ___?*'
+  options:
+  - fēcistī
+  - facis
+  - faciēbās
+  a: fēcistī
+  why: Perfect of *faciō* + *-istī*.
+  ref: g-01
+- id: iii25-c-fui
+  type: choose
+  q: 'Perfect "I was": *___*'
+  options:
+  - fuī
+  - eram
+  - erō
+  a: fuī
+  why: '*Fuī* perfect snapshot; *eram* imperfect; *erō* future.'
+  ref: g-06
+- id: iii25-c-tuli
+  type: choose
+  q: 'Perfect of *ferō* "he carried": *___*'
+  options:
+  - tulit
+  - ferit
+  - ferēbat
+  a: tulit
+  why: Wild stem *tul-*. *Ferēbat* is imperfect.
+  ref: g-06
+- id: iii25-c-dedi
+  type: choose
+  q: '"I gave you the cheese": *Cāseum tibi ___.*'
+  options:
+  - dedī
+  - dabō
+  - dabam
+  a: dedī
+  why: Perfect *dedī*. *Dabō* future; *dabam* imperfect.
+  ref: g-06
+- id: iii25-c-ii
+  type: choose
+  q: '"Yesterday we went to Rome": *Heri Rōmam ___.*'
+  options:
+  - iimus
+  - īmus
+  - ībāmus
+  a: iimus
+  why: Perfect *iimus*. Present *īmus*; imperfect *ībāmus*.
+  ref: g-06
+- id: iii25-e-amavo
+  type: error
+  q: 'Fix: *Amāvō* for "I loved."'
+  a: '*Amāvī.* *-ō* is not a perfect ending; don''t mix future *-bō* onto the perfect stem.'
+  ref: g-04
+- id: iii25-e-legavi
+  type: error
+  q: 'Fix: *Lēgāvī* for "I read."'
+  a: '*Lēgī.* Third conjugation doesn''t add first-conjugation *-āvī*; trust key 3.'
+  ref: g-05
+- id: iii25-e-veni-short
+  type: error
+  q: 'Fix: *Venī* meant as "I came."'
+  a: '*Vēnī* with long ē. Short *venī* is the command "Come!"'
+  ref: g-01
+- id: iii25-e-fuebam
+  type: error
+  q: 'Fix: *Fuēbam* for "I was."'
+  a: Either *eram* (imperfect) or *fuī* (perfect). Don't glue *-ba-* onto *fu-*.
+  ref: g-06
+- id: iii25-e-tulavi
+  type: error
+  q: 'Fix: *Tulāvī* for "I carried" (*ferō*).'
+  a: '*Tulī.* Perfect stem *tul-* + *-ī*, not first-conjugation *-āvī*.'
+  ref: g-06
+- id: iii25-e-facii
+  type: error
+  q: 'Fix: *Faciī* for "I did."'
+  a: '*Fēcī.* Perfect stem is *fēc-*, not *faci-* + *-ī*.'
+  ref: g-05
