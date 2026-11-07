@@ -1,0 +1,389 @@
+book: iii
+ch: 26
+page: liber-iii/02-erat-et-fuit.md
+cards:
+- id: iii26-v-dormio
+  type: vocab
+  la: dormiō, dormīre, dormīvī, dormītum
+  en: sleep
+  ref: g-01
+- id: iii26-v-sedeo
+  type: vocab
+  la: sedeō, sedēre, sēdī, sessum
+  en: sit
+  ref: g-03
+- id: iii26-v-timeo
+  type: vocab
+  la: timeō, timēre, timuī
+  en: fear, be afraid (no fourth key)
+  ref: g-06
+- id: iii26-v-curro
+  type: vocab
+  la: currō, currere, cucurrī, cursum
+  en: run
+  ref: g-06
+- id: iii26-v-latro
+  type: vocab
+  la: lātrō, lātrāre, lātrāvī, lātrātum
+  en: bark
+  ref: g-03
+- id: iii26-v-specto
+  type: vocab
+  la: spectō, spectāre, spectāvī, spectātum
+  en: watch, look at
+  ref: g-08
+- id: iii26-v-maneo
+  type: vocab
+  la: maneō, manēre, mānsī, mānsum
+  en: stay, remain
+  ref: g-06
+- id: iii26-v-vivo
+  type: vocab
+  la: vīvō, vīvere, vīxī, vīctum
+  en: live, be alive
+  ref: g-02
+- id: iii26-v-narro
+  type: vocab
+  la: nārrō, nārrāre, nārrāvī, nārrātum
+  en: tell, narrate
+  ref: g-05
+- id: iii26-v-clamo
+  type: vocab
+  la: clāmō, clāmāre, clāmāvī, clāmātum
+  en: shout
+  ref: g-05
+- id: iii26-v-fabula
+  type: vocab
+  la: fābula, fābulae
+  en: story (f.)
+  ref: g-05
+- id: iii26-v-olim
+  type: vocab
+  la: ōlim
+  en: once (long ago), once upon a time; someday
+  ref: g-05
+- id: iii26-v-subito
+  type: vocab
+  la: subitō
+  en: suddenly
+  ref: g-03
+- id: iii26-v-deinde
+  type: vocab
+  la: deinde
+  en: next, after that
+  ref: g-05
+- id: iii26-v-semel
+  type: vocab
+  la: semel
+  en: once, one time
+  ref: g-04
+- id: iii26-v-cotidie
+  type: vocab
+  la: cotīdiē
+  en: every day
+  ref: g-04
+- id: iii26-v-diu
+  type: vocab
+  la: diū
+  en: for a long time
+  ref: g-04
+- id: iii26-v-quid-tum
+  type: vocab
+  la: Quid tum?
+  en: What then? And then what?
+  ref: g-05
+- id: iii26-v-aspect
+  type: vocab
+  la: aspect
+  en: 'how a verb looks at an action: inside (film) or outside (snapshot)'
+  ref: g-01
+- id: iii26-v-narration
+  type: vocab
+  la: narration
+  en: 'telling a story: imperfect stage + perfect steps'
+  ref: g-03
+- id: iii26-v-conative
+  type: vocab
+  la: conative imperfect
+  en: 'the "trying" imperfect: was trying to …'
+  ref: g-04
+- id: iii26-f-aspect
+  type: forms
+  q: Tense vs aspect, in plain words?
+  a: 'Tense = **when** (past, present, future). Aspect = **how you look at it**: from inside while it runs (imperfect, film) or from outside as one finished whole (perfect, snapshot).'
+  ref: g-01
+- id: iii26-f-dormiebat
+  type: forms
+  q: '*Heri Avus dormiēbat* vs *Heri Avus dormīvit*?'
+  a: 'Film: "Grandpa was sleeping" (we''re inside the nap). Snapshot: "Grandpa slept" (the whole nap, done).'
+  ref: g-01
+- id: iii26-f-edebat-edit
+  type: forms
+  q: '"Marcus was eating the apple" / "Marcus ate the apple"?'
+  a: '*Marcus mālum edēbat.* / *Marcus mālum ēdit.* (Long ē in the perfect stem *ēd-*.)'
+  ref: g-01
+- id: iii26-f-erat-fuit-law
+  type: forms
+  q: Law of Erat and Fuit?
+  a: '*Erat* paints how things were at the time (scene, state). *Fuit* states the whole as a closed fact, seen from outside; sometimes "and it''s over."'
+  ref: g-02
+- id: iii26-f-nox-erat
+  type: forms
+  q: '*Nox erat.* (Vergil) Why *erat*?'
+  a: '"It was night": the background. Nothing has happened yet; the stage is set.'
+  ref: g-02
+- id: iii26-f-fuit-ilium
+  type: forms
+  q: '*Fuimus Trōes, fuit Īlium.* Meaning?'
+  a: 'Literally "we have been Trojans, Ilium has been" = we''re Trojans no more; Troy is gone. (Vergil, *Aeneid* 2.325)'
+  ref: g-02
+- id: iii26-f-vixerunt
+  type: forms
+  q: Cicero's one-word announcement *Vīxērunt*?
+  a: '"They have lived" = they''re dead. The perfect closes the book. (*Vīvō, vīvere, vīxī, vīctum*.)'
+  ref: g-02
+- id: iii26-f-urbs-antiqua
+  type: forms
+  q: '*Urbs antīqua fuit.* (Vergil, of Carthage)'
+  a: '"There was (once) an ancient city": the whole city looked back on as a finished fact.'
+  ref: g-02
+- id: iii26-f-ubi-eras
+  type: forms
+  q: '*Ubi erās?* vs *Ubi fuistī?*'
+  a: '"Where were you (at that moment)?" vs "Where have you been / where were you (all that time)?"'
+  ref: g-02
+- id: iii26-f-stage-step
+  type: forms
+  q: Law of the Stage and the Step?
+  a: 'Imperfect builds the **stage** (what was going on, how things were). Perfect takes the **steps** (what happened next). Ask "And then what?": a verb that answers it is perfect.'
+  ref: g-03
+- id: iii26-f-subito-latravit
+  type: forms
+  q: '"Grandpa was sleeping. Suddenly the dog barked."'
+  a: '*Avus dormiēbat. Subitō canis lātrāvit.*'
+  ref: g-03
+- id: iii26-f-veni-vidi-steps
+  type: forms
+  q: Why does *Vēnī, vīdī, vīcī* sound so fast?
+  a: Three perfects = three steps, no scenery.
+  ref: g-03
+- id: iii26-f-gull
+  type: forms
+  q: '"We were sitting on the shore. Suddenly a bird came and took the cheese."'
+  a: '*In lītore sedēbāmus. Subitō avis vēnit et cāseum cēpit.*'
+  ref: g-03
+- id: iii26-f-habit-once
+  type: forms
+  q: '"Every day I used to swim. Yesterday I swam once."'
+  a: '*Cotīdiē natābam. Heri semel natāvī.*'
+  ref: g-04
+- id: iii26-f-conative
+  type: forms
+  q: '*Avus cāseum capiēbat, sed Avia eum cēpit.*'
+  a: '"Grandpa was trying to grab the cheese, but Grandma grabbed it." The "trying" (conative) imperfect.'
+  ref: g-04
+- id: iii26-f-diu
+  type: forms
+  q: '*Avus diū dormīvit* vs *Avus diū dormiēbat*?'
+  a: 'Perfect: the long nap summed up and over. Imperfect: we''re inside the long nap; something may happen during it.'
+  ref: g-04
+- id: iii26-f-narra
+  type: forms
+  q: '"Tell us a story!" (to one person; to y''all)'
+  a: '*Nārrā nōbīs fābulam!* · *Nārrāte nōbīs fābulam!*'
+  ref: g-05
+- id: iii26-f-story-skeleton
+  type: forms
+  q: A story's skeleton in Latin signposts?
+  a: '*Ōlim* + imperfect (stage) → *tum / subitō / deinde* + perfects (steps) → *tandem* + perfect (end).'
+  ref: g-05
+- id: iii26-f-erant-rex
+  type: forms
+  q: '*Erant in quādam cīvitāte rēx et rēgīna.* (Apuleius)'
+  a: '"There were, in a certain city, a king and a queen." Fairy-tale opening: imperfect stage.'
+  ref: g-05
+- id: iii26-f-fuit-caseus
+  type: forms
+  q: '*Cāseus erat. Nunc… fuit.*'
+  a: '"There was a cheese. Now… it''s history." *Fuit* = it''s over.'
+  ref: g-08
+- id: iii26-c-nox
+  type: choose
+  q: 'Opening a scene: "It was night." *Nox ___.*'
+  options:
+  - erat
+  - fuit
+  - erit
+  a: erat
+  why: Scene-setting background → imperfect. *Fuit* would close it off; *erit* is future.
+  ref: g-02
+- id: iii26-c-urbs
+  type: choose
+  q: 'Vergil, of Carthage (a finished whole): *Urbs antīqua ___.*'
+  options:
+  - fuit
+  - erat
+  - est
+  a: fuit
+  why: The whole city, looked back on as a closed fact → perfect.
+  ref: g-02
+- id: iii26-c-subito
+  type: choose
+  q: '*Avus dormiēbat. Subitō canis ___.* ("barked")'
+  options:
+  - lātrāvit
+  - lātrābat
+  - lātrat
+  a: lātrāvit
+  why: A step after *subitō* → perfect.
+  ref: g-03
+- id: iii26-c-stage
+  type: choose
+  q: '"Grandma was snoring" (scene): *Avia ___.*'
+  options:
+  - stertēbat
+  - stertit
+  - stertet
+  a: stertēbat
+  why: Ongoing background → imperfect *-ēba-*. *Stertet* is future.
+  ref: g-07
+- id: iii26-c-semel
+  type: choose
+  q: '"Yesterday Grandpa swam once": *Heri Avus semel ___.*'
+  options:
+  - natāvit
+  - natābat
+  - natābit
+  a: natāvit
+  why: One counted time = snapshot → perfect.
+  ref: g-04
+- id: iii26-c-cotidie
+  type: choose
+  q: '"Every day Mother used to read": *Cotīdiē Māter ___.*'
+  options:
+  - legēbat
+  - lēgit
+  - leget
+  a: legēbat
+  why: Habit ("used to") → imperfect.
+  ref: g-04
+- id: iii26-c-trying
+  type: choose
+  q: '"Grandpa was trying to grab the cheese": *Avus cāseum ___.*'
+  options:
+  - capiēbat
+  - cēpit
+  - capiet
+  a: capiēbat
+  why: An attempt that never finishes → the "trying" imperfect.
+  ref: g-04
+- id: iii26-c-bona-fabula
+  type: choose
+  q: 'Dad, after the story ends: *Bona fābula ___!*'
+  options:
+  - fuit
+  - erat
+  - erit
+  a: fuit
+  why: Summing up the whole finished story → perfect.
+  ref: g-08
+- id: iii26-c-ubi-fuisti
+  type: choose
+  q: '"Where have you been (all this time)?": *Ubi ___?*'
+  options:
+  - fuistī
+  - erās
+  - eris
+  a: fuistī
+  why: The whole stretch summed up → perfect. *Erās* places you in a moment; *eris* is future.
+  ref: g-02
+- id: iii26-c-edit
+  type: choose
+  q: '"Who ate the cheese?": *Quis cāseum ___?*'
+  options:
+  - ēdit
+  - edit
+  - ēdēbat
+  a: ēdit
+  why: Perfect with long ē. *Edit* is present; *ēdēbat* isn't a real form (imperfect is *edēbat*).
+  ref: g-08
+- id: iii26-c-manserunt
+  type: choose
+  q: '"Grandma and Cāseus stayed home" (whole-trip fact): *Avia et Cāseus domī ___.*'
+  options:
+  - mānsērunt
+  - manēbunt
+  - manent
+  a: mānsērunt
+  why: Perfect of *maneō* (*mānsī*). *Manēbunt* future; *manent* present.
+  ref: g-06
+- id: iii26-c-cucurrit
+  type: choose
+  q: '"The dog ran and beat everyone": *Cāseus ___ et omnēs vīcit.*'
+  options:
+  - cucurrit
+  - currēbat
+  - currit
+  a: cucurrit
+  why: A step in the race story → perfect, reduplicated stem *cucurr-*.
+  ref: g-06
+- id: iii26-c-simultaneous
+  type: choose
+  q: '"You were telling the story, and I was eating the cheese": *Tū fābulam nārrābās, et ego cāseum ___.*'
+  options:
+  - edēbam
+  - ēdī
+  - edam
+  a: edēbam
+  why: Two films running at the same time → both imperfect.
+  ref: g-08
+- id: iii26-c-habit-would
+  type: choose
+  q: '"Every summer Grandpa would swim" (habit). Tense?'
+  options:
+  - imperfect
+  - perfect
+  - future
+  a: imperfect
+  why: Habit "would" = "used to" → imperfect (*natābat*).
+  ref: g-04
+- id: iii26-e-dormibat
+  type: error
+  q: 'Fix: *Avus dormībat.*'
+  a: '*Dormiēbat.* Fourth-conjugation imperfect keeps *-iē-* (*audiēbam*).'
+  ref: g-07
+- id: iii26-e-edebat
+  type: error
+  q: 'Fix: *Cāseum ēdēbat* ("was eating").'
+  a: '*Edēbat*, short e. Long *ēd-* is the perfect stem only.'
+  ref: g-07
+- id: iii26-e-latravebat
+  type: error
+  q: 'Fix: *Canis lātrāvēbat.*'
+  a: 'Pick one camera: *lātrābat* (was barking) or *lātrāvit* (barked). Never glue *-bā-* onto a perfect stem.'
+  ref: g-07
+- id: iii26-e-eravit
+  type: error
+  q: 'Fix: *Erāvit* / *Fuēbat.*'
+  a: '*Erat* or *fuit*. *Sum*''s two stems *er-* and *fu-* never mix.'
+  ref: g-07
+- id: iii26-e-semel-natabat
+  type: error
+  q: 'Fix: *Heri Avus semel natābat* ("swam once").'
+  a: '*Natāvit.* One counted time = snapshot.'
+  ref: g-07
+- id: iii26-e-nox-fuit
+  type: error
+  q: 'A story opens *Nox fuit. Avus dormīvit.* What''s off?'
+  a: 'Forms fine, camera wrong: a list of closed facts. Set the stage: *Nox erat. Avus dormiēbat.*'
+  ref: g-07
+- id: iii26-e-venit
+  type: error
+  q: 'Fix: *Subitō avis venit* meant as "Suddenly a bird came."'
+  a: '*Vēnit*, long ē (perfect). Short *venit* is present "comes."'
+  ref: g-03
+- id: iii26-e-fuimus
+  type: error
+  q: 'Fix the translation: *Fuimus Trōes* = "We were being Trojans."'
+  a: '"We have been Trojans" = we''re Trojans no more. A closed fact, not a running film.'
+  ref: g-02

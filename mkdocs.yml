@@ -54,6 +54,7 @@ nav:
   - "Liber III: Fābulae":
       - liber-iii/index.md
       - "XXV. Vēnī, Vīdī, Vīcī": liber-iii/01-veni-vidi-vici.md
+      - "XXVI. Erat et Fuit": liber-iii/02-erat-et-fuit.md
   - "Liber IV: Verba Agentia":
       - liber-iv/index.md
   - "Liber V: Modus Subiūnctīvus":
