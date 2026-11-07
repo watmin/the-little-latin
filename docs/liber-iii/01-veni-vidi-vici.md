@@ -202,7 +202,7 @@ Marcus | Ego ad tabernam iī! || Marcus | I went to the shop!
 Quīntus | Et ego quoque iī. Cāseum ēmimus! || Quīntus | And I went too. We bought cheese!
 Cornēlia | Ego canem dūxī. Cāseus vēnit mēcum. || Cornēlia | I led the dog. Cheese came with me.
 Cāseus | Bau! || Cheese | Woof!
-Iōannēs | Ego Rōmam iī et cāseum magnum vīdī. Emī eum. || John | I went to Rome and saw a big cheese. I bought it.
+Iōannēs | Ego Rōmam iī et cāseum magnum vīdī. Ēmī eum. || John | I went to Rome and saw a big cheese. I bought it.
 Avus | Et mihi eum dedistī? || Grandpa | And you gave it to me?
 Iōannēs | Dedī tibi, Ave! Sed… || John | I gave it to you, Grandpa! But…
 Avia | Sed quid? || Grandma | But what?
