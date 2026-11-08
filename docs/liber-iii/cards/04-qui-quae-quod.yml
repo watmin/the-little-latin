@@ -1,0 +1,399 @@
+book: iii
+ch: 28
+page: liber-iii/04-qui-quae-quod.md
+cards:
+- id: iii28-v-qui
+  type: vocab
+  la: quī, quae, quod
+  en: who, which, that (relative pronoun)
+  ref: g-02
+- id: iii28-v-cuius-cui
+  type: vocab
+  la: cuius · cui
+  en: whose · to/for whom, to/for which (all genders)
+  ref: g-04
+- id: iii28-v-quem
+  type: vocab
+  la: quem, quam, quod
+  en: whom, which (object)
+  ref: g-03
+- id: iii28-v-quo
+  type: vocab
+  la: quō, quā, quō
+  en: by/with/from whom or which; *in quō*, in which
+  ref: g-05
+- id: iii28-v-qui-pl
+  type: vocab
+  la: quī, quae, quae
+  en: who, which (plural subject)
+  ref: g-02
+- id: iii28-v-quorum
+  type: vocab
+  la: quōrum, quārum, quōrum · quibus
+  en: whose (plural) · to/for, by/with/from whom or which (plural)
+  ref: g-04
+- id: iii28-v-quos
+  type: vocab
+  la: quōs, quās, quae
+  en: whom, which (plural object)
+  ref: g-03
+- id: iii28-v-quocum
+  type: vocab
+  la: quōcum, quācum, quibuscum
+  en: with whom
+  ref: g-05
+- id: iii28-v-vir
+  type: vocab
+  la: vir, virī
+  en: man; husband (m.)
+  ref: g-01
+- id: iii28-v-servo
+  type: vocab
+  la: servō, servāre, servāvī, servātum
+  en: save, keep
+  ref: g-10
+- id: iii28-v-is-qui
+  type: vocab
+  la: is quī, id quod
+  en: the one who, the thing which (whoever, whatever)
+  ref: g-06
+- id: iii28-v-clause
+  type: vocab
+  la: clause
+  en: a little sentence inside a bigger one, with its own verb
+  ref: g-01
+- id: iii28-v-relpron
+  type: vocab
+  la: relative pronoun
+  en: a pointing word that starts a describing clause (*quī, quae, quod*)
+  ref: g-01
+- id: iii28-v-antecedent
+  type: vocab
+  la: antecedent
+  en: the word a relative pronoun points back to
+  ref: g-01
+- id: iii28-v-relclause
+  type: vocab
+  la: relative clause
+  en: the whole describing clause, from the relative to its verb
+  ref: g-01
+- id: iii28-f-pater-noster
+  type: forms
+  q: '*Pater noster, quī es in caelīs.* What is *quī*?'
+  a: '"Who": a relative pronoun pointing back to *Pater*. "Our Father, who art in heaven."'
+  ref: g-01
+- id: iii28-f-glue
+  type: forms
+  q: 'Glue: *Avus est vir. Vir cāseum amat.*'
+  a: '*Avus est vir quī cāseum amat.* "Grandpa is a man who loves cheese."'
+  ref: g-01
+- id: iii28-f-relative-name
+  type: forms
+  q: Why "relative"? Why "antecedent"?
+  a: '*Relātum*, "carried back" (*re-* + *lātum*, key 4 of *ferō*). *Antecēdēns*, "going before": the word it points back to.'
+  ref: g-01
+- id: iii28-f-adjective
+  type: forms
+  q: What does a relative clause do for its antecedent?
+  a: 'It describes it, like a long adjective with its own verb: *vir bonus* · *vir quī cāseum amat*.'
+  ref: g-01
+- id: iii28-f-gender
+  type: forms
+  q: '"A boy who reads, a girl who runs, an apple which is sweet."'
+  a: '*Puer quī legit · puella quae currit · mālum quod dulce est.*'
+  ref: g-02
+- id: iii28-f-exodus
+  type: forms
+  q: '*Terra quae fluit lacte et melle.* Why *quae*?'
+  a: '*Terra* is feminine singular. "A land which flows with milk and honey." (Exodus 3:8)'
+  ref: g-02
+- id: iii28-f-quae-three
+  type: forms
+  q: The three jobs of *quae*?
+  a: 'Feminine singular (*puella quae*), feminine plural (*puellae quae*), neuter plural (*māla quae*).'
+  ref: g-02
+- id: iii28-f-quem-pater
+  type: forms
+  q: '"The cheese which Dad bought is on the table."'
+  a: '*Cāseus quem Pater ēmit in mēnsā est.* *Quem*: object of *ēmit*.'
+  ref: g-03
+- id: iii28-f-law
+  type: forms
+  q: The Law of the Relative?
+  a: 'Gender and number from the antecedent; case from its own job inside its own clause.'
+  ref: g-03
+- id: iii28-f-two-jobs
+  type: forms
+  q: '"Grandpa is a man who loves the dog" / "…whom the dog loves."'
+  a: '*Avus est vir quī canem amat* · *Avus est vir quem canis amat.*'
+  ref: g-03
+- id: iii28-f-aeneid
+  type: forms
+  q: '*Arma virumque canō, Trōiae quī prīmus ab ōrīs…* Why *quī* after *virum*?'
+  a: '"Arms and the man I sing, who first from the shores of Troy…" *Virum* gives m. sg.; inside his clause he is the subject.'
+  ref: g-03
+- id: iii28-f-cuius
+  type: forms
+  q: '"The boy whose dog ate the cheese."'
+  a: '*Puer cuius canis cāseum ēdit.* *Cuius*: same for all genders, like *huius, eius*.'
+  ref: g-04
+- id: iii28-f-cui
+  type: forms
+  q: '"The girl to whom I gave the cheese."'
+  a: '*Puella cui cāseum dedī.* *Cui*: dative, all genders, one beat like *huic*.'
+  ref: g-04
+- id: iii28-f-fortunati
+  type: forms
+  q: '*Ō fortūnātī, quōrum iam moenia surgunt!* (Vergil)'
+  a: '"O lucky people, whose walls are already rising!" *Quōrum*: plural "whose."'
+  ref: g-04
+- id: iii28-f-quibus-dat
+  type: forms
+  q: '"The kids to whom Grandma gives cookies."'
+  a: '*Līberī quibus Avia crustula dat.*'
+  ref: g-04
+- id: iii28-f-in-qua
+  type: forms
+  q: '"The table on which the cheese was."'
+  a: '*Mēnsa in quā cāseus erat.*'
+  ref: g-05
+- id: iii28-f-quocum
+  type: forms
+  q: '"The friend with whom I walk."'
+  a: '*Amīcus quōcum ambulō* (or *cum quō*).'
+  ref: g-05
+- id: iii28-f-in-quo
+  type: forms
+  q: '*Hic est Fīlius meus dīlēctus, in quō mihi complacuī.*'
+  a: '"This is my beloved Son, in whom I am well pleased." (Matthew 3:17)'
+  ref: g-05
+- id: iii28-f-chant-sg
+  type: forms
+  q: Chant the singular of *quī, quae, quod*, case by case.
+  a: '*quī, cuius, cui, quem, quō* · *quae, cuius, cui, quam, quā* · *quod, cuius, cui, quod, quō*'
+  ref: g-05
+- id: iii28-f-chant-pl
+  type: forms
+  q: Chant the plural of *quī, quae, quod*, case by case.
+  a: '*quī, quōrum, quibus, quōs, quibus* · *quae, quārum, quibus, quās, quibus* · *quae, quōrum, quibus, quae, quibus*'
+  ref: g-05
+- id: iii28-f-nusquam
+  type: forms
+  q: '*Nusquam est quī ubīque est.* (Seneca) Antecedent?'
+  a: 'Left out: "Whoever is everywhere is nowhere." Fill in *is*: *is quī*.'
+  ref: g-06
+- id: iii28-f-fui-quod
+  type: forms
+  q: '*Fuī quod es, eris quod sum.*'
+  a: '"I was what you are; you will be what I am." *Quod* = *id quod*, "what."'
+  ref: g-06
+- id: iii28-f-person
+  type: forms
+  q: '*Pater noster, quī es…* Why *es*, not *est*?'
+  a: 'The antecedent is "you" (spoken to), so the verb inside is "you." The relative takes its antecedent''s person.'
+  ref: g-06
+- id: iii28-f-beatus
+  type: forms
+  q: '*Beātus vir quī nōn abiit in cōnsiliō impiōrum.* (Psalm 1:1)'
+  a: '"Blessed is the man who has not walked in the counsel of the wicked."'
+  ref: g-07
+- id: iii28-c-quae
+  type: choose
+  q: '"Cornēlia is a girl who runs": *Cornēlia est puella ___ currit.*'
+  options:
+  - quae
+  - quī
+  - quod
+  a: quae
+  why: Feminine antecedent *puella* → *quae*.
+  ref: g-02
+- id: iii28-c-quod
+  type: choose
+  q: '"an apple which is sweet": *mālum ___ dulce est*'
+  options:
+  - quod
+  - quī
+  - quem
+  a: quod
+  why: Neuter antecedent *mālum* → *quod*.
+  ref: g-02
+- id: iii28-c-legunt
+  type: choose
+  q: '"boys who read": *puerī quī ___*'
+  options:
+  - legunt
+  - legit
+  - legis
+  a: legunt
+  why: The antecedent is plural, so the verb inside the clause is plural.
+  ref: g-02
+- id: iii28-c-quem
+  type: choose
+  q: '"the cheese which Dad bought": *cāseus ___ Pater ēmit*'
+  options:
+  - quem
+  - quī
+  - quod
+  a: quem
+  why: Masculine singular from *cāseus*; object of *ēmit* → accusative *quem*.
+  ref: g-03
+- id: iii28-c-quam
+  type: choose
+  q: '"the girl whom Marcus sees": *puella ___ Marcus videt*'
+  options:
+  - quam
+  - quae
+  - quem
+  a: quam
+  why: Feminine singular; object of *videt* → *quam*.
+  ref: g-03
+- id: iii28-c-quos
+  type: choose
+  q: '"the boys whom I see": *puerī ___ videō*'
+  options:
+  - quōs
+  - quī
+  - quās
+  a: quōs
+  why: Masculine plural; object of *videō* → *quōs*.
+  ref: g-03
+- id: iii28-c-qui-vs-quem
+  type: choose
+  q: '"Grandpa is a man whom the dog loves": *Avus est vir ___ canis amat.*'
+  options:
+  - quem
+  - quī
+  - cui
+  a: quem
+  why: Inside the clause the dog does the loving; Grandpa is the object → *quem*.
+  ref: g-03
+- id: iii28-c-cuius
+  type: choose
+  q: '"the girl whose book is on the table": *puella ___ liber in mēnsā est*'
+  options:
+  - cuius
+  - cui
+  - quae
+  a: cuius
+  why: '"Whose" = owner = genitive *cuius* (all genders).'
+  ref: g-04
+- id: iii28-c-cui
+  type: choose
+  q: '"Grandpa, to whom we gave the cheese": *Avus, ___ cāseum dedimus*'
+  options:
+  - cui
+  - quī
+  - cuius
+  a: cui
+  why: The receiver inside the clause → dative *cui*.
+  ref: g-04
+- id: iii28-c-quorum
+  type: choose
+  q: '"O lucky people, ___ walls are already rising!"'
+  options:
+  - quōrum
+  - quibus
+  - quōs
+  a: quōrum
+  why: Plural "whose" → genitive plural *quōrum*.
+  ref: g-04
+- id: iii28-c-in-qua
+  type: choose
+  q: '"the box in which the cheese was": *capsa in ___ cāseus erat*'
+  options:
+  - quā
+  - quō
+  - quam
+  a: quā
+  why: Feminine (*capsa*); place where after *in* → ablative *quā*.
+  ref: g-05
+- id: iii28-c-quibus
+  type: choose
+  q: '"the roads on which we walk": *viae in ___ ambulāmus*'
+  options:
+  - quibus
+  - quārum
+  - quās
+  a: quibus
+  why: Ablative plural after *in*; *quibus* serves all genders.
+  ref: g-05
+- id: iii28-c-lego
+  type: choose
+  q: '"I am John, who read Latin": *Ego sum Iōannēs, quī Latīnē ___.*'
+  options:
+  - legō
+  - legit
+  - legis
+  a: legō
+  why: The antecedent is "I," so the verb in the clause is first person.
+  ref: g-07
+- id: iii28-c-quis-qui
+  type: choose
+  q: '"Who ate the cheese?" (a question)'
+  options:
+  - Quis cāseum ēdit?
+  - Quī cāseum ēdit.
+  - Cui cāseum ēdit?
+  a: Quis cāseum ēdit?
+  why: '*Quis?* asks; *quī* points back to an antecedent.'
+  ref: g-08
+- id: iii28-c-amas
+  type: choose
+  q: '"Thank you, John, you who love me!": *Grātiās tibi agō, Iōannēs, quī mē ___!*'
+  options:
+  - amās
+  - amat
+  - amō
+  a: amās
+  why: The antecedent is the person spoken to ("you") → second person *amās*.
+  ref: g-10
+- id: iii28-c-lectio
+  type: choose
+  q: 'Cornēlia: *…canis ___ nōmen est Cāseus!* ("whose name")'
+  options:
+  - cuius
+  - cui
+  - quem
+  a: cuius
+  why: '"Whose" → *cuius*.'
+  ref: g-10
+- id: iii28-e-puella-qui
+  type: error
+  q: 'Fix: *puella quī cantat* ("the girl who sings").'
+  a: '*Puella quae cantat.* Feminine antecedent → *quae*.'
+  ref: g-09
+- id: iii28-e-caseus-qui
+  type: error
+  q: 'Fix: *cāseus quī Pater ēmit* ("the cheese that Dad bought").'
+  a: '*Cāseus quem Pater ēmit.* Object of *ēmit* → *quem*.'
+  ref: g-09
+- id: iii28-e-malum-quem
+  type: error
+  q: 'Fix: *mālum quem ēdī* ("the apple which I ate").'
+  a: '*Mālum quod ēdī.* Neuter → *quod*.'
+  ref: g-09
+- id: iii28-e-puer-quem
+  type: error
+  q: 'Fix: *puer quem librum legō* ("the boy whose book I''m reading").'
+  a: '*Puer cuius librum legō.* "Whose" = *cuius*.'
+  ref: g-09
+- id: iii28-e-puella-quam
+  type: error
+  q: 'Fix: *puella quam cāseum dedī* ("the girl to whom I gave the cheese").'
+  a: '*Puella cui cāseum dedī.* The receiver → dative *cui*.'
+  ref: g-09
+- id: iii28-e-mensa-quo
+  type: error
+  q: 'Fix: *mēnsa in quō cāseus erat* ("the table on which the cheese was").'
+  a: '*Mēnsa in quā cāseus erat.* *Mēnsa* is feminine → *quā*.'
+  ref: g-09
+- id: iii28-e-pueri-legit
+  type: error
+  q: 'Fix: *puerī quī legit* ("the boys who read").'
+  a: '*Puerī quī legunt.* Plural antecedent → plural verb.'
+  ref: g-09
+- id: iii28-e-quibus-cum
+  type: error
+  q: 'Fix: *amīcī quōscum ambulō* ("the friends with whom I walk").'
+  a: '*Amīcī quibuscum ambulō* (or *cum quibus*). *Cum* takes the ablative, *quibus*.'
+  ref: g-05

@@ -33,6 +33,7 @@
 [data-md-color-scheme="slate"] .motto{border-left-color:var(--md-accent-fg-color)}
 .motto-la{font-family:"Cinzel","EB Garamond",Georgia,serif;font-size:1.08em;font-weight:700;letter-spacing:.04em;line-height:1.5}
 .motto-gloss{font-family:"EB Garamond",Georgia,serif;font-size:.92em;font-style:italic;opacity:.85}
+.motto-gloss em{font-style:normal}
 
 .group-mark{margin:.6em 0 .2em;text-align:right}
 .group-id{display:inline-block;padding:.1em .6em;border-radius:1em;font-size:.75em;font-weight:600;color:var(--md-primary-fg-color);border:1px solid currentColor;text-decoration:none;opacity:.8;scroll-margin-top:5rem}

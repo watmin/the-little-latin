@@ -16,7 +16,7 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 | 25 | [**Vēnī, Vīdī, Vīcī**](01-veni-vidi-vici.md) | G: principal parts; perfect active (all conj.). S: what did you do? | ✅ available |
 | 26 | [**Erat et Fuit**](02-erat-et-fuit.md) | G: perfect vs imperfect aspect; narration. S: tell a story. | ✅ available |
 | 27 | [**Iam Fēceram**](03-iam-feceram.md) | G: pluperfect & future perfect. S: sequencing events. | ✅ available |
-| 28 | **Quī, Quae, Quod** | G: relative pronoun, relative clauses. S: the man who… | coming |
+| 28 | [**Quī, Quae, Quod**](04-qui-quae-quod.md) | G: relative pronoun, relative clauses. S: the man who… | ✅ available |
 | 29 | **Quis Venit?** | G: interrogative pronoun vs adjective; indefinites aliquis, quīdam, quisque. | coming |
 | 30 | **Amor, Amāris** | G: present-system passive (all conj.); ablative of agent vs means. | coming |
 | 31 | **Amātus Est** | G: perfect passive system (needs 4th principal part). | coming |

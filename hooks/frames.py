@@ -56,7 +56,7 @@ def on_page_markdown(markdown, **kwargs):
     )
     markdown = MOTTO.sub(
         lambda m: f'<p class="motto"><span class="motto-la">{html.escape(m[1])}</span>'
-        f'<br><span class="motto-gloss">{html.escape(m[2])}</span></p>',
+        f'<br><span class="motto-gloss">{_inline(m[2])}</span></p>',
         markdown,
     )
     return markdown
