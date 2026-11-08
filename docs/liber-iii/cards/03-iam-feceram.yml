@@ -1,0 +1,394 @@
+book: iii
+ch: 27
+page: liber-iii/03-iam-feceram.md
+cards:
+- id: iii27-v-amaveram
+  type: vocab
+  la: amāveram, amāverās, amāverat, amāverāmus, amāverātis, amāverant
+  en: I had loved … they had loved (pluperfect)
+  ref: g-02
+- id: iii27-v-amavero
+  type: vocab
+  la: amāverō, amāveris, amāverit, amāverimus, amāveritis, amāverint
+  en: I will have loved … they will have loved (future perfect)
+  ref: g-04
+- id: iii27-v-fueram
+  type: vocab
+  la: fueram · fuerō
+  en: I had been · I will have been
+  ref: g-02
+- id: iii27-v-ieram
+  type: vocab
+  la: ieram · ierō
+  en: I had gone · I will have gone
+  ref: g-02
+- id: iii27-v-affero
+  type: vocab
+  la: afferō, afferre, attulī, allātum
+  en: bring (to), bring along
+  ref: g-05
+- id: iii27-v-lectus
+  type: vocab
+  la: lectus, lectī
+  en: bed (m.)
+  ref: g-09
+- id: iii27-v-nondum
+  type: vocab
+  la: nōndum
+  en: not yet
+  ref: g-03
+- id: iii27-v-antea
+  type: vocab
+  la: anteā
+  en: before, earlier
+  ref: g-03
+- id: iii27-v-postea
+  type: vocab
+  la: posteā
+  en: afterwards, later
+  ref: g-03
+- id: iii27-v-primum
+  type: vocab
+  la: prīmum
+  en: first, at first
+  ref: g-07
+- id: iii27-v-sero
+  type: vocab
+  la: sērō
+  en: late, too late
+  ref: g-07
+- id: iii27-v-pluperfect
+  type: vocab
+  la: pluperfect
+  en: '"had …ed": finished before another past moment (old-school: past perfect)'
+  ref: g-01
+- id: iii27-v-futperf
+  type: vocab
+  la: future perfect
+  en: '"will have …ed": finished before a future moment'
+  ref: g-04
+- id: iii27-v-perfsystem
+  type: vocab
+  la: perfect system
+  en: 'perfect, pluperfect, future perfect: the three tenses built on key 3'
+  ref: g-06
+- id: iii27-f-iam-ederat
+  type: forms
+  q: '*Avia cāseum iam ēderat.* Parts and meaning?'
+  a: '*Ēd-* (perfect stem of *edō*) + *-erat* (Chapter 16''s "was"): "Grandma **had** already eaten the cheese."'
+  ref: g-01
+- id: iii27-f-plup-name
+  type: forms
+  q: Why "pluperfect"?
+  a: 'Latin *plūs quam perfectum*, "more than perfect": one step further back than the perfect. English: past perfect.'
+  ref: g-01
+- id: iii27-f-plup-chant
+  type: forms
+  q: Chant *amō* in the pluperfect.
+  a: '*amāveram, amāverās, amāverat, amāverāmus, amāverātis, amāverant*'
+  ref: g-02
+- id: iii27-f-plup-families
+  type: forms
+  q: '"I had …" from *habeō, legō, capiō, audiō*?'
+  a: '*habueram · lēgeram · cēperam · audīveram*: key 3 minus *-ī*, plus *-eram*.'
+  ref: g-02
+- id: iii27-f-plup-irreg
+  type: forms
+  q: '"I had been / gone / carried / given / been able"?'
+  a: '*fueram · ieram · tuleram · dederam · potueram*'
+  ref: g-02
+- id: iii27-f-feceras
+  type: forms
+  q: '*Quid fēcerās?*'
+  a: '"What had you done?" (*Quid fēcistī?* pushed one notch back.)'
+  ref: g-02
+- id: iii27-f-catullus84
+  type: forms
+  q: '*Sīc māternus avus dīxerat atque avia.* (Catullus 84)'
+  a: '"That''s how his grandfather on his mother''s side had said it, and his grandmother." *Dīx-* + *-erat*.'
+  ref: g-02
+- id: iii27-f-nondum
+  type: forms
+  q: '*Nōndum vēnerat hōra eius.* (John 7:30)'
+  a: '"His hour had not yet come." *Nōndum* + pluperfect = "had not yet."'
+  ref: g-03
+- id: iii27-f-step-behind
+  type: forms
+  q: '"Dad came home. Grandma had already made dinner."'
+  a: '*Pater domum vēnit. Avia cēnam iam parāverat.*'
+  ref: g-03
+- id: iii27-f-antea
+  type: forms
+  q: '"Earlier Grandpa had eaten a lot; afterwards he slept."'
+  a: '*Anteā Avus multum ēderat; posteā dormīvit.*'
+  ref: g-03
+- id: iii27-f-futperf-chant
+  type: forms
+  q: Chant *amō* in the future perfect.
+  a: '*amāverō, amāveris, amāverit, amāverimus, amāveritis, amāverint*'
+  ref: g-04
+- id: iii27-f-erint
+  type: forms
+  q: Where does the future perfect break from *erō, eris, erit…*?
+  a: 'Only "they": *-erint*, not *-erunt*.'
+  ref: g-04
+- id: iii27-f-potuero
+  type: forms
+  q: '*Poterō* vs *potuerō*?'
+  a: '"I''ll be able" (future) vs "I''ll have been able" (future perfect, on key 3 *potuī*).'
+  ref: g-04
+- id: iii27-f-ovid
+  type: forms
+  q: '*Tempora sī fuerint nūbila, sōlus eris.* (Ovid)'
+  a: '"If the times turn cloudy, you''ll be alone." *Fuerint* = future perfect of *sum*.'
+  ref: g-04
+- id: iii27-f-law-eram-ero
+  type: forms
+  q: The Law of Eram and Erō?
+  a: 'Perfect stem + *eram…* = pluperfect ("had"); perfect stem + *erō… erint* = future perfect ("will have"). Only key 3 matters.'
+  ref: g-04
+- id: iii27-f-si-ederis
+  type: forms
+  q: '"If you eat the cheese, Grandma will shout."'
+  a: '*Sī cāseum ēderis, Avia clāmābit.* Eating comes first, in the future: future perfect.'
+  ref: g-05
+- id: iii27-f-sementem
+  type: forms
+  q: '*Ut sēmentem fēceris, ita metēs.* (Cicero)'
+  a: '"As you sow, so shall you reap." Literally "as you will have made your sowing…"'
+  ref: g-05
+- id: iii27-f-attuleris
+  type: forms
+  q: '*…sī tēcum attuleris bonam atque magnam cēnam.* (Catullus 13)'
+  a: '"…if you bring a good big dinner with you." *Attuleris*: future perfect of *afferō*.'
+  ref: g-05
+- id: iii27-f-by-the-time
+  type: forms
+  q: '"Dad will come home in the evening. We will already have eaten dinner."'
+  a: '*Pater vesperī domum veniet. Nōs cēnam iam ēderimus.*'
+  ref: g-05
+- id: iii27-f-law-earlier
+  type: forms
+  q: The Law of the Earlier Step?
+  a: 'The earlier event goes back a notch: before a past step → pluperfect; before a future step → future perfect. Ask: which comes first?'
+  ref: g-05
+- id: iii27-f-perfect-system
+  type: forms
+  q: The three tenses on key 3 (*amāv-*)?
+  a: 'Perfect *amāvī* · pluperfect *amāveram* · future perfect *amāverō*: the perfect system.'
+  ref: g-06
+- id: iii27-f-time-order
+  type: forms
+  q: 'Sort into past, now, future: *edet, ēderat, edit, ēdit, ēderit*'
+  a: 'Past: *ēdit, ēderat* (had eaten). Now: *edit*. Future: *edet, ēderit* (will have eaten).'
+  ref: g-06
+- id: iii27-f-sequence
+  type: forms
+  q: '"First, next, afterwards, finally" in Latin?'
+  a: '*Prīmum… deinde… posteā… tandem.*'
+  ref: g-07
+- id: iii27-f-sero
+  type: forms
+  q: '"Too late! Marcus had already eaten the apple."'
+  a: '*Sērō! Marcus mālum iam ēderat.*'
+  ref: g-07
+- id: iii27-c-ederat
+  type: choose
+  q: '"Grandpa came in. The dog ___ already eaten the cheese." *Canis cāseum iam ___.*'
+  options:
+  - ēderat
+  - ēdit
+  - edēbat
+  a: ēderat
+  why: Finished before another past step → pluperfect.
+  ref: g-01
+- id: iii27-c-legeram
+  type: choose
+  q: '"I had read":'
+  options:
+  - lēgeram
+  - legeram
+  - legēbam
+  a: lēgeram
+  why: Pluperfect sits on the perfect stem *lēg-* (long ē). *Legēbam* is "I was reading."
+  ref: g-02
+- id: iii27-c-ieram
+  type: choose
+  q: '"I had gone":'
+  options:
+  - ieram
+  - ībam
+  - iī
+  a: ieram
+  why: Key 3 *iī* → *i-* + *-eram*. *Ībam* = "I was going"; *iī* = "I went."
+  ref: g-02
+- id: iii27-c-nondum
+  type: choose
+  q: '"Grandma hadn''t made dinner yet": *Avia cēnam ___ parāverat.*'
+  options:
+  - nōndum
+  - iam
+  - posteā
+  a: nōndum
+  why: '*Nōndum* + pluperfect = "had not yet."'
+  ref: g-03
+- id: iii27-c-erint
+  type: choose
+  q: '"They will have loved":'
+  options:
+  - amāverint
+  - amāvērunt
+  - amāverant
+  a: amāverint
+  why: Future perfect "they" is *-erint*. *-ērunt* = perfect, *-erant* = pluperfect.
+  ref: g-04
+- id: iii27-c-fuerint
+  type: choose
+  q: '"If the times turn (will have turned) cloudy": *Tempora sī ___ nūbila.*'
+  options:
+  - fuerint
+  - fuērunt
+  - erunt
+  a: fuerint
+  why: Future perfect of *sum*, "they will have been."
+  ref: g-04
+- id: iii27-c-potuero
+  type: choose
+  q: '"I will have been able":'
+  options:
+  - potuerō
+  - poterō
+  - potueram
+  a: potuerō
+  why: Key 3 *potuī* + *-erō*. *Poterō* = "I will be able"; *potueram* = "I had been able."
+  ref: g-04
+- id: iii27-c-si-ederis
+  type: choose
+  q: '"If you eat the cheese, Grandma will shout": *Sī cāseum ___, Avia clāmābit.*'
+  options:
+  - ēderis
+  - edis
+  - ēdistī
+  a: ēderis
+  why: The eating comes first, in the future → future perfect.
+  ref: g-05
+- id: iii27-c-veneris
+  type: choose
+  q: '"If you come tomorrow, we will eat cheese": *Sī crās ___, cāseum edēmus.*'
+  options:
+  - vēneris
+  - vēnistī
+  - venīs
+  a: vēneris
+  why: Your coming is done before the eating, both future → future perfect.
+  ref: g-05
+- id: iii27-c-same-time
+  type: choose
+  q: '"As long as you are safe, you will count many friends": *Dōnec ___ sospes…*'
+  options:
+  - eris
+  - fueris
+  - es
+  a: eris
+  why: Same time as the counting, in the future → plain future.
+  ref: g-05
+- id: iii27-c-amaverant
+  type: choose
+  q: '*amāverant* means:'
+  options:
+  - they had loved
+  - they loved
+  - they will have loved
+  a: they had loved
+  why: '*-erant* = *erant* glued on: pluperfect.'
+  ref: g-06
+- id: iii27-c-ederit
+  type: choose
+  q: '*ēderit* means:'
+  options:
+  - he will have eaten
+  - he ate
+  - he had eaten
+  a: he will have eaten
+  why: '*-erit* = future perfect. "He ate" is *ēdit*; "he had eaten" is *ēderat*.'
+  ref: g-06
+- id: iii27-c-fuerat
+  type: choose
+  q: '"Grandpa had been tired (earlier)": *Avus fessus ___.*'
+  options:
+  - fuerat
+  - erat
+  - fuit
+  a: fuerat
+  why: Before the past moment → pluperfect of *sum*.
+  ref: g-06
+- id: iii27-c-primum
+  type: choose
+  q: 'Story order: *___ Avus ēdit. Deinde dormīvit.*'
+  options:
+  - Prīmum
+  - Tandem
+  - Posteā
+  a: Prīmum
+  why: '*Prīmum* (first) opens the sequence; *tandem* closes it.'
+  ref: g-07
+- id: iii27-c-parabat
+  type: choose
+  q: '"Dad came home. Grandma had (already) made dinner": *Avia cēnam iam ___.*'
+  options:
+  - parāverat
+  - parābat
+  - parāvit
+  a: parāverat
+  why: Done before Dad's step → pluperfect. *Parābat* = she was still making it.
+  ref: g-08
+- id: iii27-c-lectio
+  type: choose
+  q: 'Cornēlia: *Sērō! Canis cāseum iam ___!* ("had eaten")'
+  options:
+  - ēderat
+  - ēderit
+  - edet
+  a: ēderat
+  why: She arrived (past step); the eating was already done → pluperfect.
+  ref: g-09
+- id: iii27-e-amaverunt
+  type: error
+  q: 'Fix: *amāverunt* for "they will have loved."'
+  a: '*Amāverint.* Future perfect "they" is *-erint*; *-erunt* is only *sum*''s future *erunt*.'
+  ref: g-08
+- id: iii27-e-legeramus
+  type: error
+  q: 'Fix: *legerāmus* ("we had read").'
+  a: '*Lēgerāmus.* Perfect stem *lēg-*, long ē.'
+  ref: g-08
+- id: iii27-e-eraverat
+  type: error
+  q: 'Fix: *erāverat* ("he had been").'
+  a: '*Fuerat.* Perfect stem *fu-* + *-erat*; *er-* and *fu-* never mix.'
+  ref: g-08
+- id: iii27-e-si-edis
+  type: error
+  q: 'Fix: *Sī cāseum edis, Avia clāmābit.*'
+  a: '*Sī cāseum ēderis…* The eating comes first, in the future: future perfect.'
+  ref: g-08
+- id: iii27-e-poteram
+  type: error
+  q: 'Fix: *poteram* for "I had been able."'
+  a: '*Potueram.* *Poteram* is the imperfect "I could / was able."'
+  ref: g-08
+- id: iii27-e-swapped
+  type: error
+  q: 'Fix: *Avus mēnsam spectāverat. Avia cāseum ēdit.* ("Grandpa looked; Grandma had already eaten it.")'
+  a: '*Avus mēnsam spectāvit. Avia cāseum iam ēderat.* The earlier event takes the pluperfect.'
+  ref: g-08
+- id: iii27-e-ederam-imperf
+  type: error
+  q: 'Fix: *edēram* ("I had eaten").'
+  a: '*Ēderam.* Long ē of the perfect stem *ēd-*, short e in *-eram*.'
+  ref: g-02
+- id: iii27-e-ederis-past
+  type: error
+  q: 'Fix: *Heri cāseum ēderis* ("Yesterday you ate the cheese").'
+  a: '*Heri cāseum ēdistī.* *Ēderis* is future perfect, "you will have eaten."'
+  ref: g-05
