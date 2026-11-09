@@ -1,0 +1,406 @@
+book: iii
+ch: 30
+page: liber-iii/06-amor-amaris.md
+cards:
+- id: iii30-v-amor
+  type: vocab
+  la: amor, amāris, amātur
+  en: I am loved, you are loved, he/she/it is loved
+  ref: g-02
+- id: iii30-v-amamur
+  type: vocab
+  la: amāmur, amāminī, amantur
+  en: we are loved, y'all are loved, they are loved
+  ref: g-02
+- id: iii30-v-amabar
+  type: vocab
+  la: amābar, amābātur
+  en: I was being loved, he/she/it was being loved
+  ref: g-07
+- id: iii30-v-amabor
+  type: vocab
+  la: amābor, amāberis, amābitur
+  en: I will be loved, you will be loved, he/she/it will be loved
+  ref: g-08
+- id: iii30-v-legar
+  type: vocab
+  la: legar, legēris, legētur
+  en: I will be read, you will be read, it will be read
+  ref: g-08
+- id: iii30-v-amari
+  type: vocab
+  la: amārī, habērī, audīrī; legī, capī
+  en: to be loved, held, heard; to be read, taken
+  ref: g-09
+- id: iii30-v-laudo
+  type: vocab
+  la: laudō, laudāre, laudāvī, laudātum
+  en: praise
+  ref: g-03
+- id: iii30-v-culpo
+  type: vocab
+  la: culpō, culpāre, culpāvī, culpātum
+  en: blame
+  ref: g-03
+- id: iii30-v-appello
+  type: vocab
+  la: appellō, appellāre, appellāvī, appellātum
+  en: call, name
+  ref: g-04
+- id: iii30-v-muto
+  type: vocab
+  la: mūtō, mūtāre, mūtāvī, mūtātum
+  en: change
+  ref: g-10
+- id: iii30-v-videor
+  type: vocab
+  la: videor, vidērī
+  en: be seen; seem
+  ref: g-05
+- id: iii30-v-mihi-videtur
+  type: vocab
+  la: mihi vidētur
+  en: it seems to me, I think
+  ref: g-05
+- id: iii30-v-ab
+  type: vocab
+  la: ā, ab
+  en: by (a person or animal, with a passive)
+  ref: g-03
+- id: iii30-v-loqueris
+  type: vocab
+  la: Loquerisne Latīnē?
+  en: Do you speak Latin?
+  ref: g-10
+- id: iii30-v-voice
+  type: vocab
+  la: voice
+  en: whether the subject does the action or receives it
+  ref: g-01
+- id: iii30-v-active
+  type: vocab
+  la: active
+  en: the subject does the action (amat)
+  ref: g-01
+- id: iii30-v-passive
+  type: vocab
+  la: passive
+  en: the subject receives the action (amātur)
+  ref: g-01
+- id: iii30-v-agent
+  type: vocab
+  la: agent
+  en: the doer in a passive sentence
+  ref: g-03
+- id: iii30-v-abl-agent
+  type: vocab
+  la: ablative of agent
+  en: 'ā/ab + the doer: ab Avō, "by Grandpa"'
+  ref: g-03
+- id: iii30-v-abl-means
+  type: vocab
+  la: ablative of means
+  en: 'the plain ablative of the tool: manū, "by hand"'
+  ref: g-04
+- id: iii30-f-amor-pun
+  type: forms
+  q: '*Amor vincit omnia* · *Ab omnibus amor.* Which *amor* is the noun?'
+  a: 'The first ("Love conquers all"). The second is the verb: "I am loved by everyone."'
+  ref: g-10
+- id: iii30-f-chant-pres
+  type: forms
+  q: Chant the present passive of *amō*.
+  a: '*Amor, amāris, amātur, amāmur, amāminī, amantur.*'
+  ref: g-02
+- id: iii30-f-law-endings
+  type: forms
+  q: The Law of the Passive Endings?
+  a: 'Swap *-ō/-m, -s, -t, -mus, -tis, -nt* for ***-r, -ris, -tur, -mur, -minī, -ntur***. Five of six have an *r*.'
+  ref: g-02
+- id: iii30-f-servamur
+  type: forms
+  q: '"We are saved!" · "Y''all are saved!"'
+  a: '*Servāmur!* · *Servāminī!*'
+  ref: g-02
+- id: iii30-f-flip-quintus
+  type: forms
+  q: 'Flip to passive: *Marcus Quīntum spectat.*'
+  a: '*Quīntus ā Marcō spectātur.* Object → subject; subject → *ā/ab*; verb → passive.'
+  ref: g-03
+- id: iii30-f-flip-liberi
+  type: forms
+  q: 'Flip to passive: *Līberī Avum amant.*'
+  a: '*Avus ā līberīs amātur.* The verb agrees with the new subject, *Avus*.'
+  ref: g-03
+- id: iii30-f-a-quo
+  type: forms
+  q: '"By whom is the cheese being carried?" "By Cornēlia."'
+  a: '*Ā quō cāseus portātur?* · *Ā Cornēliā.*'
+  ref: g-03
+- id: iii30-f-horace
+  type: forms
+  q: '*Laudātur ab hīs, culpātur ab illīs.*'
+  a: '"He is praised by these, blamed by those." Agents *ab hīs, ab illīs*. (Horace)'
+  ref: g-03
+- id: iii30-f-manu
+  type: forms
+  q: '*Cāseus ā Marcō manū portātur.* Agent and means?'
+  a: 'Agent *ā Marcō* (a person, with *ā*); means *manū* (a thing, plain ablative).'
+  ref: g-04
+- id: iii30-f-caesar
+  type: forms
+  q: '*quī ipsōrum linguā Celtae, nostrā Gallī appellantur*'
+  a: '"who in their own language are called Celts, in ours Gauls." (Caesar, *Gallic War* 1.1)'
+  ref: g-04
+- id: iii30-f-law-doer
+  type: forms
+  q: The Law of the Doer and the Tool?
+  a: 'Doer (person, animal) → *ā/ab* + abl.; tool → plain ablative; company → *cum* + abl.'
+  ref: g-04
+- id: iii30-f-habeor
+  type: forms
+  q: Chant the present passive of *habeō*.
+  a: '*Habeor, habēris, habētur, habēmur, habēminī, habentur.*'
+  ref: g-05
+- id: iii30-f-videntur
+  type: forms
+  q: '*Nōn semper ea sunt quae videntur.* Why does *videntur* mean "seem"?'
+  a: 'It is the passive of *videō*: "they are seen" = "they seem." "Things are not always what they seem."'
+  ref: g-05
+- id: iii30-f-videris
+  type: forms
+  q: '"You seem tired, Grandpa."'
+  a: '*Vidēris fessus, Ave.*'
+  ref: g-05
+- id: iii30-f-legor
+  type: forms
+  q: Chant the present passive of *legō*.
+  a: '*Legor, legeris, legitur, legimur, legiminī, leguntur.* (*legeris*: short *i* → *e* before *r*)'
+  ref: g-06
+- id: iii30-f-audior
+  type: forms
+  q: Present passive of *audiō* and *capiō*, "they" form?
+  a: '*Audiuntur* · *capiuntur* (the *i* stays, as in *audiunt, capiunt*).'
+  ref: g-06
+- id: iii30-f-editur
+  type: forms
+  q: 'Flip: *Avus cāseum edit.* Then ask "by whom?"'
+  a: '*Cāseus ab Avō editur.* · *Ā quō cāseus editur?*'
+  ref: g-06
+- id: iii30-f-amabar
+  type: forms
+  q: Chant the imperfect passive of *amō*.
+  a: '*Amābar, amābāris, amābātur, amābāmur, amābāminī, amābantur.*'
+  ref: g-07
+- id: iii30-f-mark
+  type: forms
+  q: '*Baptīzābantur ab illō.* Tense, voice, agent?'
+  a: 'Imperfect, passive, agent *ab illō*: "they were being baptized by him." (Mark 1:5)'
+  ref: g-07
+- id: iii30-f-amabor
+  type: forms
+  q: Chant the future passive of *amō*.
+  a: '*Amābor, amāberis, amābitur, amābimur, amābiminī, amābuntur.*'
+  ref: g-08
+- id: iii30-f-petite
+  type: forms
+  q: '*Petite, et dabitur vōbīs.*'
+  a: '"Ask, and it will be given to you all." *Dabitur*: future passive of *dō*. (Matthew 7:7)'
+  ref: g-08
+- id: iii30-f-emetur
+  type: forms
+  q: '"Tomorrow a cheese will be bought by me!"'
+  a: '*Crās cāseus ā mē emētur!*'
+  ref: g-08
+- id: iii30-f-law-clock
+  type: forms
+  q: The Law of the Passive Clock?
+  a: 'Time signs stay (*-bā-*, *-bi-*, *-ē-*); only the endings change. Twists: *amāberis*; *legeris* (now) vs *legēris* (later).'
+  ref: g-08
+- id: iii30-f-amari-vult
+  type: forms
+  q: '"Grandpa wants to be loved." "The cheese doesn''t want to be eaten."'
+  a: '*Avus amārī vult.* · *Cāseus edī nōn vult!*'
+  ref: g-09
+- id: iii30-f-augustine
+  type: forms
+  q: '*Amāre et amārī dulce mihi erat.*'
+  a: '"To love and to be loved was sweet to me." (Augustine, *Confessions* 3.1.1)'
+  ref: g-09
+- id: iii30-f-tempora
+  type: forms
+  q: '*Tempora mūtantur, nōs et mūtāmur in illīs.*'
+  a: '"Times change, and we change with them." Passive *mūtantur*, natural English "change."'
+  ref: g-10
+- id: iii30-c-voice
+  type: choose
+  q: '*Cāseus ab Avō editur.* Which voice?'
+  options:
+  - passive
+  - active
+  a: passive
+  why: The subject, the cheese, receives the eating.
+  ref: g-01
+- id: iii30-c-amamini
+  type: choose
+  q: '"Y''all are loved": *___*'
+  options:
+  - Amāminī
+  - Amātis
+  - Amāmur
+  a: Amāminī
+  why: '*-tis* → *-minī*, the one ending with no *r*.'
+  ref: g-02
+- id: iii30-c-ab-avo
+  type: choose
+  q: '"The cheese is loved by Grandpa": *Cāseus ___ amātur.*'
+  options:
+  - ab Avō
+  - Avō
+  - cum Avō
+  a: ab Avō
+  why: A person doing it is the agent → *ā/ab* + ablative.
+  ref: g-03
+- id: iii30-c-manu
+  type: choose
+  q: '"The cheese is carried by hand": *Cāseus ___ portātur.*'
+  options:
+  - manū
+  - ā manū
+  - cum manū
+  a: manū
+  why: A tool takes the plain ablative, no preposition.
+  ref: g-04
+- id: iii30-c-cum
+  type: choose
+  q: '"I eat the cheese with Grandpa (together)": *Cāseum ___ edō.*'
+  options:
+  - cum Avō
+  - ab Avō
+  - Avō
+  a: cum Avō
+  why: Company takes *cum*.
+  ref: g-04
+- id: iii30-c-verb-agree
+  type: choose
+  q: '"Grandpa is loved by the children": *Avus ā līberīs ___.*'
+  options:
+  - amātur
+  - amantur
+  - amant
+  a: amātur
+  why: The verb agrees with the subject, *Avus* (singular).
+  ref: g-03
+- id: iii30-c-legeris
+  type: choose
+  q: '"You are (now) read": *___*'
+  options:
+  - legeris
+  - legēris
+  - legiris
+  a: legeris
+  why: 'Present, short *e*; *legēris* (long ē) is the future.'
+  ref: g-08
+- id: iii30-c-amaberis
+  type: choose
+  q: '"You will be loved": *___*'
+  options:
+  - amāberis
+  - amābiris
+  - amābis
+  a: amāberis
+  why: '*-bis* → *-beris*: short *i* → *e* before *r*.'
+  ref: g-08
+- id: iii30-c-legi
+  type: choose
+  q: '"To be read": *___*'
+  options:
+  - legī
+  - lēgī
+  - legere
+  a: legī
+  why: '*Lēgī* (long ē) is "I read"; *legere* is "to read."'
+  ref: g-09
+- id: iii30-c-amari
+  type: choose
+  q: '"To be loved": *___*'
+  options:
+  - amārī
+  - amāre
+  - amāris
+  a: amārī
+  why: '*Amāre* is "to love"; *amāris* is "you are loved."'
+  ref: g-09
+- id: iii30-c-tense
+  type: choose
+  q: '*Liber ā Marcō legēbātur.* Which tense?'
+  options:
+  - imperfect
+  - present
+  - future
+  a: imperfect
+  why: The *-bā-* sign, with a passive ending.
+  ref: g-07
+- id: iii30-c-videntur
+  type: choose
+  q: '*videntur* means:'
+  options:
+  - they seem
+  - they see
+  - they will see
+  a: they seem
+  why: Passive of *videō*, "they are seen" = "they seem."
+  ref: g-05
+- id: iii30-c-loquor
+  type: choose
+  q: '*Loquerisne Latīnē?* means:'
+  options:
+  - Do you speak Latin?
+  - Are you spoken in Latin?
+  a: Do you speak Latin?
+  why: '*Loquor* wears passive endings with an active meaning (a deponent, Chapter 43).'
+  ref: g-10
+- id: iii30-c-caseo
+  type: choose
+  q: '*Cāseus ā Cāseō editur.* Who eats?'
+  options:
+  - the dog
+  - the cheese
+  a: the dog
+  why: '*Ā Cāseō* is the agent: the dog named Cāseus.'
+  ref: g-12
+- id: iii30-e-caseum
+  type: error
+  q: 'Fix: *Cāseum ab Avō amātur.* ("The cheese is loved by Grandpa")'
+  a: '*Cāseus ab Avō amātur.* The passive subject is nominative.'
+  ref: g-11
+- id: iii30-e-marco
+  type: error
+  q: 'Fix: *Cāseus Marcō portātur.* ("…by Marcus")'
+  a: '*Cāseus ā Marcō portātur.* A person doing it needs *ā/ab*.'
+  ref: g-11
+- id: iii30-e-a-manu
+  type: error
+  q: 'Fix: *Cāseus ā manū portātur.* ("…by hand")'
+  a: '*Cāseus manū portātur.* A tool takes the plain ablative.'
+  ref: g-11
+- id: iii30-e-amantur
+  type: error
+  q: 'Fix: *Avus ā līberīs amantur.*'
+  a: '*Avus ā līberīs amātur.* The verb agrees with *Avus*.'
+  ref: g-11
+- id: iii30-e-amatis
+  type: error
+  q: 'Fix: *Amātis.* ("Y''all are loved")'
+  a: '*Amāminī.*'
+  ref: g-11
+- id: iii30-e-amabiris
+  type: error
+  q: 'Fix: *Amābiris.* ("You will be loved")'
+  a: '*Amāberis.* Short *i* → *e* before *r*.'
+  ref: g-11
+- id: iii30-e-amare-vult
+  type: error
+  q: 'Fix: *Avus amāre vult.* ("Grandpa wants to be loved")'
+  a: '*Avus amārī vult.* *Amāre* is "to love."'
+  ref: g-11

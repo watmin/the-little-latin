@@ -18,7 +18,7 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 | 27 | [**Iam Fēceram**](03-iam-feceram.md) | G: pluperfect & future perfect. S: sequencing events. | ✅ available |
 | 28 | [**Quī, Quae, Quod**](04-qui-quae-quod.md) | G: relative pronoun, relative clauses. S: the man who… | ✅ available |
 | 29 | [**Quis Venit?**](05-quis-venit.md) | G: interrogative pronoun vs adjective; indefinites aliquis, quīdam, quisque. S: who, what, whose, to whom, which? | ✅ available |
-| 30 | **Amor, Amāris** | G: present-system passive (all conj.); ablative of agent vs means. | coming |
+| 30 | [**Amor, Amāris**](06-amor-amaris.md) | G: present-system passive (all conj.); ablative of agent vs means. S: what is done, by whom, with what. | ✅ available |
 | 31 | **Amātus Est** | G: perfect passive system (needs 4th principal part). | coming |
 | 32 | **Ferō, Eō, Fīō** | G: irregulars ferō, eō (+compounds), fīō; full volō/nōlō/mālō. | coming |
 | 33 | **Melior et Optimus** | G: comparison of adjectives (regular, irregular), quam vs abl. of comparison. | coming |

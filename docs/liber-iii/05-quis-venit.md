@@ -211,14 +211,14 @@ Read each Latin line aloud. Guess the English, then tap to check. For the revers
 
 ::: dialogue lectio
 Avus | Quis venit? Aliquem audiō! || Grandpa | Who's coming? I hear someone!
-Avia | Nēmō venit, Avē. Tū nihil audīs! || Grandma | Nobody's coming, Grandpa. You hear nothing!
+Avia | Nēmō venit, Ave. Tū nihil audīs! || Grandma | Nobody's coming, Grandpa. You hear nothing!
 Cornēlia | Ecce! Vir quīdam hīc est! || Cornēlia | Look! A certain man is here!
 Quīntus | Quis est? Quid portat? || Quīntus | Who is it? What's he carrying?
 Marcus | Aliquid in manū habet. Quid est? || Marcus | He has something in his hand. What is it?
 Pater | Quis es? Quid vīs? || Dad | Who are you? What do you want?
 Tabernārius | Salvēte! Tabernārius sum. Sacculum in tabernā invēnī. Cuius est? || Shopkeeper | Hello, y'all! I'm the shopkeeper. I found a little purse in the shop. Whose is it?
 Avus | Meus est! || Grandpa | It's mine!
-Avia | Nōn tuus est, Avē! Tū hodiē domī mānsistī. || Grandma | It's not yours, Grandpa! You stayed home today.
+Avia | Nōn tuus est, Ave! Tū hodiē domī mānsistī. || Grandma | It's not yours, Grandpa! You stayed home today.
 Tabernārius | Quī puer hodiē in tabernā erat? || Shopkeeper | Which boy was in the shop today?
 Iōannēs | Ego! Sacculus meus est! || John | Me! It's my purse!
 Tabernārius | Quot dēnāriī in sacculō sunt? || Shopkeeper | How many denarii are in the purse?
@@ -232,7 +232,7 @@ Marcus | Ubi est pars mea? || Marcus | Where's my piece?
 Quīntus | Et mea? || Quīntus | And mine?
 Cornēlia | Aliquis partēs nostrās ēdit! Quis? || Cornēlia | Someone ate our pieces! Who?
 Avus | Nōn ego! Quīdam canis… || Grandpa | Not me! A certain dog…
-Avia | Quid in manū tuā est, Avē? || Grandma | What's in your hand, Grandpa?
+Avia | Quid in manū tuā est, Ave? || Grandma | What's in your hand, Grandpa?
 Avus | Aliquid… aliquid parvum… || Grandpa | Something… something small…
 Omnēs | In stomachō… || Everyone | In the stomach of…
 Avus | …Avī. || Grandpa | …Grandpa.
