@@ -1,0 +1,419 @@
+book: iii
+ch: 29
+page: liber-iii/05-quis-venit.md
+cards:
+- id: iii29-v-quis
+  type: vocab
+  la: quis, quid
+  en: who? what? (alone)
+  ref: g-01
+- id: iii29-v-cuius
+  type: vocab
+  la: cuius · cui · quem · quō
+  en: whose? · to whom? · whom? · by/with whom? (same as the relative)
+  ref: g-02
+- id: iii29-v-qui-adj
+  type: vocab
+  la: quī, quae, quod
+  en: 'which? what? (with a noun: interrogative adjective)'
+  ref: g-04
+- id: iii29-v-aliquis
+  type: vocab
+  la: aliquis, aliquid
+  en: someone, something
+  ref: g-06
+- id: iii29-v-aliqui
+  type: vocab
+  la: aliquī, aliqua, aliquod
+  en: some (with a noun)
+  ref: g-06
+- id: iii29-v-quidam
+  type: vocab
+  la: quīdam, quaedam, quiddam / quoddam
+  en: a certain (one, thing)
+  ref: g-07
+- id: iii29-v-quendam
+  type: vocab
+  la: quendam, quandam; cuiusdam, cuidam; quōrundam
+  en: a certain (object, of, to; plural "of")
+  ref: g-07
+- id: iii29-v-quisque
+  type: vocab
+  la: quisque, quidque / quodque; cuique, cuiusque
+  en: each one; to each, of each
+  ref: g-08
+- id: iii29-v-rogo
+  type: vocab
+  la: rogō, rogāre, rogāvī, rogātum
+  en: ask
+  ref: g-01
+- id: iii29-v-nemo
+  type: vocab
+  la: nēmō
+  en: no one, nobody
+  ref: g-06
+- id: iii29-v-nihil
+  type: vocab
+  la: nihil
+  en: nothing
+  ref: g-06
+- id: iii29-v-faber
+  type: vocab
+  la: faber, fabrī
+  en: maker, craftsman (m.)
+  ref: g-08
+- id: iii29-v-quid-novi
+  type: vocab
+  la: Quid novī?
+  en: What's new?
+  ref: g-04
+- id: iii29-v-quid-agis
+  type: vocab
+  la: Quid agis?
+  en: How are you? (What are you doing?)
+  ref: g-04
+- id: iii29-v-interrogative
+  type: vocab
+  la: interrogative
+  en: a question word
+  ref: g-01
+- id: iii29-v-intpron
+  type: vocab
+  la: interrogative pronoun
+  en: a question word standing alone (*quis, quid*)
+  ref: g-01
+- id: iii29-v-intadj
+  type: vocab
+  la: interrogative adjective
+  en: a question word sitting on a noun (*quī vir? quod nōmen?*)
+  ref: g-04
+- id: iii29-v-indefinite
+  type: vocab
+  la: indefinite
+  en: a word that doesn't point at any one particular person or thing (*aliquis, quīdam*)
+  ref: g-06
+- id: iii29-f-quis-quid
+  type: forms
+  q: '*Quis venit?* and *Quid est?* Which asks about a person?'
+  a: '*Quis* = who? (person) · *quid* = what? (thing).'
+  ref: g-01
+- id: iii29-f-subject-object
+  type: forms
+  q: '*Quid canis edit?* and *Quid est in mēnsā?* What job does *quid* do?'
+  a: 'Object in the first, subject in the second: the Neuter Twins, same form.'
+  ref: g-01
+- id: iii29-f-custodes
+  type: forms
+  q: '*Quis custōdiet ipsōs custōdēs?*'
+  a: '"Who will guard the guards themselves?" *Custōdiet* is a future; *ipsōs* agrees with *custōdēs*. (Juvenal)'
+  ref: g-01
+- id: iii29-f-cuius-est
+  type: forms
+  q: '*Cuius est sacculus?*'
+  a: '"Whose is the purse?" *Cuius* is the owner case, one form for all genders.'
+  ref: g-02
+- id: iii29-f-cui-das
+  type: forms
+  q: '"To whom do you give the cheese?"'
+  a: '*Cui cāseum dās?* *Cui* = dative, the receiver.'
+  ref: g-02
+- id: iii29-f-cui-bono
+  type: forms
+  q: '*Cui bonō?*'
+  a: '"Who stood to gain?" (Cicero, quoting the judge Cassius)'
+  ref: g-02
+- id: iii29-f-quocum
+  type: forms
+  q: '"With whom do you walk?"'
+  a: '*Quōcum ambulās?* (or *cum quō ambulās?*)'
+  ref: g-02
+- id: iii29-f-chant
+  type: forms
+  q: Chant the singular question word in case order, masculine/feminine then neuter.
+  a: '*Quis, cuius, cui, quem, quō* · *quid, cuius, cui, quid, quō.*'
+  ref: g-02
+- id: iii29-f-quos-ego
+  type: forms
+  q: '*Quōs ego—!* Which case of *quōs*?'
+  a: 'Accusative plural: "Whom I—!" (Neptune to the winds; Vergil, *Aeneid* 1.135)'
+  ref: g-03
+- id: iii29-f-pl-sunt
+  type: forms
+  q: Plural "who are they?" for boys and for girls.
+  a: '*Quī sunt?* (boys) · *Quae sunt?* (girls). *Quae sunt?* can also ask "what are those?" about neuter things.'
+  ref: g-03
+- id: iii29-f-law-question
+  type: forms
+  q: The Law of the Question Words?
+  a: Two new shapes in the singular, *quis* and *quid*; everything else is borrowed from the relative (*cuius, cui, quem, quō*, and the whole plural).
+  ref: g-03
+- id: iii29-f-quod-nomen
+  type: forms
+  q: Why *quod* in *Quod nōmen tibi est?*
+  a: '*Quod* sits on *nōmen* (neuter singular): "what name?" An interrogative adjective.'
+  ref: g-04
+- id: iii29-f-pron-adj
+  type: forms
+  q: 'Pronoun or adjective: *Quis venit?* · *Quī vir venit?*'
+  a: '*Quis*: pronoun, alone. *Quī*: adjective, sitting on *vir*.'
+  ref: g-04
+- id: iii29-f-law-alone
+  type: forms
+  q: The Law of Alone and Company?
+  a: 'Alone: *quis, quid*. With a noun: *quī, quae, quod*, agreeing with it. Other cases share forms.'
+  ref: g-04
+- id: iii29-f-ask-or-point
+  type: forms
+  q: '*Quī vir cantat?* vs *Vir quī cantat.*'
+  a: The first asks ("which man?"), the second points back ("the man who"). The noun follows an asking *quī* and precedes a relative.
+  ref: g-05
+- id: iii29-f-aliquis-def
+  type: forms
+  q: What is an *indefinite*, and how is *aliquis* built?
+  a: A word that doesn't point at any one particular person or thing. *Ali-* + *quis*.
+  ref: g-06
+- id: iii29-f-africa
+  type: forms
+  q: '*Ex Āfricā semper aliquid novī.* Which Chapter 22 trick is *novī*?'
+  a: 'The partitive genitive: "something of new." (Pliny the Elder, quoting a Greek proverb)'
+  ref: g-06
+- id: iii29-f-nemo-nihil
+  type: forms
+  q: Opposites of *aliquis* and *aliquid*.
+  a: '*Nēmō* (no one) · *nihil* (nothing).'
+  ref: g-06
+- id: iii29-f-si-quis
+  type: forms
+  q: '*Sī quis cāseum ēderit, Avia clāmābit.*'
+  a: '"If anyone eats the cheese, Grandma will shout." After *sī* the *ali-* drops.'
+  ref: g-06
+- id: iii29-f-quadam
+  type: forms
+  q: '*Erant in quādam cīvitāte rēx et rēgīna.* What is *quādam*?'
+  a: 'Feminine ablative singular of *quīdam*, "a certain": "in a certain city." (Apuleius)'
+  ref: g-07
+- id: iii29-f-quidam-diff
+  type: forms
+  q: '*Aliquis* vs *quīdam*?'
+  a: '*Aliquis*: someone, no idea who. *Quīdam*: a certain one, particular but not named.'
+  ref: g-07
+- id: iii29-f-quendam
+  type: forms
+  q: '"I see a certain man." Why *quendam*?'
+  a: '*Quendam virum videō.* The *m* melts into *n* before *d*, like *eundem*.'
+  ref: g-07
+- id: iii29-f-luke
+  type: forms
+  q: '*Homō quīdam habuit duōs fīliōs.*'
+  a: '"A certain man had two sons." (Luke 15:11, Vulgate)'
+  ref: g-07
+- id: iii29-f-quisque-def
+  type: forms
+  q: What is *quisque*, and what is *cuique* in *Suum cuique*?
+  a: '*Quis* + *-que* = "each one," one word, no "and." *Cuique* = "to each."'
+  ref: g-08
+- id: iii29-f-faber
+  type: forms
+  q: '*Faber est suae quisque fortūnae.*'
+  a: '"Each man is the maker of his own fortune." (Attributed to Appius Claudius Caecus)'
+  ref: g-08
+- id: iii29-f-law-cousins
+  type: forms
+  q: The Law of the Cousins?
+  a: '*Aliquis, quīdam, quisque* are the question word plus a tag; they decline like it.'
+  ref: g-08
+- id: iii29-c-venit
+  type: choose
+  q: '"Who is coming?": *___ venit?*'
+  options:
+  - Quis
+  - Quid
+  - Quem
+  a: Quis
+  why: A person as subject → nominative *quis*.
+  ref: g-01
+- id: iii29-c-vides
+  type: choose
+  q: '"What do you see?": *___ vidēs?*'
+  options:
+  - Quid
+  - Quis
+  - Quī
+  a: Quid
+  why: A thing, alone → *quid*.
+  ref: g-01
+- id: iii29-c-cui
+  type: choose
+  q: '"To whom do you give it?": *___ dās?*'
+  options:
+  - Cui
+  - Cuius
+  - Quem
+  a: Cui
+  why: The receiver is dative.
+  ref: g-02
+- id: iii29-c-cuius
+  type: choose
+  q: '"Whose cheese is it?": *___ cāseus est?*'
+  options:
+  - Cuius
+  - Cui
+  - Quō
+  a: Cuius
+  why: The owner case.
+  ref: g-02
+- id: iii29-c-quibus
+  type: choose
+  q: '"To whom (several)?": *___ cāseum dās?*'
+  options:
+  - Quibus
+  - Quōs
+  - Quōrum
+  a: Quibus
+  why: Dative plural.
+  ref: g-03
+- id: iii29-c-quos
+  type: choose
+  q: '"Whom (several boys) do you see?": *___ vidēs?*'
+  options:
+  - Quōs
+  - Quī
+  - Quibus
+  a: Quōs
+  why: Accusative plural masculine.
+  ref: g-03
+- id: iii29-c-quae-puella
+  type: choose
+  q: '"Which girl sings?": *___ puella cantat?*'
+  options:
+  - Quae
+  - Quī
+  - Quis
+  a: Quae
+  why: On a feminine noun → *quae*.
+  ref: g-04
+- id: iii29-c-quod-malum
+  type: choose
+  q: '"Which apple do you want?": *___ mālum vīs?*'
+  options:
+  - Quod
+  - Quid
+  - Quem
+  a: Quod
+  why: On a neuter noun → *quod*.
+  ref: g-04
+- id: iii29-c-quid-vis
+  type: choose
+  q: '"What do you want?": *___ vīs?*'
+  options:
+  - Quid
+  - Quod
+  - Quem
+  a: Quid
+  why: Alone → *quid*.
+  ref: g-04
+- id: iii29-c-quem-librum
+  type: choose
+  q: '"Which book do you read?": *___ librum legis?*'
+  options:
+  - Quem
+  - Quī
+  - Quis
+  a: Quem
+  why: Masculine accusative on *librum*.
+  ref: g-04
+- id: iii29-c-aliquis
+  type: choose
+  q: '"Someone ate the cheese.": *___ cāseum ēdit.*'
+  options:
+  - Aliquis
+  - Aliquem
+  - Aliquid
+  a: Aliquis
+  why: The eater is the subject.
+  ref: g-06
+- id: iii29-c-nihil
+  type: choose
+  q: '"What''s in the box? Nothing!": *Quid in capsā est? ___!*'
+  options:
+  - Nihil
+  - Nēmō
+  - Aliquid
+  a: Nihil
+  why: '"Nothing" for a thing; *nēmō* is for a person.'
+  ref: g-06
+- id: iii29-c-quidam
+  type: choose
+  q: '"A certain man sings.": *Vir ___ cantat.*'
+  options:
+  - quīdam
+  - aliquis
+  - quisque
+  a: quīdam
+  why: '"A certain" = *quīdam*.'
+  ref: g-07
+- id: iii29-c-quisque-verb
+  type: choose
+  q: '"Each one loves cheese.": *Quisque cāseum ___.*'
+  options:
+  - amat
+  - amant
+  - amās
+  a: amat
+  why: '*Quisque* is singular.'
+  ref: g-08
+- id: iii29-c-cuique
+  type: choose
+  q: '"To each his own.": *Suum ___.*'
+  options:
+  - cuique
+  - cui
+  - quisque
+  a: cuique
+  why: '"To each" = *cuique*.'
+  ref: g-08
+- id: iii29-c-si-quis
+  type: choose
+  q: '"If anyone comes…": *Sī ___ venerit…*'
+  options:
+  - quis
+  - aliquis
+  - quisque
+  a: quis
+  why: After *sī* the *ali-* drops.
+  ref: g-06
+- id: iii29-e-quem-venit
+  type: error
+  q: 'Fix: *Quem vēnit?* ("Who came?")'
+  a: '*Quis vēnit?* The subject is nominative *quis*.'
+  ref: g-09
+- id: iii29-e-quid-malum
+  type: error
+  q: 'Fix: *Quid mālum vīs?* ("Which apple do you want?")'
+  a: '*Quod mālum vīs?* On a noun → *quod*.'
+  ref: g-09
+- id: iii29-e-qui-puella
+  type: error
+  q: 'Fix: *Quī puella cantat?* ("Which girl is singing?")'
+  a: '*Quae puella cantat?* Feminine → *quae*.'
+  ref: g-09
+- id: iii29-e-quis-das
+  type: error
+  q: 'Fix: *Quis cāseum dās?* ("To whom do you give the cheese?")'
+  a: '*Cui cāseum dās?* Receiver → dative.'
+  ref: g-09
+- id: iii29-e-aliquem
+  type: error
+  q: 'Fix: *Aliquem cāseum ēdit.* ("Someone ate the cheese.")'
+  a: '*Aliquis cāseum ēdit.* The eater is the subject.'
+  ref: g-09
+- id: iii29-e-quisque-edunt
+  type: error
+  q: 'Fix: *Quisque cāseum suum edunt.* ("Each one eats his own cheese.")'
+  a: '*Quisque cāseum suum edit.* *Quisque* is singular.'
+  ref: g-09
+- id: iii29-e-quidam-puero
+  type: error
+  q: 'Fix: *Quīdam puerō cāseum dedī.* ("I gave the cheese to a certain boy.")'
+  a: '*Cuidam puerō cāseum dedī.* The receiver is dative: *cuidam*.'
+  ref: g-09
