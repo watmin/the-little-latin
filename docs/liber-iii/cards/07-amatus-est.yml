@@ -1,0 +1,391 @@
+book: iii
+ch: 31
+page: liber-iii/07-amatus-est.md
+cards:
+- id: iii31-v-amatus
+  type: vocab
+  la: amātus, amāta, amātum
+  en: loved, having been loved (the fourth-key adjective)
+  ref: g-01
+- id: iii31-v-esus
+  type: vocab
+  la: ēsus, ēsa, ēsum
+  en: eaten
+  ref: g-02
+- id: iii31-v-amatus-sum
+  type: vocab
+  la: amātus sum, amātus es, amātus est
+  en: I was (have been) loved, you were loved, he was loved
+  ref: g-03
+- id: iii31-v-amati-sumus
+  type: vocab
+  la: amātī sumus, amātī estis, amātī sunt
+  en: we were loved, y'all were loved, they were loved
+  ref: g-03
+- id: iii31-v-amatus-eram
+  type: vocab
+  la: amātus eram, amātus erat
+  en: I had been loved, he had been loved
+  ref: g-08
+- id: iii31-v-amatus-ero
+  type: vocab
+  la: amātus erō, amātus erit
+  en: I will have been loved, he will have been loved
+  ref: g-09
+- id: iii31-v-pono
+  type: vocab
+  la: pōnō, pōnere, posuī, positum
+  en: put, place
+  ref: g-04
+- id: iii31-v-claudo
+  type: vocab
+  la: claudō, claudere, clausī, clausum
+  en: shut, close
+  ref: g-07
+- id: iii31-v-aperio
+  type: vocab
+  la: aperiō, aperīre, aperuī, apertum
+  en: open
+  ref: g-05
+- id: iii31-v-mitto
+  type: vocab
+  la: mittō, mittere, mīsī, missum
+  en: send
+  ref: g-07
+- id: iii31-v-invenio
+  type: vocab
+  la: inveniō, invenīre, invēnī, inventum
+  en: find
+  ref: g-08
+- id: iii31-v-factum-est
+  type: vocab
+  la: Factum est.
+  en: It has been done. It is done.
+  ref: g-01
+- id: iii31-v-participle
+  type: vocab
+  la: participle
+  en: a verb-adjective ("eaten," "loved")
+  ref: g-01
+- id: iii31-v-ppp
+  type: vocab
+  la: perfect passive participle
+  en: 'the fourth-key adjective: amātus, "loved"'
+  ref: g-01
+- id: iii31-v-perf-pass
+  type: vocab
+  la: perfect passive
+  en: 'was / has been …ed: amātus est'
+  ref: g-03
+- id: iii31-v-plpf-pass
+  type: vocab
+  la: pluperfect passive
+  en: 'had been …ed: amātus erat'
+  ref: g-08
+- id: iii31-v-futpf-pass
+  type: vocab
+  la: future perfect passive
+  en: 'will have been …ed: amātus erit'
+  ref: g-09
+- id: iii31-f-was-eaten
+  type: forms
+  q: '"The cheese was eaten / has been eaten."'
+  a: '*Cāseus ēsus est.* The fourth key *ēsum* + *est*.'
+  ref: g-01
+- id: iii31-f-factum-est
+  type: forms
+  q: 'Chapter 25''s *Factum est*: how is it built?'
+  a: '*Factum* (fourth key of *faciō*) + *est*: "it has been done," "it is done."'
+  ref: g-01
+- id: iii31-f-pars
+  type: forms
+  q: '"A piece (*pars*, f.) has been eaten."'
+  a: '*Pars ēsa est.*'
+  ref: g-02
+- id: iii31-f-partes
+  type: forms
+  q: '"The pieces have been eaten."'
+  a: '*Partēs ēsae sunt.* *Partēs* is third family, but *ēsae* is first-second.'
+  ref: g-02
+- id: iii31-f-gallia
+  type: forms
+  q: '*Gallia est omnis dīvīsa in partēs trēs.* Find the two pieces; why *dīvīsa*?'
+  a: '*Est … dīvīsa*: feminine singular for *Gallia*. "Gaul is divided (has been divided) into three parts." (Caesar, *Gallic War* 1.1)'
+  ref: g-02
+- id: iii31-f-law-pieces
+  type: forms
+  q: The Law of the Two Pieces?
+  a: 'The fourth-key adjective agrees with the subject (like *magnus*); the form of *sum* tells the person and the time.'
+  ref: g-02
+- id: iii31-f-chant-perf
+  type: forms
+  q: Chant the perfect passive of *amō* (a man speaking).
+  a: '*Amātus sum, amātus es, amātus est, amātī sumus, amātī estis, amātī sunt.*'
+  ref: g-03
+- id: iii31-f-amata-sum
+  type: forms
+  q: 'Cornēlia: "I have been loved by Grandma."'
+  a: '*Ab Aviā amāta sum.*'
+  ref: g-03
+- id: iii31-f-amatae
+  type: forms
+  q: 'Mom and Cornēlia: "We have been loved by Dad."'
+  a: '*Ā Patre amātae sumus.* (A mixed group takes *amātī*.)'
+  ref: g-03
+- id: iii31-f-visus-sum
+  type: forms
+  q: 'Grandpa, caught: "I have been seen!"'
+  a: '*Vīsus sum!*'
+  ref: g-03
+- id: iii31-f-lectus
+  type: forms
+  q: '"The book has been read."'
+  a: '*Liber lēctus est.* (Long ē, like *lēgī*.)'
+  ref: g-04
+- id: iii31-f-emptus
+  type: forms
+  q: '"A cheese has been bought by me!"'
+  a: '*Cāseus ā mē emptus est!*'
+  ref: g-04
+- id: iii31-f-visus-est
+  type: forms
+  q: '*Canis fessus vīsus est.*'
+  a: '"The dog seemed tired" ("was seen to be tired").'
+  ref: g-04
+- id: iii31-f-positus
+  type: forms
+  q: '"The cheese has been put on the table."'
+  a: '*Cāseus in mēnsā positus est.*'
+  ref: g-04
+- id: iii31-f-alea
+  type: forms
+  q: '*Iacta ālea est.*'
+  a: '"The die has been cast." Feminine *iacta* for *ālea*. (Caesar at the Rubicon, Suetonius, *Julius* 32)'
+  ref: g-04
+- id: iii31-f-a-quo
+  type: forms
+  q: '"By whom was the cheese eaten?"'
+  a: '*Ā quō cāseus ēsus est?*'
+  ref: g-05
+- id: iii31-f-flip-vidit
+  type: forms
+  q: 'Flip to passive: *Marcus Quīntum vīdit.*'
+  a: '*Quīntus ā Marcō vīsus est.*'
+  ref: g-05
+- id: iii31-f-flip-ederunt
+  type: forms
+  q: 'Flip to passive: *Līberī cāseum ēdērunt.*'
+  a: '*Cāseus ā līberīs ēsus est.* *Ēsus est* agrees with the new subject.'
+  ref: g-05
+- id: iii31-f-flip-aperuit
+  type: forms
+  q: 'Flip to passive: *Avia capsam aperuit.*'
+  a: '*Capsa ab Aviā aperta est.*'
+  ref: g-05
+- id: iii31-f-lux
+  type: forms
+  q: '*Fīat lūx. Et facta est lūx.*'
+  a: '"Let there be light. And light was made." *Facta*: feminine for *lūx*. (Genesis 1:3)'
+  ref: g-06
+- id: iii31-f-verbum
+  type: forms
+  q: '*Et Verbum carō factum est.* Why *factum*?'
+  a: 'It agrees with *Verbum* (neuter): "And the Word was made flesh." (John 1:14)'
+  ref: g-06
+- id: iii31-f-omnia
+  type: forms
+  q: '*Omnia per ipsum facta sunt.*'
+  a: '"All things were made through him." Neuter plural *facta*, plural *sunt*. (John 1:3)'
+  ref: g-06
+- id: iii31-f-consummatum
+  type: forms
+  q: '*Cōnsummātum est.*'
+  a: '"It is finished" ("it has been finished"). (John 19:30)'
+  ref: g-07
+- id: iii31-f-clauditur
+  type: forms
+  q: '*Capsa clauditur* · *Capsa clausa est.* The difference?'
+  a: '*Clauditur*: "is being shut" (happening). *Clausa est*: "has been shut," "is shut" (done).'
+  ref: g-07
+- id: iii31-f-missa
+  type: forms
+  q: '*Īte, missa est.* What does *missa est* look like now?'
+  a: 'The fourth key of *mittō* (feminine) + *est*: "she/it has been sent." Often rendered "Go, it is the dismissal."'
+  ref: g-07
+- id: iii31-f-chant-plpf
+  type: forms
+  q: Chant the pluperfect passive of *amō*.
+  a: '*Amātus eram, amātus erās, amātus erat, amātī erāmus, amātī erātis, amātī erant.*'
+  ref: g-08
+- id: iii31-f-sero
+  type: forms
+  q: '"Too late! The cheese had already been eaten by the dog."'
+  a: '*Sērō! Cāseus ā cane iam ēsus erat.*'
+  ref: g-08
+- id: iii31-f-chant-futpf
+  type: forms
+  q: Chant the future perfect passive of *amō*.
+  a: '*Amātus erō, amātus eris, amātus erit, amātī erimus, amātī eritis, amātī erunt.*'
+  ref: g-09
+- id: iii31-f-hora
+  type: forms
+  q: '"By three o''clock the cheese will have been eaten."'
+  a: '*Hōrā tertiā cāseus iam ēsus erit.*'
+  ref: g-09
+- id: iii31-f-si
+  type: forms
+  q: '"If the cheese gets eaten, Grandpa will shout."'
+  a: '*Sī cāseus ēsus erit, Avus clāmābit.*'
+  ref: g-09
+- id: iii31-f-law-onetwo
+  type: forms
+  q: The Law of One Word and Two?
+  a: 'Present, imperfect, future passive: one word (*amātur, amābātur, amābitur*). Perfect, pluperfect, future perfect: two words (*amātus est, erat, erit*).'
+  ref: g-09
+- id: iii31-c-voice-perf
+  type: choose
+  q: '*Amāvit* or *amātus est*: which is "he was loved"?'
+  options:
+  - amātus est
+  - amāvit
+  a: amātus est
+  why: '*Amāvit* is active: "he loved."'
+  ref: g-10
+- id: iii31-c-i-am-loved
+  type: choose
+  q: '"I am loved": *___*'
+  options:
+  - Amor
+  - Amātus sum
+  - Amābor
+  a: Amor
+  why: '*Amātus sum* is "I was loved"; *amābor* "I will be loved."'
+  ref: g-03
+- id: iii31-c-esus
+  type: choose
+  q: '"The cheese has been eaten": *Cāseus ___ est.*'
+  options:
+  - ēsus
+  - ēsum
+  - ēsa
+  a: ēsus
+  why: It agrees with *cāseus*, masculine singular.
+  ref: g-02
+- id: iii31-c-aperta
+  type: choose
+  q: '"The box has been opened": *Capsa ___ est.*'
+  options:
+  - aperta
+  - apertus
+  - apertum
+  a: aperta
+  why: '*Capsa* is feminine.'
+  ref: g-05
+- id: iii31-c-sunt
+  type: choose
+  q: '"The apples have been eaten": *Māla ēsa ___.*'
+  options:
+  - sunt
+  - est
+  - erant
+  a: sunt
+  why: Plural subject, plural *sum*, and "have been" is the present *sum*.
+  ref: g-02
+- id: iii31-c-erat
+  type: choose
+  q: '"The cheese had been eaten": *Cāseus ēsus ___.*'
+  options:
+  - erat
+  - est
+  - erit
+  a: erat
+  why: '"Had been" = *eram*: the pluperfect.'
+  ref: g-08
+- id: iii31-c-erit
+  type: choose
+  q: '"By then the cheese will have been eaten": *Cāseus ēsus ___.*'
+  options:
+  - erit
+  - erat
+  - est
+  a: erit
+  why: '"Will have been" = *erō*: the future perfect.'
+  ref: g-09
+- id: iii31-c-erunt
+  type: choose
+  q: '"They will have been loved": *Amātī ___.*'
+  options:
+  - erunt
+  - erint
+  - erant
+  a: erunt
+  why: Plain *sum* future; *-erint* is the active future perfect ending.
+  ref: g-09
+- id: iii31-c-happening
+  type: choose
+  q: '"The cheese is being eaten" (still chewing).'
+  options:
+  - Cāseus editur.
+  - Cāseus ēsus est.
+  a: Cāseus editur.
+  why: Happening = one word (Chapter 30); done = two words.
+  ref: g-07
+- id: iii31-c-agent
+  type: choose
+  q: '"The cheese was eaten by Grandpa": *Cāseus ___ ēsus est.*'
+  options:
+  - ab Avō
+  - Avō
+  - cum Avō
+  a: ab Avō
+  why: A person doing it takes *ā/ab*.
+  ref: g-05
+- id: iii31-c-means
+  type: choose
+  q: '"The cheese was eaten with teeth": *Cāseus ___ ēsus est.*'
+  options:
+  - dentibus
+  - ā dentibus
+  - cum dentibus
+  a: dentibus
+  why: A tool takes the plain ablative.
+  ref: g-05
+- id: iii31-c-amaverat
+  type: choose
+  q: '*Amāverat*: which voice?'
+  options:
+  - active
+  - passive
+  a: active
+  why: '"He had loved": the active pluperfect, one word. The passive is *amātus erat*.'
+  ref: g-10
+- id: iii31-e-esum
+  type: error
+  q: 'Fix: *Cāseus ēsum est.*'
+  a: '*Cāseus ēsus est.* The fourth key agrees with *cāseus*.'
+  ref: g-11
+- id: iii31-e-apertus
+  type: error
+  q: 'Fix: *Capsa apertus est.*'
+  a: '*Capsa aperta est.* *Capsa* is feminine.'
+  ref: g-11
+- id: iii31-e-mala-est
+  type: error
+  q: 'Fix: *Māla ēsa est.*'
+  a: '*Māla ēsa sunt.* Plural subject, plural *sum*.'
+  ref: g-11
+- id: iii31-e-amata-sum
+  type: error
+  q: 'Fix: *Ab Aviā amāta sum.* ("I am loved by Grandma")'
+  a: '*Ab Aviā amor.* *Amāta sum* is "I was loved."'
+  ref: g-11
+- id: iii31-e-erat
+  type: error
+  q: 'Fix: *Cāseus ā cane ēsus est.* ("…had been eaten by the dog")'
+  a: '*Cāseus ā cane ēsus erat.* "Had been" needs *erat*.'
+  ref: g-11
+- id: iii31-e-avo
+  type: error
+  q: 'Fix: *Cāseus Avō ēsus est.* ("…by Grandpa")'
+  a: '*Cāseus ab Avō ēsus est.* A person doing it needs *ā/ab*.'
+  ref: g-11
