@@ -240,7 +240,7 @@ Avus | Audīte! Rēs est gravis. Quis cāseum in manū habet? || Grandpa | Liste
 Cāseus | Bau! Bau! || Cheese (the dog) | Woof! Woof!
 Marcus | Canis! In ōre canis est! || Marcus | The dog! It's in the dog's mouth!
 Avia | Ō canis! Manūs tuās… id est, pedēs tuōs… || Grandma | O dog! Your hands… that is, your paws…
-Iōannēs | Diē hodiērnō canis vincit. Carpe diem, Cāseus! || John | Today the dog wins. Seize the day, Cheese!
+Iōannēs | Diē hodiērnō canis vincit. Carpe diem, Cāsee! || John | Today the dog wins. Seize the day, Cheese!
 Avus | Carpe cāseum, nōn diem! || Grandpa | Seize the cheese, not the day!
 Omnēs | In stomachō… || Everyone | In the stomach of…
 Avus | …canis! Nōn Avī! Ēheu! Manūs meae vacuae sunt! || Grandpa | …the dog! Not Grandpa's! Oh no! My hands are empty!
@@ -257,7 +257,7 @@ Avia | Rēs pūblica cāseī… canī est! || Grandma | The cheese republic… b
 | *Diē hesternō / diē hodiērnō* | Ablative of time: "yesterday / today" as day-when. (*Hesternus / hodiērnus*: of yesterday / of today — gloss.) |
 | *Quis cāseum in manū habet?* | Ablative singular *manū* — Law of the Long ū. |
 | *Rēs est gravis* · *Rēs pūblica cāseī* | *Rēs* as "matter" and as the start of *rēs pūblica* (joke: the cheese commonwealth). |
-| *Carpe diem, Cāseus! · Carpe cāseum!* | Horace paid off; Grandpa prefers the edible object. |
+| *Carpe diem, Cāsee! · Carpe cāseum!* | Horace paid off (*Cāsee*: vocative, Chapter 9); Grandpa prefers the edible object. |
 | *Manūs meae vacuae sunt!* | Nominative plural *manūs* + *meae* (feminine agreement). |
 | End: cheese in the **dog's** stomach — not Grandpa's. | Continuity twist: Cāseus the dog wins the cheese again (Chapter 20 race energy). |
 | Untaught? | *Hesternus / hodiērnus* glossed in the Q\|A; *vacuus* "empty" glossable from context; *gravis* Chapter 20; *quālis* Chapter 20; *olet* Chapter 22. |

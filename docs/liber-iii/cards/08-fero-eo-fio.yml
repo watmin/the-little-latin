@@ -1,0 +1,379 @@
+book: iii
+ch: 32
+page: liber-iii/08-fero-eo-fio.md
+cards:
+- id: iii32-v-eo
+  type: vocab
+  la: eō, īre, iī (īvī), itum
+  en: go
+  ref: g-02
+- id: iii32-v-fero-pres
+  type: vocab
+  la: ferō, fers, fert, ferimus, fertis, ferunt
+  en: I carry, you carry, he carries, we carry, y'all carry, they carry
+  ref: g-05
+- id: iii32-v-feror
+  type: vocab
+  la: feror, ferris, fertur
+  en: 'I am carried, you are carried, he/it is carried (*fertur*: it is said)'
+  ref: g-06
+- id: iii32-v-fio
+  type: vocab
+  la: fīō, fierī, factus sum
+  en: 'become, be made, happen (the passive of *faciō*)'
+  ref: g-08
+- id: iii32-v-fio-pres
+  type: vocab
+  la: fīō, fīs, fit, fīmus, fītis, fīunt
+  en: I become, you become, he becomes, we become, y'all become, they become
+  ref: g-07
+- id: iii32-v-volo
+  type: vocab
+  la: volō, velle, voluī
+  en: want
+  ref: g-10
+- id: iii32-v-nolo
+  type: vocab
+  la: nōlō, nōlle, nōluī
+  en: not want, be unwilling
+  ref: g-10
+- id: iii32-v-malo
+  type: vocab
+  la: mālō, mālle, māluī
+  en: prefer, would rather
+  ref: g-10
+- id: iii32-v-nolo-pres
+  type: vocab
+  la: nōlō, nōn vīs, nōn vult, nōlumus, nōn vultis, nōlunt
+  en: I don't want, you don't want, he doesn't want, we don't want, y'all don't want, they don't want
+  ref: g-09
+- id: iii32-v-malo-pres
+  type: vocab
+  la: mālō, māvīs, māvult, mālumus, māvultis, mālunt
+  en: I prefer, you prefer, he prefers, we prefer, y'all prefer, they prefer
+  ref: g-09
+- id: iii32-v-abeo
+  type: vocab
+  la: abeō, abīre, abiī, abitum
+  en: go away
+  ref: g-03
+- id: iii32-v-exeo
+  type: vocab
+  la: exeō, exīre, exiī, exitum
+  en: go out
+  ref: g-03
+- id: iii32-v-redeo
+  type: vocab
+  la: redeō, redīre, rediī, reditum
+  en: go back, come back
+  ref: g-03
+- id: iii32-v-adeo
+  type: vocab
+  la: adeō, adīre, adiī, aditum
+  en: go to, approach
+  ref: g-03
+- id: iii32-v-transeo
+  type: vocab
+  la: trānseō, trānsīre, trānsiī, trānsitum
+  en: go across, cross; pass
+  ref: g-03
+- id: iii32-v-aufero
+  type: vocab
+  la: auferō, auferre, abstulī, ablātum
+  en: carry away, take away
+  ref: g-06
+- id: iii32-v-refero
+  type: vocab
+  la: referō, referre, rettulī, relātum
+  en: bring back; report
+  ref: g-06
+- id: iii32-v-quid-fit
+  type: vocab
+  la: Quid fit?
+  en: What's happening? What's going on?
+  ref: g-07
+- id: iii32-v-fiat
+  type: vocab
+  la: Fīat!
+  en: So be it! Let it be done!
+  ref: g-08
+- id: iii32-v-quam
+  type: vocab
+  la: quam
+  en: 'than, rather than (after *mālō*)'
+  ref: g-10
+- id: iii32-v-irregular
+  type: vocab
+  la: irregular verb
+  en: a rule-breaker verb (old-school "anomalous")
+  ref: g-01
+- id: iii32-v-compound
+  type: vocab
+  la: compound verb
+  en: 'a verb with a little word glued on the front: *ab + eō = abeō*'
+  ref: g-03
+- id: iii32-v-impersonal
+  type: vocab
+  la: impersonal
+  en: 'with no person as subject: *ītur*, "there is a going"'
+  ref: g-04
+- id: iii32-f-eo-stems
+  type: forms
+  q: '*Eō, īs, it, īmus, ītis, eunt*: when is the stem *e-*, and when *ī-*?'
+  a: '*E-* before a vowel (*eō, eunt*); *ī-* before a consonant (*īs, īmus, ītis*). Short in *it* (final *-t*).'
+  ref: g-02
+- id: iii32-f-ibam
+  type: forms
+  q: '"I was going" · "I will go" · "they will go"'
+  a: '*Ībam* · *ībō* · *ībunt*.'
+  ref: g-02
+- id: iii32-f-ii
+  type: forms
+  q: '"I went" · "I had gone" · "I will have gone" (from *eō*)'
+  a: '*Iī* (*īvī*) · *ieram* · *ierō*.'
+  ref: g-02
+- id: iii32-f-abi
+  type: forms
+  q: '"Go away!" (to one, to y''all) · "they go away"'
+  a: '*Abī! · Abīte!* · *abeunt*.'
+  ref: g-03
+- id: iii32-f-exeunt
+  type: forms
+  q: '"He goes out" · "they go out" (the stage directions)'
+  a: '*Exit* · *Exeunt*.'
+  ref: g-03
+- id: iii32-f-redi
+  type: forms
+  q: '"Come back!" (to one) · "I''m going back home."'
+  a: '*Redī!* · *Domum redeō.* (*Red-* before a vowel.)'
+  ref: g-03
+- id: iii32-f-abiit
+  type: forms
+  q: 'Cicero on Catiline: *Abiit, excessit, ēvāsit, ērūpit.* What is *abiit*?'
+  a: '*Ab-* + *iit*: "he has gone away."'
+  ref: g-03
+- id: iii32-f-sic-transit
+  type: forms
+  q: '*Sīc trānsit glōria mundī.*'
+  a: '"Thus passes the glory of the world." *Trāns-it*, "goes across," passes.'
+  ref: g-04
+- id: iii32-f-itur
+  type: forms
+  q: 'Vergil: *Ītur in antīquam silvam.*'
+  a: '"There is a going into an ancient forest": "they go into an ancient wood." Impersonal passive of *eō*.'
+  ref: g-04
+- id: iii32-f-fers-fert
+  type: forms
+  q: '"You carry · he carries · y''all carry · to carry"'
+  a: '*Fers · fert · fertis · ferre.* The vowel is missing.'
+  ref: g-05
+- id: iii32-f-feram
+  type: forms
+  q: '"I was carrying" · "I will carry, you will carry"'
+  a: '*Ferēbam* · *feram, ferēs* (like *legēbam, legam*).'
+  ref: g-05
+- id: iii32-f-omnia-fert
+  type: forms
+  q: 'Vergil: *Omnia fert aetās, animum quoque.*'
+  a: '"Time carries off everything, the mind too."'
+  ref: g-05
+- id: iii32-f-ferris
+  type: forms
+  q: 'Passive of *ferō*, all six, and "to be carried."'
+  a: '*Feror, ferris, fertur, ferimur, feriminī, feruntur*; *ferrī*.'
+  ref: g-06
+- id: iii32-f-fertur-ab
+  type: forms
+  q: '"The cheese is being carried by John."'
+  a: '*Cāseus ab Iōanne fertur.*'
+  ref: g-06
+- id: iii32-f-attuli
+  type: forms
+  q: '*Afferō, afferre, attulī, allātum*: where did the *ad* go?'
+  a: 'It turned into the next letter: *ad-ferō → afferō*, *ad-tulī → attulī*, *ad-lātum → allātum*.'
+  ref: g-06
+- id: iii32-f-ablatum
+  type: forms
+  q: 'Which case is named after *ablātum*, "carried away"?'
+  a: 'The **ablative** (*cāsus ablātīvus*), from *auferō, auferre, abstulī, ablātum*.'
+  ref: g-06
+- id: iii32-f-fit-short
+  type: forms
+  q: 'Where is the *i* of *fīō* short?'
+  a: 'In *fit* (before final *-t*) and *fierī*. Long in *fīō, fīs, fīunt, fīēbat, fīet*.'
+  ref: g-07
+- id: iii32-f-fiet
+  type: forms
+  q: '"Tomorrow it will become cheese."'
+  a: '*Crās cāseus fīet.*'
+  ref: g-07
+- id: iii32-f-fit-facio
+  type: forms
+  q: 'What is the present passive of *faciō*? And the perfect passive?'
+  a: '*Fit* ("is made, is done"); *factum est*. Dictionary: *fīō, fierī, factus sum*.'
+  ref: g-08
+- id: iii32-f-fit-via
+  type: forms
+  q: 'Vergil: *Fit via vī.*'
+  a: '"A way is made by force." *Vī*: ablative of *vīs*, force (the tool).'
+  ref: g-08
+- id: iii32-f-ex-nihilo
+  type: forms
+  q: '*Ex nihilō nihil fit.*'
+  a: '"Nothing comes from nothing."'
+  ref: g-08
+- id: iii32-f-fiat-voluntas
+  type: forms
+  q: 'Matthew 6:10: *Fīat voluntās tua.*'
+  a: '"Thy will be done." *Voluntās*, will, from *vol-*.'
+  ref: g-08
+- id: iii32-f-mavis
+  type: forms
+  q: '"Do you prefer the cheese or the cookies?" · "I prefer the cheese."'
+  a: '*Cāseum an crustula māvīs?* · *Cāseum mālō.*'
+  ref: g-09
+- id: iii32-f-three-wishes
+  type: forms
+  q: 'The Law of the Three Wishes in one line.'
+  a: 'Where *volō* has *vol-*: *nōl-, māl-*. Where it has a *v-* form: *nōn* + it, *mā-* + it.'
+  ref: g-09
+- id: iii32-f-malebam
+  type: forms
+  q: '"I was preferring" · "I will prefer" · "I preferred"'
+  a: '*Mālēbam* · *mālam* · *māluī*.'
+  ref: g-10
+- id: iii32-f-volui-nolui
+  type: forms
+  q: '"I wanted to go, but I didn''t want to carry the cheese."'
+  a: '*Īre voluī, sed cāseum ferre nōluī.*'
+  ref: g-10
+- id: iii32-f-malo-quam
+  type: forms
+  q: '"I''d rather stay home than go to the forum."'
+  a: '*Domī manēre mālō quam ad forum īre.*'
+  ref: g-10
+- id: iii32-f-cicero-plato
+  type: forms
+  q: 'Cicero: *Errāre… mālō cum Platōne… quam cum istīs vēra sentīre.*'
+  a: '"I''d rather be wrong with Plato than be right with those people."'
+  ref: g-10
+- id: iii32-c-fert
+  type: choose
+  q: '"He carries": *___*'
+  options:
+  - fert
+  - ferit
+  - fers
+  a: fert
+  why: '*Ferit* is "he strikes" (*feriō*).'
+  ref: g-11
+- id: iii32-c-eunt
+  type: choose
+  q: '"They go": *___*'
+  options:
+  - eunt
+  - īunt
+  - erunt
+  a: eunt
+  why: '*E-* before a vowel; *erunt* is "they will be."'
+  ref: g-11
+- id: iii32-c-fit
+  type: choose
+  q: '"Cheese is made from milk": *Ex lacte cāseus ___.*'
+  options:
+  - fit
+  - facit
+  - factus
+  a: fit
+  why: '*Fit* is the present passive of *faciō*; *facit* is "makes."'
+  ref: g-11
+- id: iii32-c-ibunt
+  type: choose
+  q: '"They will go": *___*'
+  options:
+  - ībunt
+  - ībant
+  - eunt
+  a: ībunt
+  why: '*-bu-* is the future; *ībant* "were going."'
+  ref: g-11
+- id: iii32-c-mavult
+  type: choose
+  q: '"Grandpa prefers cheese": *Avus cāseum ___.*'
+  options:
+  - māvult
+  - mālvult
+  - mālet
+  a: māvult
+  why: '*Mā-* + *vult* (Law of the Three Wishes).'
+  ref: g-09
+- id: iii32-c-non-vult
+  type: choose
+  q: '"He doesn''t want to go": *Īre ___.*'
+  options:
+  - nōn vult
+  - nōvult
+  - nōlet
+  a: nōn vult
+  why: 'Where *volō* has a *v-* form, *nōlō* uses *nōn* + that form.'
+  ref: g-09
+- id: iii32-c-ferre
+  type: choose
+  q: '"To carry": *___*'
+  options:
+  - ferre
+  - ferere
+  - ferīre
+  a: ferre
+  why: 'Law of the Missing Vowel; *ferīre* is "to strike."'
+  ref: g-05
+- id: iii32-c-fessus
+  type: choose
+  q: '"John is getting tired": *Iōannēs ___ fit.*'
+  options:
+  - fessus
+  - fessum
+  - fessō
+  a: fessus
+  why: 'After *fīō*, nominative, agreeing with the subject.'
+  ref: g-07
+- id: iii32-c-abi
+  type: choose
+  q: '"Go away, Cheese!" (to the dog): *Abī, ___!*'
+  options:
+  - Cāsee
+  - Cāseus
+  - Cāseī
+  a: Cāsee
+  why: 'Vocative *-us → -e* (Chapter 9).'
+  ref: g-13
+- id: iii32-e-iunt
+  type: error
+  q: 'Fix: *Īunt.* ("they go")'
+  a: '*Eunt.* *E-* before a vowel.'
+  ref: g-12
+- id: iii32-e-ferit
+  type: error
+  q: 'Fix: *Cāseum ferit.* ("he carries the cheese")'
+  a: '*Cāseum fert.* *Ferit* means "he strikes."'
+  ref: g-12
+- id: iii32-e-facit
+  type: error
+  q: 'Fix: *Ex lacte cāseus facit.* ("cheese is made from milk")'
+  a: '*Ex lacte cāseus fit.*'
+  ref: g-12
+- id: iii32-e-malis
+  type: error
+  q: 'Fix: *Crustula mālvīs.* ("you prefer cookies")'
+  a: '*Crustula māvīs.*'
+  ref: g-12
+- id: iii32-e-nolit
+  type: error
+  q: 'Fix: *Īre nōvult.* ("he doesn''t want to go")'
+  a: '*Īre nōn vult.*'
+  ref: g-12
+- id: iii32-e-ferere
+  type: error
+  q: 'Fix: *ferere* ("to carry")'
+  a: '*Ferre.* The vowel is missing.'
+  ref: g-12

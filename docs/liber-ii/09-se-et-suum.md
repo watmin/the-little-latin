@@ -204,7 +204,7 @@ Avia | Tū ipse, Ave? Fortis es! || Grandma | You yourself, Grandpa? You're stro
 Avus | Ipse mē lavō… Ēheu! Aqua frīgida est! || Grandpa | I myself am washing… Oh, no! The water is cold!
 Quīntus | Avus sē lavat! Et nōs canem lavāmus. || Quīntus | Grandpa's washing himself! And we're washing the dog.
 Cāseus | Bau! Bau! || Cāseus | Woof! Woof!
-Marcus | Tēcum, Cāseus! In aquam! || Marcus | With you, Cāseus! Into the water!
+Marcus | Tēcum, Cāsee! In aquam! || Marcus | With you, Cāseus! Into the water!
 Cornēlia | Canis sē nōn lavat. Nōs eum lavāmus! || Cornēlia | The dog doesn't wash himself. We're washing him!
 Pater | Bene. Ego mēcum sāpōnem portō. || Dad | Good. I'm bringing soap with me.
 Māter | Et ego mēcum mappam! || Mom | And I'm bringing a towel with me!
