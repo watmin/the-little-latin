@@ -1,0 +1,384 @@
+book: iii
+ch: 33
+page: liber-iii/09-melior-et-optimus.md
+cards:
+- id: iii33-v-ior
+  type: vocab
+  la: -ior, -ius
+  en: 'the comparative ending: "more …," "…er" (m./f., n.)'
+  ref: g-02
+- id: iii33-v-altior
+  type: vocab
+  la: altior, altius (altiōris)
+  en: 'higher, taller, deeper (a comparative, declined like *rēx* and *corpus*)'
+  ref: g-03
+- id: iii33-v-issimus
+  type: vocab
+  la: -issimus, -issima, -issimum
+  en: 'the superlative ending: "most …," "very …"'
+  ref: g-06
+- id: iii33-v-errimus
+  type: vocab
+  la: -errimus
+  en: 'the superlative of *-er* adjectives: *ācerrimus, celerrimus, pulcherrimus*'
+  ref: g-07
+- id: iii33-v-illimus
+  type: vocab
+  la: -illimus
+  en: 'the superlative of six *-ilis* adjectives: *facillimus, difficillimus, simillimus*'
+  ref: g-07
+- id: iii33-v-bonus
+  type: vocab
+  la: bonus, melior, optimus
+  en: good, better, best
+  ref: g-08
+- id: iii33-v-malus
+  type: vocab
+  la: malus, peior, pessimus
+  en: bad, worse, worst
+  ref: g-08
+- id: iii33-v-magnus
+  type: vocab
+  la: magnus, maior, maximus
+  en: big, bigger, biggest
+  ref: g-09
+- id: iii33-v-parvus
+  type: vocab
+  la: parvus, minor, minimus
+  en: small, smaller, smallest
+  ref: g-09
+- id: iii33-v-multus
+  type: vocab
+  la: multus, plūs, plūrimus
+  en: much, more, most
+  ref: g-10
+- id: iii33-v-plus
+  type: vocab
+  la: plūs, plūris
+  en: 'more, a larger amount (n.; + genitive: *plūs cāseī*)'
+  ref: g-10
+- id: iii33-v-plures
+  type: vocab
+  la: plūrēs, plūra
+  en: 'more, several (plural adjective: *plūrēs cāseī*)'
+  ref: g-10
+- id: iii33-v-quam
+  type: vocab
+  la: quam
+  en: than (after a comparative)
+  ref: g-04
+- id: iii33-v-altus
+  type: vocab
+  la: altus, alta, altum
+  en: high, tall, deep
+  ref: g-02
+- id: iii33-v-pulcher
+  type: vocab
+  la: pulcher, pulchra, pulchrum
+  en: beautiful, handsome
+  ref: g-07
+- id: iii33-v-clarus
+  type: vocab
+  la: clārus, clāra, clārum
+  en: clear, bright; famous
+  ref: g-05
+- id: iii33-v-difficilis
+  type: vocab
+  la: difficilis, difficile
+  en: hard, difficult
+  ref: g-07
+- id: iii33-v-similis
+  type: vocab
+  la: similis, simile
+  en: like, similar
+  ref: g-07
+- id: iii33-v-multo
+  type: vocab
+  la: multō maior
+  en: much bigger (chunk; Chapter 35)
+  ref: g-11
+- id: iii33-v-positive
+  type: vocab
+  la: positive
+  en: 'the plain form: *altus*, "tall"'
+  ref: g-01
+- id: iii33-v-comparative
+  type: vocab
+  la: comparative
+  en: 'the "more" form: *altior*, "taller"'
+  ref: g-01
+- id: iii33-v-superlative
+  type: vocab
+  la: superlative
+  en: 'the "most / very" form: *altissimus*, "tallest, very tall"'
+  ref: g-01
+- id: iii33-v-abl-comp
+  type: vocab
+  la: ablative of comparison
+  en: 'the "than" ablative, no *quam*: *melle dulcior*, "sweeter than honey"'
+  ref: g-05
+- id: iii33-f-degrees
+  type: forms
+  q: 'The three "degrees of comparison," with *altus* as the example.'
+  a: 'Positive *altus* "tall" · comparative *altior* "taller" · superlative *altissimus* "tallest, very tall."'
+  ref: g-01
+- id: iii33-f-very
+  type: forms
+  q: '*Antīquus cāseus optimus est.* Two translations.'
+  a: '"Old cheese is the best" or "Old cheese is very good." A superlative can mean "very."'
+  ref: g-01
+- id: iii33-f-longior
+  type: forms
+  q: '"Longer" · "older" (of a thing) · "colder"'
+  a: '*Longior* · *antīquior* · *frīgidior*.'
+  ref: g-02
+- id: iii33-f-stem
+  type: forms
+  q: '"Luckier" · "wiser" · "sharper" (*fēlīx, sapiēns, ācer*)'
+  a: '*Fēlīcior* · *sapientior* · *ācrior*. Always the genitive stem.'
+  ref: g-02
+- id: iii33-f-decline
+  type: forms
+  q: 'Decline *altior* (m./f.) in the singular.'
+  a: '*Altior, altiōris, altiōrī, altiōrem, altiōre*.'
+  ref: g-03
+- id: iii33-f-plural
+  type: forms
+  q: '"Taller boys" · "of the taller boys" · "taller bodies"'
+  a: '*Puerī altiōrēs* · *puerōrum altiōrum* · *corpora altiōra*.'
+  ref: g-03
+- id: iii33-f-law-comp
+  type: forms
+  q: 'Law of the Comparative: where does *altior* part from *fortis*?'
+  a: 'Ablative *-e* (not *-ī*), neuter plural *-a* (not *-ia*), genitive plural *-um* (not *-ium*). It declines like *rēx* and *corpus*.'
+  ref: g-03
+- id: iii33-f-perennius
+  type: forms
+  q: 'Horace: *Exēgī monumentum aere perennius.*'
+  a: '"I have finished a monument more lasting than bronze." *Perennius* neuter for *monumentum*; *aere* = "than bronze."'
+  ref: g-03
+- id: iii33-f-plus-quam
+  type: forms
+  q: '*Plūs quam perfectum* (Chapter 27)'
+  a: '"More than perfect": *plūs* "more," *quam* "than."'
+  ref: g-04
+- id: iii33-f-law-quam
+  type: forms
+  q: 'Law of *Quam* and the Ablative: the two ways to say "than."'
+  a: '*Quam* + the same case on both sides; or no *quam* and the "than" thing in the ablative (when the first is a subject or object). *Quam* always works.'
+  ref: g-05
+- id: iii33-f-melle
+  type: forms
+  q: '*ex eius linguā melle dulcior fluēbat ōrātiō* (Cicero, after Homer)'
+  a: '"From his tongue flowed speech sweeter than honey."'
+  ref: g-05
+- id: iii33-f-luce
+  type: forms
+  q: '*Lūce sunt clāriōra nōbīs tua cōnsilia omnia.* (Cicero to Catiline)'
+  a: '"All your plans are clearer to us than daylight." *Lūce*: ablative of comparison.'
+  ref: g-05
+- id: iii33-f-issimus
+  type: forms
+  q: '"The longest road" · "the coldest water" · "very sweet honey"'
+  a: '*Via longissima* · *aqua frīgidissima* · *mel dulcissimum*.'
+  ref: g-06
+- id: iii33-f-belgae
+  type: forms
+  q: 'Caesar: *Hōrum omnium fortissimī sunt Belgae.*'
+  a: '"Of all these, the bravest are the Belgians." *Hōrum omnium*: genitive, the Law of the Part.'
+  ref: g-06
+- id: iii33-f-errimus
+  type: forms
+  q: 'Superlatives of *ācer, celer, pulcher, niger*.'
+  a: '*Ācerrimus, celerrimus, pulcherrimus, nigerrimus.* *-rimus* on the naming form.'
+  ref: g-07
+- id: iii33-f-illimus
+  type: forms
+  q: 'Superlatives of *facilis, difficilis, similis*.'
+  a: '*Facillimus, difficillimus, simillimus.*'
+  ref: g-07
+- id: iii33-f-law-sup
+  type: forms
+  q: 'Law of the Superlative: the three ways to make "most."'
+  a: 'Stem + *-issimus*; *-er* words: naming form + *-rimus*; six *-ilis* words: *-limus*. Then like *bonus*.'
+  ref: g-07
+- id: iii33-f-melius
+  type: forms
+  q: '"Better" (neuter) · "of a better" · "with a better cheese"'
+  a: '*Melius* · *meliōris* · *cum cāseō meliōre*.'
+  ref: g-08
+- id: iii33-f-corruptio
+  type: forms
+  q: '*Corruptiō optimī pessima.*'
+  a: '"The corruption of the best is the worst."'
+  ref: g-08
+- id: iii33-f-minus
+  type: forms
+  q: 'Neuters of *maior* and *minor*, and the English words they gave us.'
+  a: '*Maius* · *minus*. English *major, minor, minus, maximum, minimum*.'
+  ref: g-09
+- id: iii33-f-baptista
+  type: forms
+  q: '*Nōn surrēxit inter nātōs mulierum maior Iōanne Baptistā.*'
+  a: '"Among those born of women no one has risen greater than John the Baptist." *Iōanne*: ablative of comparison.'
+  ref: g-09
+- id: iii33-f-plus-casei
+  type: forms
+  q: '"More cheese!" · "more cheeses" · "more apples"'
+  a: '*Plūs cāseī!* · *plūrēs cāseī* · *plūra māla*.'
+  ref: g-10
+- id: iii33-f-plurium
+  type: forms
+  q: 'Genitive plural of *plūrēs*?'
+  a: '*Plūrium*, with an *i* (unlike *altiōrum*).'
+  ref: g-10
+- id: iii33-f-pluribus
+  type: forms
+  q: '*Ē plūribus ūnum.*'
+  a: '"Out of many, one." (After the *Moretum*''s *color est ē plūribus ūnus*.)'
+  ref: g-10
+- id: iii33-f-law-rebels
+  type: forms
+  q: 'Law of the Five Rebels: chant them.'
+  a: '*Bonus, melior, optimus · malus, peior, pessimus · magnus, maior, maximus · parvus, minor, minimus · multus, plūs, plūrimus.*'
+  ref: g-10
+- id: iii33-f-rather
+  type: forms
+  q: '*Cāseus gravior est.* (no *quam*, no ablative)'
+  a: '"The cheese is rather / too heavy." A comparative alone means "rather, too."'
+  ref: g-11
+- id: iii33-f-caritas
+  type: forms
+  q: '*Maior autem hōrum est cāritās.*'
+  a: '"But the greatest (word for word: greater) of these is love."'
+  ref: g-11
+- id: iii33-c-melior
+  type: choose
+  q: '"Grandpa''s cheese is better": *Cāseus Avī ___ est.*'
+  options:
+  - melior
+  - melius
+  - bonior
+  a: melior
+  why: '*Cāseus* is masculine; *melius* is neuter; *bonior* doesn''t exist.'
+  ref: g-08
+- id: iii33-c-altiore
+  type: choose
+  q: '"With a taller boy": *cum puerō ___*'
+  options:
+  - altiōre
+  - altiōrī
+  - altiōrem
+  a: altiōre
+  why: 'Comparatives take *-e* in the ablative, like *rēge*.'
+  ref: g-03
+- id: iii33-c-altiora
+  type: choose
+  q: '"Taller bodies": *corpora ___*'
+  options:
+  - altiōra
+  - altiōria
+  - altiōrēs
+  a: altiōra
+  why: 'Neuter plural *-a*, like *corpora*; comparatives are not i-stems.'
+  ref: g-03
+- id: iii33-c-quintum
+  type: choose
+  q: '"I see a taller boy than Quīntus": *Puerum altiōrem quam ___ videō.*'
+  options:
+  - Quīntum
+  - Quīntus
+  - Quīntō
+  a: Quīntum
+  why: 'After *quam*, the same case as the thing compared (*puerum*).'
+  ref: g-04
+- id: iii33-c-melle
+  type: choose
+  q: '"Sweeter than honey" (no *quam*): *___ dulcior*'
+  options:
+  - melle
+  - mel
+  - mellis
+  a: melle
+  why: 'Ablative of comparison.'
+  ref: g-05
+- id: iii33-c-acerrimus
+  type: choose
+  q: '"The sharpest cheese": *cāseus ___*'
+  options:
+  - ācerrimus
+  - ācrissimus
+  - ācrior
+  a: ācerrimus
+  why: '*-er* adjectives add *-rimus* to the naming form.'
+  ref: g-07
+- id: iii33-c-facillimus
+  type: choose
+  q: '"The easiest book": *liber ___*'
+  options:
+  - facillimus
+  - facilissimus
+  - facilior
+  a: facillimus
+  why: 'One of the six *-ilis* words: *-limus*.'
+  ref: g-07
+- id: iii33-c-maior
+  type: choose
+  q: '"Marcus is bigger than Quīntus": *Marcus ___ est quam Quīntus.*'
+  options:
+  - maior
+  - magnior
+  - maximus
+  a: maior
+  why: '*Magnus, maior, maximus*: a rebel.'
+  ref: g-09
+- id: iii33-c-plus
+  type: choose
+  q: '"More cheese, please!": *Plūs ___, quaesō!*'
+  options:
+  - cāseī
+  - cāseus
+  - cāseum
+  a: cāseī
+  why: 'Singular *plūs* is a noun: the stuff goes in the genitive.'
+  ref: g-10
+- id: iii33-c-omnium
+  type: choose
+  q: '"The strongest of all": *fortissimus ___*'
+  options:
+  - omnium
+  - omnibus
+  - omnēs
+  a: omnium
+  why: 'The Law of the Part: "of all" is genitive.'
+  ref: g-06
+- id: iii33-e-bonior
+  type: error
+  q: 'Fix: *Cāseus Avī bonior est.*'
+  a: '*Cāseus Avī melior est.* *Bonus* is a rebel.'
+  ref: g-13
+- id: iii33-e-magnior
+  type: error
+  q: 'Fix: *Marcus magnior est quam Quīntō.*'
+  a: '*Marcus maior est quam Quīntus* (or *Marcus Quīntō maior est*). Don''t mix *quam* and the ablative.'
+  ref: g-13
+- id: iii33-e-acrissimus
+  type: error
+  q: 'Fix: *cāseus ācrissimus* ("the sharpest cheese")'
+  a: '*Cāseus ācerrimus.*'
+  ref: g-13
+- id: iii33-e-facilissimus
+  type: error
+  q: 'Fix: *liber facilissimus* ("the easiest book")'
+  a: '*Liber facillimus.*'
+  ref: g-13
+- id: iii33-e-altiori
+  type: error
+  q: 'Fix: *cum puerō altiōrī* ("with a taller boy")'
+  a: '*Cum puerō altiōre.* Comparatives take *-e*.'
+  ref: g-13
+- id: iii33-e-plus
+  type: error
+  q: 'Fix: *Plūs cāseus.* ("more cheese")'
+  a: '*Plūs cāseī.*'
+  ref: g-13
