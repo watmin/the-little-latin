@@ -22,6 +22,6 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 | 31 | [**Amātus Est**](07-amatus-est.md) | G: perfect passive system (needs 4th principal part); perfect, pluperfect, future perfect passive. S: what has been done, and by whom. | ✅ available |
 | 32 | [**Ferō, Eō, Fīō**](08-fero-eo-fio.md) | G: irregulars ferō, eō (+compounds), fīō; full volō/nōlō/mālō. S: where are you going, who is carrying it, what is happening, what would you rather do? | ✅ available |
 | 33 | [**Melior et Optimus**](09-melior-et-optimus.md) | G: comparison of adjectives (regular, irregular), quam vs abl. of comparison. S: taller than, sweeter than honey, the best of all, more cheese please. | ✅ available |
-| 34 | **Celeriter!** | G: adverbs, formation and comparison. S: how/how fast/better. | coming |
+| 34 | [**Celeriter!**](10-celeriter.md) | G: adverbs, formation and comparison. S: how/how fast/better. | ✅ available |
 | 35 | **Ablātīvus** | G: ablative uses summary (manner, accompaniment, cause, degree of difference, respect, description). | coming |
 | 36 | **Recapitulātiō III** | Adapted myth (e.g., Daedalus). | coming |

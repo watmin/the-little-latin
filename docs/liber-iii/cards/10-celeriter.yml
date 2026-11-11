@@ -1,0 +1,384 @@
+book: iii
+ch: 34
+page: liber-iii/10-celeriter.md
+cards:
+- id: iii34-v-e
+  type: vocab
+  la: -ē
+  en: 'the how-word ending for *-us, -a, -um* adjectives: *lentē, clārē, longē*'
+  ref: g-02
+- id: iii34-v-iter
+  type: vocab
+  la: -iter
+  en: 'the how-word ending for third-family adjectives: *fortiter, celeriter, ācriter*'
+  ref: g-04
+- id: iii34-v-nter
+  type: vocab
+  la: -nter
+  en: 'the how-word ending for *-ns* adjectives: *sapienter, dīligenter, libenter*'
+  ref: g-05
+- id: iii34-v-ius
+  type: vocab
+  la: -ius
+  en: '"more …ly": the neuter comparative: *lentius, celerius*'
+  ref: g-08
+- id: iii34-v-issime
+  type: vocab
+  la: -issimē
+  en: '"most / very …ly" (also *-errimē, -illimē*): *lentissimē, celerrimē, facillimē*'
+  ref: g-09
+- id: iii34-v-bene
+  type: vocab
+  la: bene, melius, optimē
+  en: well, better, best / very well
+  ref: g-10
+- id: iii34-v-male
+  type: vocab
+  la: male, peius, pessimē
+  en: badly, worse, worst / very badly
+  ref: g-10
+- id: iii34-v-multum
+  type: vocab
+  la: multum, plūs, plūrimum
+  en: much, more, most
+  ref: g-10
+- id: iii34-v-parum
+  type: vocab
+  la: parum, minus, minimē
+  en: too little, less, least / not at all
+  ref: g-10
+- id: iii34-v-magnopere
+  type: vocab
+  la: magnopere, magis, maximē
+  en: greatly, more, most / especially
+  ref: g-10
+- id: iii34-v-diu
+  type: vocab
+  la: diū, diūtius, diūtissimē
+  en: for a long time, longer, longest
+  ref: g-10
+- id: iii34-v-saepe
+  type: vocab
+  la: saepe, saepius, saepissimē
+  en: often, more often, most often
+  ref: g-10
+- id: iii34-v-lentus
+  type: vocab
+  la: lentus, lenta, lentum
+  en: slow
+  ref: g-02
+- id: iii34-v-lente
+  type: vocab
+  la: lentē
+  en: slowly
+  ref: g-02
+- id: iii34-v-celeriter
+  type: vocab
+  la: celeriter
+  en: quickly, fast
+  ref: g-04
+- id: iii34-v-fortiter
+  type: vocab
+  la: fortiter
+  en: bravely, strongly, hard
+  ref: g-04
+- id: iii34-v-feliciter
+  type: vocab
+  la: fēlīciter
+  en: 'luckily, happily; *Fēlīciter!* Cheers! Good luck!'
+  ref: g-04
+- id: iii34-v-sapienter
+  type: vocab
+  la: sapienter
+  en: wisely
+  ref: g-05
+- id: iii34-v-diligens
+  type: vocab
+  la: dīligēns, dīligentis
+  en: careful, hard-working
+  ref: g-05
+- id: iii34-v-diligenter
+  type: vocab
+  la: dīligenter
+  en: carefully
+  ref: g-05
+- id: iii34-v-facile
+  type: vocab
+  la: facile
+  en: easily
+  ref: g-05
+- id: iii34-v-cito
+  type: vocab
+  la: citō
+  en: quickly, soon
+  ref: g-06
+- id: iii34-v-paulum
+  type: vocab
+  la: paulum
+  en: a little
+  ref: g-06
+- id: iii34-v-valde
+  type: vocab
+  la: valdē
+  en: very, very much
+  ref: g-06
+- id: iii34-v-quomodo
+  type: vocab
+  la: quōmodo?
+  en: how? in what way?
+  ref: g-07
+- id: iii34-v-quam
+  type: vocab
+  la: quam
+  en: 'how! (*Quam celeriter!*); with a superlative, "as … as possible" (*quam celerrimē*)'
+  ref: g-07
+- id: iii34-v-adverb
+  type: vocab
+  la: adverb
+  en: 'a "how-word": tells how, when, where, how much; "modifies a verb, an adjective, or another adverb"'
+  ref: g-01
+- id: iii34-f-lentus
+  type: forms
+  q: '*Avus lentus est* · *Avus lentē ambulat*'
+  a: '"Grandpa is slow" (adjective, agrees with *Avus*) · "Grandpa walks slowly" (adverb, never agrees).'
+  ref: g-02
+- id: iii34-f-clare
+  type: forms
+  q: '"Clearly" · "far" · "beautifully" · "in Latin"'
+  a: '*Clārē* · *longē* · *pulchrē* · *Latīnē*. Stem + long *-ē*.'
+  ref: g-02
+- id: iii34-f-bene
+  type: forms
+  q: 'How-words from *bonus* and *malus*, and what''s odd about them?'
+  a: '*Bene* and *male*: not *bonē/malē*, and the final *e* is short (every other *-ē* adverb is long).'
+  ref: g-03
+- id: iii34-f-latuit
+  type: forms
+  q: 'Ovid: *Bene quī latuit, bene vīxit.*'
+  a: '"Whoever has hidden well has lived well."'
+  ref: g-03
+- id: iii34-f-iter
+  type: forms
+  q: 'How-words from *ācer, fēlīx, gravis, brevis*'
+  a: '*Ācriter · fēlīciter · graviter · breviter.* Genitive stem + *-iter*.'
+  ref: g-04
+- id: iii34-f-feliciter
+  type: forms
+  q: '*Augustō, patrī patriae, fēlīciter!* (Petronius)'
+  a: '"To Augustus, father of the fatherland: good luck!" *Fēlīciter!* was the Roman "Cheers! Hooray!"'
+  ref: g-04
+- id: iii34-f-bis-dat
+  type: forms
+  q: 'Publilius Syrus: *Inopī beneficium bis dat quī dat celeriter.*'
+  a: '"He gives a kindness twice to the needy who gives it quickly." (Later: *Bis dat quī citō dat.*)'
+  ref: g-04
+- id: iii34-f-nter
+  type: forms
+  q: 'How-words from *sapiēns* and *libēns* (willing)'
+  a: '*Sapienter* "wisely" · *libenter* "gladly." Stems in *-nt-* add just *-er*.'
+  ref: g-05
+- id: iii34-f-facile
+  type: forms
+  q: '*Hoc facile est* · *Hoc facile faciō*'
+  a: '"This is easy" (neuter adjective) · "I do this easily" (adverb). Same spelling; the company decides.'
+  ref: g-05
+- id: iii34-f-law-how
+  type: forms
+  q: 'Law of the How-Word: the four ways to make an adverb.'
+  a: '*-us* adjectives: *-ē* (but *bene, male*); third family: *-iter*; *-nt-* stems: *-er*; some use the neuter (*facile*). Adverbs never change.'
+  ref: g-05
+- id: iii34-f-sat-cito
+  type: forms
+  q: 'Cato (quoted by Jerome): *Sat citō, sī sat bene.*'
+  a: '"Soon enough, if well enough." (*Sat* = *satis*.)'
+  ref: g-06
+- id: iii34-f-psalm
+  type: forms
+  q: '*Ecce quam bonum et quam iūcundum habitāre frātrēs in ūnum!*'
+  a: '"Look how good and how pleasant it is for brothers to live together as one!" *Quam* = "how."'
+  ref: g-07
+- id: iii34-f-lentius
+  type: forms
+  q: 'Chapter 1''s *Lentius, quaesō!*: what form is *lentius*?'
+  a: 'The neuter comparative of *lentus*, used as a how-word: "more slowly, please!"'
+  ref: g-08
+- id: iii34-f-citius
+  type: forms
+  q: '*Citius, altius, fortius.*'
+  a: '"Faster, higher, stronger": three comparative how-words (Olympic motto; since 2021 + *commūniter*, "together").'
+  ref: g-08
+- id: iii34-f-asparagi
+  type: forms
+  q: 'Augustus: *celerius quam asparagī cocuntur*'
+  a: '"Quicker than asparagus gets cooked." *Celerius* + *quam*.'
+  ref: g-08
+- id: iii34-f-fac-citius
+  type: forms
+  q: '*Quod facis, fac citius.* (John 13:27)'
+  a: '"What you are doing, do quickly." A comparative with no "than."'
+  ref: g-08
+- id: iii34-f-quam-celerrime
+  type: forms
+  q: '"As fast as possible!" · "as soon as possible"'
+  a: '*Quam celerrimē!* · *quam prīmum*. *Quam* + superlative.'
+  ref: g-09
+- id: iii34-f-icarus
+  type: forms
+  q: 'Ovid on Icarus and Daedalus: *Hic altē, dēmissius ille volābat.*'
+  a: '"This one flew high, that one lower." *Altē* plain, *dēmissius* comparative.'
+  ref: g-09
+- id: iii34-f-law-steps
+  type: forms
+  q: 'Law of the Running Steps: the three steps of *celeriter* and *facile*.'
+  a: '*Celeriter, celerius, celerrimē* · *facile, facilius, facillimē*. "More" = neuter comparative; "most" = superlative + *-ē*.'
+  ref: g-09
+- id: iii34-f-law-rebels
+  type: forms
+  q: 'Law of the Five Rebels Running: chant them.'
+  a: '*Bene, melius, optimē · male, peius, pessimē · multum, plūs, plūrimum · parum, minus, minimē · magnopere, magis, maximē.*'
+  ref: g-10
+- id: iii34-f-minime
+  type: forms
+  q: 'Why does Chapter 2''s *minimē* mean "no"?'
+  a: 'It''s the superlative of *parum*: "least," so "not in the least, not at all."'
+  ref: g-10
+- id: iii34-f-acts
+  type: forms
+  q: '*Beātius est magis dare quam accipere.* (Acts 20:35)'
+  a: '"It is more blessed to give than to receive."'
+  ref: g-10
+- id: iii34-f-adj-adv
+  type: forms
+  q: '"Cornēlia is fast" · "Cornēlia runs fast"'
+  a: '*Cornēlia celeris est* (adjective, agrees) · *Cornēlia celeriter currit* (adverb).'
+  ref: g-11
+- id: iii34-c-lente
+  type: choose
+  q: '"Grandpa walks slowly": *Avus ___ ambulat.*'
+  options:
+  - lentē
+  - lentus
+  - lentum
+  a: lentē
+  why: 'Telling how he walks: the how-word, *lentus* → *lentē*.'
+  ref: g-02
+- id: iii34-c-bene
+  type: choose
+  q: '"You sing well": *___ cantās.*'
+  options:
+  - Bene
+  - Bonē
+  - Bonus
+  a: Bene
+  why: '*Bonus* is a rebel: *bene*, with a short *e*.'
+  ref: g-03
+- id: iii34-c-celeriter
+  type: choose
+  q: '"The dog runs fast": *Canis ___ currit.*'
+  options:
+  - celeriter
+  - celeris
+  - celer
+  a: celeriter
+  why: 'Third-family adjective + *-iter* tells how he runs.'
+  ref: g-04
+- id: iii34-c-sapienter
+  type: choose
+  q: '"Grandma speaks wisely": *Avia ___ dīcit.*'
+  options:
+  - sapienter
+  - sapientiter
+  - sapientē
+  a: sapienter
+  why: 'Stems in *-nt-* add just *-er*.'
+  ref: g-05
+- id: iii34-c-facile
+  type: choose
+  q: '"I do this easily": *Hoc ___ faciō.*'
+  options:
+  - facile
+  - facilis
+  - facilī
+  a: facile
+  why: 'The neuter *facile* works as the how-word "easily."'
+  ref: g-05
+- id: iii34-c-celerius
+  type: choose
+  q: '"Marcus runs faster than Quīntus": *Marcus ___ currit quam Quīntus.*'
+  options:
+  - celerius
+  - celerior
+  - celerrimē
+  a: celerius
+  why: 'The comparative how-word is the neuter *-ius*; *celerior* would describe Marcus.'
+  ref: g-08
+- id: iii34-c-celerrime
+  type: choose
+  q: '"As fast as possible!": *Quam ___!*'
+  options:
+  - celerrimē
+  - celerius
+  - celerrimus
+  a: celerrimē
+  why: '*Quam* + superlative how-word = "as … as possible."'
+  ref: g-09
+- id: iii34-c-melius
+  type: choose
+  q: '"John sings better": *Iōannēs ___ cantat.*'
+  options:
+  - melius
+  - melior
+  - magis bene
+  a: melius
+  why: '*Bene, melius, optimē*: the rebel''s comparative how-word.'
+  ref: g-10
+- id: iii34-c-pessime
+  type: choose
+  q: '"Dad sings terribly": *Pater ___ cantat.*'
+  options:
+  - pessimē
+  - pessimus
+  - male
+  a: pessimē
+  why: '"Terribly" = "very badly": the superlative how-word of *male*.'
+  ref: g-10
+- id: iii34-c-celeris
+  type: choose
+  q: '"Cornēlia is fast": *Cornēlia ___ est.*'
+  options:
+  - celeris
+  - celeriter
+  - celerius
+  a: celeris
+  why: 'Describing Cornēlia herself: the adjective, feminine to match her.'
+  ref: g-11
+- id: iii34-e-bone
+  type: error
+  q: 'Fix: *Bonē cantās.* ("You sing well")'
+  a: '*Bene cantās.* *Bonus* is a rebel.'
+  ref: g-12
+- id: iii34-e-fortie
+  type: error
+  q: 'Fix: *Marcus fortiē pugnat.* ("Marcus fights bravely")'
+  a: '*Marcus fortiter pugnat.* Third family: *-iter*.'
+  ref: g-12
+- id: iii34-e-sapientiter
+  type: error
+  q: 'Fix: *Avia sapientiter dīcit.* ("Grandma speaks wisely")'
+  a: '*Avia sapienter dīcit.* *-nt-* stems add just *-er*.'
+  ref: g-12
+- id: iii34-e-celerissime
+  type: error
+  q: 'Fix: *Canis celerissimē currit.* ("The dog runs very fast")'
+  a: '*Canis celerrimē currit.* *Celer* → *celerrimus* → *celerrimē*.'
+  ref: g-12
+- id: iii34-e-magis-bene
+  type: error
+  q: 'Fix: *Iōannēs magis bene cantat.* ("John sings better")'
+  a: '*Iōannēs melius cantat.*'
+  ref: g-12
+- id: iii34-e-lentie
+  type: error
+  q: 'Fix: *Lentiē, quaesō!* ("More slowly, please!")'
+  a: '*Lentius, quaesō!* "More …ly" is the neuter comparative.'
+  ref: g-08
