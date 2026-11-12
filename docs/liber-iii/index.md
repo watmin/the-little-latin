@@ -24,4 +24,4 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 | 33 | [**Melior et Optimus**](09-melior-et-optimus.md) | G: comparison of adjectives (regular, irregular), quam vs abl. of comparison. S: taller than, sweeter than honey, the best of all, more cheese please. | ✅ available |
 | 34 | [**Celeriter!**](10-celeriter.md) | G: adverbs, formation and comparison. S: how/how fast/better. | ✅ available |
 | 35 | [**Ablātīvus**](11-ablativus.md) | G: ablative uses summary (manner, accompaniment, cause, degree of difference, respect, description). S: with whom, how, why, by how much, what kind. | ✅ available |
-| 36 | **Recapitulātiō III** | Adapted myth (e.g., Daedalus). | coming |
+| 36 | [**Recapitulātiō III**](12-recapitulatio-iii.md) | Book III capstone, no new grammar; adapted myth: Daedalus and Icarus (after Ovid, *Metamorphoses* 8). S: tell a whole story in the past. | ✅ available |
