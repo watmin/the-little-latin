@@ -1,0 +1,379 @@
+book: iii
+ch: 35
+page: liber-iii/11-ablativus.md
+cards:
+- id: iii35-v-cum-cura
+  type: vocab
+  la: cum cūrā
+  en: carefully, "with care" (manner)
+  ref: g-05
+- id: iii35-v-magna-cum-laude
+  type: vocab
+  la: magnā cum laude
+  en: with great praise; with high honors (also *cum laude*, *summā cum laude*)
+  ref: g-05
+- id: iii35-v-nullo-modo
+  type: vocab
+  la: nūllō modō
+  en: in no way; No way! (also *hōc modō*, in this way)
+  ref: g-05
+- id: iii35-v-multo
+  type: vocab
+  la: multō
+  en: 'by much, much (+ comparative): *multō maior*'
+  ref: g-08
+- id: iii35-v-paulo
+  type: vocab
+  la: paulō
+  en: 'by a little, a little (+ comparative): *paulō celerius*'
+  ref: g-08
+- id: iii35-v-paulo-post
+  type: vocab
+  la: paulō post
+  en: a little later
+  ref: g-08
+- id: iii35-v-nihilo-minus
+  type: vocab
+  la: nihilō minus
+  en: nonetheless, all the same
+  ref: g-08
+- id: iii35-v-natu
+  type: vocab
+  la: nātū maior, nātū maximus
+  en: older, oldest ("by birth")
+  ref: g-09
+- id: iii35-v-nomine
+  type: vocab
+  la: nōmine
+  en: by name, named
+  ref: g-09
+- id: iii35-v-exempli-gratia
+  type: vocab
+  la: exemplī grātiā
+  en: for example (e.g.)
+  ref: g-07
+- id: iii35-v-qua-de-causa
+  type: vocab
+  la: quā dē causā?
+  en: 'for what reason? why? (without a question: for this reason)'
+  ref: g-07
+- id: iii35-v-cura
+  type: vocab
+  la: cūra, cūrae
+  en: f., care, worry
+  ref: g-05
+- id: iii35-v-laus
+  type: vocab
+  la: laus, laudis
+  en: f., praise
+  ref: g-05
+- id: iii35-v-gaudium
+  type: vocab
+  la: gaudium, gaudiī
+  en: n., joy
+  ref: g-05
+- id: iii35-v-metus
+  type: vocab
+  la: metus, metūs
+  en: m., fear
+  ref: g-07
+- id: iii35-v-ira
+  type: vocab
+  la: īra, īrae
+  en: f., anger
+  ref: g-07
+- id: iii35-v-dolor
+  type: vocab
+  la: dolor, dolōris
+  en: m., pain, grief
+  ref: g-07
+- id: iii35-v-causa
+  type: vocab
+  la: causa, causae
+  en: f., cause, reason; *causā* (after a genitive) for the sake of
+  ref: g-07
+- id: iii35-v-modus
+  type: vocab
+  la: modus, modī
+  en: m., way, manner
+  ref: g-05
+- id: iii35-v-virtus
+  type: vocab
+  la: virtūs, virtūtis
+  en: f., courage, excellence
+  ref: g-09
+- id: iii35-v-auris
+  type: vocab
+  la: auris, auris
+  en: f., ear
+  ref: g-10
+- id: iii35-v-barba
+  type: vocab
+  la: barba, barbae
+  en: f., beard
+  ref: g-10
+- id: iii35-v-medicus
+  type: vocab
+  la: medicus, medicī
+  en: m., doctor
+  ref: g-11
+- id: iii35-v-claudus
+  type: vocab
+  la: claudus, -a, -um
+  en: lame, limping
+  ref: g-09
+- id: iii35-v-nimius
+  type: vocab
+  la: nimius, -a, -um
+  en: too much
+  ref: g-07
+- id: iii35-v-tremo
+  type: vocab
+  la: tremō, tremere, tremuī
+  en: tremble
+  ref: g-07
+- id: iii35-v-t-accompaniment
+  type: vocab
+  la: ablative of accompaniment
+  en: '"with whom": *cum* + the person (*cum Avō*)'
+  ref: g-04
+- id: iii35-v-t-manner
+  type: vocab
+  la: ablative of manner
+  en: '"how": *cum cūrā, magnā (cum) cūrā*'
+  ref: g-05
+- id: iii35-v-t-cause
+  type: vocab
+  la: ablative of cause
+  en: '"why": *metū, gaudiō*'
+  ref: g-07
+- id: iii35-v-t-degree
+  type: vocab
+  la: ablative of degree of difference
+  en: '"by how much" (old-school "measure of difference"): *multō maior*'
+  ref: g-08
+- id: iii35-v-t-respect
+  type: vocab
+  la: ablative of respect
+  en: '"in what respect" (old-school "specification"): *nātū maior, pede claudus*'
+  ref: g-09
+- id: iii35-v-t-description
+  type: vocab
+  la: ablative of description
+  en: '"what kind" (old-school "quality"): *canis magnīs auribus*'
+  ref: g-10
+- id: iii35-f-name
+  type: forms
+  q: 'What does *cāsus ablātīvus* mean, and where does the name come from?'
+  a: '"The carrying-away case," from *auferō… ablātum* (carry away): its oldest job is "from."'
+  ref: g-01
+- id: iii35-f-endings
+  type: forms
+  q: 'Ablative singular of *mēnsa, hortus, rēx, manus, diēs*; and the two plural endings'
+  a: '*Mēnsā, hortō, rēge, manū, diē* · plural *-īs* (first two families), *-ibus* (the rest).'
+  ref: g-02
+- id: iii35-f-law-old-jobs
+  type: forms
+  q: 'Law of the Three Old Jobs: which three?'
+  a: '"From" (*ex, ab, domō*, the doer, the "than") · "with / by" (*cum*, the tool, the price, most new jobs) · "in / at" (*in* + where, the hour, the year).'
+  ref: g-03
+- id: iii35-f-melle
+  type: forms
+  q: '*Melle dulcior*: which old job is the "than" ablative?'
+  a: '"From": sweeter, measured from honey.'
+  ref: g-03
+- id: iii35-f-cum-avo
+  type: forms
+  q: '*Marcus cum Avō ambulat.* Why *ambulat*, not *ambulant*?'
+  a: '"Marcus walks with Grandpa": only Marcus is the subject; Grandpa is company in the ablative.'
+  ref: g-04
+- id: iii35-f-dominus
+  type: forms
+  q: '*Dominus vōbīscum. Et cum spīritū tuō.*'
+  a: '"The Lord be with you all." "And with your spirit." Two accompaniments.'
+  ref: g-04
+- id: iii35-f-magna-cura
+  type: forms
+  q: '"With great care," two ways'
+  a: '*Magnā cum cūrā* or *magnā cūrā*. With an adjective, *cum* may drop.'
+  ref: g-05
+- id: iii35-f-laude
+  type: forms
+  q: '*Cum laude · magnā cum laude · summā cum laude*'
+  a: '"With praise · with great praise · with highest praise": ablatives of manner on diplomas.'
+  ref: g-05
+- id: iii35-f-magnopere
+  type: forms
+  q: 'Pull apart *magnopere* and *quōmodo*.'
+  a: '*Magnō opere* "with great work" (greatly) · *quō modō* "in what way" (how?). Ablatives of manner glued into adverbs.'
+  ref: g-05
+- id: iii35-f-luke
+  type: forms
+  q: 'Luke 1:39, of Mary: *abiit in montāna cum fēstīnātiōne*'
+  a: '"She went off into the hill country with haste." Manner.'
+  ref: g-05
+- id: iii35-f-law-withs
+  type: forms
+  q: 'Law of the Three Withs: with whom? how? with what?'
+  a: 'Company: *cum* + person (*cum Avō*) · manner: *cum* + noun, may drop with an adjective (*magnā cūrā*) · tool: plain ablative, never *cum* (*manū*).'
+  ref: g-06
+- id: iii35-f-metu
+  type: forms
+  q: '*Quīntus metū tremit. Avus gaudiō clāmat.*'
+  a: '"Quīntus trembles with fear. Grandpa shouts for joy." Ablatives of cause.'
+  ref: g-07
+- id: iii35-f-orgetorix
+  type: forms
+  q: 'Caesar on Orgetorix: *rēgnī cupiditāte inductus*'
+  a: '"Led on by desire for a kingdom." *Cupiditāte*: why.'
+  ref: g-07
+- id: iii35-f-eg
+  type: forms
+  q: '*Exemplī grātiā* · *honōris causā*'
+  a: '"For the sake of an example" (e.g.) · "for the sake of honor" (honorary). *Grātiā / causā* after a genitive.'
+  ref: g-07
+- id: iii35-f-pede
+  type: forms
+  q: '*Marcus Quīntō pede altior est.* Name both ablatives.'
+  a: '"Marcus is taller than Quīntus by a foot." *Quīntō*: comparison ("than"); *pede*: degree of difference.'
+  ref: g-08
+- id: iii35-f-quanto
+  type: forms
+  q: 'Matthew 6:30: *quantō magis vōs, modicae fideī?*'
+  a: '"How much more (will he clothe) you, you of little faith?" *Quantō*: by how much.'
+  ref: g-08
+- id: iii35-f-differunt
+  type: forms
+  q: 'Caesar: *Hī omnēs linguā, īnstitūtīs, lēgibus inter sē differunt.*'
+  a: '"All these differ from one another in language, customs, and laws." Ablatives of respect.'
+  ref: g-09
+- id: iii35-f-virtute
+  type: forms
+  q: 'Caesar: *Helvētiī quoque reliquōs Gallōs virtūte praecēdunt.*'
+  a: '"The Helvetians too outdo the rest of the Gauls in courage." *Virtūte*: respect.'
+  ref: g-09
+- id: iii35-f-suetonius
+  type: forms
+  q: 'Suetonius on Caesar: *excelsā statūrā, colōre candidō, nigrīs vegetīsque oculīs*'
+  a: '"Tall in stature, fair in complexion, with dark, lively eyes." Ablatives of description.'
+  ref: g-10
+- id: iii35-f-law-six
+  type: forms
+  q: 'Law of the Six Questions: the six new jobs'
+  a: 'With whom? accompaniment · how? manner · why? cause · by how much? degree of difference · in what respect? respect · what kind? description.'
+  ref: g-11
+- id: iii35-c-manu
+  type: choose
+  q: '"Marcus takes the cheese with his hand": *Marcus cāseum ___ capit.*'
+  options:
+  - manū
+  - cum manū
+  - manum
+  a: manū
+  why: 'A tool is a plain ablative, never with *cum*.'
+  ref: g-06
+- id: iii35-c-cum-avo
+  type: choose
+  q: '"Marcus walks with Grandpa": *Marcus ___ ambulat.*'
+  options:
+  - cum Avō
+  - Avō
+  - Avum
+  a: cum Avō
+  why: 'Company (accompaniment) needs *cum*.'
+  ref: g-04
+- id: iii35-c-cura
+  type: choose
+  q: '"With great care": *magnā ___*'
+  options:
+  - cum cūrā
+  - cum cūram
+  - cūra
+  a: cum cūrā
+  why: '*Cum* takes the ablative, and *magnā* agrees with it.'
+  ref: g-05
+- id: iii35-c-metu
+  type: choose
+  q: '"Quīntus trembles with fear": *Quīntus ___ tremit.*'
+  options:
+  - metū
+  - metum
+  - metus
+  a: metū
+  why: 'Cause (why?) is a plain ablative; fourth family *-ū*.'
+  ref: g-07
+- id: iii35-c-multo
+  type: choose
+  q: '"Much bigger": *___ maior*'
+  options:
+  - multō
+  - multus
+  - multī
+  a: multō
+  why: '"By how much" is the ablative of degree of difference.'
+  ref: g-08
+- id: iii35-c-paulo
+  type: choose
+  q: '"A little later": *___ post*'
+  options:
+  - paulō
+  - paulus
+  - paulā
+  a: paulō
+  why: 'Degree of difference: the neuter ablative *paulō*, "by a little."'
+  ref: g-08
+- id: iii35-c-natu
+  type: choose
+  q: '"Marcus is older than Quīntus": *Marcus ___ maior est quam Quīntus.*'
+  options:
+  - nātū
+  - nātus
+  - nātum
+  a: nātū
+  why: '*Nātū*, "by birth": ablative of respect.'
+  ref: g-09
+- id: iii35-c-pede
+  type: choose
+  q: '"Lame in the foot": *___ claudus*'
+  options:
+  - pede
+  - pedem
+  - pēs
+  a: pede
+  why: 'In what respect lame? The ablative of respect.'
+  ref: g-09
+- id: iii35-c-auribus
+  type: choose
+  q: '"A dog with big ears": *canis ___*'
+  options:
+  - magnīs auribus
+  - magnae auribus
+  - magnās aurēs
+  a: magnīs auribus
+  why: 'Description: ablative + agreeing adjective (ablative plural *-īs*).'
+  ref: g-10
+- id: iii35-e-cura
+  type: error
+  q: 'Fix: *magnā cum cūram* ("with great care")'
+  a: '*Magnā cum cūrā.* *Cum* takes the ablative.'
+  ref: g-12
+- id: iii35-e-barba
+  type: error
+  q: 'Fix: *vir magna barbā* ("a man with a big beard")'
+  a: '*Vir magnā barbā.* The adjective agrees with *barbā*: ablative, long *ā*.'
+  ref: g-10
+- id: iii35-e-cum-vos
+  type: error
+  q: 'Fix: *Dominus cum vōs* ("The Lord be with you all")'
+  a: '*Dominus vōbīscum.* Ablative, and *cum* glued on the end.'
+  ref: g-12
+- id: iii35-e-multus
+  type: error
+  q: 'Fix: *multus maior* ("much bigger")'
+  a: '*Multō maior.* "By how much" is ablative.'
+  ref: g-12
+- id: iii35-e-doloris
+  type: error
+  q: 'Fix: *Marcus dolōris clāmat.* ("Marcus shouts with pain")'
+  a: '*Marcus dolōre clāmat.* Cause is ablative, not genitive.'
+  ref: g-07
