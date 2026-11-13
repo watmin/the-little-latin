@@ -14,7 +14,7 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 | # | Chapter | Contents | Status |
 |---|---|---|---|
 | 37 | [**Laudātus**](01-laudatus.md) | G: perfect passive participle as adjective & clause. | ✅ available |
-| 38 | **Laudāns** | G: present active participle (3rd decl adj declension). | coming |
+| 38 | [**Laudāns**](02-laudans.md) | G: present active participle (3rd decl adj declension). | ✅ available |
 | 39 | **Laudātūrus** | G: future active participle; active periphrastic. S: I am about to… | coming |
 | 40 | **Urbe Captā** | G: ablative absolute. | coming |
 | 41 | **Sex Īnfīnītīvī** | G: all six infinitives (pres/perf/fut × act/pass). | coming |

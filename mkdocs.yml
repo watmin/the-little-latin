@@ -68,6 +68,7 @@ nav:
   - "Liber IV: Verba Agentia":
       - liber-iv/index.md
       - "XXXVII. Laudātus": liber-iv/01-laudatus.md
+      - "XXXVIII. Laudāns": liber-iv/02-laudans.md
   - "Liber V: Modus Subiūnctīvus":
       - liber-v/index.md
   - "Liber VI: Ad Auctōrēs":

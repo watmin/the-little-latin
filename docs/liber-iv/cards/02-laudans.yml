@@ -1,0 +1,364 @@
+book: iv
+ch: 38
+page: liber-iv/02-laudans.md
+cards:
+- id: iv38-v-laudans
+  type: vocab
+  la: laudāns, laudantis
+  en: praising (one naming form; declined like *ingēns*; ablative *-e* as a participle)
+  ref: g-02
+- id: iv38-v-endings
+  type: vocab
+  la: -āns, -ēns, -iēns
+  en: 'present participle endings: *-āre → -āns*; *-ēre, -ere → -ēns*; *-īre, -iō → -iēns* ("of" form *-antis, -entis, -ientis*)'
+  ref: g-02
+- id: iv38-v-iens
+  type: vocab
+  la: iēns, euntis
+  en: going (from *eō*)
+  ref: g-03
+- id: iv38-v-amans
+  type: vocab
+  la: amāns, amantis
+  en: m./f., lover ("one who loves")
+  ref: g-09
+- id: iv38-v-parens
+  type: vocab
+  la: parēns, parentis
+  en: m./f., parent (from *pariō*, give birth)
+  ref: g-09
+- id: iv38-v-adulescens
+  type: vocab
+  la: adulēscēns, adulēscentis
+  en: m./f., young person ("growing up")
+  ref: g-09
+- id: iv38-v-infans
+  type: vocab
+  la: īnfāns, īnfantis
+  en: m./f., baby, infant ("not speaking")
+  ref: g-09
+- id: iv38-v-sapiens
+  type: vocab
+  la: sapiēns, sapientis
+  en: wise; as a noun, a wise person (from *sapiō*)
+  ref: g-09
+- id: iv38-v-potens
+  type: vocab
+  la: potēns, potentis
+  en: powerful, able (from *possum*)
+  ref: g-03
+- id: iv38-v-absens
+  type: vocab
+  la: absēns, absentis
+  en: absent, away (from *absum*)
+  ref: g-03
+- id: iv38-v-praesens
+  type: vocab
+  la: praesēns, praesentis
+  en: present, at hand
+  ref: g-03
+- id: iv38-v-innocens
+  type: vocab
+  la: innocēns, innocentis
+  en: harmless, innocent (from *noceō*, harm)
+  ref: g-10
+- id: iv38-v-volens
+  type: vocab
+  la: volēns, nōlēns
+  en: willing, unwilling (from *volō, nōlō*)
+  ref: g-03
+- id: iv38-v-tamen
+  type: vocab
+  la: tamen
+  en: still, nevertheless, all the same
+  ref: g-08
+- id: iv38-v-somnio
+  type: vocab
+  la: somniō, somniāre, somniāvī, somniātum
+  en: dream
+  ref: g-14
+- id: iv38-v-mica
+  type: vocab
+  la: mīca, mīcae
+  en: f., crumb
+  ref: g-14
+- id: iv38-v-term-pap
+  type: vocab
+  la: present active participle
+  en: 'the "-ing" verb-adjective (*laudāns*): active, at the same time as the main verb (old-school "present participle")'
+  ref: g-01
+- id: iv38-f-laudans-meaning
+  type: forms
+  q: '*Avus laudāns rīdet.*'
+  a: '"Grandpa, praising, laughs." Grandpa does the praising, at the same time as he laughs.'
+  ref: g-01
+- id: iv38-f-why-present-active
+  type: forms
+  q: Why "present" and "active" participle?
+  a: '"Present": at the same time as the main verb. "Active": the noun does it. *Laudātus* (perfect passive) is its mirror.'
+  ref: g-01
+- id: iv38-f-cantans
+  type: forms
+  q: '*Pater cantāns ambulat.*'
+  a: '"Dad walks along singing."'
+  ref: g-01
+- id: iv38-f-canis-two
+  type: forms
+  q: '*Canis laudātus* vs *canis laudāns*'
+  a: '"The praised dog" (someone praised him) vs "the praising dog" (he does the praising).'
+  ref: g-01
+- id: iv38-f-stem
+  type: forms
+  q: '*laudāns*: what stem do the other cases use?'
+  a: '*laudant-* (*laudantis, laudantī, laudantem…*). *Laudāns* is only the naming form, like *ingēns, ingentis*.'
+  ref: g-02
+- id: iv38-f-habens
+  type: forms
+  q: Participle of *habeō*
+  a: '*habēns, habentis*, "having."'
+  ref: g-02
+- id: iv38-f-legens
+  type: forms
+  q: Participle of *legō*
+  a: '*legēns, legentis*, "reading." Third family: *-ēns*, not *-ins* or *-āns*.'
+  ref: g-02
+- id: iv38-f-audiens
+  type: forms
+  q: Participle of *audiō* and *capiō*
+  a: '*audiēns, audientis · capiēns, capientis*. The *i* stays, then *-ēns*.'
+  ref: g-02
+- id: iv38-f-law-ns
+  type: forms
+  q: Law of *-ns* and *-nt*
+  a: 'Infinitive stem + *-ns*: *-āns, -ēns* (first, second, third), *-iēns* (fourth, *-iō*). Vowel long before *-ns*, short before *-nt*.'
+  ref: g-02
+- id: iv38-f-euntis
+  type: forms
+  q: '"Of" form of *iēns* (from *eō*)'
+  a: '*euntis*: stem *eunt-*, like *eunt*.'
+  ref: g-03
+- id: iv38-f-rediens
+  type: forms
+  q: '"Dad, coming back, sings."'
+  a: '*Pater rediēns cantat.*'
+  ref: g-03
+- id: iv38-f-ferens
+  type: forms
+  q: Participle of *ferō*
+  a: '*ferēns, ferentis*, "carrying, bringing." Regular.'
+  ref: g-03
+- id: iv38-f-sum
+  type: forms
+  q: Present participle of *sum*?
+  a: 'None in everyday classical Latin. Its compounds have them: *absēns, praesēns, potēns* (from *possum*).'
+  ref: g-03
+- id: iv38-f-creed
+  type: forms
+  q: '*Crēdō in Deum Patrem omnipotentem.*'
+  a: '"I believe in God the Father almighty." *Omnipotentem* (*omnis* + *potēns*) agrees with *Patrem*.'
+  ref: g-03
+- id: iv38-f-cantantem
+  type: forms
+  q: '"I hear the singing girl."'
+  a: '*Puellam cantantem audiō.* Masculine and feminine share *-em*.'
+  ref: g-04
+- id: iv38-f-os-clamans
+  type: forms
+  q: '"I see the shouting mouth"'
+  a: '*Ōs clāmāns videō.* Neuter: object = naming form.'
+  ref: g-04
+- id: iv38-f-abl
+  type: forms
+  q: 'Ablative of *cantāns*: *-e* or *-ī*?'
+  a: '*-e* while it works as a participle (*cum Patre cantante*); *-ī* once it is a plain adjective (*ā virō sapientī*).'
+  ref: g-04
+- id: iv38-f-law-shape
+  type: forms
+  q: Law of One Shape
+  a: 'One-ending adjective like *ingēns*: *laudāns, laudantis, laudantī, laudantem, laudante*; plural *laudantēs, laudantium, laudantibus*; neuter plural *laudantia*.'
+  ref: g-04
+- id: iv38-f-laudantium
+  type: forms
+  q: '*laudantium*: which case?'
+  a: 'Genitive plural, "of (ones) praising": i-stem *-ium* (Luke 2:13).'
+  ref: g-04
+- id: iv38-f-latrantem
+  type: forms
+  q: '"I hear the barking dog."'
+  a: '*Canem lātrantem audiō.*'
+  ref: g-05
+- id: iv38-f-cantantis
+  type: forms
+  q: '"The voice of Dad singing"'
+  a: '*Vōx Patris cantantis.* Both genitive.'
+  ref: g-05
+- id: iv38-f-ridenti
+  type: forms
+  q: '"I give cheese to the laughing boy."'
+  a: '*Puerō rīdentī cāseum dō.* Dative.'
+  ref: g-05
+- id: iv38-f-dormiente
+  type: forms
+  q: '"We sit with Grandpa, who is sleeping."'
+  a: '*Cum Avō dormiente sedēmus.* Working participle: ablative *-e*.'
+  ref: g-05
+- id: iv38-f-stertit
+  type: forms
+  q: '*Avus dormiēns stertit / stertēbat.*'
+  a: '"Grandpa snores / was snoring in his sleep." Same moment as the main verb, whatever its tense.'
+  ref: g-06
+- id: iv38-f-law-moment
+  type: forms
+  q: Law of the Same Moment
+  a: The present participle shows a deed the noun is doing at the same time as the main verb, in any tense. It borrows the main verb's clock.
+  ref: g-06
+- id: iv38-f-two-participles
+  type: forms
+  q: '*laudātus* vs *laudāns*'
+  a: '*Laudātus*: passive, before the main verb. *Laudāns*: active, at the same time.'
+  ref: g-06
+- id: iv38-f-object
+  type: forms
+  q: '*Pater cāseum portāns cantat.*'
+  a: '"Dad sings carrying the cheese." The participle keeps its object, tucked between noun and participle.'
+  ref: g-07
+- id: iv38-f-matthew
+  type: forms
+  q: '*Iōannēs Baptista praedicāns in dēsertō Iūdaeae et dīcēns* (Matthew 3:1–2)'
+  a: '"John the Baptist, preaching in the desert of Judea and saying…"'
+  ref: g-07
+- id: iv38-f-englishes
+  type: forms
+  q: '*Quīntus, Aviam timēns, pennās colligit.* Three Englishes'
+  a: '"Quīntus, fearing Grandma, gathers the feathers" · "while he fears…" · "because he''s afraid of Grandma…"'
+  ref: g-08
+- id: iv38-f-tamen
+  type: forms
+  q: '*Avus, cāseum amāns, tamen nōn edit.*'
+  a: '"Although he loves cheese, Grandpa still doesn''t eat it." *Tamen* signals "although."'
+  ref: g-08
+- id: iv38-f-horace
+  type: forms
+  q: '*Rīdentem dīcere vērum quid vetat?* (Horace)'
+  a: '"What forbids someone laughing to tell the truth?"'
+  ref: g-08
+- id: iv38-f-seneca
+  type: forms
+  q: '*Dūcunt volentem fāta, nōlentem trahunt.* (Seneca)'
+  a: '"The Fates lead the willing one, drag the unwilling one." Participles as people.'
+  ref: g-09
+- id: iv38-f-vox
+  type: forms
+  q: '*Ego vōx clāmantis in dēsertō.* (John 1:23)'
+  a: '"I am the voice of one crying out in the desert." *Clāmantis*: genitive participle as a person.'
+  ref: g-09
+- id: iv38-f-sapienter
+  type: forms
+  q: Where does the *-nt-* in *sapienter, dīligenter, libenter* come from?
+  a: 'The participle stem: *sapient-, dīligent-, libent-* + *-er*.'
+  ref: g-10
+- id: iv38-f-diligens
+  type: forms
+  q: '*dīligēns* and *dīlēctus*'
+  a: 'Two participles of *dīligō* (value, love): "valuing," so careful; "valued," so beloved.'
+  ref: g-10
+- id: iv38-f-luke
+  type: forms
+  q: '*multitūdō mīlitiae caelestis laudantium Deum et dīcentium* (Luke 2:13)'
+  a: '"A crowd of the heavenly army, praising God and saying…" Genitive plural: one army, many angels.'
+  ref: g-11
+- id: iv38-f-vergil
+  type: forms
+  q: '*Timeō Danaōs et dōna ferentīs.* (Vergil)'
+  a: '"I fear the Greeks even when they bring gifts." *Ferentīs* = *ferentēs* (old *-īs*).'
+  ref: g-11
+- id: iv38-f-nantes
+  type: forms
+  q: '*Appārent rārī nantēs in gurgite vāstō.* (Vergil)'
+  a: '"Scattered swimmers appear in the vast flood." *Nantēs* (from *nō, nāre*): a participle as a noun.'
+  ref: g-11
+- id: iv38-f-ovid
+  type: forms
+  q: '*ōraque caeruleā patrium clāmantia nōmen / excipiuntur aquā* (Ovid)'
+  a: '"And his mouth, shouting his father''s name, is caught by the sea-blue water."'
+  ref: g-11
+- id: iv38-c-latrantem
+  type: choose
+  q: '"I hear the barking dog": *Canem ___ audiō.*'
+  options:
+  - lātrantem
+  - lātrāns
+  - lātrante
+  a: lātrantem
+  why: The participle agrees with *canem*, accusative.
+  ref: g-05
+- id: iv38-c-cantante
+  type: choose
+  q: '"We sit with Dad singing": *Cum Patre ___ sedēmus.*'
+  options:
+  - cantante
+  - cantantī
+  - cantantem
+  a: cantante
+  why: A working participle takes ablative *-e*.
+  ref: g-04
+- id: iv38-c-legentes
+  type: choose
+  q: '"The boys reading": *puerī ___*'
+  options:
+  - legentēs
+  - legantēs
+  - lēgentēs
+  a: legentēs
+  why: 'Third family: *-ēns, -entis*, short *e* before *nt*.'
+  ref: g-02
+- id: iv38-c-audientes
+  type: choose
+  q: '"The girls hearing": *puellae ___*'
+  options:
+  - audientēs
+  - audentēs
+  - audīentēs
+  a: audientēs
+  why: 'Fourth family keeps its *i*: *audiēns, audientis*.'
+  ref: g-02
+- id: iv38-c-laudo
+  type: choose
+  q: '"I am praising":'
+  options:
+  - laudō
+  - laudāns sum
+  - laudātus sum
+  a: laudō
+  why: 'One word: the present participle doesn''t build tenses with *sum*.'
+  ref: g-12
+- id: iv38-c-time
+  type: choose
+  q: '*Avus cāseum edēns cantāvit.*'
+  options:
+  - Grandpa sang while eating the cheese.
+  - Grandpa sang after eating the cheese.
+  - Grandpa sang the eaten cheese.
+  a: Grandpa sang while eating the cheese.
+  why: The present participle is at the same time as the main verb.
+  ref: g-12
+- id: iv38-e-latrans
+  type: error
+  q: 'Fix: *Canem lātrāns audiō.*'
+  a: '*Canem lātrantem audiō.* Accusative, agreeing with *canem*.'
+  ref: g-13
+- id: iv38-e-ridens
+  type: error
+  q: 'Fix: *Puellae rīdēns cāseum dō.*'
+  a: '*Puellae rīdentī cāseum dō.* Dative.'
+  ref: g-13
+- id: iv38-e-legantes
+  type: error
+  q: 'Fix: *puerī legantēs*'
+  a: '*puerī legentēs.* Third family: *-ēns, -entis*.'
+  ref: g-13
+- id: iv38-e-laudantum
+  type: error
+  q: 'Fix: *vōcēs laudantum*'
+  a: '*vōcēs laudantium.* Genitive plural *-ium*.'
+  ref: g-13
