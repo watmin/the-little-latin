@@ -1,0 +1,364 @@
+book: iv
+ch: 37
+page: liber-iv/01-laudatus.md
+cards:
+- id: iv37-v-laudatus
+  type: vocab
+  la: laudātus, laudāta, laudātum
+  en: praised, having been praised (declined like *magnus* in every case)
+  ref: g-01
+- id: iv37-v-emptus
+  type: vocab
+  la: cāseus ā Patre emptus
+  en: the cheese bought by Dad; which Dad (had) bought
+  ref: g-06
+- id: iv37-v-colligo
+  type: vocab
+  la: colligō, colligere, collēgī, collēctum
+  en: gather, collect
+  ref: g-04
+- id: iv37-v-iungo
+  type: vocab
+  la: iungō, iungere, iūnxī, iūnctum
+  en: join
+  ref: g-13
+- id: iv37-v-spargo
+  type: vocab
+  la: spargō, spargere, sparsī, sparsum
+  en: scatter
+  ref: g-02
+- id: iv37-v-seco
+  type: vocab
+  la: secō, secāre, secuī, sectum
+  en: cut
+  ref: g-05
+- id: iv37-v-involvo
+  type: vocab
+  la: involvō, involvere, involvī, involūtum
+  en: wrap, roll up
+  ref: g-09
+- id: iv37-v-impleo
+  type: vocab
+  la: impleō, implēre, implēvī, implētum
+  en: fill
+  ref: g-13
+- id: iv37-v-doctus
+  type: vocab
+  la: doctus, -a, -um
+  en: learned, well taught (fourth key of *doceō*)
+  ref: g-09
+- id: iv37-v-dictum
+  type: vocab
+  la: dictum, dictī
+  en: n., a saying, a word ("a thing said")
+  ref: g-08
+- id: iv37-v-factum
+  type: vocab
+  la: factum, factī
+  en: n., a deed, a fact ("a thing done")
+  ref: g-08
+- id: iv37-v-res-gestae
+  type: vocab
+  la: rēs gestae
+  en: f. pl., deeds, achievements ("things carried out")
+  ref: g-08
+- id: iv37-v-victi
+  type: vocab
+  la: victī, victōrum
+  en: m. pl., the conquered (from *vincō … victum*)
+  ref: g-08
+- id: iv37-v-pannus
+  type: vocab
+  la: pannus, pannī
+  en: m., cloth, rag
+  ref: g-09
+- id: iv37-v-pulvinus
+  type: vocab
+  la: pulvīnus, pulvīnī
+  en: m., pillow
+  ref: g-13
+- id: iv37-v-substantive
+  type: vocab
+  la: participle used as a noun
+  en: 'a fourth-key adjective standing alone as a thing or person (old-school "substantive"): *factum, victī*'
+  ref: g-08
+- id: iv37-v-circumstantial
+  type: vocab
+  la: circumstantial participle
+  en: 'a participle standing for a whole clause: when, because, although, and'
+  ref: g-07
+- id: iv37-f-headline
+  type: forms
+  q: '*Cāseus ēsus!* (no *est*)'
+  a: '"Cheese eaten!" A headline: supply the *est*. Without *sum*, the fourth key is just a describer.'
+  ref: g-01
+- id: iv37-f-ppp
+  type: forms
+  q: What is a perfect passive participle?
+  a: 'The fourth-key adjective (*laudātus, ēsus, emptus*): "perfect" = the deed is done; "passive" = the noun received it. English calls "praised" a past participle.'
+  ref: g-01
+- id: iv37-f-two-jobs
+  type: forms
+  q: Two jobs of *laudātus*
+  a: 'With *sum*: the finished passive (*laudātus est*, "he has been praised"). Alone: a describer (*puer laudātus*, "the praised boy").'
+  ref: g-01
+- id: iv37-f-law-key
+  type: forms
+  q: Law of the Grown-up Key
+  a: Without *sum*, the fourth key is a *magnus*-type adjective agreeing with its noun in gender, number, and case, wherever the noun stands.
+  ref: g-02
+- id: iv37-f-sparsas
+  type: forms
+  q: '"I see the scattered feathers"'
+  a: '*Pennās sparsās videō.* Accusative plural on both.'
+  ref: g-02
+- id: iv37-f-aperta
+  type: forms
+  q: '"There''s nothing in the opened box"'
+  a: '*In capsā apertā nihil est.*'
+  ref: g-02
+- id: iv37-f-empti
+  type: forms
+  q: '"The smell of the cheese bought by Dad"'
+  a: '*Odor cāseī ā Patre emptī.* Genitive, agreeing with *cāseī*.'
+  ref: g-02
+- id: iv37-f-laudato
+  type: forms
+  q: '"We give a gift to John, praised by everyone"'
+  a: '*Iōannī, ab omnibus laudātō, dōnum damus.* Dative, agreeing with *Iōannī*.'
+  ref: g-02
+- id: iv37-f-dilectus
+  type: forms
+  q: '*Hic est Fīlius meus dīlēctus.* (Matthew 3:17)'
+  a: '"This is my beloved Son." *Dīlēctus*, "loved," is the fourth key of *dīligō*, used as an adjective.'
+  ref: g-02
+- id: iv37-f-main-verb
+  type: forms
+  q: '*Capsa aperta est* vs *Capsa aperta in mēnsā est*'
+  a: '"The box has been opened" (two pieces) vs "The opened box is on the table" (*est* already has a job, so *aperta* only describes). Find the main verb first.'
+  ref: g-03
+- id: iv37-f-gallia
+  type: forms
+  q: '*Gallia est omnis dīvīsa in partēs trēs*: two readings'
+  a: '"Gaul has been divided" (*est … dīvīsa*, two pieces) or "Gaul is a divided land" (*dīvīsa* describes). Same sense: the dividing is done.'
+  ref: g-03
+- id: iv37-f-aleam
+  type: forms
+  q: '"Caesar sees the thrown die"'
+  a: '*Caesar āleam iactam videt.*'
+  ref: g-03
+- id: iv37-f-law-deed
+  type: forms
+  q: Law of the Done Deed
+  a: The participle shows a deed done to its noun **before** the main verb, whatever the main verb's tense. It borrows the main verb's clock.
+  ref: g-04
+- id: iv37-f-erat
+  type: forms
+  q: '*Cāseus ā Patre emptus in mēnsā erat.*'
+  a: '"The cheese (that had been) bought by Dad was on the table." The buying came first.'
+  ref: g-04
+- id: iv37-f-plautus
+  type: forms
+  q: '*Factum est illud: fierī īnfectum nōn potest.* (Plautus)'
+  a: '"That''s been done: it can''t be made undone."'
+  ref: g-04
+- id: iv37-f-doer
+  type: forms
+  q: '"The cheese, cut by John" · "cut with a knife"'
+  a: '*Cāseus ab Iōanne sectus* (doer, *ā/ab*) · *Cāseus cultrō sectus* (tool, plain ablative).'
+  ref: g-05
+- id: iv37-f-horace
+  type: forms
+  q: '"A man praised by these, blamed by those"'
+  a: '*Vir laudātus ab hīs, culpātus ab illīs* (after Horace, *Satires* 1.2.11).'
+  ref: g-05
+- id: iv37-f-quem
+  type: forms
+  q: 'Shrink: *Cāseus quem Pater ēmit*'
+  a: '*Cāseus ā Patre emptus.*'
+  ref: g-06
+- id: iv37-f-quas
+  type: forms
+  q: 'Shrink: *Pennae quās Quīntus collēgit*'
+  a: '*Pennae ā Quīntō collēctae.*'
+  ref: g-06
+- id: iv37-f-scaffold
+  type: forms
+  q: '*Cāseus quī ā Patre emptus est* → participle: what do you cross out?'
+  a: '*Quī* and *est*: *cāseus ā Patre emptus*.'
+  ref: g-06
+- id: iv37-f-captus
+  type: forms
+  q: '*Quīntus, ab Avō captus, rīsit.*'
+  a: '"When he was caught by Grandpa, Quīntus laughed."'
+  ref: g-07
+- id: iv37-f-culpatus
+  type: forms
+  q: '*Avus, ab Aviā culpātus, trīstis erat.*'
+  a: '"Because he had been blamed by Grandma, Grandpa was sad."'
+  ref: g-07
+- id: iv37-f-although
+  type: forms
+  q: '*Canis, culpātus, nihilō minus cāseum edit.*'
+  a: '"Although he''s been scolded, the dog eats the cheese all the same." *Nihilō minus* signals "although."'
+  ref: g-07
+- id: iv37-f-inductus
+  type: forms
+  q: '*Rēgnī cupiditāte inductus coniūrātiōnem nōbilitātis fēcit.* (Caesar)'
+  a: '"Led on (because he was led on) by desire for the kingship, he made a conspiracy of the nobles."'
+  ref: g-07
+- id: iv37-f-and
+  type: forms
+  q: '*Pater cāseum emptum domum portāvit.*'
+  a: '"Dad bought the cheese and carried it home." A participle on the object often = English "… and …".'
+  ref: g-07
+- id: iv37-f-law-englishes
+  type: forms
+  q: 'Law of the Many Englishes: the six tries'
+  a: Plain ("bought") · who/which · when/after · because · although · and. The Latin stays the same; pick the English that fits.
+  ref: g-07
+- id: iv37-f-data
+  type: forms
+  q: '*Datum, data*'
+  a: '"A thing given, things given" (from *dō … datum*): English "data."'
+  ref: g-08
+- id: iv37-f-dicta
+  type: forms
+  q: '*Dicta et facta*'
+  a: '"Words and deeds": neuter participles as nouns.'
+  ref: g-08
+- id: iv37-f-vae
+  type: forms
+  q: '*Vae victīs!* (Livy 5.48)'
+  a: '"Woe to the conquered!" *Victīs*: dative plural, a participle as a noun.'
+  ref: g-08
+- id: iv37-f-res-gestae-aug
+  type: forms
+  q: '*Rēs gestae dīvī Augustī*'
+  a: '"The Deeds of the Divine Augustus": *gestae* (from *gerō*) describes *rēs*, "things carried out."'
+  ref: g-08
+- id: iv37-f-luke
+  type: forms
+  q: '*Inveniētis īnfantem pannīs involūtum et positum in praesēpiō.* (Luke 2:12)'
+  a: '"You''ll find a baby wrapped in cloths and laid in a manger." Both participles are accusative, with *īnfantem*.'
+  ref: g-09
+- id: iv37-f-aeneid
+  type: forms
+  q: '*Multum ille et terrīs iactātus et altō.* (*Aeneid* 1.3)'
+  a: '"Much tossed, that man, both on lands and on the deep."'
+  ref: g-09
+- id: iv37-f-catullus
+  type: forms
+  q: '*Multās per gentēs et multa per aequora vectus* (Catullus 101.1)'
+  a: '"Carried through many nations and over many seas" (Catullus, on his way to his brother''s grave).'
+  ref: g-09
+- id: iv37-f-ovid
+  type: forms
+  q: '*Pennīsque levātus ante volat.* (Ovid, *Met.* 8.212–213)'
+  a: '"And, lifted on his wings, he flies ahead" (Daedalus).'
+  ref: g-09
+- id: iv37-f-ablatum
+  type: forms
+  q: '"The doctor ate the carried-off cheese in the street"'
+  a: '*Medicus cāseum ablātum in viā ēdit.*'
+  ref: g-09
+- id: iv37-f-factas
+  type: forms
+  q: '"Daedalus gave Icarus the wings he''d made"'
+  a: '*Daedalus Īcarō ālās factās dedit.*'
+  ref: g-10
+- id: iv37-f-having-praised
+  type: forms
+  q: Does *Pater laudātus* mean "Dad, having praised"?
+  a: 'No: "Dad, having been praised." The perfect passive participle is always passive (deponents in Chapter 43 are the exception).'
+  ref: g-11
+- id: iv37-f-latus
+  type: forms
+  q: '*Lātus*: two meanings'
+  a: '"Carried" (fourth key of *ferō*) or "wide" (adjective). The story decides.'
+  ref: g-11
+- id: iv37-f-laudatus-sum
+  type: forms
+  q: '*Laudātus sum* vs *laudātus*'
+  a: '"I have been praised" (with *sum*, the verb) vs "praised" (a describer).'
+  ref: g-11
+- id: iv37-c-emptum
+  type: choose
+  q: '"Dad is carrying the bought cheese": *Pater cāseum ___ portat.*'
+  options:
+  - emptum
+  - emptus
+  - emptō
+  a: emptum
+  why: The participle agrees with *cāseum*, accusative.
+  ref: g-03
+- id: iv37-c-apertas
+  type: choose
+  q: '"I see the opened boxes": *Capsās ___ videō.*'
+  options:
+  - apertās
+  - apertae
+  - apertōs
+  a: apertās
+  why: Feminine accusative plural, like *capsās*.
+  ref: g-02
+- id: iv37-c-laudato
+  type: choose
+  q: '"To Grandpa, praised by John": *Avō, ab Iōanne ___*'
+  options:
+  - laudātō
+  - laudātus
+  - laudātum
+  a: laudātō
+  why: Dative singular, agreeing with *Avō*.
+  ref: g-02
+- id: iv37-c-a-quinto
+  type: choose
+  q: '"The feathers gathered by Quīntus": *Pennae ___ collēctae.*'
+  options:
+  - ā Quīntō
+  - Quīntō
+  - Quīntī
+  a: ā Quīntō
+  why: A person doing it needs *ā/ab* + ablative.
+  ref: g-05
+- id: iv37-c-before
+  type: choose
+  q: '*Cāseus emptus in mēnsā erit.* When was it bought?'
+  options:
+  - before the main verb
+  - after the main verb
+  - right now
+  a: before the main verb
+  why: 'Law of the Done Deed: the participle is earlier than the main verb.'
+  ref: g-04
+- id: iv37-c-noun
+  type: choose
+  q: '*Amō hoc dictum.* What is *dictum*?'
+  options:
+  - a noun, "saying"
+  - the finished passive "has been said"
+  - an adverb
+  a: a noun, "saying"
+  why: No *est* belongs to it; it is the object of *amō*.
+  ref: g-11
+- id: iv37-e-emptus
+  type: error
+  q: 'Fix: *Pater cāseum emptus portat.*'
+  a: '*Pater cāseum emptum portat.* The participle follows *cāseum* into the accusative.'
+  ref: g-12
+- id: iv37-e-aperta
+  type: error
+  q: 'Fix: *In capsā apertus nihil est.*'
+  a: '*In capsā apertā nihil est.* Feminine ablative.'
+  ref: g-12
+- id: iv37-e-laudato
+  type: error
+  q: 'Fix: *Iōannī, ab omnibus laudātus* ("to John, praised by everyone")'
+  a: '*Iōannī, ab omnibus laudātō.* Dative, to agree with *Iōannī*.'
+  ref: g-12
+- id: iv37-e-having
+  type: error
+  q: 'Fix: *Pater, Iōannem laudātus, rīsit* ("Dad, having praised John, laughed")'
+  a: '*Pater Iōannem laudāvit et rīsit.* *Laudātus* is passive and can''t take an object.'
+  ref: g-12

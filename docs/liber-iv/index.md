@@ -6,14 +6,14 @@
 
 *Verbals: Participles and infinitives*
 
-!!! info "Coming soon"
-    This book hasn't been written yet. Below is the planned sequence of chapters, which may change as the course grows.
+!!! tip "In progress"
+    Chapters are arriving one by one. Below is the planned sequence, which may change as the course grows.
 
 Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · **S** = speaking goal.
 
 | # | Chapter | Contents | Status |
 |---|---|---|---|
-| 37 | **Laudātus** | G: perfect passive participle as adjective & clause. | coming |
+| 37 | [**Laudātus**](01-laudatus.md) | G: perfect passive participle as adjective & clause. | ✅ available |
 | 38 | **Laudāns** | G: present active participle (3rd decl adj declension). | coming |
 | 39 | **Laudātūrus** | G: future active participle; active periphrastic. S: I am about to… | coming |
 | 40 | **Urbe Captā** | G: ablative absolute. | coming |
