@@ -1,0 +1,364 @@
+book: iv
+ch: 40
+page: liber-iv/04-urbe-capta.md
+cards:
+- id: iv40-v-urbe-capta
+  type: vocab
+  la: urbe captā
+  en: 'the city having been captured; when/after/since the city was captured (ablative absolute: noun + perfect participle, both ablative)'
+  ref: g-01
+- id: iv40-v-patre-cantante
+  type: vocab
+  la: Patre cantante
+  en: with Dad singing, while Dad sings (ablative absolute with the present participle; ablative in *-e*)
+  ref: g-03
+- id: iv40-v-cicerone-consule
+  type: vocab
+  la: Cicerōne cōnsule
+  en: 'when Cicero was consul, in Cicero''s consulship (two nouns, no participle: *sum* has none)'
+  ref: g-07
+- id: iv40-v-consul
+  type: vocab
+  la: cōnsul, cōnsulis
+  en: m., consul (one of the two chief magistrates elected each year; years were named by them)
+  ref: g-07
+- id: iv40-v-invitus
+  type: vocab
+  la: invītus, invīta, invītum
+  en: 'unwilling; *mē invītō*: against my will'
+  ref: g-07
+- id: iv40-v-cognosco
+  type: vocab
+  la: cognōscō, cognōscere, cognōvī, cognitum
+  en: get to know, learn
+  ref: g-09
+- id: iv40-v-conficio
+  type: vocab
+  la: cōnficiō, cōnficere, cōnfēcī, cōnfectum
+  en: finish, complete
+  ref: g-09
+- id: iv40-v-dimitto
+  type: vocab
+  la: dīmittō, dīmittere, dīmīsī, dīmissum
+  en: send away, dismiss
+  ref: g-10
+- id: iv40-v-amitto
+  type: vocab
+  la: āmittō, āmittere, āmīsī, āmissum
+  en: lose
+  ref: g-14
+- id: iv40-v-ianua
+  type: vocab
+  la: iānua, iānuae
+  en: f., door
+  ref: g-02
+- id: iv40-v-regno
+  type: vocab
+  la: rēgnō, rēgnāre, rēgnāvī, rēgnātum
+  en: reign, rule as king
+  ref: g-09
+- id: iv40-v-vesper
+  type: vocab
+  la: vesper, vesperī
+  en: 'm., evening (*vespere*: in the evening)'
+  ref: g-10
+- id: iv40-v-his-rebus-cognitis
+  type: vocab
+  la: hīs rēbus cognitīs
+  en: on learning this, when these things were learned (Caesar's favorite link)
+  ref: g-09
+- id: iv40-v-me-puero
+  type: vocab
+  la: mē puerō
+  en: when I was a boy
+  ref: g-07
+- id: iv40-v-deo-volente
+  type: vocab
+  la: Deō volente
+  en: God willing (later usage; sometimes D.V.)
+  ref: g-11
+- id: iv40-v-term-abl-abs
+  type: vocab
+  la: ablative absolute
+  en: 'the "loose-standing ablative": noun + participle (or noun + noun or adjective), both ablative, untied from the main sentence (*absolūtus*, "set loose")'
+  ref: g-01
+- id: iv40-f-01
+  type: forms
+  q: '*Urbe captā, mīlitēs clāmant.*'
+  a: '"With the city captured (when the city was captured), the soldiers shout." *Urbe captā* has no job in the main sentence.'
+  ref: g-01
+- id: iv40-f-02
+  type: forms
+  q: What is an ablative absolute?
+  a: A noun + participle, both ablative, standing loose from the main sentence and telling the situation.
+  ref: g-01
+- id: iv40-f-03
+  type: forms
+  q: Why "absolute"?
+  a: 'From *absolūtus*, "set loose" (*absolvō*): the pair is untied from the main sentence.'
+  ref: g-01
+- id: iv40-f-04
+  type: forms
+  q: English "nominative absolute" vs Latin
+  a: 'English: "The city captured, the soldiers cheered" (subject form). Latin puts the pair in the ablative: *urbe captā*.'
+  ref: g-01
+- id: iv40-f-05
+  type: forms
+  q: '*Cāseō ēsō, Avus dormit.*'
+  a: '"After the cheese is eaten, Grandpa sleeps." The perfect participle gives "after."'
+  ref: g-01
+- id: iv40-f-06
+  type: forms
+  q: 'Join: *Cāseus emptus est. Pater domum venit.*'
+  a: '*Cāseō emptō, Pater domum venit.* Noun and participle into the ablative; drop *est*.'
+  ref: g-02
+- id: iv40-f-07
+  type: forms
+  q: '"With the door shut, the dog barks."'
+  a: '*Iānuā clausā, canis lātrat.*'
+  ref: g-02
+- id: iv40-f-08
+  type: forms
+  q: '"With the feathers gathered, Quintus laughs."'
+  a: '*Pennīs collēctīs, Quīntus rīdet.* Ablative plural *-īs*.'
+  ref: g-02
+- id: iv40-f-09
+  type: forms
+  q: '"With the cheese bought by Dad, everyone laughs."'
+  a: '*Cāseō ā Patre emptō, omnēs rīdent.* The doer tucks in between.'
+  ref: g-02
+- id: iv40-f-10
+  type: forms
+  q: '*Avō dormiente, līberī cāseum edunt.*'
+  a: '"While Grandpa sleeps, the kids eat the cheese." Present participle: same time; ablative in *-e*.'
+  ref: g-03
+- id: iv40-f-11
+  type: forms
+  q: '*Avō dormiente, līberī cāseum ēdērunt.*'
+  a: '"While Grandpa was sleeping, the kids ate the cheese." The participle borrows the main verb''s clock.'
+  ref: g-03
+- id: iv40-f-12
+  type: forms
+  q: '"While the children play, Grandpa sleeps."'
+  a: '*Līberīs lūdentibus, Avus dormit.*'
+  ref: g-03
+- id: iv40-f-13
+  type: forms
+  q: Law of the Untied Pair
+  a: Noun + participle, both ablative, agreeing, loose from the main sentence. Perfect = before; present = same time (ablative *-e*).
+  ref: g-03
+- id: iv40-f-14
+  type: forms
+  q: '*Cāseō ēsō, Avus trīstis est.*'
+  a: '"Because the cheese has been eaten, Grandpa is sad."'
+  ref: g-04
+- id: iv40-f-15
+  type: forms
+  q: '*Iānuā clausā, canis tamen intrāvit.*'
+  a: '"Although the door was shut, the dog got in anyway." *Tamen* flags "although."'
+  ref: g-04
+- id: iv40-f-16
+  type: forms
+  q: '*Cāseō emptō, Pater domum vēnit.* (good English)'
+  a: '"Having bought the cheese, Dad came home." Latin''s way round the missing "having ___ed" participle.'
+  ref: g-04
+- id: iv40-f-17
+  type: forms
+  q: Many Englishes, absolute edition
+  a: 'When/after or while · because/since · although · with · having ___ed (literal: "the cheese having been eaten").'
+  ref: g-04
+- id: iv40-f-18
+  type: forms
+  q: '*Pater cāseum emptum portat* vs *Cāseō emptō, Pater domum venit*'
+  a: 'First: the cheese is the object, so *emptum* agrees (accusative). Second: the cheese has no job in the main sentence, so ablative absolute.'
+  ref: g-05
+- id: iv40-f-19
+  type: forms
+  q: '*Avō laudātō, Avia rīdet.* OK?'
+  a: 'Yes: "When Grandpa is praised, Grandma laughs." Different people. (*Avō laudātō, Avus rīdet* is not: say *Avus laudātus rīdet*.)'
+  ref: g-05
+- id: iv40-f-20
+  type: forms
+  q: Law of the Unshared Noun
+  a: The noun of an ablative absolute has no other job in the sentence. If it has one, the participle agrees with it in that case instead.
+  ref: g-05
+- id: iv40-f-21
+  type: forms
+  q: 'Join: *Canis lātrat. Avus dormīre nōn potest.*'
+  a: '*Cane lātrante, Avus dormīre nōn potest.* "With the dog barking, Grandpa can''t sleep."'
+  ref: g-06
+- id: iv40-f-22
+  type: forms
+  q: 'Join: *Quīntus ab Avō captus est. Omnēs rīsērunt.*'
+  a: '*Quīntō ab Avō captō, omnēs rīsērunt.* "When Quintus was caught by Grandpa, everybody laughed."'
+  ref: g-06
+- id: iv40-f-23
+  type: forms
+  q: 'Join: *Pater cāseum ēmit. Pater cāseum domum portāvit.*'
+  a: '*Pater cāseum emptum domum portāvit.* The cheese is the object, so no ablative absolute.'
+  ref: g-06
+- id: iv40-f-24
+  type: forms
+  q: '*Cicerōne cōnsule*'
+  a: '"When Cicero was consul," "in Cicero''s consulship." No participle: *sum* has none.'
+  ref: g-07
+- id: iv40-f-25
+  type: forms
+  q: '*Avō invītō, līberī cāseum edunt.*'
+  a: '"Against Grandpa''s will, the kids eat the cheese." Noun + adjective.'
+  ref: g-07
+- id: iv40-f-26
+  type: forms
+  q: '*Caesare duce*'
+  a: '"With Caesar as leader," "under Caesar''s command."'
+  ref: g-07
+- id: iv40-f-27
+  type: forms
+  q: Law of the Missing "Being"
+  a: '*Sum* has no present participle, so two nouns or a noun + adjective in the ablative make an ablative absolute: *Cicerōne cōnsule, mē puerō, Avō invītō*.'
+  ref: g-07
+- id: iv40-f-28
+  type: forms
+  q: How did Romans name a year?
+  a: 'By its two consuls, in an ablative absolute: *Cicerōne et Antōniō cōnsulibus* (63 BC).'
+  ref: g-08
+- id: iv40-f-29
+  type: forms
+  q: '*nōn Caesare et Bibulō, sed Iūliō et Caesare cōnsulibus*'
+  a: '"Not in the consulship of Caesar and Bibulus, but of Julius and Caesar": one man counted twice (Suetonius, *Julius* 20).'
+  ref: g-08
+- id: iv40-f-30
+  type: forms
+  q: '*cōnsule Plancō*'
+  a: '"When Plancus was consul" (42 BC): Horace dating his youth (*Odes* 3.14.28).'
+  ref: g-08
+- id: iv40-f-31
+  type: forms
+  q: '*Hīs rēbus cognitīs Caesar Gallōrum animōs verbīs cōnfirmāvit.*'
+  a: '"On learning this, Caesar strengthened the Gauls'' spirits with words." (*Gallic War* 1.33.1)'
+  ref: g-09
+- id: iv40-f-32
+  type: forms
+  q: '*Bellō Helvētiōrum cōnfectō*'
+  a: '"When the war with the Helvetians was finished" (Caesar, *Gallic War* 1.30.1).'
+  ref: g-09
+- id: iv40-f-33
+  type: forms
+  q: '*Ancō rēgnante Lucumō … Rōmam commigrāvit.*'
+  a: '"While Ancus was reigning, Lucumo moved to Rome" (Livy 1.34.1). Present participle: same time.'
+  ref: g-09
+- id: iv40-f-34
+  type: forms
+  q: '*Vespere autem factō*'
+  a: '"When evening had come" (*factō* from *fīō … factus*). Matthew uses it four times.'
+  ref: g-10
+- id: iv40-f-35
+  type: forms
+  q: '*Et edentibus illīs, dīxit*'
+  a: '"And while they were eating, he said" (Matthew 26:21). Pronoun + present participle.'
+  ref: g-10
+- id: iv40-f-36
+  type: forms
+  q: '*Venit Iēsus iānuīs clausīs*'
+  a: '"Jesus came, though the doors were shut" (John 20:26).'
+  ref: g-10
+- id: iv40-f-37
+  type: forms
+  q: '*Deō volente*'
+  a: '"God willing": "God (being) willing." A later phrase (D.V.).'
+  ref: g-11
+- id: iv40-f-38
+  type: forms
+  q: '*Cēterīs paribus*'
+  a: '"Other things being equal." No participle: the Missing "Being."'
+  ref: g-11
+- id: iv40-f-39
+  type: forms
+  q: '*Ab urbe conditā*: ablative absolute?'
+  a: 'No: *ab* ties the ablative. "From the city founded" = from the founding of the city (Livy''s title).'
+  ref: g-11
+- id: iv40-f-40
+  type: forms
+  q: '*Cum Patre cantante* vs *Patre cantante*'
+  a: '*Cum Patre cantante*: "with Dad, as he sings" (company). *Patre cantante*: "while Dad sings" (loose). A preposition means it''s not absolute.'
+  ref: g-12
+- id: iv40-c-urbe
+  type: choose
+  q: '"With the city captured, the soldiers shout":'
+  options:
+  - Urbe captā, mīlitēs clāmant.
+  - Urbs capta, mīlitēs clāmant.
+  - Urbem captam, mīlitēs clāmant.
+  a: Urbe captā, mīlitēs clāmant.
+  why: The loose pair goes in the ablative.
+  ref: g-12
+- id: iv40-c-cantante
+  type: choose
+  q: '"While Dad sings":'
+  options:
+  - Patre cantante
+  - Patre cantantī
+  - Pater cantāns
+  a: Patre cantante
+  why: 'In an ablative absolute the participle is working: ablative in *-e*.'
+  ref: g-12
+- id: iv40-c-having
+  type: choose
+  q: '"Having bought the cheese, Dad came home":'
+  options:
+  - Cāseō emptō, Pater domum vēnit.
+  - Pater, cāseum emptus, domum vēnit.
+  - Cāseō emptō, Pater eum domum vēnit.
+  a: Cāseō emptō, Pater domum vēnit.
+  why: Put the thing in the ablative with the passive participle; *Pater emptus* would be "Dad, bought."
+  ref: g-12
+- id: iv40-c-portat
+  type: choose
+  q: 'Better Latin for "Dad carries the bought cheese":'
+  options:
+  - Pater cāseum emptum portat.
+  - Cāseō emptō, Pater eum portat.
+  - Cāseō emptō, Pater cāseum portat.
+  a: Pater cāseum emptum portat.
+  why: 'The cheese has a job (object), so the participle agrees with it: the Unshared Noun.'
+  ref: g-05
+- id: iv40-c-puero
+  type: choose
+  q: '"When I was a boy":'
+  options:
+  - mē puerō
+  - ego puer
+  - mē puerum
+  a: mē puerō
+  why: 'No participle needed: both words ablative (the Missing "Being").'
+  ref: g-07
+- id: iv40-c-absolute
+  type: choose
+  q: Which is an ablative absolute?
+  options:
+  - Hīs rēbus cognitīs
+  - ab urbe conditā
+  - cum Patre cantante
+  a: Hīs rēbus cognitīs
+  why: The other two have prepositions (*ab, cum*), so they are tied, not loose.
+  ref: g-11
+- id: iv40-e-capsa
+  type: error
+  q: 'Fix: *Capsa apertā, canis cāseum invēnit.*'
+  a: '*Capsā apertā, canis cāseum invēnit.* Both words ablative.'
+  ref: g-13
+- id: iv40-e-eso
+  type: error
+  q: 'Fix: *Cāseō ēsus, Avus dormīvit.*'
+  a: '*Cāseō ēsō, Avus dormīvit.* The participle agrees with *cāseō*.'
+  ref: g-13
+- id: iv40-e-ludentibus
+  type: error
+  q: 'Fix: *Līberīs lūdentēs, Avus dormit.*'
+  a: '*Līberīs lūdentibus, Avus dormit.* Ablative plural *-ibus*.'
+  ref: g-13
+- id: iv40-e-avia
+  type: error
+  q: 'Fix: *Avia absente, cēnāmus.*'
+  a: '*Aviā absente, cēnāmus.* The noun must be ablative too.'
+  ref: g-13
