@@ -1,0 +1,364 @@
+book: iv
+ch: 39
+page: liber-iv/03-laudaturus.md
+cards:
+- id: iv39-v-laudaturus
+  type: vocab
+  la: laudātūrus, laudātūra, laudātūrum
+  en: about to praise, going to praise (from the fourth key *laudātum*; declined like *magnus*)
+  ref: g-02
+- id: iv39-v-urus
+  type: vocab
+  la: -ūrus, -ūra, -ūrum
+  en: future active participle ending, added to the fourth key minus *-um* (*ēsum → ēsūrus*, *ventum → ventūrus*)
+  ref: g-02
+- id: iv39-v-laudaturus-sum
+  type: vocab
+  la: laudātūrus sum
+  en: 'I am about to praise, I''m going to praise (*laudātūrus eram*: I was going to praise)'
+  ref: g-06
+- id: iv39-v-futurus
+  type: vocab
+  la: futūrus, futūra, futūrum
+  en: 'about to be, future (from *sum*); *futūrum*: the future'
+  ref: g-03
+- id: iv39-v-esurio
+  type: vocab
+  la: ēsuriō, ēsurīre
+  en: be hungry (short *u*; from *ēsum*, "want to eat")
+  ref: g-10
+- id: iv39-v-custodio
+  type: vocab
+  la: custōdiō, custōdīre, custōdīvī, custōdītum
+  en: guard, keep watch over
+  ref: g-14
+- id: iv39-v-custos
+  type: vocab
+  la: custōs, custōdis
+  en: m./f., guard, keeper
+  ref: g-14
+- id: iv39-v-iudico
+  type: vocab
+  la: iūdicō, iūdicāre, iūdicāvī, iūdicātum
+  en: judge
+  ref: g-11
+- id: iv39-v-saluto
+  type: vocab
+  la: salūtō, salūtāre, salūtāvī, salūtātum
+  en: greet, salute
+  ref: g-10
+- id: iv39-v-vivus
+  type: vocab
+  la: vīvus, vīva, vīvum
+  en: living, alive
+  ref: g-11
+- id: iv39-v-mortuus
+  type: vocab
+  la: mortuus, mortua, mortuum
+  en: dead
+  ref: g-11
+- id: iv39-v-saeculum
+  type: vocab
+  la: saeculum, saeculī
+  en: n., age, generation, world
+  ref: g-10
+- id: iv39-v-inde
+  type: vocab
+  la: inde
+  en: from there, from then
+  ref: g-11
+- id: iv39-v-trado
+  type: vocab
+  la: trādō, trādere, trādidī, trāditum
+  en: hand over, betray
+  ref: g-07
+- id: iv39-v-term-fap
+  type: vocab
+  la: future active participle
+  en: 'the "about-to" verb-adjective (*laudātūrus*): active, after the main verb (old-school "future participle")'
+  ref: g-01
+- id: iv39-v-term-periphrastic
+  type: vocab
+  la: active periphrastic
+  en: 'future participle + *sum*: "am about to, am going to" (old-school "first periphrastic conjugation")'
+  ref: g-06
+- id: iv39-f-laudaturus-meaning
+  type: forms
+  q: '*Avus laudātūrus rīdet.*'
+  a: '"Grandpa laughs, about to praise (someone)." The praising comes after the laugh.'
+  ref: g-01
+- id: iv39-f-why-future-active
+  type: forms
+  q: Why "future" and "active" participle?
+  a: '"Future": the deed is still ahead of the main verb. "Active": the noun does it, like *laudāns*.'
+  ref: g-01
+- id: iv39-f-esurus-sum
+  type: forms
+  q: '*Cāseum ēsūrus sum!*'
+  a: '"I''m about to eat the cheese!" / "I''m going to eat the cheese!"'
+  ref: g-01
+- id: iv39-f-make
+  type: forms
+  q: How do you make *laudātūrus*?
+  a: 'Fourth key *laudātum*, drop *-um*, add *-ūrus*: *laudātūrus*.'
+  ref: g-02
+- id: iv39-f-esurus
+  type: forms
+  q: Future participle of *edō* (*ēsum*)
+  a: '*ēsūrus*, "about to eat." A *-sum* key works like a *-tum* key.'
+  ref: g-02
+- id: iv39-f-venturus
+  type: forms
+  q: Future participles of *veniō* and *dīcō*
+  a: '*ventūrus, dictūrus* (from *ventum, dictum*).'
+  ref: g-02
+- id: iv39-f-families
+  type: forms
+  q: Future participles of *habeō, audiō, capiō, faciō*
+  a: '*habitūrus, audītūrus, captūrus, factūrus*. The fourth key decides, not the family.'
+  ref: g-02
+- id: iv39-f-law-urus
+  type: forms
+  q: Law of *-ūrus*
+  a: Fourth key minus *-um*, plus *-ūrus, -ūra, -ūrum*. The *ū* is always long and stressed.
+  ref: g-02
+- id: iv39-f-futurus
+  type: forms
+  q: '*futūrus*'
+  a: 'Future participle of *sum*: "about to be." *Futūrum*: "the future" (English *future*).'
+  ref: g-03
+- id: iv39-f-horace
+  type: forms
+  q: '*Quid sit futūrum crās*'
+  a: '"What is going to be tomorrow": *futūrum* agrees with *quid* (Horace, *Odes* 1.9.13).'
+  ref: g-03
+- id: iv39-f-iturus
+  type: forms
+  q: Future participles of *eō* and *ferō*
+  a: '*itūrus* (from *itum*), *lātūrus* (from *lātum*). Compounds: *abitūrus, exitūrus*.'
+  ref: g-03
+- id: iv39-f-possum
+  type: forms
+  q: Future participle of *possum*?
+  a: 'None: no fourth key (same for *volō, nōlō*). Use the plain future: *poterō*.'
+  ref: g-03
+- id: iv39-f-canem
+  type: forms
+  q: '"I see the dog about to eat the cheese."'
+  a: '*Canem cāseum ēsūrum videō.* *Ēsūrum* agrees with *canem*; *cāseum* is its object.'
+  ref: g-04
+- id: iv39-f-vox
+  type: forms
+  q: '"The voice of Dad about to sing"'
+  a: '*Vōx Patris cantātūrī.* Genitive *-ī*, like *magnī*.'
+  ref: g-04
+- id: iv39-f-liberi
+  type: forms
+  q: '"The children about to play" / "I see the children about to play."'
+  a: '*Līberī lūsūrī. Līberōs lūsūrōs videō.* (*lūdō … lūsum*)'
+  ref: g-04
+- id: iv39-f-veniebat
+  type: forms
+  q: '*Pater cantātūrus veniēbat.*'
+  a: '"Dad was coming, about to sing." The singing is after the main verb, whatever its tense.'
+  ref: g-05
+- id: iv39-f-three-edo
+  type: forms
+  q: The three participles of *edō*
+  a: '*ēsus* (eaten: passive, before) · *edēns* (eating: active, same time) · *ēsūrus* (about to eat: active, after).'
+  ref: g-05
+- id: iv39-f-no-having
+  type: forms
+  q: Is there a Latin participle for "having eaten"?
+  a: 'Not for ordinary verbs. Latin has three: perfect passive, present active, future active.'
+  ref: g-05
+- id: iv39-f-law-three
+  type: forms
+  q: Law of the Three Times
+  a: '*laudātus*: passive, before (like *magnus*) · *laudāns*: active, same time (like *ingēns*) · *laudātūrus*: active, after (like *magnus*).'
+  ref: g-05
+- id: iv39-f-chant
+  type: forms
+  q: '"About to eat," all six persons'
+  a: '*ēsūrus sum, ēsūrus es, ēsūrus est, ēsūrī sumus, ēsūrī estis, ēsūrī sunt.*'
+  ref: g-06
+- id: iv39-f-cantatura
+  type: forms
+  q: 'Mom: "I''m about to sing." The girls: "We''re about to sing."'
+  a: '*Cantātūra sum. Cantātūrae sumus.*'
+  ref: g-06
+- id: iv39-f-quid-facturus
+  type: forms
+  q: '"What are you going to do?" / "What are y''all going to do?"'
+  a: '*Quid factūrus es? Quid factūrī estis?*'
+  ref: g-06
+- id: iv39-f-casurus
+  type: forms
+  q: '"The cheese is about to fall!"'
+  a: '*Cāseus cāsūrus est!* (*cadō … cāsum*)'
+  ref: g-06
+- id: iv39-f-eram
+  type: forms
+  q: '*Cāseum ēsūrus eram, sed canis eum ēdit.*'
+  a: '"I was going to eat the cheese, but the dog ate it." A plan interrupted.'
+  ref: g-07
+- id: iv39-f-caesar
+  type: forms
+  q: '*frūmentum omne, praeter quod sēcum portātūrī erant, combūrunt* (Caesar, *Gallic War* 1.5.3)'
+  a: '"They burn all the grain except what they were going to carry with them."'
+  ref: g-07
+- id: iv39-f-judas
+  type: forms
+  q: '*Iūdās Scariōtis, quī erat eum trāditūrus* (John 12:4)'
+  a: '"Judas Iscariot, who was going to betray him."'
+  ref: g-07
+- id: iv39-f-law-long
+  type: forms
+  q: Law of the Long Way Round
+  a: 'Active periphrastic = future participle + *sum*: *laudātūrus sum* (I''m about to praise), *eram* (I was going to), *erō* (rare). The participle agrees with the subject.'
+  ref: g-07
+- id: iv39-f-edam
+  type: forms
+  q: '*Edam* vs *ēsūrus sum*'
+  a: '*Edam*: plain future, "I will eat." *Ēsūrus sum*: "I''m about to / going to / intend to eat."'
+  ref: g-08
+- id: iv39-f-laudatus-sum
+  type: forms
+  q: '*Laudātus sum* vs *laudātūrus sum*'
+  a: '*Laudātus sum*: "I have been praised" (passive, done). *Laudātūrus sum*: "I''m about to praise" (active, ahead).'
+  ref: g-08
+- id: iv39-f-purpose
+  type: forms
+  q: '*Avus in culīnam vēnit cāseum ēsūrus.*'
+  a: '"Grandpa came into the kitchen to eat the cheese." With verbs of motion, *-ūrus* often shows purpose.'
+  ref: g-09
+- id: iv39-f-matt3
+  type: forms
+  q: '*Quī autem post mē ventūrus est, fortior mē est.* (Matthew 3:11)'
+  a: '"But the one who is coming after me is stronger than I."'
+  ref: g-09
+- id: iv39-f-matt11
+  type: forms
+  q: '*Tū es quī ventūrus es, an alium exspectāmus?* (Matthew 11:3)'
+  a: '"Are you the one who is to come, or are we waiting for another?"'
+  ref: g-09
+- id: iv39-f-englishes
+  type: forms
+  q: Four Englishes for *ēsūrus*
+  a: '"about to eat" · "going to eat" · "intending to eat" · "to eat" (after a verb of motion).'
+  ref: g-09
+- id: iv39-f-morituri
+  type: forms
+  q: '*Avē, imperātor, moritūrī tē salūtant!* (Suetonius, *Claudius* 21.6)'
+  a: '"Hail, emperor! Those about to die salute you!" *Moritūrī*: participle as people, subject of *salūtant*.'
+  ref: g-10
+- id: iv39-f-aut-non
+  type: forms
+  q: Claudius's answer *Aut nōn!*
+  a: '"Or not!": or not (about to die). The fighters took it as a pardon.'
+  ref: g-10
+- id: iv39-f-saeculi
+  type: forms
+  q: '*vītam ventūrī saeculī* (Nicene Creed)'
+  a: '"the life of the world to come": *ventūrī* agrees with *saeculī*.'
+  ref: g-10
+- id: iv39-f-creed
+  type: forms
+  q: '*inde ventūrus est iūdicāre vīvōs et mortuōs* (Apostles'' Creed)'
+  a: '"from there he will come to judge the living and the dead."'
+  ref: g-11
+- id: iv39-f-emissurus
+  type: forms
+  q: '*Quīn et ēmissūrus Fūcinum lacum naumachiam ante commīsit.*'
+  a: '"What''s more, when he was about to drain the Fucine Lake, he first staged a sea battle."'
+  ref: g-11
+- id: iv39-f-moriture
+  type: forms
+  q: '*moriture Dellī* (Horace, *Odes* 2.3.4)'
+  a: 'Vocative: "Dellius, you who are going to die."'
+  ref: g-11
+- id: iv39-f-esus-esurus
+  type: forms
+  q: '*Cāseus ēsus est* vs *Avus ēsūrus est*'
+  a: '"The cheese has been eaten" (passive, done) vs "Grandpa is about to eat" (active, ahead).'
+  ref: g-12
+- id: iv39-c-avia
+  type: choose
+  q: '"Grandma is about to sing": *Avia ___ est.*'
+  options:
+  - cantātūra
+  - cantātūrus
+  - cantāns
+  a: cantātūra
+  why: 'It agrees with *Avia*: feminine *-a*.'
+  ref: g-12
+- id: iv39-c-esuri
+  type: choose
+  q: '"We''re going to eat": *___ sumus.*'
+  options:
+  - ēsūrī
+  - ēsūrus
+  - ēsī
+  a: ēsūrī
+  why: Plural, to agree with "we"; *ēsī* would be "eaten."
+  ref: g-06
+- id: iv39-c-venturus
+  type: choose
+  q: 'Future participle of *veniō*:'
+  options:
+  - ventūrus
+  - venītūrus
+  - veniēns
+  a: ventūrus
+  why: Built on the fourth key *ventum*, not on *venīre*.
+  ref: g-02
+- id: iv39-c-cheese
+  type: choose
+  q: '*Cāseus ēsūrus est.*'
+  options:
+  - The cheese is about to eat.
+  - The cheese is about to be eaten.
+  - The cheese has been eaten.
+  a: The cheese is about to eat.
+  why: '*-ūrus* is active: the cheese would do the eating.'
+  ref: g-12
+- id: iv39-c-eram
+  type: choose
+  q: '"I was going to eat the cheese":'
+  options:
+  - Cāseum ēsūrus eram.
+  - Cāseum edēns eram.
+  - Cāseum ēsus eram.
+  a: Cāseum ēsūrus eram.
+  why: Future participle + *eram* = "was going to." The present participle doesn't build tenses.
+  ref: g-07
+- id: iv39-c-facturus
+  type: choose
+  q: '"What are you going to do? (What''s your plan?)"'
+  options:
+  - Quid factūrus es?
+  - Quid factus es?
+  - Quid faciēns es?
+  a: Quid factūrus es?
+  why: 'Active periphrastic: future participle + *sum*.'
+  ref: g-06
+- id: iv39-e-mater
+  type: error
+  q: 'Fix: *Māter cantātūrus est.*'
+  a: '*Māter cantātūra est.* Feminine, to agree with *Māter*.'
+  ref: g-13
+- id: iv39-e-esurus
+  type: error
+  q: 'Fix: *Ēsūrus sumus.*'
+  a: '*Ēsūrī sumus.* Plural, to agree with "we."'
+  ref: g-13
+- id: iv39-e-venit
+  type: error
+  q: 'Fix: *quī venītūrus est*'
+  a: '*quī ventūrus est.* Fourth key *ventum* + *-ūrus*.'
+  ref: g-13
+- id: iv39-e-lusuri
+  type: error
+  q: 'Fix: *Puellās lūsūrī videō.*'
+  a: '*Puellās lūsūrās videō.* Accusative feminine plural.'
+  ref: g-13
