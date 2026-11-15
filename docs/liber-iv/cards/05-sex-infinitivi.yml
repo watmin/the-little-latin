@@ -1,0 +1,364 @@
+book: iv
+ch: 41
+page: liber-iv/05-sex-infinitivi.md
+cards:
+- id: iv41-v-perf-act
+  type: vocab
+  la: laudāvisse
+  en: 'to have praised (perfect active infinitive: perfect stem + *-isse*)'
+  ref: g-03
+- id: iv41-v-perf-pass
+  type: vocab
+  la: laudātus esse
+  en: 'to have been praised (perfect passive infinitive: participle + *esse*; the participle agrees)'
+  ref: g-04
+- id: iv41-v-fut-act
+  type: vocab
+  la: laudātūrus esse
+  en: 'to be about to praise (future active infinitive: *-ūrus* + *esse*; agrees)'
+  ref: g-05
+- id: iv41-v-fut-pass
+  type: vocab
+  la: laudātum īrī
+  en: to be about to be praised (future passive infinitive; rare; never changes)
+  ref: g-06
+- id: iv41-v-fore
+  type: vocab
+  la: fore
+  en: = *futūrus esse*, to be about to be, to be going to be (never changes)
+  ref: g-05
+- id: iv41-v-fertur
+  type: vocab
+  la: fertur
+  en: 'is said, the story goes; + infinitive: *Avus cāseum ēdisse fertur*, Grandpa is said to have eaten the cheese'
+  ref: g-09
+- id: iv41-v-dicitur
+  type: vocab
+  la: dīcitur
+  en: 'is said; + infinitive: *Canis fūr esse dīcitur*, the dog is said to be a thief'
+  ref: g-09
+- id: iv41-v-erro
+  type: vocab
+  la: errō, errāre, errāvī, errātum
+  en: make a mistake, err; wander
+  ref: g-10
+- id: iv41-v-humanus
+  type: vocab
+  la: hūmānus, hūmāna, hūmānum
+  en: human; *Errāre hūmānum est*, to err is human
+  ref: g-10
+- id: iv41-v-colo
+  type: vocab
+  la: colō, colere, coluī, cultum
+  en: tend, cherish, worship
+  ref: g-09
+- id: iv41-v-vicinus
+  type: vocab
+  la: vīcīnus, vīcīnī
+  en: m., neighbor
+  ref: g-14
+- id: iv41-v-fama
+  type: vocab
+  la: fāma, fāmae
+  en: f., rumor, report, reputation; *Fāma volat*, rumor flies
+  ref: g-09
+- id: iv41-v-esse-quam-videri
+  type: vocab
+  la: esse quam vidērī
+  en: to be rather than to seem (after Sallust)
+  ref: g-11
+- id: iv41-v-term-perf-act
+  type: vocab
+  la: perfect active infinitive
+  en: 'the "to have ___ed" form: *laudāvisse*'
+  ref: g-03
+- id: iv41-v-term-perf-pass
+  type: vocab
+  la: perfect passive infinitive
+  en: 'the "to have been ___ed" form: *laudātus esse*'
+  ref: g-04
+- id: iv41-v-term-fut-act
+  type: vocab
+  la: future active infinitive
+  en: 'the "to be about to" form: *laudātūrus esse*'
+  ref: g-05
+- id: iv41-f-01
+  type: forms
+  q: What is an infinitive, and why the name?
+  a: 'The "to" form of a verb, from *īnfīnītus*, "unlimited": no person, no number.'
+  ref: g-01
+- id: iv41-f-02
+  type: forms
+  q: Why *sex* infinitives?
+  a: Three times (present, perfect, future) × two voices (active, passive).
+  ref: g-01
+- id: iv41-f-03
+  type: forms
+  q: 'Present active and passive: *habēre*, *audīre*, *legere*, *capere*'
+  a: '*habērī, audīrī, legī, capī*.'
+  ref: g-02
+- id: iv41-f-04
+  type: forms
+  q: Which of *esse, posse, velle, ferre* has a passive infinitive?
+  a: 'Only *ferre*: *ferrī*, "to be carried."'
+  ref: g-02
+- id: iv41-f-05
+  type: forms
+  q: How do you make the perfect active infinitive?
+  a: 'Third key minus *-ī*, plus *-isse*: *laudāvī → laudāvisse*, "to have praised."'
+  ref: g-03
+- id: iv41-f-06
+  type: forms
+  q: 'Perfect infinitive: *habuī, lēgī, audīvī, cēpī, ēdī*'
+  a: '*habuisse, lēgisse, audīvisse, cēpisse, ēdisse*.'
+  ref: g-03
+- id: iv41-f-07
+  type: forms
+  q: 'Perfect infinitive: *fuī, tulī, dedī, potuī*'
+  a: '*fuisse, tulisse, dedisse, potuisse*.'
+  ref: g-03
+- id: iv41-f-08
+  type: forms
+  q: '"To have gone" (*eō*)'
+  a: '*iisse*, usually *īsse*.'
+  ref: g-03
+- id: iv41-f-09
+  type: forms
+  q: '*amāsse, audīsse*'
+  a: Short for *amāvisse, audīvisse* (recognize only).
+  ref: g-03
+- id: iv41-f-10
+  type: forms
+  q: How do you make the perfect passive infinitive?
+  a: 'Participle + *esse*: *laudātus esse*, "to have been praised." The participle agrees.'
+  ref: g-04
+- id: iv41-f-11
+  type: forms
+  q: '*Laudātus est* vs *laudātus esse*'
+  a: '*Laudātus est*: "he has been praised" (a sentence). *Laudātus esse*: "to have been praised" (needs a main verb).'
+  ref: g-04
+- id: iv41-f-12
+  type: forms
+  q: '"The box seems to have been opened"'
+  a: '*Capsa aperta esse vidētur.* Feminine, agreeing with *capsa*.'
+  ref: g-04
+- id: iv41-f-13
+  type: forms
+  q: How do you make the future active infinitive?
+  a: '*-ūrus* participle + *esse*: *laudātūrus esse*, "to be about to praise." It agrees.'
+  ref: g-05
+- id: iv41-f-14
+  type: forms
+  q: '*fore*'
+  a: = *futūrus esse*, "to be going to be." Never changes.
+  ref: g-05
+- id: iv41-f-15
+  type: forms
+  q: Future infinitive of *possum*?
+  a: 'None: *possum* has no future participle.'
+  ref: g-05
+- id: iv41-f-16
+  type: forms
+  q: '*laudātum īrī*'
+  a: '"To be about to be praised": the rare future passive infinitive. *Laudātum* never changes; *īrī* is the passive infinitive of *eō*.'
+  ref: g-06
+- id: iv41-f-17
+  type: forms
+  q: Law of the Six
+  a: Present *laudāre / laudārī* · perfect *laudāvisse / laudātus esse* · future *laudātūrus esse / laudātum īrī*.
+  ref: g-06
+- id: iv41-f-18
+  type: forms
+  q: '*Avus dormīre vidētur.*'
+  a: '"Grandpa seems to be sleeping." Present: same time as the main verb.'
+  ref: g-07
+- id: iv41-f-19
+  type: forms
+  q: '*Avus dormīvisse vidētur.*'
+  a: '"Grandpa seems to have slept." Perfect: before the main verb.'
+  ref: g-07
+- id: iv41-f-20
+  type: forms
+  q: '*Avus dormītūrus esse vidētur.*'
+  a: '"Grandpa seems about to sleep." Future: after the main verb.'
+  ref: g-07
+- id: iv41-f-21
+  type: forms
+  q: '*Avus dormīvisse vidēbātur.*'
+  a: '"Grandpa seemed to have slept." Still before the (now past) main verb.'
+  ref: g-07
+- id: iv41-f-22
+  type: forms
+  q: Law of the Borrowed Clock
+  a: 'An infinitive''s time is relative to the main verb: present = same time, perfect = before, future = after.'
+  ref: g-07
+- id: iv41-f-23
+  type: forms
+  q: '*Vidēris fessus esse.*'
+  a: '"You seem to be tired." *Fessus* agrees with the subject; *esse* is often left out.'
+  ref: g-08
+- id: iv41-f-24
+  type: forms
+  q: '"Grandma seems about to sing."'
+  a: '*Avia cantātūra esse vidētur.*'
+  ref: g-08
+- id: iv41-f-25
+  type: forms
+  q: '*Avus mihi dormīre vidētur.*'
+  a: '"Grandpa seems to me to be sleeping": I think Grandpa is asleep.'
+  ref: g-08
+- id: iv41-f-26
+  type: forms
+  q: '"I seem to have seen the cheese."'
+  a: '*Cāseum vīdisse videor.*'
+  ref: g-08
+- id: iv41-f-27
+  type: forms
+  q: '*Avus cāseum ēdisse fertur.*'
+  a: '"Grandpa is said to have eaten the cheese."'
+  ref: g-09
+- id: iv41-f-28
+  type: forms
+  q: '*Canis fūr esse dīcitur.*'
+  a: '"The dog is said to be a thief." *Fūr* nominative: it describes the subject.'
+  ref: g-09
+- id: iv41-f-29
+  type: forms
+  q: '"The kids are said to have eaten the cheese."'
+  a: '*Līberī cāseum ēdisse dīcuntur.*'
+  ref: g-09
+- id: iv41-f-30
+  type: forms
+  q: '*quam Iūnō fertur terrīs magis omnibus ūnam / posthabitā coluisse Samō*'
+  a: '"which (Carthage) Juno is said to have cherished alone, more than all lands, with Samos ranked second" (Vergil, *Aeneid* 1.15–16).'
+  ref: g-09
+- id: iv41-f-31
+  type: forms
+  q: '*narrātur et prīscī Catōnis / saepe merō caluisse virtūs*'
+  a: '"Even old Cato''s virtue is said often to have grown warm with wine" (Horace, *Odes* 3.21.11–12).'
+  ref: g-09
+- id: iv41-f-32
+  type: forms
+  q: Law of the Said and the Seen
+  a: With *vidētur, dīcitur, fertur*, the person is the nominative subject + an infinitive; participle pieces and describing words agree with that subject.
+  ref: g-09
+- id: iv41-f-33
+  type: forms
+  q: '*Errāre hūmānum est.*'
+  a: '"To err is human." The infinitive is the subject, a neuter noun, so *hūmānum* is neuter.'
+  ref: g-10
+- id: iv41-f-34
+  type: forms
+  q: '*Cuiusvīs hominis est errāre, nūllīus nisi īnsipientis in errōre persevērāre.*'
+  a: '"To err is (the way) of any human; to persist in error, of no one but a fool" (Cicero, *Philippics* 12.5).'
+  ref: g-10
+- id: iv41-f-35
+  type: forms
+  q: '*Forsan et haec ōlim meminisse iuvābit.* What is *meminisse*?'
+  a: A perfect-looking infinitive meaning "to remember" (Chapter 46), and the subject of *iuvābit*.
+  ref: g-10
+- id: iv41-f-36
+  type: forms
+  q: '*esse quam vidērī bonus mālēbat*'
+  a: '"He preferred to be good rather than to seem good" (Sallust, *Catiline* 54.6, on Cato).'
+  ref: g-11
+- id: iv41-f-37
+  type: forms
+  q: Which infinitive do *possum, volō, mālō* almost always take?
+  a: 'The present: *Possum legere · Volō laudārī.*'
+  ref: g-11
+- id: iv41-f-38
+  type: forms
+  q: '*laudāvisse · laudāvistī · laudāvistis*'
+  a: '"To have praised" · "you praised" · "y''all praised."'
+  ref: g-12
+- id: iv41-f-39
+  type: forms
+  q: '*legī · lēgī · lēgisse*'
+  a: '"To be read" · "I read" · "to have read."'
+  ref: g-12
+- id: iv41-f-40
+  type: forms
+  q: '*esse · ēdisse*'
+  a: '"To be" · "to have eaten" (*ēdī* + *-isse*).'
+  ref: g-12
+- id: iv41-c-six
+  type: choose
+  q: 'Perfect active infinitive of *laudō*:'
+  options:
+  - laudāvisse
+  - laudāvesse
+  - laudātus esse
+  a: laudāvisse
+  why: Perfect stem *laudāv-* + *-isse*; *laudātus esse* is the passive.
+  ref: g-03
+- id: iv41-c-esus
+  type: choose
+  q: '"The cheese seems to have been eaten":'
+  options:
+  - Cāseus ēsus esse vidētur.
+  - Cāseus ēsum esse vidētur.
+  - Cāseus edī vidētur.
+  a: Cāseus ēsus esse vidētur.
+  why: The participle agrees with the subject *cāseus*.
+  ref: g-08
+- id: iv41-c-clock
+  type: choose
+  q: '*Avus cantātūrus esse vidētur*: the singing is…'
+  options:
+  - after the seeming
+  - before the seeming
+  - at the same time
+  a: after the seeming
+  why: Future infinitive = after the main verb.
+  ref: g-07
+- id: iv41-c-fur
+  type: choose
+  q: '"The dog is said to be a thief":'
+  options:
+  - Canis fūr esse dīcitur.
+  - Canis fūrem esse dīcitur.
+  - Canem fūr esse dīcitur.
+  a: Canis fūr esse dīcitur.
+  why: Subject and its describing noun are both nominative.
+  ref: g-09
+- id: iv41-c-edisse
+  type: choose
+  q: '"Grandpa is said to have eaten the cheese":'
+  options:
+  - Avus cāseum ēdisse dīcitur.
+  - Avus cāseum edere dīcitur.
+  - Avus cāseum ēsus esse dīcitur.
+  a: Avus cāseum ēdisse dīcitur.
+  why: '"To have eaten" (before) is the perfect active *ēdisse*.'
+  ref: g-09
+- id: iv41-c-fore
+  type: choose
+  q: 'Short form of *futūrus esse*:'
+  options:
+  - fore
+  - esse
+  - fuisse
+  a: fore
+  why: '*Fore* = "to be going to be"; *fuisse* is "to have been."'
+  ref: g-05
+- id: iv41-e-laudavisse
+  type: error
+  q: 'Fix: *laudāvesse* (to have praised)'
+  a: '*laudāvisse.* The ending is *-isse*.'
+  ref: g-13
+- id: iv41-e-cantatura
+  type: error
+  q: 'Fix: *Avia cantātūrus esse vidētur.*'
+  a: '*Avia cantātūra esse vidētur.* Feminine, to agree with *Avia*.'
+  ref: g-13
+- id: iv41-e-legisse
+  type: error
+  q: 'Fix: *legisse* (to have read)'
+  a: '*lēgisse.* The perfect''s long *ē* stays.'
+  ref: g-13
+- id: iv41-e-dicuntur
+  type: error
+  q: 'Fix: *Līberī cāseum ēdisse dīcitur.*'
+  a: '*Līberī cāseum ēdisse dīcuntur.* Plural subject, plural verb.'
+  ref: g-09

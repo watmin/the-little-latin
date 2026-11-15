@@ -17,7 +17,7 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 | 38 | [**Laudāns**](02-laudans.md) | G: present active participle (3rd decl adj declension). | ✅ available |
 | 39 | [**Laudātūrus**](03-laudaturus.md) | G: future active participle; active periphrastic. S: I am about to… | ✅ available |
 | 40 | [**Urbe Captā**](04-urbe-capta.md) | G: ablative absolute. | ✅ available |
-| 41 | **Sex Īnfīnītīvī** | G: all six infinitives (pres/perf/fut × act/pass). | coming |
+| 41 | [**Sex Īnfīnītīvī**](05-sex-infinitivi.md) | G: all six infinitives (pres/perf/fut × act/pass). | ✅ available |
 | 42 | **Dīcit Sē Venīre** | G: indirect statement, acc. + inf., tense relations, sē. S: report what someone said; putō + inf. opinions. | coming |
 | 43 | **Loquor** | G: deponent & semi-deponent verbs; their participles & imperatives; ablative with ūtor etc. | coming |
 | 44 | **Mihi Placet** | G: dative with special verbs, compounds, adjectives; impersonals (licet, placet, oportet); dative of reference/purpose. | coming |
