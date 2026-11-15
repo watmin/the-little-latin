@@ -1,0 +1,364 @@
+book: iv
+ch: 42
+page: liber-iv/06-dicit-se-venire.md
+cards:
+- id: iv42-v-se-venire
+  type: vocab
+  la: Dīcit sē venīre.
+  en: He says that he (himself) is coming (*sē* = the speaker).
+  ref: g-07
+- id: iv42-v-eum-venire
+  type: vocab
+  la: Dīcit eum venīre.
+  en: He says that he (someone else) is coming.
+  ref: g-07
+- id: iv42-v-se-venturum
+  type: vocab
+  la: sē ventūrum esse
+  en: 'that he will come (the future piece agrees with *sē*: *ventūram, ventūrōs*)'
+  ref: g-08
+- id: iv42-v-puto
+  type: vocab
+  la: putō, putāre, putāvī, putātum
+  en: 'think, suppose; + acc. + inf.: *Putō Avum dormīre*, I think Grandpa is sleeping'
+  ref: g-10
+- id: iv42-v-credo
+  type: vocab
+  la: crēdō, crēdere, crēdidī, crēditum
+  en: 'believe; + acc. + inf.: *Crēdō Avum innocentem esse*, I believe Grandpa is innocent'
+  ref: g-04
+- id: iv42-v-nego
+  type: vocab
+  la: negō, negāre, negāvī, negātum
+  en: 'say … not, deny: *Negat sē cāseum ēdisse*, he says he didn''t eat the cheese'
+  ref: g-09
+- id: iv42-v-spero
+  type: vocab
+  la: spērō, spērāre, spērāvī, spērātum
+  en: 'hope; + acc. + future inf.: *Spērō Mātrem ventūram esse*, I hope Mom will come'
+  ref: g-08
+- id: iv42-v-sentio
+  type: vocab
+  la: sentiō, sentīre, sēnsī, sēnsum
+  en: feel, sense, realize
+  ref: g-04
+- id: iv42-v-nuntio
+  type: vocab
+  la: nūntiō, nūntiāre, nūntiāvī, nūntiātum
+  en: announce, report, send word
+  ref: g-04
+- id: iv42-v-nugae
+  type: vocab
+  la: nūgae, nūgārum
+  en: f. pl., trifles, nonsense
+  ref: g-10
+- id: iv42-v-verus
+  type: vocab
+  la: vērus, vēra, vērum
+  en: true; *vērum dīcere*, to tell the truth
+  ref: g-14
+- id: iv42-v-falsus
+  type: vocab
+  la: falsus, falsa, falsum
+  en: false, wrong; *Falsum!* Wrong!
+  ref: g-14
+- id: iv42-v-quid-putas
+  type: vocab
+  la: Quid putās?
+  en: What do you think?
+  ref: g-10
+- id: iv42-v-term-indirect
+  type: vocab
+  la: indirect statement
+  en: 'reported speech: what someone says, thinks, or knows, retold without quotation marks (*ōrātiō oblīqua*)'
+  ref: g-01
+- id: iv42-v-term-acc-inf
+  type: vocab
+  la: accusative and infinitive
+  en: 'the reported-speech pattern: subject in the accusative, verb in the infinitive: *Dīcit Avum dormīre*'
+  ref: g-02
+- id: iv42-v-term-verbs
+  type: vocab
+  la: verbs of saying and thinking
+  en: 'the verbs that open reported speech: *dīcō, nūntiō, negō, putō, crēdō, spērō, sciō, audiō, videō, sentiō*'
+  ref: g-04
+- id: iv42-f-01
+  type: forms
+  q: What is a direct statement?
+  a: 'The exact words, in quotation marks (direct speech; *ōrātiō rēcta*): *Marcus dīcit: "Avus dormit."*'
+  ref: g-01
+- id: iv42-f-02
+  type: forms
+  q: What is an indirect statement?
+  a: 'Reported speech: the words retold in yours, without quotes (*ōrātiō oblīqua*): *Marcus dīcit Avum dormīre.*'
+  ref: g-01
+- id: iv42-f-03
+  type: forms
+  q: '*"Avus dormit."* Report it after *Marcus dīcit…*'
+  a: '*Marcus dīcit Avum dormīre.* Subject → accusative, verb → infinitive.'
+  ref: g-01
+- id: iv42-f-04
+  type: forms
+  q: The Latin word for "that" in reported speech?
+  a: 'There isn''t one: the accusative and infinitive do the job.'
+  ref: g-01
+- id: iv42-f-05
+  type: forms
+  q: '"They say that Grandpa ate the cheese."'
+  a: '*Dīcunt Avum cāseum ēdisse.* (Compare *Avus cāseum ēdisse dīcitur.*)'
+  ref: g-01
+- id: iv42-f-06
+  type: forms
+  q: '*"Canis lātrat."* Report it after *Marcus dīcit…*'
+  a: '*Marcus dīcit canem lātrāre.*'
+  ref: g-02
+- id: iv42-f-07
+  type: forms
+  q: '*"Avus cāseum edit."* Report it after *Cornēlia dīcit…*'
+  a: '*Cornēlia dīcit Avum cāseum edere.* Two accusatives: the eater usually comes first.'
+  ref: g-02
+- id: iv42-f-08
+  type: forms
+  q: '*"Līberī lūdunt."* Report it after *Avia dīcit…*'
+  a: '*Avia dīcit līberōs lūdere.*'
+  ref: g-02
+- id: iv42-f-09
+  type: forms
+  q: The Law of the Reported Word?
+  a: No word for "that"; the reported subject goes into the accusative; the reported verb becomes an infinitive.
+  ref: g-02
+- id: iv42-f-10
+  type: forms
+  q: '"Marcus says that I''m sleeping."'
+  a: '*Marcus dīcit mē dormīre.*'
+  ref: g-03
+- id: iv42-f-11
+  type: forms
+  q: '"Marcus says that y''all are playing."'
+  a: '*Marcus dīcit vōs lūdere.*'
+  ref: g-03
+- id: iv42-f-12
+  type: forms
+  q: '"I tell you that the dog is hungry."'
+  a: '*Tibi dīcō canem ēsurīre.* Listener dative, reported subject accusative.'
+  ref: g-03
+- id: iv42-f-13
+  type: forms
+  q: Four kinds of verbs that open reported speech?
+  a: Saying (*dīcō, nūntiō, negō*), thinking (*putō, crēdō, spērō*), knowing (*sciō*), perceiving (*audiō, videō, sentiō*).
+  ref: g-04
+- id: iv42-f-14
+  type: forms
+  q: '*Sciō tē cāseum ēdisse.*'
+  a: '"I know that you ate the cheese."'
+  ref: g-04
+- id: iv42-f-15
+  type: forms
+  q: '*Canem lātrantem audiō* vs *Canem lātrāre audiō*'
+  a: '"I hear the dog barking" (the sound) vs "I hear that the dog is barking" (the fact).'
+  ref: g-04
+- id: iv42-f-16
+  type: forms
+  q: '*Marcus dīcit Avum dormīvisse.*'
+  a: '"Marcus says that Grandpa slept." Perfect = before the saying.'
+  ref: g-05
+- id: iv42-f-17
+  type: forms
+  q: '*Marcus dīcit Avum dormītūrum esse.*'
+  a: '"Marcus says that Grandpa will sleep." Future = after; *-um* agrees with *Avum*.'
+  ref: g-05
+- id: iv42-f-18
+  type: forms
+  q: '*Marcus dīxit Avum dormīre.*'
+  a: '"Marcus said that Grandpa was sleeping." Same time as the past saying.'
+  ref: g-05
+- id: iv42-f-19
+  type: forms
+  q: '*Marcus dīxit Avum dormīvisse · dormītūrum esse.*'
+  a: '"…that Grandpa had slept" · "…that Grandpa would sleep."'
+  ref: g-05
+- id: iv42-f-20
+  type: forms
+  q: The Law of the Borrowed Clock, reported edition?
+  a: Present = same time, perfect = before, future = after, compared with the verb of saying (*dīcit* or *dīxit*).
+  ref: g-05
+- id: iv42-f-21
+  type: forms
+  q: '*"Avus fessus est."* Report it after *Avia dīcit…*'
+  a: '*Avia dīcit Avum fessum esse.* The describing word goes accusative too.'
+  ref: g-06
+- id: iv42-f-22
+  type: forms
+  q: '"They say that the cheese has been eaten."'
+  a: '*Dīcunt cāseum ēsum esse.* The participle agrees with *cāseum*.'
+  ref: g-06
+- id: iv42-f-23
+  type: forms
+  q: '"Marcus says that Grandma will sing."'
+  a: '*Marcus dīcit Aviam cantātūram esse.*'
+  ref: g-06
+- id: iv42-f-24
+  type: forms
+  q: '"I think dinner will be good." (with *fore*)'
+  a: '*Putō cēnam bonam fore.*'
+  ref: g-06
+- id: iv42-f-25
+  type: forms
+  q: '*"Ēsuriō!"* (Marcus) Report it: "Marcus says that he is hungry."'
+  a: '*Marcus dīcit sē ēsurīre.* *Sē* = the speaker.'
+  ref: g-07
+- id: iv42-f-26
+  type: forms
+  q: '*Marcus dīcit eum ēsurīre.*'
+  a: '"Marcus says that he (someone else) is hungry."'
+  ref: g-07
+- id: iv42-f-27
+  type: forms
+  q: '*"Fessa sum."* (Cornelia) Report it.'
+  a: '*Cornēlia dīcit sē fessam esse.*'
+  ref: g-07
+- id: iv42-f-28
+  type: forms
+  q: '*"Cāseus meus est."* (Grandpa) Report it.'
+  a: '*Avus dīcit cāseum suum esse.*'
+  ref: g-07
+- id: iv42-f-29
+  type: forms
+  q: The Law of the Speaker's *Sē*?
+  a: In reported speech *sē/suus* point back to the one saying or thinking; *eum/eius* point to someone else.
+  ref: g-07
+- id: iv42-f-30
+  type: forms
+  q: '"He says that he came." "He says that he will come."'
+  a: '*Dīcit sē vēnisse.* *Dīcit sē ventūrum esse.*'
+  ref: g-08
+- id: iv42-f-31
+  type: forms
+  q: '*"Veniam."* (Grandma) · *"Veniēmus."* (the kids) Report them.'
+  a: '*Avia dīcit sē ventūram esse · Līberī dīcunt sē ventūrōs esse.*'
+  ref: g-08
+- id: iv42-f-32
+  type: forms
+  q: '"I hope that Mom will come with the cheese."'
+  a: '*Spērō Mātrem cum cāseō ventūram esse.*'
+  ref: g-08
+- id: iv42-f-33
+  type: forms
+  q: '*"Cāseum nōn ēdī!"* (Grandpa) Report it the Roman way.'
+  a: '*Avus negat sē cāseum ēdisse.*'
+  ref: g-09
+- id: iv42-f-34
+  type: forms
+  q: '"Grandpa said that he wouldn''t eat the cheese."'
+  a: '*Avus negāvit sē cāseum ēsūrum esse.*'
+  ref: g-09
+- id: iv42-f-35
+  type: forms
+  q: '*Dīxit īnsipiēns in corde suō: "Nōn est Deus."* (Psalm 14:1) Report it with *negō*.'
+  a: '*Īnsipiēns negat Deum esse.* "The fool says that there is no God."'
+  ref: g-09
+- id: iv42-f-36
+  type: forms
+  q: '*Avus mihi fūr esse vidētur* → with *putō*'
+  a: '*Putō Avum fūrem esse.* Nominative with *vidētur*, accusative with *putō*.'
+  ref: g-10
+- id: iv42-f-37
+  type: forms
+  q: '*Homō sum: hūmānī nīl ā mē aliēnum putō.* (Terence)'
+  a: '"I am a human being: I think nothing human is foreign to me." *Nīl* accusative subject; *esse* left out.'
+  ref: g-10
+- id: iv42-f-38
+  type: forms
+  q: '*namque tū solēbās / meās esse aliquid putāre nūgās* (Catullus 1)'
+  a: '"For you used to think that my trifles were something."'
+  ref: g-10
+- id: iv42-f-39
+  type: forms
+  q: '*Nūllī sē dīcit mulier mea nūbere mālle / quam mihi.* (Catullus 70)'
+  a: '"My woman says that she would rather marry no one than me."'
+  ref: g-11
+- id: iv42-f-40
+  type: forms
+  q: '*Vōs autem quem mē esse dīcitis?* (Matthew 16:15)'
+  a: '"But y''all, who do y''all say that I am?" *Mē* is the accusative subject.'
+  ref: g-11
+- id: iv42-c-se
+  type: choose
+  q: '"Marcus says that he (Marcus) is hungry":'
+  options:
+  - Marcus dīcit sē ēsurīre.
+  - Marcus dīcit eum ēsurīre.
+  - Marcus dīcit sē ēsurit.
+  a: Marcus dīcit sē ēsurīre.
+  why: '*Sē* points back to the speaker; the reported verb is an infinitive.'
+  ref: g-07
+- id: iv42-c-acc
+  type: choose
+  q: '"He says that the dog is barking":'
+  options:
+  - Dīcit canem lātrāre.
+  - Dīcit canis lātrāre.
+  - Dīcit canem lātrat.
+  a: Dīcit canem lātrāre.
+  why: Reported subject accusative, verb infinitive.
+  ref: g-02
+- id: iv42-c-clock
+  type: choose
+  q: '*Marcus dīxit Avum dormīvisse* means:'
+  options:
+  - Marcus said that Grandpa had slept.
+  - Marcus said that Grandpa was sleeping.
+  - Marcus says that Grandpa will sleep.
+  a: Marcus said that Grandpa had slept.
+  why: Perfect infinitive = before the (past) saying.
+  ref: g-05
+- id: iv42-c-ventura
+  type: choose
+  q: '"Grandma says that she (Grandma herself) will come":'
+  options:
+  - Avia dīcit sē ventūram esse.
+  - Avia dīcit sē ventūrum esse.
+  - Avia dīcit eam ventūram esse.
+  a: Avia dīcit sē ventūram esse.
+  why: '*Sē* = Grandma, so feminine *ventūram*; *eam* would be someone else.'
+  ref: g-08
+- id: iv42-c-esum
+  type: choose
+  q: '"I think the cheese has been eaten":'
+  options:
+  - Putō cāseum ēsum esse.
+  - Putō cāseus ēsus esse.
+  - Putō cāseum ēsus esse.
+  a: Putō cāseum ēsum esse.
+  why: Accusative subject, and the participle agrees with it.
+  ref: g-06
+- id: iv42-c-nego
+  type: choose
+  q: '"Grandpa says he didn''t eat the cheese" (the Roman way):'
+  options:
+  - Avus negat sē cāseum ēdisse.
+  - Avus negat eum cāseum ēdit.
+  - Avus dīcit quod cāseum nōn ēdit.
+  a: Avus negat sē cāseum ēdisse.
+  why: '*Negō* carries the "not"; no *quod* for "that."'
+  ref: g-09
+- id: iv42-e-canem
+  type: error
+  q: 'Fix: *Dīcit canis ēsurīre.* (He says the dog is hungry.)'
+  a: '*Dīcit canem ēsurīre.* The reported subject is accusative.'
+  ref: g-13
+- id: iv42-e-se
+  type: error
+  q: 'Fix: *Marcus dīcit eum venīre.* (Marcus says he himself is coming.)'
+  a: '*Marcus dīcit sē venīre.* It points back to the speaker.'
+  ref: g-13
+- id: iv42-e-cantaturam
+  type: error
+  q: 'Fix: *Avia dīcit sē cantātūrum esse.*'
+  a: '*Avia dīcit sē cantātūram esse.* *Sē* is Grandma: feminine.'
+  ref: g-13
+- id: iv42-e-quod
+  type: error
+  q: 'Fix: *Dīcit quod cāseus ēsus est.*'
+  a: '*Dīcit cāseum ēsum esse.* No *quod*; accusative + infinitive.'
+  ref: g-13
