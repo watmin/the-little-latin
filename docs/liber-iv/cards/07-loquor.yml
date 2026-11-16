@@ -1,0 +1,364 @@
+book: iv
+ch: 43
+page: liber-iv/07-loquor.md
+cards:
+- id: iv43-v-latine-loquor
+  type: vocab
+  la: Latīnē loquor.
+  en: I speak Latin (passive look, active meaning).
+  ref: g-01
+- id: iv43-v-sequere-me
+  type: vocab
+  la: Sequere mē!
+  en: 'Follow me! (to y''all: *Sequiminī mē!*)'
+  ref: g-08
+- id: iv43-v-utor-latina
+  type: vocab
+  la: Ūtor Latīnā.
+  en: I use Latin (*ūtor* + ablative).
+  ref: g-11
+- id: iv43-v-loquor
+  type: vocab
+  la: loquor, loquī, locūtus sum
+  en: speak, talk
+  ref: g-03
+- id: iv43-v-sequor
+  type: vocab
+  la: sequor, sequī, secūtus sum
+  en: follow
+  ref: g-03
+- id: iv43-v-hortor
+  type: vocab
+  la: hortor, hortārī, hortātus sum
+  en: urge, encourage
+  ref: g-02
+- id: iv43-v-vereor
+  type: vocab
+  la: vereor, verērī, veritus sum
+  en: fear, be wary of
+  ref: g-02
+- id: iv43-v-patior
+  type: vocab
+  la: patior, patī, passus sum
+  en: suffer, put up with, allow
+  ref: g-02
+- id: iv43-v-mentior
+  type: vocab
+  la: mentior, mentīrī, mentītus sum
+  en: lie, tell a lie
+  ref: g-02
+- id: iv43-v-morior
+  type: vocab
+  la: morior, morī, mortuus sum
+  en: die (future participle *moritūrus*)
+  ref: g-05
+- id: iv43-v-nascor
+  type: vocab
+  la: nāscor, nāscī, nātus sum
+  en: be born
+  ref: g-09
+- id: iv43-v-arbitror
+  type: vocab
+  la: arbitror, arbitrārī, arbitrātus sum
+  en: think, judge; + acc. + inf.
+  ref: g-05
+- id: iv43-v-polliceor
+  type: vocab
+  la: polliceor, pollicērī, pollicitus sum
+  en: promise; + acc. + future inf.
+  ref: g-05
+- id: iv43-v-utor
+  type: vocab
+  la: ūtor, ūtī, ūsus sum
+  en: use (+ abl.)
+  ref: g-11
+- id: iv43-v-fruor
+  type: vocab
+  la: fruor, fruī, frūctus sum
+  en: enjoy (+ abl.)
+  ref: g-11
+- id: iv43-v-vescor
+  type: vocab
+  la: vescor, vescī
+  en: feed on, eat (+ abl.; no third key)
+  ref: g-11
+- id: iv43-v-audeo
+  type: vocab
+  la: audeō, audēre, ausus sum
+  en: dare (half-deponent)
+  ref: g-10
+- id: iv43-v-gaudeo
+  type: vocab
+  la: gaudeō, gaudēre, gāvīsus sum
+  en: be glad, rejoice (half-deponent)
+  ref: g-10
+- id: iv43-v-soleo
+  type: vocab
+  la: soleō, solēre, solitus sum
+  en: usually do, be used to (half-deponent)
+  ref: g-10
+- id: iv43-v-deponent
+  type: vocab
+  la: deponent
+  en: 'a verb that looks passive but means active: *loquor*, I speak'
+  ref: g-01
+- id: iv43-v-semi-deponent
+  type: vocab
+  la: semi-deponent
+  en: 'a half-deponent: active in the present system, passive-looking but active in the perfect: *audeō, ausus sum*'
+  ref: g-10
+- id: iv43-f-01
+  type: forms
+  q: What is a deponent verb?
+  a: 'A verb that looks passive but means active (from *dēpōnō*, "lay aside"): *loquor*, I speak.'
+  ref: g-01
+- id: iv43-f-02
+  type: forms
+  q: How can you tell a deponent in the dictionary?
+  a: 'Its first key ends in *-or*: *loquor*, not *loquō*.'
+  ref: g-01
+- id: iv43-f-03
+  type: forms
+  q: '*Videor* vs *loquor*: which is deponent?'
+  a: '*Loquor*. *Videor* is the real passive of *videō*; *loquor* has no active partner.'
+  ref: g-01
+- id: iv43-f-04
+  type: forms
+  q: Chant *hortor* in the present.
+  a: '*Hortor, hortāris, hortātur, hortāmur, hortāminī, hortantur.*'
+  ref: g-02
+- id: iv43-f-05
+  type: forms
+  q: Chant *loquor* in the present.
+  a: '*Loquor, loqueris, loquitur, loquimur, loquiminī, loquuntur.*'
+  ref: g-02
+- id: iv43-f-06
+  type: forms
+  q: '*Avus mentītur. Canis Avum sequitur.*'
+  a: Grandpa is lying. The dog follows Grandpa.
+  ref: g-02
+- id: iv43-f-07
+  type: forms
+  q: The Law of the Laid-Aside Voice?
+  a: 'A deponent has passive endings and active meaning; its first key ends in *-or*; translate it active.'
+  ref: g-02
+- id: iv43-f-08
+  type: forms
+  q: Why does a deponent have only three keys?
+  a: 'It has no active perfect. *Loquor, loquī, locūtus sum*: the third key is the two-piece perfect.'
+  ref: g-03
+- id: iv43-f-09
+  type: forms
+  q: '*Hortātus sum* means?'
+  a: I urged, I have urged (not "I was urged").
+  ref: g-03
+- id: iv43-f-10
+  type: forms
+  q: '"Grandma spoke."'
+  a: '*Avia locūta est.*'
+  ref: g-03
+- id: iv43-f-11
+  type: forms
+  q: '"The kids followed the dog."'
+  a: '*Līberī canem secūtī sunt.*'
+  ref: g-03
+- id: iv43-f-12
+  type: forms
+  q: '"Grandpa was talking."'
+  a: '*Avus loquēbātur.*'
+  ref: g-04
+- id: iv43-f-13
+  type: forms
+  q: '*Loqueris · loquēris*'
+  a: You speak · you will speak.
+  ref: g-04
+- id: iv43-f-14
+  type: forms
+  q: '*Rem tenē, verba sequentur.*'
+  a: 'Hold on to the matter; the words will follow. (*Sequentur*: future of *sequor*.) Cato the Elder.'
+  ref: g-04
+- id: iv43-f-15
+  type: forms
+  q: '*Dum loquimur, fūgerit invida aetās.*'
+  a: 'While we talk, envious time will have fled. (Horace, *Odes* 1.11.7–8, just before *carpe diem*.)'
+  ref: g-04
+- id: iv43-f-16
+  type: forms
+  q: Why is it *prō patriā morī*, with *-ī*?
+  a: '*Morior* is deponent, so its infinitive wears the passive *-ī*: *morī*, to die.'
+  ref: g-05
+- id: iv43-f-17
+  type: forms
+  q: '"I want to speak." "Don''t lie!"'
+  a: '*Loquī volō. Nōlī mentīrī!*'
+  ref: g-05
+- id: iv43-f-18
+  type: forms
+  q: The three infinitives of *loquor*?
+  a: '*Loquī* to speak · *locūtus esse* to have spoken · *locūtūrus esse* to be going to speak. All active.'
+  ref: g-05
+- id: iv43-f-19
+  type: forms
+  q: '*Avus pollicētur sē nōn mentītūrum esse.*'
+  a: Grandpa promises that he won't lie.
+  ref: g-05
+- id: iv43-f-20
+  type: forms
+  q: '*Locūtus* means?'
+  a: 'Having spoken. Active: a deponent''s perfect participle means "having …ed."'
+  ref: g-06
+- id: iv43-f-21
+  type: forms
+  q: The three participles of *sequor*?
+  a: '*Sequēns* following · *secūtus* having followed · *secūtūrus* going to follow.'
+  ref: g-06
+- id: iv43-f-22
+  type: forms
+  q: The Law of the Having-Done?
+  a: 'A deponent''s participles are all active; its perfect participle means "having …ed" (*secūtus*, having followed).'
+  ref: g-06
+- id: iv43-f-23
+  type: forms
+  q: '*Ō passī graviōra, dabit deus hīs quoque fīnem.*'
+  a: O you who have suffered worse, a god will grant an end to these too. (Vergil, *Aeneid* 1.199)
+  ref: g-06
+- id: iv43-f-24
+  type: forms
+  q: '*Avō loquente, canis dormit.*'
+  a: While Grandpa talks, the dog sleeps.
+  ref: g-07
+- id: iv43-f-25
+  type: forms
+  q: '*Sōle oriente · Sōle ortō*'
+  a: As the sun rises · when the sun had risen (at sunrise). *Ortō* = having risen.
+  ref: g-07
+- id: iv43-f-26
+  type: forms
+  q: '*Illī autem profectī praedicāvērunt ubīque, Dominō cooperante.*'
+  a: But they set out and preached everywhere, with the Lord working with them. (Mark 16:20)
+  ref: g-07
+- id: iv43-f-27
+  type: forms
+  q: '"Speak!" to one, then to y''all.'
+  a: '*Loquere! Loquiminī!*'
+  ref: g-08
+- id: iv43-f-28
+  type: forms
+  q: '*Loquere* or *loquī*: which is "to speak"?'
+  a: '*Loquī*. *Loquere!* is a command: "Speak!"'
+  ref: g-08
+- id: iv43-f-29
+  type: forms
+  q: '*Sequere mē. Et surgēns secūtus est eum.*'
+  a: '"Follow me." And getting up, he followed him. (Matthew 9:9)'
+  ref: g-08
+- id: iv43-f-30
+  type: forms
+  q: '"I was born in this city."'
+  a: '*In hāc urbe nātus sum* (a woman: *nāta sum*).'
+  ref: g-09
+- id: iv43-f-31
+  type: forms
+  q: '*Nōn omnis moriar.*'
+  a: I shall not wholly die. (Horace, *Odes* 3.30.6)
+  ref: g-09
+- id: iv43-f-32
+  type: forms
+  q: What is a semi-deponent?
+  a: 'A half-deponent: active in the present system, passive-looking but active in the perfect: *audeō, ausus sum*.'
+  ref: g-10
+- id: iv43-f-33
+  type: forms
+  q: '"Dad dared to sing."'
+  a: '*Pater cantāre ausus est.*'
+  ref: g-10
+- id: iv43-f-34
+  type: forms
+  q: '"Grandpa usually sleeps after dinner."'
+  a: '*Avus post cēnam dormīre solet.*'
+  ref: g-10
+- id: iv43-f-35
+  type: forms
+  q: The Law of the Five Ablative Verbs?
+  a: '*Ūtor, fruor, fungor, potior, vescor* take the ablative: *Ūtor Latīnā.*'
+  ref: g-11
+- id: iv43-f-36
+  type: forms
+  q: '"Enjoy the cheese!" to one, then to y''all.'
+  a: '*Fruere cāseō! Fruiminī cāseō!*'
+  ref: g-11
+- id: iv43-f-37
+  type: forms
+  q: '*Quō usque tandem abūtēre, Catilīna, patientiā nostrā?*'
+  a: How long, tell me, will you abuse our patience, Catiline? (Cicero, *Against Catiline* 1.1)
+  ref: g-11
+- id: iv43-c-locutus
+  type: choose
+  q: '*Avia locūta est* means:'
+  options:
+  - Grandma spoke.
+  - Grandma was spoken.
+  - Grandma will speak.
+  a: Grandma spoke.
+  why: 'Deponent perfect: passive look, active meaning.'
+  ref: g-03
+- id: iv43-c-utor
+  type: choose
+  q: '"I use the cheese":'
+  options:
+  - Cāseō ūtor.
+  - Cāseum ūtor.
+  - Cāseō ūtō.
+  a: Cāseō ūtor.
+  why: '*Ūtor* is deponent and takes the ablative.'
+  ref: g-11
+- id: iv43-c-loquere
+  type: choose
+  q: '"Speak, Grandpa!":'
+  options:
+  - Loquere, Ave!
+  - Loquī, Ave!
+  - Loquiminī, Ave!
+  a: Loquere, Ave!
+  why: '*Loquere* = command to one; *loquī* = to speak; *loquiminī* = to y''all.'
+  ref: g-08
+- id: iv43-c-ausus
+  type: choose
+  q: '"I dared":'
+  options:
+  - Ausus sum.
+  - Audīvī.
+  - Audēvī.
+  a: Ausus sum.
+  why: '*Audeō* is a half-deponent; *audīvī* is "I heard."'
+  ref: g-10
+- id: iv43-c-secutus
+  type: choose
+  q: '*Canis, cāseum secūtus, in culīnā mānsit* means:'
+  options:
+  - The dog, having followed the cheese, stayed in the kitchen.
+  - The dog, having been followed by the cheese, stayed in the kitchen.
+  - The dog, about to follow the cheese, stayed in the kitchen.
+  a: The dog, having followed the cheese, stayed in the kitchen.
+  why: A deponent's perfect participle is active.
+  ref: g-06
+- id: iv43-e-01
+  type: error
+  q: 'Fix: *Avus loquit.* (Grandpa is talking.)'
+  a: '*Avus loquitur.* A deponent has no active endings.'
+  ref: g-13
+- id: iv43-e-02
+  type: error
+  q: 'Fix: *Avia canem secūtus est.*'
+  a: '*Avia canem secūta est.* The participle agrees with Grandma.'
+  ref: g-13
+- id: iv43-e-03
+  type: error
+  q: 'Fix: *Ūtere cāseum!*'
+  a: '*Ūtere cāseō!* *Ūtor* takes the ablative.'
+  ref: g-13
+- id: iv43-e-04
+  type: error
+  q: 'Fix: *Pater cantāre audēvit.*'
+  a: '*Pater cantāre ausus est.*'
+  ref: g-13
