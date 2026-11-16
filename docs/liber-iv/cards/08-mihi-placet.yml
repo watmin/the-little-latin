@@ -1,0 +1,384 @@
+book: iv
+ch: 44
+page: liber-iv/08-mihi-placet.md
+cards:
+- id: iv44-v-mihi-placet
+  type: vocab
+  la: Mihi placet.
+  en: I like it; it pleases me (*Cāseus mihi placet*, I like the cheese).
+  ref: g-02
+- id: iv44-v-licetne-mihi
+  type: vocab
+  la: Licetne mihi?
+  en: 'May I? Am I allowed? (*Licet*: you may. *Nōn licet*: you may not.)'
+  ref: g-08
+- id: iv44-v-hoc-mihi-curae-est
+  type: vocab
+  la: Hoc mihi cūrae est.
+  en: This worries me; I care about this (double dative).
+  ref: g-11
+- id: iv44-v-placeo
+  type: vocab
+  la: placeō, placēre, placuī
+  en: please, be pleasing to (+ dat.)
+  ref: g-02
+- id: iv44-v-pareo
+  type: vocab
+  la: pāreō, pārēre, pāruī
+  en: obey (+ dat.)
+  ref: g-02
+- id: iv44-v-noceo
+  type: vocab
+  la: noceō, nocēre, nocuī
+  en: harm (+ dat.)
+  ref: g-02
+- id: iv44-v-faveo
+  type: vocab
+  la: faveō, favēre, fāvī
+  en: favor, be on someone's side (+ dat.)
+  ref: g-02
+- id: iv44-v-servio
+  type: vocab
+  la: serviō, servīre, servīvī
+  en: serve, be a servant to (+ dat.)
+  ref: g-02
+- id: iv44-v-ignosco
+  type: vocab
+  la: ignōscō, ignōscere, ignōvī
+  en: forgive (+ dat.)
+  ref: g-03
+- id: iv44-v-impero
+  type: vocab
+  la: imperō, imperāre, imperāvī
+  en: command, give orders to (+ dat.)
+  ref: g-03
+- id: iv44-v-persuadeo
+  type: vocab
+  la: persuādeō, persuādēre, persuāsī
+  en: persuade (+ dat.)
+  ref: g-03
+- id: iv44-v-studeo
+  type: vocab
+  la: studeō, studēre, studuī
+  en: be keen on, study (+ dat.)
+  ref: g-03
+- id: iv44-v-parco
+  type: vocab
+  la: parcō, parcere, pepercī
+  en: spare (+ dat.)
+  ref: g-03
+- id: iv44-v-invideo
+  type: vocab
+  la: invideō, invidēre, invīdī
+  en: envy (+ dat.)
+  ref: g-03
+- id: iv44-v-adsum
+  type: vocab
+  la: adsum, adesse, adfuī
+  en: be here, be present; stand by (+ dat.)
+  ref: g-05
+- id: iv44-v-praesum
+  type: vocab
+  la: praesum, praeesse, praefuī
+  en: be in charge of (+ dat.)
+  ref: g-05
+- id: iv44-v-obsto
+  type: vocab
+  la: obstō, obstāre, obstitī
+  en: block, stand in the way of (+ dat.)
+  ref: g-05
+- id: iv44-v-carus
+  type: vocab
+  la: cārus, cāra, cārum
+  en: dear (to) (+ dat.)
+  ref: g-06
+- id: iv44-v-fidelis
+  type: vocab
+  la: fidēlis, fidēle
+  en: faithful (to) (+ dat.)
+  ref: g-06
+- id: iv44-v-gratus
+  type: vocab
+  la: grātus, grāta, grātum
+  en: pleasing, welcome (to) (+ dat.)
+  ref: g-06
+- id: iv44-v-utilis
+  type: vocab
+  la: ūtilis, ūtile
+  en: useful (to) (+ dat.)
+  ref: g-06
+- id: iv44-v-licet
+  type: vocab
+  la: licet, licēre, licuit
+  en: 'it is allowed (+ dat. + inf.): *Licet mihi īre*, I may go'
+  ref: g-08
+- id: iv44-v-oportet
+  type: vocab
+  la: oportet, oportēre, oportuit
+  en: 'it is right, one ought (+ acc. + inf.): *Tē oportet dormīre*, you ought to sleep'
+  ref: g-09
+- id: iv44-v-compound-verb
+  type: vocab
+  la: compound verb
+  en: 'a verb with a preposition glued on front: *ad-sum, prae-sum, ob-stō*; many take the dative'
+  ref: g-05
+- id: iv44-v-impersonal-verb
+  type: vocab
+  la: impersonal verb
+  en: 'an "it" verb, with no person as subject: *placet, licet, oportet*'
+  ref: g-07
+- id: iv44-v-dative-of-reference
+  type: vocab
+  la: dative of reference
+  en: 'the "as far as X is concerned" dative: *Mihi vidētur*, *Lupus est homō hominī*'
+  ref: g-10
+- id: iv44-v-dative-of-purpose
+  type: vocab
+  la: dative of purpose
+  en: 'the "serves as" dative; with a person''s dative, the double dative: *Hoc mihi cūrae est*'
+  ref: g-11
+- id: iv44-f-01
+  type: forms
+  q: 'Chant the pronoun datives: to me, you, him/her, us, y''all, them.'
+  a: '*Mihi, tibi, eī, nōbīs, vōbīs, eīs* (or *iīs*).'
+  ref: g-01
+- id: iv44-f-02
+  type: forms
+  q: '*Nōn potestis Deō servīre et mammōnae.* (Matthew 6:24)'
+  a: Y'all cannot serve God and money. *Servīre* takes the dative.
+  ref: g-01
+- id: iv44-f-03
+  type: forms
+  q: '*Cāseus mihi placet.*'
+  a: 'I like the cheese: the cheese is pleasing to me.'
+  ref: g-02
+- id: iv44-f-04
+  type: forms
+  q: '"Grandpa likes the cheese."'
+  a: '*Cāseus Avō placet.* The one pleased is dative.'
+  ref: g-02
+- id: iv44-f-05
+  type: forms
+  q: '*Canis Aviae pāret.*'
+  a: The dog obeys Grandma (is obedient to Grandma).
+  ref: g-02
+- id: iv44-f-06
+  type: forms
+  q: '*Cāseus canī nocet.*'
+  a: Cheese harms the dog (is harmful to the dog).
+  ref: g-02
+- id: iv44-f-07
+  type: forms
+  q: '*Crēdō tibi* vs *Crēdō tē venīre*'
+  a: I believe you (dative person) · I believe that you're coming (acc. + inf.).
+  ref: g-03
+- id: iv44-f-08
+  type: forms
+  q: '"Forgive me, Grandma!"'
+  a: '*Ignōsce mihi, Avia!*'
+  ref: g-03
+- id: iv44-f-09
+  type: forms
+  q: '*Hortāre eum!* vs "Persuade him!"'
+  a: '*Persuādē eī!* *Hortor* takes the accusative; *persuādeō* the dative.'
+  ref: g-03
+- id: iv44-f-10
+  type: forms
+  q: '"Spare the cheese!"'
+  a: '*Parce cāseō!*'
+  ref: g-03
+- id: iv44-f-11
+  type: forms
+  q: '*Parcere subiectīs et dēbellāre superbōs.* (Vergil, *Aeneid* 6.853)'
+  a: To spare the conquered and to crush the proud in war. *Parcō* + dative; *dēbellō* + accusative.
+  ref: g-04
+- id: iv44-f-12
+  type: forms
+  q: '*Hae tibi erunt artēs.* (*Aeneid* 6.852)'
+  a: 'These will be your arts (skills): dative of possession.'
+  ref: g-04
+- id: iv44-f-13
+  type: forms
+  q: Why is *mihi* dative in *Nūllī sē dīcit mulier mea nūbere mālle quam mihi*?
+  a: '*Nūbō*, marry (said of the bride), takes the dative.'
+  ref: g-04
+- id: iv44-f-14
+  type: forms
+  q: '*Adsum tibi.*'
+  a: I'm here for you; I stand by you.
+  ref: g-05
+- id: iv44-f-15
+  type: forms
+  q: '*Avia culīnae praeest.*'
+  a: Grandma is in charge of the kitchen.
+  ref: g-05
+- id: iv44-f-16
+  type: forms
+  q: '*Prīncipiīs obstā; sērō medicīna parātur.* (Ovid)'
+  a: 'Resist the beginnings: the cure is prepared too late.'
+  ref: g-05
+- id: iv44-f-17
+  type: forms
+  q: '*Avia cāseum mēnsae impōnit.*'
+  a: 'Grandma puts the cheese on the table: accusative = what''s put, dative = what it''s put on.'
+  ref: g-05
+- id: iv44-f-18
+  type: forms
+  q: '*Canis Aviae fidēlis est.*'
+  a: The dog is faithful to Grandma.
+  ref: g-06
+- id: iv44-f-19
+  type: forms
+  q: '"Latin is useful to me."'
+  a: '*Latīna mihi ūtilis est.*'
+  ref: g-06
+- id: iv44-f-20
+  type: forms
+  q: The Law of the Hidden "To"?
+  a: 'When a verb or adjective means "be ___ to" someone, the someone goes in the dative: special verbs, compound verbs, adjectives of "to."'
+  ref: g-06
+- id: iv44-f-21
+  type: forms
+  q: '*Mihi placet ambulāre.*'
+  a: I like to walk (walking is pleasing to me).
+  ref: g-07
+- id: iv44-f-22
+  type: forms
+  q: What is an impersonal verb?
+  a: 'An "it" verb, with no person as its subject: *placet, licet, oportet*.'
+  ref: g-07
+- id: iv44-f-23
+  type: forms
+  q: '*Placetne tibi? Placet. Nōn placet.*'
+  a: Is that all right with you? Yes. No.
+  ref: g-07
+- id: iv44-f-24
+  type: forms
+  q: '*Prīncipibus placuisse virīs nōn ultima laus est.* (Horace)'
+  a: To have pleased leading men is not the least praise.
+  ref: g-07
+- id: iv44-f-25
+  type: forms
+  q: '"May I eat the cheese?" "No, you may not!"'
+  a: '*Licetne mihi cāseum edere? Nōn licet!*'
+  ref: g-08
+- id: iv44-f-26
+  type: forms
+  q: '*Nōn licet tibi habēre eam.* (Matthew 14:4)'
+  a: It is not lawful for you to have her.
+  ref: g-08
+- id: iv44-f-27
+  type: forms
+  q: '"You ought to sleep."'
+  a: '*Tē oportet dormīre.* *Oportet* + accusative + infinitive.'
+  ref: g-09
+- id: iv44-f-28
+  type: forms
+  q: '*Illum oportet crēscere, mē autem minuī.* (John 3:30)'
+  a: He must increase, but I must decrease.
+  ref: g-09
+- id: iv44-f-29
+  type: forms
+  q: The Law of the Empty "It"?
+  a: 'An impersonal verb has no person as subject and is used in the "it" form: *placet* and *licet* + dative, *oportet* + accusative, with an infinitive.'
+  ref: g-09
+- id: iv44-f-30
+  type: forms
+  q: '*Lupus est homō hominī.* (Plautus)'
+  a: 'Man is a wolf to man: dative of reference.'
+  ref: g-10
+- id: iv44-f-31
+  type: forms
+  q: '*Nōn scholae sed vītae discimus.*'
+  a: We learn not for school but for life.
+  ref: g-10
+- id: iv44-f-32
+  type: forms
+  q: '*Stomachus canī dolet.* (like Chapter 14''s *Caput mihi dolet*)'
+  a: 'The dog''s stomach hurts: dative of reference.'
+  ref: g-10
+- id: iv44-f-33
+  type: forms
+  q: '*Canis Aviae auxiliō vēnit.*'
+  a: 'The dog came to help Grandma (as a help to Grandma): double dative.'
+  ref: g-11
+- id: iv44-f-34
+  type: forms
+  q: '*Cui bonō?*'
+  a: 'Who stood to gain? *Cui* (to whom) + *bonō* (as a benefit): two datives.'
+  ref: g-11
+- id: iv44-f-35
+  type: forms
+  q: The Law of the Two Datives?
+  a: A dative can say what something serves as (*cūrae, auxiliō, bonō*), and a second dative says for whom.
+  ref: g-11
+- id: iv44-c-placet
+  type: choose
+  q: '"Grandpa likes the cheese":'
+  options:
+  - Cāseus Avō placet.
+  - Cāseus Avum placet.
+  - Avus cāseō placet.
+  a: Cāseus Avō placet.
+  why: The cheese is the subject; the one pleased is dative.
+  ref: g-02
+- id: iv44-c-oportet
+  type: choose
+  q: '"You ought to sleep":'
+  options:
+  - Tē oportet dormīre.
+  - Tibi oportet dormīre.
+  - Tū oportēs dormīre.
+  a: Tē oportet dormīre.
+  why: '*Oportet* is impersonal and takes the accusative.'
+  ref: g-09
+- id: iv44-c-licet
+  type: choose
+  q: '*Licet mihi īre* means:'
+  options:
+  - I may go.
+  - I ought to go.
+  - I like to go.
+  a: I may go.
+  why: '*Licet*: it is allowed (to me).'
+  ref: g-08
+- id: iv44-c-pareo
+  type: choose
+  q: '"He obeys":'
+  options:
+  - Pāret.
+  - Parat.
+  - Parit.
+  a: Pāret.
+  why: '*Pāreō*, long *ā*; *parat* prepares, *parit* gives birth.'
+  ref: g-12
+- id: iv44-c-curae
+  type: choose
+  q: '*Hoc mihi cūrae est* means:'
+  options:
+  - This worries me.
+  - I take care of this.
+  - This is my cure.
+  a: This worries me.
+  why: 'Double dative: *cūrae* (as a worry) + *mihi* (to me).'
+  ref: g-11
+- id: iv44-e-01
+  type: error
+  q: 'Fix: *Canis Aviam pāret.* (The dog obeys Grandma.)'
+  a: '*Canis Aviae pāret.* *Pāreō* takes the dative.'
+  ref: g-13
+- id: iv44-e-02
+  type: error
+  q: 'Fix: *Tibi oportet dormīre.* (You ought to sleep.)'
+  a: '*Tē oportet dormīre.* *Oportet* takes the accusative.'
+  ref: g-13
+- id: iv44-e-03
+  type: error
+  q: 'Fix: *Persuādē eum!* (Persuade him!)'
+  a: '*Persuādē eī!* *Persuādeō* takes the dative.'
+  ref: g-13
+- id: iv44-e-04
+  type: error
+  q: 'Fix: *Parce canem!* (Spare the dog!)'
+  a: '*Parce canī!* *Parcō* takes the dative.'
+  ref: g-13

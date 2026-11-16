@@ -20,7 +20,7 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 | 41 | [**Sex Īnfīnītīvī**](05-sex-infinitivi.md) | G: all six infinitives (pres/perf/fut × act/pass). | ✅ available |
 | 42 | [**Dīcit Sē Venīre**](06-dicit-se-venire.md) | G: indirect statement, acc. + inf., tense relations, sē. S: report what someone said; putō + inf. opinions. | ✅ available |
 | 43 | [**Loquor**](07-loquor.md) | G: deponent & semi-deponent verbs; their participles & imperatives; ablative with ūtor etc. | ✅ available |
-| 44 | **Mihi Placet** | G: dative with special verbs, compounds, adjectives; impersonals (licet, placet, oportet); dative of reference/purpose. | coming |
+| 44 | [**Mihi Placet**](08-mihi-placet.md) | G: dative with special verbs, compounds, adjectives; impersonals (licet, placet, oportet); dative of reference/purpose. | ✅ available |
 | 45 | **Domī Mīlitiaeque** | G: place & time constructions consolidated; locative; extent of time/space. | coming |
 | 46 | **Meminī, Ōdī, Coepī** | G: defective verbs; inquit; genitive with verbs & adjectives. | coming |
 | 47 | **Nōlī Timēre** | G: negative commands fully; future imperative; prohibition styles. | coming |
