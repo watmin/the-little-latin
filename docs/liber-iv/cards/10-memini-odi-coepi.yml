@@ -1,0 +1,374 @@
+book: iv
+ch: 46
+page: liber-iv/10-memini-odi-coepi.md
+cards:
+- id: iv46-v-meministine
+  type: vocab
+  la: Meministīne?
+  en: Do you remember? (*Meminī*, I remember.)
+  ref: g-02
+- id: iv46-v-inquit-pattern
+  type: vocab
+  la: '"…," inquit, "…"'
+  en: '"…," he says (said), "…": slipped inside the quotation'
+  ref: g-06
+- id: iv46-v-quid-ais
+  type: vocab
+  la: Quid ais?
+  en: What do you say? What?!
+  ref: g-07
+- id: iv46-v-me-pudet
+  type: vocab
+  la: Mē pudet.
+  en: I'm ashamed (it shames me).
+  ref: g-10
+- id: iv46-v-memini
+  type: vocab
+  la: meminī, meminisse
+  en: remember (+ gen. or acc.); perfect forms, present meaning
+  ref: g-02
+- id: iv46-v-odi
+  type: vocab
+  la: ōdī, ōdisse
+  en: hate; perfect forms, present meaning (fut. part. *ōsūrus*)
+  ref: g-03
+- id: iv46-v-nosco
+  type: vocab
+  la: nōscō, nōscere, nōvī, nōtum
+  en: get to know (Chapter 21); *nōvī*, I know
+  ref: g-04
+- id: iv46-v-coepi
+  type: vocab
+  la: coepī, coepisse, coeptum
+  en: began (perfect system only)
+  ref: g-05
+- id: iv46-v-incipio
+  type: vocab
+  la: incipiō, incipere, incēpī, inceptum
+  en: begin
+  ref: g-05
+- id: iv46-v-coepta
+  type: vocab
+  la: coepta, coeptōrum
+  en: undertakings, things begun (n. pl.)
+  ref: g-05
+- id: iv46-v-inquam
+  type: vocab
+  la: inquam, inquis, inquit, inquiunt
+  en: I say, you say, he says (said), they say (inside a quotation)
+  ref: g-06
+- id: iv46-v-aio
+  type: vocab
+  la: aiō, ais, ait, aiunt
+  en: say, say yes
+  ref: g-07
+- id: iv46-v-obliviscor
+  type: vocab
+  la: oblīvīscor, oblīvīscī, oblītus sum
+  en: forget (+ gen. or acc.)
+  ref: g-08
+- id: iv46-v-misereor
+  type: vocab
+  la: misereor, miserērī, miseritus sum
+  en: pity, have mercy on (+ gen.)
+  ref: g-09
+- id: iv46-v-accuso
+  type: vocab
+  la: accūsō, accūsāre, accūsāvī, accūsātum
+  en: accuse (+ acc. of the person, gen. of the charge)
+  ref: g-09
+- id: iv46-v-damno
+  type: vocab
+  la: damnō, damnāre, damnāvī, damnātum
+  en: condemn
+  ref: g-09
+- id: iv46-v-furtum
+  type: vocab
+  la: fūrtum, fūrtī
+  en: theft (n.)
+  ref: g-09
+- id: iv46-v-miseret
+  type: vocab
+  la: miseret
+  en: it moves to pity (*mē tuī miseret*, I pity you)
+  ref: g-10
+- id: iv46-v-paenitet
+  type: vocab
+  la: paenitet
+  en: it causes regret (*mē paenitet*, I'm sorry, I regret)
+  ref: g-10
+- id: iv46-v-pudet
+  type: vocab
+  la: pudet
+  en: it shames (*mē pudet*, I'm ashamed)
+  ref: g-10
+- id: iv46-v-taedet
+  type: vocab
+  la: taedet
+  en: it wearies (*mē taedet*, I'm tired of, sick of)
+  ref: g-10
+- id: iv46-v-cupidus
+  type: vocab
+  la: cupidus, cupida, cupidum
+  en: eager for, greedy for (+ gen.)
+  ref: g-11
+- id: iv46-v-peritus
+  type: vocab
+  la: perītus, perīta, perītum
+  en: skilled in, experienced in (+ gen.)
+  ref: g-11
+- id: iv46-v-memor
+  type: vocab
+  la: memor, memoris
+  en: mindful of, remembering (+ gen.)
+  ref: g-11
+- id: iv46-v-immemor
+  type: vocab
+  la: immemor, immemoris
+  en: forgetful of (+ gen.)
+  ref: g-11
+- id: iv46-v-defective-verb
+  type: vocab
+  la: defective verb
+  en: 'a verb with missing parts: *meminī, ōdī, coepī, inquit, ait*'
+  ref: g-01
+- id: iv46-v-genitive-of-the-charge
+  type: vocab
+  la: genitive of the charge
+  en: 'the "of what crime" genitive: *Avum fūrtī accūsō*'
+  ref: g-09
+- id: iv46-v-impersonal-verb-of-feeling
+  type: vocab
+  la: impersonal verb of feeling
+  en: 'a feeling "it" verb: feeler in the accusative, cause in the genitive: *Mē pudet fūrtī*'
+  ref: g-10
+- id: iv46-f-01
+  type: forms
+  q: '*Ōdī et amō* (Catullus 85). What tense does *ōdī* look like, and what does it mean?'
+  a: 'It looks like a perfect, but it means "I hate," now.'
+  ref: g-01
+- id: iv46-f-02
+  type: forms
+  q: Chant *meminī* through all six persons.
+  a: '*Meminī, meministī, meminit, meminimus, meministis, meminērunt.*'
+  ref: g-02
+- id: iv46-f-03
+  type: forms
+  q: '"Do you remember Grandma''s cheese?" "I remember!"'
+  a: '*Meministīne cāseum Aviae? Meminī!*'
+  ref: g-02
+- id: iv46-f-04
+  type: forms
+  q: '*Memineram* and *meminerō* mean?'
+  a: '"I remembered" and "I will remember." Each form slides one step toward the present.'
+  ref: g-02
+- id: iv46-f-05
+  type: forms
+  q: '*Forsan et haec ōlim meminisse iuvābit.* (Vergil, *Aeneid* 1.203) What is *meminisse*?'
+  a: '"To remember": perfect-infinitive look, present meaning. "Maybe someday it will be a pleasure to remember even these things."'
+  ref: g-02
+- id: iv46-f-06
+  type: forms
+  q: Chant *ōdī* through all six persons.
+  a: '*Ōdī, ōdistī, ōdit, ōdimus, ōdistis, ōdērunt.*'
+  ref: g-03
+- id: iv46-f-07
+  type: forms
+  q: '*nesciō, sed fierī sentiō et excrucior.* (Catullus 85.2)'
+  a: '"I don''t know, but I feel it happening, and I am tortured."'
+  ref: g-03
+- id: iv46-f-08
+  type: forms
+  q: '*Ōdī profānum vulgus et arceō.* (Horace, *Odes* 3.1.1)'
+  a: '"I hate the uninitiated crowd and keep it away." *Ōdī* and *arceō*: two "now" verbs.'
+  ref: g-03
+- id: iv46-f-10
+  type: forms
+  q: '*Nōvī, nōveram, nōverō* mean?'
+  a: '"I know, I knew, I will know." (*Nōvī*: I have gotten to know, so I know.)'
+  ref: g-04
+- id: iv46-f-11
+  type: forms
+  q: '*Sciō* vs *nōvī*?'
+  a: '*Sciō*: know a fact. *Nōvī*: know a person or place, be acquainted with.'
+  ref: g-04
+- id: iv46-f-12
+  type: forms
+  q: '*Quoniam nōvit Dominus viam iūstōrum.* (Psalm 1:6)'
+  a: '"Because the Lord knows the way of the righteous."'
+  ref: g-04
+- id: iv46-f-13
+  type: forms
+  q: '*Nōn nōvī hominem!* (Matthew 26:72)'
+  a: '"I don''t know the man!" Peter''s denial.'
+  ref: g-04
+- id: iv46-f-14
+  type: forms
+  q: The Law of the Perfect That Means Now?
+  a: '*Meminī, ōdī* (and *nōvī*): perfect = now, pluperfect = then, future perfect = later. *Meminī* I remember, *memineram* I remembered, *meminerō* I will remember.'
+  ref: g-04
+- id: iv46-f-15
+  type: forms
+  q: '"We began to walk." "I''m beginning to sing."'
+  a: '*Ambulāre coepimus. Cantāre incipiō.*'
+  ref: g-05
+- id: iv46-f-16
+  type: forms
+  q: '*Dīmidium factī, quī coepit, habet; sapere audē, incipe.* (Horace, *Epistles* 1.2.40–41)'
+  a: '"He who has begun has half the deed done: dare to be wise, begin!"'
+  ref: g-05
+- id: iv46-f-17
+  type: forms
+  q: '*Exinde coepit Iēsus praedicāre.* (Matthew 4:17)'
+  a: '"From then on Jesus began to preach."'
+  ref: g-05
+- id: iv46-f-18
+  type: forms
+  q: '"The wall began to be built."'
+  a: '*Mūrus aedificārī coeptus est.* With a passive infinitive, *coepī* goes passive too.'
+  ref: g-05
+- id: iv46-f-19
+  type: forms
+  q: '*Iuppiter omnipotēns, audācibus adnue coeptīs.* (Vergil, *Aeneid* 9.625)'
+  a: '"Almighty Jupiter, favor my bold beginnings." (Hence the dollar bill''s *Annuit coeptīs*.)'
+  ref: g-05
+- id: iv46-f-20
+  type: forms
+  q: '"''Hello,'' says Grandpa."'
+  a: '*"Salvē," inquit Avus.* *Inquit* slips in after the first word.'
+  ref: g-06
+- id: iv46-f-21
+  type: forms
+  q: '*"Dēsilīte," inquit, "mīlitēs, nisi vultis aquilam hostibus prōdere."* (Caesar, *Gallic War* 4.25.3)'
+  a: '"''Jump down,'' he said, ''soldiers, unless you want to hand the eagle over to the enemy.''"'
+  ref: g-06
+- id: iv46-f-23
+  type: forms
+  q: '"They say Grandpa ate the cheese." (Use *aiunt*.)'
+  a: '*Aiunt Avum cāseum ēdisse.*'
+  ref: g-07
+- id: iv46-f-24
+  type: forms
+  q: '*Aiō tē, Aeacidā, Rōmānōs vincere posse.* (Ennius, in Cicero, *On Divination* 2.116) Two readings?'
+  a: '"I say that you can conquer the Romans" or "that the Romans can conquer you." Two accusatives: only sense decides.'
+  ref: g-07
+- id: iv46-f-25
+  type: forms
+  q: The Law of the Slipped-In *Inquit*?
+  a: '*Inquit* quotes exact words and never stands first: it slips in after the first word or phrase. *Ait* and *dīxit* may stand before the quote.'
+  ref: g-07
+- id: iv46-f-26
+  type: forms
+  q: '"I remember you." "Don''t forget the cheese!"'
+  a: '*Meminī tuī. Nōlī oblīvīscī cāseī!* (or *cāseum*)'
+  ref: g-08
+- id: iv46-f-27
+  type: forms
+  q: '*Miserēre meī, Deus.* (Psalm 50:3)'
+  a: '"Have mercy on me, O God." *Misereor* takes the genitive.'
+  ref: g-09
+- id: iv46-f-28
+  type: forms
+  q: '"I accuse Grandpa of theft."'
+  a: '*Avum fūrtī accūsō.* Person accusative, charge genitive.'
+  ref: g-09
+- id: iv46-f-29
+  type: forms
+  q: '"Grandpa is ashamed of the theft." "We''re tired of the trip."'
+  a: '*Avum pudet fūrtī. Nōs taedet itineris.*'
+  ref: g-10
+- id: iv46-f-30
+  type: forms
+  q: '"I pity you." "I''m sorry about the dinner."'
+  a: '*Mē tuī miseret. Mē paenitet cēnae.*'
+  ref: g-10
+- id: iv46-f-31
+  type: forms
+  q: '"Grandpa is eager for cheese."'
+  a: '*Avus cāseī cupidus est.*'
+  ref: g-11
+- id: iv46-f-32
+  type: forms
+  q: '*quī reī mīlitāris perītissimus habēbātur* (Caesar, *Gallic War* 1.21.4)'
+  a: '"who was considered most experienced in military science"'
+  ref: g-11
+- id: iv46-f-33
+  type: forms
+  q: '*Integer vītae scelerisque pūrus.* (Horace, *Odes* 1.22.1)'
+  a: '"Upright in life and free of crime." Poets stretch the genitive to "in respect of."'
+  ref: g-11
+- id: iv46-f-34
+  type: forms
+  q: The Law of the Genitive's Grip?
+  a: 'Remember, forget, pity, accuse, the feeling "it" verbs, and adjectives of wanting, knowing, remembering, and fullness (*cupidus, perītus, memor, plēnus*) take the genitive.'
+  ref: g-11
+- id: iv46-c-memini
+  type: choose
+  q: '*Meminī* means:'
+  options:
+  - I remember.
+  - I remembered.
+  - I will remember.
+  a: I remember.
+  why: 'Perfect form, present meaning; "I remembered" is *memineram*.'
+  ref: g-13
+- id: iv46-c-coepi
+  type: choose
+  q: '"I''m beginning to sing":'
+  options:
+  - Cantāre incipiō.
+  - Cantāre coepiō.
+  - Cantāre coepī.
+  a: Cantāre incipiō.
+  why: 'There is no *coepiō*; *coepī* is "I began." The present comes from *incipiō*.'
+  ref: g-13
+- id: iv46-c-inquit
+  type: choose
+  q: '"''Hello,'' says Grandpa":'
+  options:
+  - '"Salvē," inquit Avus.'
+  - 'Inquit Avus: "Salvē."'
+  - '"Salvē," inquam Avus.'
+  a: '"Salvē," inquit Avus.'
+  why: '*Inquit* slips in after the first word and never stands first; *inquam* is "I say," not "he says."'
+  ref: g-13
+- id: iv46-c-pudet
+  type: choose
+  q: '"I''m ashamed":'
+  options:
+  - Mē pudet.
+  - Ego pudeō.
+  - Mihi pudet.
+  a: Mē pudet.
+  why: 'A feeling "it" verb: the feeler is accusative.'
+  ref: g-13
+- id: iv46-c-cupidus
+  type: choose
+  q: '"Eager for cheese":'
+  options:
+  - cāseī cupidus
+  - cāseum cupidus
+  - cāseō cupidus
+  a: cāseī cupidus
+  why: '*Cupidus* takes the genitive.'
+  ref: g-11
+- id: iv46-e-01
+  type: error
+  q: 'Fix: *Ego taedeō iter.* (I''m tired of the trip.)'
+  a: '*Mē taedet itineris.* Feeler accusative, cause genitive.'
+  ref: g-14
+- id: iv46-e-02
+  type: error
+  q: 'Fix: *Herī meminī cāseī.* (Yesterday I remembered the cheese.)'
+  a: '*Herī memineram cāseī.* The past of *meminī* is the pluperfect.'
+  ref: g-14
+- id: iv46-e-03
+  type: error
+  q: 'Fix: *Avus cāseum cupidus est.* (Grandpa is eager for cheese.)'
+  a: '*Avus cāseī cupidus est.* *Cupidus* takes the genitive.'
+  ref: g-14
+- id: iv46-e-04
+  type: error
+  q: 'Fix: *Coepiō cantāre.* (I''m beginning to sing.)'
+  a: '*Cantāre incipiō.* No *coepiō*: the present comes from *incipiō*.'
+  ref: g-14
