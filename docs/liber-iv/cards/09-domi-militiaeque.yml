@@ -1,0 +1,384 @@
+book: iv
+ch: 45
+page: liber-iv/09-domi-militiaeque.md
+cards:
+- id: iv45-v-quot-annos-natus-es
+  type: vocab
+  la: Quot annōs nātus es?
+  en: How old are you? (*Vīgintī annōs nātus sum*, I'm twenty; to a woman, *nāta*.)
+  ref: g-09
+- id: iv45-v-domi-militiaeque
+  type: vocab
+  la: Domī mīlitiaeque.
+  en: At home and in the field; in peace and in war.
+  ref: g-04
+- id: iv45-v-decem-milia-passuum
+  type: vocab
+  la: Decem mīlia passuum.
+  en: 'Ten miles (ten thousands of paces). *Mīlle passūs*: a mile.'
+  ref: g-10
+- id: iv45-v-rus-ruris
+  type: vocab
+  la: rūs, rūris
+  en: 'the country, countryside: *rūs* (to), *rūrī* (in), *rūre* (from)'
+  ref: g-03
+- id: iv45-v-humus-humi
+  type: vocab
+  la: humus, humī
+  en: ground, earth; *humī*, on the ground
+  ref: g-03
+- id: iv45-v-militia-militiae
+  type: vocab
+  la: mīlitia, mīlitiae
+  en: military service, the army; *mīlitiae*, in the field, on campaign
+  ref: g-04
+- id: iv45-v-athenae-athenarum
+  type: vocab
+  la: Athēnae, Athēnārum
+  en: 'Athens (f. pl.): *Athēnās* (to), *Athēnīs* (at, from)'
+  ref: g-02
+- id: iv45-v-carthago-carthaginis
+  type: vocab
+  la: Carthāgō, Carthāginis
+  en: 'Carthage (f.): *Carthāginem* (to), *Carthāgine* (at, from)'
+  ref: g-02
+- id: iv45-v-corinthus-corinthi
+  type: vocab
+  la: Corinthus, Corinthī
+  en: 'Corinth (f.): *Corinthum* (to), *Corinthī* (at), *Corinthō* (from)'
+  ref: g-02
+- id: iv45-v-passus-passus
+  type: vocab
+  la: passus, passūs
+  en: pace, step (m.; a double step, about five feet)
+  ref: g-10
+- id: iv45-v-abhinc
+  type: vocab
+  la: abhinc
+  en: 'ago (+ acc.): *abhinc trēs annōs*, three years ago'
+  ref: g-11
+- id: iv45-v-ante
+  type: vocab
+  la: ante
+  en: before, in front of (+ acc.); as a how-word, earlier
+  ref: g-11
+- id: iv45-v-post
+  type: vocab
+  la: post
+  en: after, behind (+ acc.); as a how-word, later
+  ref: g-11
+- id: iv45-v-per
+  type: vocab
+  la: per
+  en: through; with time, all through, throughout (+ acc.)
+  ref: g-08
+- id: iv45-v-viginti
+  type: vocab
+  la: vīgintī
+  en: twenty
+  ref: g-09
+- id: iv45-v-quinquaginta
+  type: vocab
+  la: quīnquāgintā
+  en: fifty
+  ref: g-09
+- id: iv45-v-septuaginta
+  type: vocab
+  la: septuāgintā
+  en: seventy
+  ref: g-09
+- id: iv45-v-undecimus-undecima-undecimum
+  type: vocab
+  la: ūndecimus, ūndecima, ūndecimum
+  en: eleventh
+  ref: g-06
+- id: iv45-v-duodecimus-duodecima-duodecimum
+  type: vocab
+  la: duodecimus, duodecima, duodecimum
+  en: twelfth
+  ref: g-06
+- id: iv45-v-tertius-decimus-tertia-decima
+  type: vocab
+  la: tertius decimus, tertia decima, tertium decimum
+  en: thirteenth (both parts decline)
+  ref: g-06
+- id: iv45-v-castra-castrorum
+  type: vocab
+  la: castra, castrōrum
+  en: a camp (n. pl.; one camp, plural form)
+  ref: g-15
+- id: iv45-v-iter-itineris
+  type: vocab
+  la: iter, itineris
+  en: journey, road, way (n.); *in itinere*, on the way
+  ref: g-15
+- id: iv45-v-legio-legionis
+  type: vocab
+  la: legiō, legiōnis
+  en: legion (f.)
+  ref: g-15
+- id: iv45-v-place-where-to-which
+  type: vocab
+  la: place where / to which / from which
+  en: 'the *Ubi? / Quō? / Unde?* places: *in culīnā / in culīnam / ē culīnā*'
+  ref: g-01
+- id: iv45-v-locative
+  type: vocab
+  la: locative
+  en: 'the "at" case: *Rōmae, Corinthī, Athēnīs, Carthāgine, domī, rūrī, humī, mīlitiae*'
+  ref: g-02
+- id: iv45-v-ablative-of-time-within
+  type: vocab
+  la: ablative of time within which
+  en: 'the "within" ablative: *tribus diēbus*, within three days'
+  ref: g-07
+- id: iv45-v-accusative-of-extent
+  type: vocab
+  la: accusative of extent
+  en: 'the "how long, how far" accusative: *trēs hōrās, decem mīlia passuum*'
+  ref: g-08
+- id: iv45-f-01
+  type: forms
+  q: Ask Chapter 8's three place questions and say what each asks.
+  a: '*Quō?* where to? · *Ubi?* where? · *Unde?* where from?'
+  ref: g-01
+- id: iv45-f-02
+  type: forms
+  q: '"I''m in the kitchen. I''m running into the kitchen. I''m coming out of the kitchen."'
+  a: '*In culīnā sum. In culīnam currō. Ē culīnā veniō.*'
+  ref: g-01
+- id: iv45-f-03
+  type: forms
+  q: 'Home: to, at, from.'
+  a: '*Domum · domī · domō.* No preposition.'
+  ref: g-01
+- id: iv45-f-04
+  type: forms
+  q: '*Nōn cuivīs hominī contingit adīre Corinthum.* Why no *ad* before *Corinthum*? (Horace, *Epistles* 1.17.36)'
+  a: 'Corinth is a town: "to Corinth" is the bare accusative, like *Rōmam*.'
+  ref: g-02
+- id: iv45-f-05
+  type: forms
+  q: '"At Corinth" and "at Rome": what do the locatives look like?'
+  a: '*Corinthī, Rōmae*: like the genitive (singular first- and second-family towns).'
+  ref: g-02
+- id: iv45-f-06
+  type: forms
+  q: 'Athens (*Athēnae*, f. pl.): to, at, from.'
+  a: '*Athēnās · Athēnīs · Athēnīs.* Plural towns use the ablative plural for "at."'
+  ref: g-02
+- id: iv45-f-07
+  type: forms
+  q: 'Carthage: to, at, from.'
+  a: '*Carthāginem · Carthāgine* (or *Carthāginī*) · *Carthāgine.*'
+  ref: g-02
+- id: iv45-f-08
+  type: forms
+  q: 'The country: to, at, from.'
+  a: '*Rūs · rūrī* (or *rūre*) · *rūre.*'
+  ref: g-03
+- id: iv45-f-09
+  type: forms
+  q: '*Rōmae rūs optās.* (Horace, *Satires* 2.7.28)'
+  a: 'At Rome you long for the country. *Rōmae*: locative.'
+  ref: g-03
+- id: iv45-f-10
+  type: forms
+  q: '*Canis humī sedet.*'
+  a: 'The dog sits on the ground (on the floor). *Humī*: locative.'
+  ref: g-03
+- id: iv45-f-11
+  type: forms
+  q: What is Chapter 16's *vesperī*, grammatically?
+  a: 'A locative of *vesper*: "at evening," in the evening.'
+  ref: g-03
+- id: iv45-f-12
+  type: forms
+  q: '*Igitur domī mīlitiaeque bonī mōrēs colēbantur.* (Sallust, *Catiline* 9.1)'
+  a: So at home and in the field good character was cultivated.
+  ref: g-04
+- id: iv45-f-13
+  type: forms
+  q: State the Law of Home and Rome, full edition.
+  a: 'Towns, small islands, *domus* and *rūs* take the bare case, no preposition: accusative to, locative at, ablative from. A few words keep just a locative: *humī, vesperī, mīlitiae, bellī.*'
+  ref: g-04
+- id: iv45-f-14
+  type: forms
+  q: '*Ītaliam … Lāvīniaque vēnit / lītora.* (Vergil, *Aeneid* 1.2–3) Why no *in*?'
+  a: He came to Italy and the Lavinian shores. Poets may drop the preposition with any goal; prose says *in Ītaliam*.
+  ref: g-05
+- id: iv45-f-15
+  type: forms
+  q: '*Post haec ēgressus ab Athēnīs, vēnit Corinthum.* (Acts 18:1)'
+  a: After this he left Athens and came to Corinth.
+  ref: g-05
+- id: iv45-f-16
+  type: forms
+  q: '"I''m going to Italy. I''m in Italy." (prose)'
+  a: '*In Ītaliam eō. In Ītaliā sum.* Countries take prepositions.'
+  ref: g-05
+- id: iv45-f-17
+  type: forms
+  q: '*Oportet Fīlium hominis trādī … et diē tertiā resurgere.* (Luke 24:7)'
+  a: 'The Son of Man must be handed over … and on the third day rise again. *Diē tertiā*: time when.'
+  ref: g-06
+- id: iv45-f-18
+  type: forms
+  q: '"On the thirteenth day."'
+  a: '*Diē tertiā decimā.* Both parts of *tertius decimus* decline.'
+  ref: g-06
+- id: iv45-f-19
+  type: forms
+  q: '*Tribus diēbus veniam.*'
+  a: I'll come within three days. Ablative of time within which.
+  ref: g-07
+- id: iv45-f-20
+  type: forms
+  q: '*Quadrāgintā et sex annīs aedificātum est templum hoc.* (John 2:20)'
+  a: This temple was built in forty-six years.
+  ref: g-07
+- id: iv45-f-21
+  type: forms
+  q: '"Grandpa slept for three hours."'
+  a: '*Avus trēs hōrās dormīvit.* How long: accusative.'
+  ref: g-08
+- id: iv45-f-22
+  type: forms
+  q: '*Ūnā cum gente tot annōs / bella gerō.* (Vergil, *Aeneid* 1.47–48)'
+  a: With one nation, for so many years, I have been waging wars. Present + stretch = "have been."
+  ref: g-08
+- id: iv45-f-23
+  type: forms
+  q: '*Hōrā tertiā* vs *trēs hōrās*?'
+  a: At the third hour (point, ablative) · for three hours (stretch, accusative).
+  ref: g-08
+- id: iv45-f-24
+  type: forms
+  q: '"I''m twenty years old." Then ask "How old are you?"'
+  a: '*Vīgintī annōs nātus sum.* · *Quot annōs nātus es?* (to a woman, *nāta*)'
+  ref: g-09
+- id: iv45-f-25
+  type: forms
+  q: Count the tens 20 to 90.
+  a: '*Vīgintī, trīgintā, quadrāgintā, quīnquāgintā, sexāgintā, septuāgintā, octōgintā, nōnāgintā.*'
+  ref: g-09
+- id: iv45-f-26
+  type: forms
+  q: '"We walked ten miles."'
+  a: '*Decem mīlia passuum ambulāvimus.* How far: accusative.'
+  ref: g-10
+- id: iv45-f-27
+  type: forms
+  q: '"The wall is ten feet high."'
+  a: '*Mūrus decem pedēs altus est.*'
+  ref: g-10
+- id: iv45-f-28
+  type: forms
+  q: '*Mīlia passuum XVIIII mūrum … fossamque perdūcit.* (Caesar, *Gallic War* 1.8.1)'
+  a: He runs a wall and a ditch for nineteen miles.
+  ref: g-10
+- id: iv45-f-29
+  type: forms
+  q: State the Law of the Point and the Stretch.
+  a: A point or a window in time takes the ablative (*hōrā tertiā, tribus diēbus*); a stretch of time or space takes the accusative (*trēs hōrās, decem mīlia passuum*). No preposition.
+  ref: g-10
+- id: iv45-f-30
+  type: forms
+  q: '"Three years ago we were at Rome."'
+  a: '*Abhinc trēs annōs Rōmae erāmus.*'
+  ref: g-11
+- id: iv45-f-31
+  type: forms
+  q: '*Post trēs diēs · tribus diēbus post · abhinc trēs diēs.*'
+  a: After three days · three days later · three days ago.
+  ref: g-11
+- id: iv45-f-32
+  type: forms
+  q: State the Law of Ago and Later.
+  a: '*Abhinc* + acc.: ago. *Ante / post* + acc.: before / after. *Tribus diēbus post*: later by three days (ablative of degree of difference).'
+  ref: g-11
+- id: iv45-f-33
+  type: forms
+  q: '*Rōmae · Rōmā · Rōmam.*'
+  a: At Rome · from Rome · to Rome.
+  ref: g-13
+- id: iv45-f-34
+  type: forms
+  q: '*Hōrā tertiā · trēs hōrās · tribus hōrīs.*'
+  a: At the third hour · for three hours · within three hours.
+  ref: g-13
+- id: iv45-f-35
+  type: forms
+  q: 'Grandpa: *Abhinc quīnquāgintā annōs mīles eram. Decem annōs mīlitiae fuī.*'
+  a: Fifty years ago I was a soldier. For ten years I was in the field.
+  ref: g-15
+- id: iv45-c-romae-habito
+  type: choose
+  q: '"I live in Rome":'
+  options:
+  - Rōmae habitō.
+  - In Rōmā habitō.
+  - Rōmam habitō.
+  a: Rōmae habitō.
+  why: 'A town: locative, no *in*.'
+  ref: g-14
+- id: iv45-c-tres-horas
+  type: choose
+  q: '"For three hours":'
+  options:
+  - trēs hōrās
+  - tribus hōrīs
+  - hōrā tertiā
+  a: trēs hōrās
+  why: 'How long: accusative of extent.'
+  ref: g-08
+- id: iv45-c-i-m-coming-from
+  type: choose
+  q: '*Athēnīs veniō* means:'
+  options:
+  - I'm coming from Athens.
+  - I'm going to Athens.
+  - I'm at Athens.
+  a: I'm coming from Athens.
+  why: '*Athēnīs* is both "at" and "from"; *veniō* makes it "from."'
+  ref: g-13
+- id: iv45-c-die-tertia
+  type: choose
+  q: '"On the third day":'
+  options:
+  - diē tertiā
+  - diem tertiam
+  - in diem tertiam
+  a: diē tertiā
+  why: 'Time when: ablative, no preposition.'
+  ref: g-06
+- id: iv45-c-abhinc-tres-annos
+  type: choose
+  q: '"Three years ago":'
+  options:
+  - abhinc trēs annōs
+  - tribus annīs
+  - post trēs annōs
+  a: abhinc trēs annōs
+  why: '*Abhinc* + accusative counts back from now; *tribus annīs* is "within three years," *post trēs annōs* "after three years."'
+  ref: g-11
+- id: iv45-e-01
+  type: error
+  q: 'Fix: *Ad Athēnās īmus.* (We''re going to Athens.)'
+  a: '*Athēnās īmus.* A town takes the bare accusative.'
+  ref: g-14
+- id: iv45-e-02
+  type: error
+  q: 'Fix: *Tribus hōrīs dormīvī.* (I slept for three hours.)'
+  a: '*Trēs hōrās dormīvī.* How long: accusative.'
+  ref: g-14
+- id: iv45-e-03
+  type: error
+  q: 'Fix: *Ītaliam eō.* (I''m going to Italy; prose.)'
+  a: '*In Ītaliam eō.* A country takes a preposition.'
+  ref: g-14
+- id: iv45-e-04
+  type: error
+  q: 'Fix: *Avus septuāgintā annīs nātus est.* (Grandpa is seventy.)'
+  a: '*Avus septuāgintā annōs nātus est.* Age is a stretch: accusative.'
+  ref: g-14
