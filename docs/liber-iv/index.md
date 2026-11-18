@@ -24,4 +24,4 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 | 45 | [**Domī Mīlitiaeque**](09-domi-militiaeque.md) | G: place & time constructions consolidated; locative; extent of time/space. | ✅ available |
 | 46 | [**Meminī, Ōdī, Coepī**](10-memini-odi-coepi.md) | G: defective verbs; inquit; genitive with verbs & adjectives. | ✅ available |
 | 47 | [**Nōlī Timēre**](11-noli-timere.md) | G: negative commands fully; future imperative; prohibition styles. | ✅ available |
-| 48 | **Recapitulātiō IV** | Adapted Roman history narrative. | coming |
+| 48 | [**Recapitulātiō IV**](12-recapitulatio-iv.md) | Adapted Roman history narrative. | ✅ available |

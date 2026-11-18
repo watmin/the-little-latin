@@ -1,0 +1,384 @@
+book: iv
+ch: 48
+page: liber-iv/12-recapitulatio-iv.md
+cards:
+- id: iv48-v-dictator
+  type: vocab
+  la: dictātor, dictātōris
+  en: m., dictator (one man named in an emergency, for six months at most)
+  ref: g-01
+- id: iv48-v-dictatura
+  type: vocab
+  la: dictātūra, dictātūrae
+  en: f., dictatorship
+  ref: g-14
+- id: iv48-v-legatus
+  type: vocab
+  la: lēgātus, lēgātī
+  en: m., envoy; officer
+  ref: g-01
+- id: iv48-v-ager
+  type: vocab
+  la: ager, agrī
+  en: m., field, farm
+  ref: g-12
+- id: iv48-v-aratrum
+  type: vocab
+  la: arātrum, arātrī
+  en: n., plow
+  ref: g-12
+- id: iv48-v-obsideo
+  type: vocab
+  la: obsideō, obsidēre, obsēdī, obsessum
+  en: besiege
+  ref: g-06
+- id: iv48-v-iugum
+  type: vocab
+  la: iugum, iugī
+  en: n., yoke
+  ref: g-14
+- id: iv48-v-hasta
+  type: vocab
+  la: hasta, hastae
+  en: f., spear
+  ref: g-14
+- id: iv48-v-praeda
+  type: vocab
+  la: praeda, praedae
+  en: f., booty, loot; prey
+  ref: g-07
+- id: iv48-v-triumphus
+  type: vocab
+  la: triumphus, triumphī
+  en: m., triumph (a general's victory parade)
+  ref: g-12
+- id: iv48-v-edictum
+  type: vocab
+  la: ēdictum, ēdictī
+  en: n., edict, public order
+  ref: g-12
+- id: iv48-v-depono
+  type: vocab
+  la: dēpōnō, dēpōnere, dēposuī, dēpositum
+  en: lay down, lay aside
+  ref: g-07
+- id: iv48-f-grown-up-key
+  type: forms
+  q: 'Law of the Grown-up Key: *Lēgātī ā senātū missī vēnērunt.* Why *missī*?'
+  a: 'Fourth key of *mittō* as a plain adjective: masculine plural nominative, like *lēgātī*. "The envoys, sent by the senate, came."'
+  ref: g-01
+- id: iv48-f-done-deed
+  type: forms
+  q: 'Law of the Done Deed: *Cāseus emptus in mēnsā est · erat · erit.* When was it bought?'
+  a: Before the main verb, every time. The participle borrows the main verb's clock.
+  ref: g-01
+- id: iv48-f-many-englishes
+  type: forms
+  q: 'Three Englishes: *Cincinnātus, ā lēgātīs vocātus, togam induit.*'
+  a: '"Called by the envoys…" · "who had been called…" · "When he was called by the envoys, Cincinnatus put on his toga."'
+  ref: g-01
+- id: iv48-f-dictator-word
+  type: forms
+  q: 'Varro: *Dictātor, quod ā cōnsule dīcēbātur.* Why "dictator"?'
+  a: '"Because he was named by a consul": *dīcō* also means "name, appoint." The dictator was "the named one."'
+  ref: g-01
+- id: iv48-f-ns-nt
+  type: forms
+  q: 'Law of *-ns* and *-nt*: present participle + "of" form of *labōrō, fodiō*?'
+  a: '*Labōrāns, labōrantis · fodiēns, fodientis.* Long before *-ns*, short before *-nt*.'
+  ref: g-02
+- id: iv48-f-one-shape
+  type: forms
+  q: '"The envoys found him digging."'
+  a: '*Lēgātī eum fodientem invēnērunt.* (Accusative to match *eum*; one shape for all genders.)'
+  ref: g-02
+- id: iv48-f-same-moment
+  type: forms
+  q: 'Law of the Same Moment: *Cincinnātus, fossam fodiēns, lēgātōs vīdit.*'
+  a: '"While digging a ditch, Cincinnatus saw the envoys." Same time as the main verb.'
+  ref: g-02
+- id: iv48-f-abl-e-i
+  type: forms
+  q: Ablative *-e* or *-ī*? *Patre cantante · ā virō sapientī*
+  a: '*-e* while it works as a participle; *-ī* once it''s a plain adjective.'
+  ref: g-02
+- id: iv48-f-urus
+  type: forms
+  q: 'Law of *-ūrus*: "about to fight, say, come, be"'
+  a: '*Pugnātūrus, dictūrus, ventūrus, futūrus.*'
+  ref: g-03
+- id: iv48-f-three-times
+  type: forms
+  q: 'Law of the Three Times: *missus · mittēns · missūrus*?'
+  a: Sent (passive, before) · sending (active, same time) · about to send (active, after).
+  ref: g-03
+- id: iv48-f-long-way
+  type: forms
+  q: 'Law of the Long Way Round: "You are about to hear the senate''s orders."'
+  a: '*Mandāta senātūs audītūrus es.*'
+  ref: g-03
+- id: iv48-f-untied-pair
+  type: forms
+  q: 'Law of the Untied Pair: *Signō datō, mīlitēs clāmōrem sustulērunt.*'
+  a: '"With the signal given (when the signal had been given), the soldiers raised a shout." Noun + participle, both ablative.'
+  ref: g-04
+- id: iv48-f-hostibus-dormientibus
+  type: forms
+  q: '"While the enemy were sleeping, the Romans came."'
+  a: '*Hostibus dormientibus, Rōmānī vēnērunt.*'
+  ref: g-04
+- id: iv48-f-unshared-noun
+  type: forms
+  q: 'Law of the Unshared Noun: why is only one an ablative absolute? *Dictātor hostēs victōs sub iugum mīsit · Hostibus victīs, dictātor rediit.*'
+  a: 'In the first, *hostēs* is the object of *mīsit*. In the second, the enemy has no other job: untied, so ablative.'
+  ref: g-04
+- id: iv48-f-missing-being
+  type: forms
+  q: 'Law of the Missing "Being": *Cincinnātō dictātōre · mē puerō*?'
+  a: '"When Cincinnatus was dictator" · "when I was a boy." *Sum* has no present participle.'
+  ref: g-04
+- id: iv48-f-six
+  type: forms
+  q: 'Law of the Six: the six infinitives of *vocō*.'
+  a: '*Vocāre, vocārī · vocāvisse, vocātus esse · vocātūrus esse, vocātum īrī.*'
+  ref: g-05
+- id: iv48-f-borrowed-clock
+  type: forms
+  q: '*Cincinnātus labōrāre · labōrāvisse · labōrātūrus esse vidēbātur.*'
+  a: Seemed to be working · to have worked · about to work. The clock is the main verb's.
+  ref: g-05
+- id: iv48-f-said-seen
+  type: forms
+  q: 'Law of the Said and the Seen: "Cincinnatus is said to have been a farmer."'
+  a: '*Cincinnātus agricola fuisse dīcitur.*'
+  ref: g-05
+- id: iv48-f-reported-word
+  type: forms
+  q: 'Law of the Reported Word: *"Exercitus obsidētur," equitēs dīcunt.* Report it.'
+  a: '*Equitēs dīcunt exercitum obsidērī.*'
+  ref: g-06
+- id: iv48-f-reported-clock
+  type: forms
+  q: '*Equitēs nūntiāvērunt exercitum obsidērī · obsessum esse.*'
+  a: '"…that the army was being besieged" (same time) · "…had been besieged" (before).'
+  ref: g-06
+- id: iv48-f-se-venturum
+  type: forms
+  q: '"The dictator said that he would come."'
+  a: '*Dictātor dīxit sē ventūrum esse.*'
+  ref: g-06
+- id: iv48-f-speakers-se
+  type: forms
+  q: 'Law of the Speaker''s *Sē*: *Cōnsul dīcit sē clausum esse · Cōnsul dīcit eum vēnisse.*'
+  a: '*Sē* = the consul himself · *eum* = someone else.'
+  ref: g-06
+- id: iv48-f-sequor
+  type: forms
+  q: 'Law of the Laid-Aside Voice: chant *sequor*. *Secūtī sunt*?'
+  a: '*Sequor, sequeris, sequitur, sequimur, sequiminī, sequuntur.* "They followed."'
+  ref: g-07
+- id: iv48-f-sequere
+  type: forms
+  q: '"Follow, soldier! Speak, y''all!"'
+  a: '*Sequere, mīles! Loquiminī!*'
+  ref: g-07
+- id: iv48-f-having-done
+  type: forms
+  q: 'Law of the Having-Done: *secūtī* vs *victī*?'
+  a: '*Secūtī*: active, "having followed" (deponent). *Victī*: passive, "having been beaten."'
+  ref: g-07
+- id: iv48-f-puffv
+  type: forms
+  q: '"The soldiers enjoy the booty; the dictator does his duty."'
+  a: '*Mīlitēs praedā fruuntur; dictātor officiō fungitur.* (Ablative.)'
+  ref: g-07
+- id: iv48-f-hidden-to
+  type: forms
+  q: 'Law of the Hidden "To": "Everyone obeys the dictator. Spare us!"'
+  a: '*Dictātōrī omnēs pārent. Parce nōbīs!*'
+  ref: g-08
+- id: iv48-f-empty-it
+  type: forms
+  q: '"The senate decided to name a dictator. You ought to obey."'
+  a: '*Senātuī placuit dictātōrem dīcere. Tē oportet pārēre.*'
+  ref: g-08
+- id: iv48-f-two-datives
+  type: forms
+  q: 'Law of the Two Datives: *Cincinnātus patriae auxiliō vēnit.*'
+  a: '"Cincinnatus came to help his country" (word by word: for a help to his country).'
+  ref: g-08
+- id: iv48-f-home-rome
+  type: forms
+  q: 'Law of Home and Rome: to, at, from Rome; to, at, from home.'
+  a: '*Rōmam, Rōmae, Rōmā · domum, domī, domō.*'
+  ref: g-09
+- id: iv48-f-trans-tiberim
+  type: forms
+  q: '"Into the forum, across the Tiber, on Mount Algidus."'
+  a: '*In forum · trāns Tiberim · in Algidō.* Not towns: a preposition.'
+  ref: g-09
+- id: iv48-f-point-stretch
+  type: forms
+  q: 'Law of the Point and the Stretch: "at midnight, on the sixteenth day, for six months."'
+  a: '*Mediā nocte, sextō decimō diē* (ablative) · *sex mēnsēs* (accusative).'
+  ref: g-09
+- id: iv48-f-ago-later
+  type: forms
+  q: 'Law of Ago and Later: "three days later · three years ago"'
+  a: '*Tribus diēbus post · abhinc trēs annōs.*'
+  ref: g-09
+- id: iv48-f-perfect-now
+  type: forms
+  q: 'Law of the Perfect That Means Now: *meminī · memineram · meminerō*?'
+  a: I remember · I remembered · I will remember.
+  ref: g-10
+- id: iv48-f-inquit
+  type: forms
+  q: 'Law of the Slipped-In *Inquit*: "''Is everything all right?'' he said."'
+  a: '*"Satin," inquit, "salvē?"* or *"Satin salvē?" inquit.* Never first.'
+  ref: g-10
+- id: iv48-f-aiunt
+  type: forms
+  q: '"They say that Cincinnatus was a farmer."'
+  a: '*Aiunt Cincinnātum agricolam fuisse.*'
+  ref: g-10
+- id: iv48-f-genitive-grip
+  type: forms
+  q: '"The soldiers were mindful of the favor. Grandpa is eager for cheese."'
+  a: '*Mīlitēs beneficiī memorēs erant. Avus cāseī cupidus est.*'
+  ref: g-10
+- id: iv48-f-shall
+  type: forms
+  q: 'Law of the "Shall" Command: chant *claudō*''s (you, he, y''all, they).'
+  a: '*Clauditō, clauditō, clauditōte, clauduntō.*'
+  ref: g-11
+- id: iv48-f-later-forever
+  type: forms
+  q: 'Law of Later and Forever: why *Tabernae clausae suntō!* in an edict?'
+  a: 'An edict is a law, for everyone and for later: the future imperative.'
+  ref: g-11
+- id: iv48-f-five-donts
+  type: forms
+  q: 'Law of the Five Don''ts: talk, law, poetry, Bible.'
+  a: '*Nōlī timēre · Nē cantātō · Equō nē crēdite · Nōn fūrtum faciēs.*'
+  ref: g-11
+- id: iv48-f-cicero-dictator
+  type: forms
+  q: 'Cicero, *On the Laws* 3.9: *oenus nē amplius sex mēnsēs … idem iūris quod duo cōnsulēs tenētō.*'
+  a: '"One man, for not more than six months, shall hold the same power as the two consuls."'
+  ref: g-11
+- id: iv48-f-livy-field
+  type: forms
+  q: 'Livy 3.26.8: *L. Quīnctius trāns Tiberim … quattuor iūgerum colēbat agrum.*'
+  a: '"Lucius Quinctius farmed a field of four acres across the Tiber."'
+  ref: g-14
+- id: iv48-f-livy-fodiens
+  type: forms
+  q: 'Livy 3.26.9: *fossam fodiēns pālae innīxus.*'
+  a: '"Digging a ditch, leaning on his spade."'
+  ref: g-14
+- id: iv48-f-livy-iugum
+  type: forms
+  q: 'Livy 3.28.11: *Sub hōc iugō dictātor Aequōs mīsit.*'
+  a: '"Under this yoke the dictator sent the Aequi."'
+  ref: g-14
+- id: iv48-f-livy-carebis
+  type: forms
+  q: 'Livy 3.29.2: *"Carēbis" inquit "praedae parte, mīles, ex eō hoste cui prope praedae fuistī."*'
+  a: '"''You''ll go without a share of the booty, soldier,'' he said, ''from that enemy whose prey you almost were.''"'
+  ref: g-14
+- id: iv48-f-livy-abdicavit
+  type: forms
+  q: 'Livy 3.29.7: *Quīnctius sextō decimō diē dictātūrā in sex mēnsēs acceptā sē abdicāvit.*'
+  a: '"Though he had received the dictatorship for six months, Quinctius resigned on the sixteenth day."'
+  ref: g-14
+- id: iv48-f-subjugate
+  type: forms
+  q: '*Sub iugum*: what does "subjugate" mean, word by word?'
+  a: '"Send under the yoke": make someone admit defeat.'
+  ref: g-13
+- id: iv48-f-parcere-subiectis
+  type: forms
+  q: 'Vergil, *Aeneid* 6.853: *Parcere subiectīs.* Case of *subiectīs*?'
+  a: '"To spare the conquered." Dative: *parcō* has a hidden "to."'
+  ref: g-13
+- id: iv48-c-ppp
+  type: choose
+  q: '"The envoys, sent by the senate":'
+  options:
+  - Lēgātī ā senātū missī
+  - Lēgātī ā senātū mittentēs
+  - Lēgātī ā senātū missūrī
+  a: Lēgātī ā senātū missī
+  why: 'Sent = done to them, before: the perfect passive participle.'
+  ref: g-01
+- id: iv48-c-abs
+  type: choose
+  q: '"With the signal given, they shouted":'
+  options:
+  - Signō datō, clāmāvērunt.
+  - Signum datum, clāmāvērunt.
+  - Signō dante, clāmāvērunt.
+  a: Signō datō, clāmāvērunt.
+  why: 'Untied pair: both ablative, perfect for "before."'
+  ref: g-04
+- id: iv48-c-report
+  type: choose
+  q: '"The horsemen announced that the army was besieged":'
+  options:
+  - Equitēs nūntiāvērunt exercitum obsidērī.
+  - Equitēs nūntiāvērunt exercitus obsidētur.
+  - Equitēs nūntiāvērunt exercitum obsidētur.
+  a: Equitēs nūntiāvērunt exercitum obsidērī.
+  why: 'Reported: accusative subject + infinitive, no "that."'
+  ref: g-06
+- id: iv48-c-fruor
+  type: choose
+  q: '"The soldiers enjoy the booty":'
+  options:
+  - Mīlitēs praedā fruuntur.
+  - Mīlitēs praedam fruuntur.
+  - Mīlitēs praedae fruuntur.
+  a: Mīlitēs praedā fruuntur.
+  why: '*Fruor* is one of the five ablative verbs.'
+  ref: g-07
+- id: iv48-c-pareo
+  type: choose
+  q: '"Everyone obeys the dictator":'
+  options:
+  - Omnēs dictātōrī pārent.
+  - Omnēs dictātōrem pārent.
+  - Omnēs dictātōris pārent.
+  a: Omnēs dictātōrī pārent.
+  why: '*Pāreō* has a hidden "to": dative.'
+  ref: g-08
+- id: iv48-c-rome
+  type: choose
+  q: '"At Rome":'
+  options:
+  - Rōmae
+  - In Rōmā
+  - Rōmam
+  a: Rōmae
+  why: Towns take the locative, no preposition.
+  ref: g-09
+- id: iv48-e-01
+  type: error
+  q: 'Fix: *Cincinnātus, ā lēgātīs vocāns, togam induit.* (called by the envoys)'
+  a: '*Vocātus*: "called" is done to him, so the perfect passive participle.'
+  ref: g-01
+- id: iv48-e-02
+  type: error
+  q: 'Fix: *Hostēs victīs, dictātor Rōmam rediit.*'
+  a: '*Hostibus victīs*: both pieces of the untied pair go in the ablative.'
+  ref: g-04
+- id: iv48-e-03
+  type: error
+  q: 'Fix: *Dictātor dīxit eum ventūrum esse.* (that he himself would come)'
+  a: '*Dictātor dīxit sē ventūrum esse.* The speaker himself is *sē*.'
+  ref: g-06
+- id: iv48-e-04
+  type: error
+  q: 'Fix: *In Rōmā habitāmus.* (We live at Rome.)'
+  a: '*Rōmae habitāmus.* Towns take the locative, no preposition.'
+  ref: g-09
