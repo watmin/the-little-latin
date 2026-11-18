@@ -1,0 +1,384 @@
+book: iv
+ch: 47
+page: liber-iv/11-noli-timere.md
+cards:
+- id: iv47-v-noli-timere
+  type: vocab
+  la: Nōlī timēre!
+  en: 'Don''t be afraid! (to y''all: *Nōlīte timēre!*)'
+  ref: g-01
+- id: iv47-v-memento-pattern
+  type: vocab
+  la: Mementō!
+  en: 'Remember! (to y''all: *Mementōte!*)'
+  ref: g-03
+- id: iv47-v-scito-pattern
+  type: vocab
+  la: Scītō…
+  en: Know that…, be assured… (+ acc. and inf.)
+  ref: g-05
+- id: iv47-v-ne-tangito
+  type: vocab
+  la: Cāseum nē tangitō.
+  en: One shall not touch the cheese (law style).
+  ref: g-08
+- id: iv47-v-non-occides
+  type: vocab
+  la: Nōn occīdēs.
+  en: You shall not kill (Bible style).
+  ref: g-10
+- id: iv47-v-memento
+  type: vocab
+  la: mementō, mementōte
+  en: remember! (the only command of *meminī*)
+  ref: g-03
+- id: iv47-v-scito
+  type: vocab
+  la: scītō, scītōte
+  en: know!, be assured (command of *sciō*)
+  ref: g-05
+- id: iv47-v-esto
+  type: vocab
+  la: estō, estōte, suntō
+  en: be!, let him be; y'all be!; let them be
+  ref: g-05
+- id: iv47-v-ne
+  type: vocab
+  la: nē
+  en: not (in don'ts and wishes)
+  ref: g-08
+- id: iv47-v-neve
+  type: vocab
+  la: nēve, neu
+  en: and not, nor (in don'ts)
+  ref: g-08
+- id: iv47-v-libum
+  type: vocab
+  la: lībum, lībī
+  en: cheese cake (offered to the gods)
+  ref: g-07
+- id: iv47-v-addo
+  type: vocab
+  la: addō, addere, addidī, additum
+  en: add
+  ref: g-07
+- id: iv47-v-permisceo
+  type: vocab
+  la: permisceō, permiscēre, permiscuī, permixtum
+  en: mix thoroughly
+  ref: g-07
+- id: iv47-v-focus
+  type: vocab
+  la: focus, focī
+  en: hearth
+  ref: g-07
+- id: iv47-v-tango
+  type: vocab
+  la: tangō, tangere, tetigī, tāctum
+  en: touch
+  ref: g-08
+- id: iv47-v-sepelio
+  type: vocab
+  la: sepeliō, sepelīre, sepelīvī, sepultum
+  en: bury
+  ref: g-08
+- id: iv47-v-uro
+  type: vocab
+  la: ūrō, ūrere, ussī, ustum
+  en: burn
+  ref: g-08
+- id: iv47-v-occido
+  type: vocab
+  la: occīdō, occīdere, occīdī, occīsum
+  en: kill
+  ref: g-10
+- id: iv47-v-diligo
+  type: vocab
+  la: dīligō, dīligere, dīlēxī, dīlēctum
+  en: love, esteem
+  ref: g-10
+- id: iv47-v-fiducia
+  type: vocab
+  la: fīdūcia, fīdūciae
+  en: confidence, courage
+  ref: g-02
+- id: iv47-v-perfectus
+  type: vocab
+  la: perfectus, perfecta, perfectum
+  en: complete, perfect
+  ref: g-05
+- id: iv47-v-salus
+  type: vocab
+  la: salūs, salūtis
+  en: safety, welfare, health
+  ref: g-06
+- id: iv47-v-supremus
+  type: vocab
+  la: suprēmus, suprēma, suprēmum
+  en: highest, last
+  ref: g-06
+- id: iv47-v-foris
+  type: vocab
+  la: forīs
+  en: outdoors, outside
+  ref: g-06
+- id: iv47-v-violo
+  type: vocab
+  la: violō, violāre, violāvī, violātum
+  en: break (a law), violate
+  ref: g-15
+- id: iv47-v-present-imperative
+  type: vocab
+  la: present imperative
+  en: 'the "now" command: *amā, amāte*'
+  ref: g-01
+- id: iv47-v-future-imperative
+  type: vocab
+  la: future imperative
+  en: 'the "shall" command, for later or always: *amātō, amātōte, amantō*'
+  ref: g-03
+- id: iv47-v-prohibition
+  type: vocab
+  la: prohibition
+  en: 'a "don''t" command: *Nōlī timēre · Nē tangitō*'
+  ref: g-01
+- id: iv47-f-01
+  type: forms
+  q: '*Nōlī timēre!* What is *nōlī*, literally, and what follows it?'
+  a: 'The command of *nōlō*: "be unwilling!" An infinitive follows: "be unwilling to be afraid."'
+  ref: g-01
+- id: iv47-f-02
+  type: forms
+  q: Why not *Nōn timē!* for "Don't be afraid!"?
+  a: '*Nōn* is the "not" of facts. Prose forbids with *nōlī* + infinitive: *Nōlī timēre!*'
+  ref: g-01
+- id: iv47-f-03
+  type: forms
+  q: '"Don''t lie!" "Don''t forget the cheese!"'
+  a: '*Nōlī mentīrī! Nōlī oblīvīscī cāseī!*'
+  ref: g-01
+- id: iv47-f-04
+  type: forms
+  q: '*Nōlīte timēre; ecce enim ēvangelizō vōbīs gaudium magnum.* (Luke 2:10)'
+  a: '"Don''t be afraid, y''all; for look, I bring you good news of great joy."'
+  ref: g-02
+- id: iv47-f-05
+  type: forms
+  q: '*Habēte fīdūciam, ego sum; nōlīte timēre!* (Matthew 14:27)'
+  a: '"Have courage, it is I; don''t be afraid!"'
+  ref: g-02
+- id: iv47-f-06
+  type: forms
+  q: '*Nōlī mē tangere, nōndum enim ascendī ad Patrem meum.* (John 20:17)'
+  a: '"Don''t touch me, for I have not yet gone up to my Father."'
+  ref: g-02
+- id: iv47-f-07
+  type: forms
+  q: '"Don''t be afraid of the dog, kids!"'
+  a: '*Nōlīte canem timēre, līberī!*'
+  ref: g-02
+- id: iv47-f-08
+  type: forms
+  q: '*Aequam mementō … servāre mentem.* (Horace) What is *mementō*?'
+  a: '"Remember!": the future imperative of *meminī*, its only command.'
+  ref: g-03
+- id: iv47-f-09
+  type: forms
+  q: Make the "shall" command (you) of *amō, videō, audiō*.
+  a: '*amātō, vidētō, audītō*'
+  ref: g-03
+- id: iv47-f-10
+  type: forms
+  q: Make the "shall" command (you) of *dūcō, legō, capiō*.
+  a: '*dūcitō, legitō, capitō* (short *e* → *i*)'
+  ref: g-03
+- id: iv47-f-11
+  type: forms
+  q: '*dīc, dūc, fac, fer* as "shall" commands?'
+  a: '*dīcitō, dūcitō, facitō, fertō*: no clipping.'
+  ref: g-03
+- id: iv47-f-12
+  type: forms
+  q: 'Chant *amō*''s "shall" command: you, he, y''all, they.'
+  a: '*Amātō, amātō, amātōte, amantō.*'
+  ref: g-04
+- id: iv47-f-13
+  type: forms
+  q: '"They shall" of *videō, dūcō, audiō, capiō*?'
+  a: '*videntō, dūcuntō, audiuntō, capiuntō*'
+  ref: g-04
+- id: iv47-f-14
+  type: forms
+  q: '*Avus amātō*: "you shall" or "he shall"?'
+  a: '"Grandpa shall love": he. *-tō* serves both; context decides.'
+  ref: g-04
+- id: iv47-f-15
+  type: forms
+  q: '"The kids shall guard the cheese. Grandpa shall sleep."'
+  a: '*Līberī cāseum custōdiuntō. Avus dormītō.*'
+  ref: g-04
+- id: iv47-f-16
+  type: forms
+  q: 'The "shall" command of *sum*: you, y''all, they.'
+  a: '*estō, estōte, suntō*'
+  ref: g-05
+- id: iv47-f-17
+  type: forms
+  q: '*Estōte ergō vōs perfectī, sīcut Pater vester caelestis perfectus est.* (Matthew 5:48)'
+  a: '"Be perfect, therefore, as your heavenly Father is perfect."'
+  ref: g-05
+- id: iv47-f-18
+  type: forms
+  q: 'The "shall" command of *eō*: you, y''all, they.'
+  a: '*ītō, ītōte, euntō*'
+  ref: g-05
+- id: iv47-f-19
+  type: forms
+  q: '*Domine, mementō meī, cum vēneris in rēgnum tuum.* (Luke 23:42)'
+  a: '"Lord, remember me when you come into your kingdom."'
+  ref: g-05
+- id: iv47-f-20
+  type: forms
+  q: '*fīliolō mē auctum scītō, salvā Terentiā.* (Cicero, *Att.* 1.2.1)'
+  a: '"Know that I''ve been blessed with a little son, and Terentia is safe."'
+  ref: g-05
+- id: iv47-f-21
+  type: forms
+  q: '*Mīlitiae summum iūs habentō, nēminī pārentō.* (Cicero, *On the Laws* 3.8)'
+  a: '"In the field they shall have the highest authority; they shall obey no one."'
+  ref: g-06
+- id: iv47-f-22
+  type: forms
+  q: '*Salūs populī suprēma lēx estō.* (Cicero, *On the Laws* 3.8)'
+  a: '"The welfare of the people shall be the highest law."'
+  ref: g-06
+- id: iv47-f-23
+  type: forms
+  q: '"The dog shall stay outdoors."'
+  a: '*Canis forīs manētō.*'
+  ref: g-06
+- id: iv47-f-24
+  type: forms
+  q: '*Lībum hoc modō facitō. … Ōvum ūnum additō et ūnā permiscētō bene.* (Cato 75)'
+  a: '"Make a cheese cake this way. … Add one egg and mix it all together well."'
+  ref: g-07
+- id: iv47-f-25
+  type: forms
+  q: '"Tomorrow, if you go to Rome, buy cheese."'
+  a: '*Crās, sī Rōmam ībis, cāseum emitō.*'
+  ref: g-07
+- id: iv47-f-26
+  type: forms
+  q: 'The Law of Later and Forever: when the present imperative, when the future?'
+  a: 'Present (*amā*): now, to the person in front of you. Future (*amātō*): later or always: after "if/when," in laws, recipes, wills, letters.'
+  ref: g-07
+- id: iv47-f-27
+  type: forms
+  q: '*In urbe nē sepelītō nēve ūritō.* (Twelve Tables, in Cicero)'
+  a: '"One shall not bury or burn [a dead man] in the city."'
+  ref: g-08
+- id: iv47-f-28
+  type: forms
+  q: '"Dad shall not sing. No one shall touch the cheese."'
+  a: '*Pater nē cantātō. Cāseum nēmō tangitō.*'
+  ref: g-08
+- id: iv47-f-29
+  type: forms
+  q: '*Equō nē crēdite, Teucrī.* (Vergil, *Aeneid* 2.48)'
+  a: '"Don''t trust the horse, Trojans." Poet''s *nē* + present imperative.'
+  ref: g-09
+- id: iv47-f-30
+  type: forms
+  q: '*Tū nē cēde malīs, sed contrā audentior ītō.* (*Aeneid* 6.95)'
+  a: '"Don''t give in to troubles, but go against them more boldly."'
+  ref: g-09
+- id: iv47-f-31
+  type: forms
+  q: '"Don''t be afraid, y''all" three ways: talk, law, poetry.'
+  a: '*Nōlīte timēre · Nē timētōte · Nē timēte*'
+  ref: g-09
+- id: iv47-f-32
+  type: forms
+  q: '*Nōn occīdēs. Nōn fūrtum faciēs.* (Exodus 20)'
+  a: '"You shall not kill. You shall not steal." Plain future with *nōn*.'
+  ref: g-10
+- id: iv47-f-33
+  type: forms
+  q: '*Nē timeās.* (Luke 1:30)'
+  a: '"Don''t be afraid." A subjunctive chunk (Liber V).'
+  ref: g-11
+- id: iv47-f-34
+  type: forms
+  q: 'The Law of the Five Don''ts: name the five styles.'
+  a: '*nōlī* + inf. (talk) · *nē* + *-tō* (laws) · *nē* + plain command (poetry) · *nōn* + future (Bible) · *nē* + subjunctive (chunks, Liber V).'
+  ref: g-11
+- id: iv47-c-noli
+  type: choose
+  q: '"Don''t touch the cheese!" (everyday):'
+  options:
+  - Nōlī cāseum tangere!
+  - Nōlī cāseum tange!
+  - Nōn cāseum tange!
+  a: Nōlī cāseum tangere!
+  why: '*Nōlī* takes the infinitive; *nōn* + command isn''t prose.'
+  ref: g-13
+- id: iv47-c-they
+  type: choose
+  q: '"The children shall guard the cheese":'
+  options:
+  - Līberī cāseum custōdiuntō.
+  - Līberī cāseum custōdītō.
+  - Līberī cāseum custōdīte.
+  a: Līberī cāseum custōdiuntō.
+  why: '"They shall" is *-ntō*.'
+  ref: g-14
+- id: iv47-c-law
+  type: choose
+  q: 'A law: "One shall not touch the cheese":'
+  options:
+  - Cāseum nē tangitō.
+  - Cāseum nōn tangitō.
+  - Cāseum nōlī tangitō.
+  a: Cāseum nē tangitō.
+  why: Laws forbid with *nē* + the future imperative.
+  ref: g-14
+- id: iv47-c-memento
+  type: choose
+  q: '"Remember me!":'
+  options:
+  - Mementō meī!
+  - Meminī meī!
+  - Meministī meī!
+  a: Mementō meī!
+  why: '*Meminī* is "I remember"; its command is *mementō*.'
+  ref: g-14
+- id: iv47-c-esto
+  type: choose
+  q: '*Estō* means:'
+  options:
+  - be! / let it be
+  - is
+  - eats
+  a: be! / let it be
+  why: '*Est* is "is"; Chapter 4''s *ēst* is "eats."'
+  ref: g-13
+- id: iv47-e-01
+  type: error
+  q: 'Fix: *Nōlīte timēte.* (Don''t be afraid, y''all.)'
+  a: '*Nōlīte timēre.* After *nōlīte*, the infinitive.'
+  ref: g-14
+- id: iv47-e-02
+  type: error
+  q: 'Fix: *Nōlī tangitō!* (Don''t touch!)'
+  a: '*Nōlī tangere!* (talk) or *Nē tangitō!* (law). Not both.'
+  ref: g-13
+- id: iv47-e-03
+  type: error
+  q: 'Fix: *Dūctō!* (Lead, later!)'
+  a: '*Dūcitō!* The third family''s *i* comes back.'
+  ref: g-13
+- id: iv47-e-04
+  type: error
+  q: 'Fix: *Avus cāseum nōn tangitō.* (law: Grandpa shall not touch the cheese)'
+  a: '*Avus cāseum nē tangitō.* Laws forbid with *nē*.'
+  ref: g-14
