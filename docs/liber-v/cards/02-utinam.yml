@@ -1,0 +1,384 @@
+book: v
+ch: 50
+page: liber-v/02-utinam.md
+cards:
+- id: v50-v-utinam-veniat
+  type: vocab
+  la: Utinam veniat!
+  en: If only he would come! I hope he comes!
+  ref: g-01
+- id: v50-v-utinam-ne-pluat
+  type: vocab
+  la: Utinam nē pluat!
+  en: If only it doesn't rain!
+  ref: g-04
+- id: v50-v-di-te-ament
+  type: vocab
+  la: Dī tē ament!
+  en: May the gods love you! Bless you!
+  ref: g-05
+- id: v50-v-vivat-rex
+  type: vocab
+  la: Vīvat rēx!
+  en: Long live the king!
+  ref: g-06
+- id: v50-v-velim-caseum
+  type: vocab
+  la: Velim cāseum.
+  en: I'd like some cheese.
+  ref: g-10
+- id: v50-v-quid-velis
+  type: vocab
+  la: Quid velīs?
+  en: What would you like?
+  ref: g-10
+- id: v50-v-da-mihi-sis-caseum
+  type: vocab
+  la: Dā mihi, sīs, cāseum.
+  en: Give me the cheese, please.
+  ref: g-11
+- id: v50-v-dicat-aliquis
+  type: vocab
+  la: Dīcat aliquis…
+  en: Someone might say…
+  ref: g-08
+- id: v50-v-credas
+  type: vocab
+  la: Crēdās…
+  en: You'd think…
+  ref: g-09
+- id: v50-v-vellem
+  type: vocab
+  la: Vellem…
+  en: I wish… (but it can't be)
+  ref: g-12
+- id: v50-v-utinam
+  type: vocab
+  la: utinam
+  en: if only, I wish that, oh that
+  ref: g-01
+- id: v50-v-pluit-pluere-pluit
+  type: vocab
+  la: pluit, pluere, pluit
+  en: it rains
+  ref: g-04
+- id: v50-v-valeo-valere-valui
+  type: vocab
+  la: valeō, valēre, valuī
+  en: be well, be strong
+  ref: g-05
+- id: v50-v-requiesco-requiescere-requievi-requietum
+  type: vocab
+  la: requiēscō, requiēscere, requiēvī, requiētum
+  en: rest
+  ref: g-05
+- id: v50-v-levis-leve
+  type: vocab
+  la: levis, leve
+  en: light (not heavy); fickle
+  ref: g-05
+- id: v50-v-faustus-fausta-faustum
+  type: vocab
+  la: faustus, fausta, faustum
+  en: lucky
+  ref: g-05
+- id: v50-v-deus-dei
+  type: vocab
+  la: deus, deī
+  en: god (m.; plural *dī*)
+  ref: g-03
+- id: v50-v-sis
+  type: vocab
+  la: sīs
+  en: please, if you please (short for *sī vīs*)
+  ref: g-11
+- id: v50-v-comiter
+  type: vocab
+  la: cōmiter
+  en: politely, kindly
+  ref: g-15
+- id: v50-v-optative-subjunctive
+  type: vocab
+  la: optative subjunctive
+  en: 'the "if only / may it" subjunctive: *Utinam veniat! Vīvat rēx!*'
+  ref: g-01
+- id: v50-v-potential-subjunctive
+  type: vocab
+  la: potential subjunctive
+  en: 'the "would / might" subjunctive: *Dīcat aliquis… Crēdās…*'
+  ref: g-08
+- id: v50-f-01
+  type: forms
+  q: '*Veniat!* vs *Utinam veniat!*'
+  a: '*Veniat!*: let him come (order). *Utinam veniat!*: if only he would come (wish).'
+  ref: g-01
+- id: v50-f-02
+  type: forms
+  q: What is the optative subjunctive, in plain words?
+  a: 'The "if only / may it" subjunctive: a wish. *Utinam veniat! Vīvat rēx!*'
+  ref: g-01
+- id: v50-f-03
+  type: forms
+  q: '*Utinam* + present subjunctive: can the wish still come true?'
+  a: 'Yes: a wish for the future that may still happen. (Impossible wishes need other tenses: Chapters 52–53.)'
+  ref: g-01
+- id: v50-f-04
+  type: forms
+  q: '*Utinam valeās!*'
+  a: 'I hope you''re well! (*valeō*: be well, the verb in *Valē!*)'
+  ref: g-01
+- id: v50-f-05
+  type: forms
+  q: '*Sanctificētur nōmen tuum, adveniat rēgnum tuum, fīat voluntās tua*: order or wish?'
+  a: 'Wish (optative): may your name be made holy, may your kingdom come, may your will be done.'
+  ref: g-02
+- id: v50-f-06
+  type: forms
+  q: '*Fīat lūx* vs *Fīat voluntās tua*: same job?'
+  a: 'Same form, different job. *Fīat lūx*: God orders (jussive). *Fīat voluntās tua*: a person wishes (optative).'
+  ref: g-02
+- id: v50-f-07
+  type: forms
+  q: '*Volō* vs *velim*?'
+  a: '*Volō*: I want (blunt). *Velim*: I''d like (soft).'
+  ref: g-02
+- id: v50-f-08
+  type: forms
+  q: Four ways to say please (Chapters 11 and 50)?
+  a: '*quaesō*, *amābō tē*, *sīs* (= *sī vīs*), and *velim* (I''d like).'
+  ref: g-11
+- id: v50-f-09
+  type: forms
+  q: '*Utinam tibi istam mentem dī immortālēs duint!* (Cicero, *Against Catiline* 1.22)'
+  a: 'If only the immortal gods would give you that idea! (*duint*: old form of *dent*)'
+  ref: g-03
+- id: v50-f-10
+  type: forms
+  q: '"If only Grandma would give us cheese!"'
+  a: '*Utinam Avia nōbīs cāseum det!*'
+  ref: g-03
+- id: v50-f-11
+  type: forms
+  q: What is the "not" of a wish?
+  a: '*Nē*: *Utinam nē pluat!* If only it doesn''t rain!'
+  ref: g-04
+- id: v50-f-12
+  type: forms
+  q: '"May the dog not eat the cheese!"'
+  a: '*(Utinam) nē canis cāseum edat!*'
+  ref: g-04
+- id: v50-f-13
+  type: forms
+  q: '*Nōn pluit* vs *Utinam nē pluat*?'
+  a: '*Nōn pluit*: it isn''t raining (fact). *Utinam nē pluat*: if only it doesn''t rain (wish).'
+  ref: g-04
+- id: v50-f-14
+  type: forms
+  q: '*Dī tē ament, Megadōre.* (Plautus, *The Pot of Gold* 183)'
+  a: May the gods love you, Megadorus. (A greeting and thank-you, like "God bless you.")
+  ref: g-05
+- id: v50-f-15
+  type: forms
+  q: '*Valē!* vs *Valeās!*'
+  a: '*Valē*: be well! (command). *Valeās*: may you be well! (wish). Both mean goodbye.'
+  ref: g-05
+- id: v50-f-16
+  type: forms
+  q: '*Sit tibi terra levis.* (S·T·T·L)'
+  a: May the earth be light on you. (Roman tombstones)
+  ref: g-05
+- id: v50-f-17
+  type: forms
+  q: '*Requiēscat in pāce.*'
+  a: May he (she) rest in peace. Plural *Requiēscant*.
+  ref: g-05
+- id: v50-f-18
+  type: forms
+  q: '*Quod bonum, faustum fēlīxque sit, Quirītēs, rēgem creāte.* (Livy 1.17.10)'
+  a: 'May it be good, lucky, and happy, citizens: choose a king.'
+  ref: g-05
+- id: v50-f-19
+  type: forms
+  q: '*Vīvant professōrēs!*'
+  a: Long live the teachers! (from the student song *Gaudeāmus*)
+  ref: g-06
+- id: v50-f-20
+  type: forms
+  q: '"Long live Grandma! Long live the cheese!"'
+  a: '*Vīvat Avia! Vīvat cāseus!*'
+  ref: g-06
+- id: v50-f-21
+  type: forms
+  q: '"May y''all be well!"'
+  a: '*Valeātis!*'
+  ref: g-06
+- id: v50-f-22
+  type: forms
+  q: '*Marcus cāseum ferat!*: wish or order?'
+  a: 'Either: let Marcus carry it (order, jussive) or may Marcus carry it (wish, optative). Speaker and sense decide; *utinam* always marks a wish.'
+  ref: g-07
+- id: v50-f-23
+  type: forms
+  q: '*Requiēscat in pāce*: order or wish?'
+  a: 'Wish: nobody can order the dead to rest.'
+  ref: g-07
+- id: v50-f-24
+  type: forms
+  q: What is the potential subjunctive, in plain words?
+  a: 'The "would / might" subjunctive: what could be. *Dīcat aliquis…* Someone might say…'
+  ref: g-08
+- id: v50-f-25
+  type: forms
+  q: '*Quis hoc crēdat?*'
+  a: Who would believe this?
+  ref: g-08
+- id: v50-f-26
+  type: forms
+  q: What is the "not" of the potential?
+  a: '*Nōn*: *Nōn crēdat*, he wouldn''t believe it.'
+  ref: g-08
+- id: v50-f-27
+  type: forms
+  q: '*Hoc nōn dīcam*: future or potential?'
+  a: 'Either: I won''t say this, or I wouldn''t say this. Sense decides.'
+  ref: g-08
+- id: v50-f-28
+  type: forms
+  q: '*pelagō crēdās innāre revulsās Cycladas* (Vergil, *Aeneid* 8.691–692)'
+  a: You'd think the Cyclades, torn loose, were swimming on the sea.
+  ref: g-09
+- id: v50-f-29
+  type: forms
+  q: Who is "you" in *crēdās*, "you'd think"?
+  a: 'Anyone: a general "you," "one would think."'
+  ref: g-09
+- id: v50-f-30
+  type: forms
+  q: '"You''d think the dog was praying."'
+  a: '*Crēdās canem ōrāre.*'
+  ref: g-09
+- id: v50-f-31
+  type: forms
+  q: '*Velim · nōlim · mālim*?'
+  a: I'd like · I'd rather not · I'd prefer.
+  ref: g-10
+- id: v50-f-32
+  type: forms
+  q: '"I''d like to go to the river."'
+  a: '*Ad flūmen īre velim.*'
+  ref: g-10
+- id: v50-f-33
+  type: forms
+  q: '"I''d rather not sing. I''d prefer to sleep."'
+  a: '*Cantāre nōlim. Dormīre mālim.*'
+  ref: g-10
+- id: v50-f-34
+  type: forms
+  q: Two words *sīs*?
+  a: '*sīs* = you may be (*sim, sīs, sit*); *sīs* = please (*sī vīs*, "if you want").'
+  ref: g-11
+- id: v50-f-35
+  type: forms
+  q: '*Velim mihi scrībās.*'
+  a: I'd like you to write to me. (A chunk; the pattern is Chapter 56's.)
+  ref: g-11
+- id: v50-f-36
+  type: forms
+  q: 'Make polite: *Volō cāseum! · Quid vīs? · Nōlō!*'
+  a: '*Velim cāseum. · Quid velīs? · Nōlim.*'
+  ref: g-11
+- id: v50-f-37
+  type: forms
+  q: '*Velim cāseum* vs *Vellem cāseum*?'
+  a: '*Velim*: I''d like some cheese (I may get it). *Vellem*: I wish I had cheese (but I won''t).'
+  ref: g-12
+- id: v50-f-38
+  type: forms
+  q: '*Quam vellem nescīre litterās!* (Nero, in Suetonius, *Nero* 10.2)'
+  a: How I wish I didn't know how to write! (asked to sign a death sentence)
+  ref: g-12
+- id: v50-f-39
+  type: forms
+  q: '"If only the sun would come back!"'
+  a: '*Utinam sōl redeat!*'
+  ref: g-13
+- id: v50-f-40
+  type: forms
+  q: '"May John speak Latin well!"'
+  a: '*Iōannēs Latīnē bene loquātur!*'
+  ref: g-13
+- id: v50-f-41
+  type: forms
+  q: '"If only we don''t fall into the river!"'
+  a: '*Utinam nē in flūmen cadāmus!*'
+  ref: g-13
+- id: v50-c-01
+  type: choose
+  q: '"If only it doesn''t rain!"'
+  options:
+  - Utinam nē pluat!
+  - Utinam nōn pluat!
+  - Utinam nē pluit!
+  a: Utinam nē pluat!
+  why: Wishes take *nē* and the subjunctive *pluat*.
+  ref: g-14
+- id: v50-c-02
+  type: choose
+  q: '"I''d like some cheese." (politely)'
+  options:
+  - Velim cāseum.
+  - Volō cāseum.
+  - Vellem cāseum.
+  a: Velim cāseum.
+  why: '*Volō* is blunt; *vellem* is a wish that can''t come true.'
+  ref: g-10
+- id: v50-c-03
+  type: choose
+  q: '"You wouldn''t believe it!"'
+  options:
+  - Nōn crēdās!
+  - Nē crēdās!
+  - Nōn crēdis!
+  a: Nōn crēdās!
+  why: The potential's "not" is *nōn*; *Nē crēdās* is "don't believe it."
+  ref: g-14
+- id: v50-c-04
+  type: choose
+  q: '"Long live the king!"'
+  options:
+  - Vīvat rēx!
+  - Vīvit rēx!
+  - Vīve, rēx!
+  a: Vīvat rēx!
+  why: 'A wish: the subjunctive *vīvat*.'
+  ref: g-06
+- id: v50-c-05
+  type: choose
+  q: '*Dā mihi, ___, cāseum.* (please)'
+  options:
+  - sīs
+  - es
+  - sit
+  a: sīs
+  why: '*Sīs* = *sī vīs*, please.'
+  ref: g-11
+- id: v50-e-01
+  type: error
+  q: 'Fix: *Utinam venit!* (If only he would come!)'
+  a: '*Utinam veniat!* A wish needs the subjunctive.'
+  ref: g-14
+- id: v50-e-02
+  type: error
+  q: 'Fix: *Utinam nōn cadās!* (I hope you don''t fall!)'
+  a: '*Utinam nē cadās!* Wishes take *nē*.'
+  ref: g-14
+- id: v50-e-03
+  type: error
+  q: 'Fix: *Dā mihi, es, aquam.* (Give me water, please.)'
+  a: '*Dā mihi, sīs, aquam.* "Please" is *sīs* (*sī vīs*).'
+  ref: g-14
+- id: v50-e-04
+  type: error
+  q: 'Fix: *Vellem ad flūmen īre.* (I''d like to go to the river, and I can.)'
+  a: '*Ad flūmen īre velim.* *Vellem* is for wishes that can''t come true.'
+  ref: g-12

@@ -82,5 +82,6 @@ nav:
   - "Liber V: Modus Subiūnctīvus":
       - liber-v/index.md
       - "XLIX. Eāmus!": liber-v/01-eamus.md
+      - "L. Utinam!": liber-v/02-utinam.md
   - "Liber VI: Ad Auctōrēs":
       - liber-vi/index.md
