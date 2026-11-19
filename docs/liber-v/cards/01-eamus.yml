@@ -1,0 +1,379 @@
+book: v
+ch: 49
+page: liber-v/01-eamus.md
+cards:
+- id: v49-v-eamus
+  type: vocab
+  la: Eāmus!
+  en: Let's go!
+  ref: g-01
+- id: v49-v-ne-cantemus
+  type: vocab
+  la: Nē cantēmus!
+  en: Let's not sing!
+  ref: g-11
+- id: v49-v-marcus-caseum-ferat
+  type: vocab
+  la: Marcus cāseum ferat.
+  en: Let Marcus carry the cheese. Marcus should carry the cheese.
+  ref: g-10
+- id: v49-v-quid-faciam
+  type: vocab
+  la: Quid faciam?
+  en: What am I to do? What should I do?
+  ref: g-12
+- id: v49-v-fiat
+  type: vocab
+  la: Fīat!
+  en: Let it be done! So be it!
+  ref: g-02
+- id: v49-v-igitur
+  type: vocab
+  la: igitur
+  en: so, therefore, then
+  ref: g-04
+- id: v49-v-hinc
+  type: vocab
+  la: hinc
+  en: from here, hence
+  ref: g-01
+- id: v49-v-surgo-surgere-surrexi-surrec
+  type: vocab
+  la: surgō, surgere, surrēxī, surrēctum
+  en: get up, rise
+  ref: g-01
+- id: v49-v-oro-orare-oravi-oratum
+  type: vocab
+  la: ōrō, ōrāre, ōrāvī, ōrātum
+  en: pray, beg
+  ref: g-09
+- id: v49-v-laetor-laetari-laetatus-sum
+  type: vocab
+  la: laetor, laetārī, laetātus sum
+  en: rejoice, be glad
+  ref: g-08
+- id: v49-v-cedo-cedere-cessi-cessum
+  type: vocab
+  la: cēdō, cēdere, cessī, cessum
+  en: give way to, yield to (+ dative)
+  ref: g-09
+- id: v49-v-arma-armorum
+  type: vocab
+  la: arma, armōrum
+  en: weapons, arms; war (n. pl.)
+  ref: g-10
+- id: v49-v-advenio-advenire-adveni-adve
+  type: vocab
+  la: adveniō, advenīre, advēnī, adventum
+  en: arrive, come
+  ref: g-07
+- id: v49-v-voluntas-voluntatis
+  type: vocab
+  la: voluntās, voluntātis
+  en: will, wish (f.)
+  ref: g-07
+- id: v49-v-convivium-convivii
+  type: vocab
+  la: convīvium, convīviī
+  en: feast, dinner party (n.)
+  ref: g-16
+- id: v49-v-quare
+  type: vocab
+  la: quārē
+  en: why?
+  ref: g-13
+- id: v49-v-revoco-revocare-revocavi-rev
+  type: vocab
+  la: revocō, revocāre, revocāvī, revocātum
+  en: call back
+  ref: g-12
+- id: v49-v-mood
+  type: vocab
+  la: mood
+  en: 'the verb''s attitude: fact, command, or maybe'
+  ref: g-01
+- id: v49-v-indicative
+  type: vocab
+  la: indicative
+  en: 'the "fact" mood: *Īmus*'
+  ref: g-01
+- id: v49-v-imperative
+  type: vocab
+  la: imperative
+  en: 'the "command" mood: *Īte!*'
+  ref: g-01
+- id: v49-v-subjunctive
+  type: vocab
+  la: subjunctive
+  en: 'the "maybe / let''s / should" mood: *Eāmus!*'
+  ref: g-01
+- id: v49-v-hortatory-subjunctive
+  type: vocab
+  la: hortatory subjunctive
+  en: 'the "let''s" subjunctive: *Eāmus! Nē cantēmus!*'
+  ref: g-09
+- id: v49-v-jussive-subjunctive
+  type: vocab
+  la: jussive subjunctive
+  en: 'the "let him / let them" subjunctive: *Fīat lūx*'
+  ref: g-10
+- id: v49-v-deliberative-subjunctive
+  type: vocab
+  la: deliberative subjunctive
+  en: 'the "what am I to do?" subjunctive: *Quid faciam?*'
+  ref: g-12
+- id: v49-f-01
+  type: forms
+  q: '*Īmus · Īte! · Eāmus!* Name the three moods.'
+  a: 'Indicative (fact: we go) · imperative (command: go!) · subjunctive (let''s go!).'
+  ref: g-01
+- id: v49-f-02
+  type: forms
+  q: '*Fit* vs *fīat*?'
+  a: '*Fit*: it becomes, it is made (fact). *Fīat*: let it be made, let it happen (subjunctive).'
+  ref: g-02
+- id: v49-f-03
+  type: forms
+  q: '*Dō ut dēs · ut vīvās · ut edās*: which words are subjunctive?'
+  a: '*Dēs, vīvās, edās* (you may give, live, eat). Why *ut* wants them: Chapter 51.'
+  ref: g-02
+- id: v49-f-04
+  type: forms
+  q: Present subjunctive of *amō*, all six.
+  a: '*amem, amēs, amet, amēmus, amētis, ament*'
+  ref: g-03
+- id: v49-f-05
+  type: forms
+  q: Why short *e* in *amem, amet, ament*?
+  a: A long vowel goes short before final *-m*, final *-t*, and *-nt* (as in *amat, amant*).
+  ref: g-03
+- id: v49-f-06
+  type: forms
+  q: 'Subjunctive of *dō*: I, you, he.'
+  a: '*dem, dēs, det* (then *dēmus, dētis, dent*).'
+  ref: g-03
+- id: v49-f-07
+  type: forms
+  q: Present subjunctive of *habeō*, all six.
+  a: '*habeam, habeās, habeat, habeāmus, habeātis, habeant*'
+  ref: g-04
+- id: v49-f-08
+  type: forms
+  q: Present subjunctive of *dūcō*, all six.
+  a: '*dūcam, dūcās, dūcat, dūcāmus, dūcātis, dūcant*'
+  ref: g-04
+- id: v49-f-09
+  type: forms
+  q: '"We fEAr A lIAr": what does it remember?'
+  a: 'The "we" vowels: *amēmus* (e), *habeāmus* (ea), *dūcāmus* (a), *capiāmus / audiāmus* (ia).'
+  ref: g-04
+- id: v49-f-10
+  type: forms
+  q: '*Gaudeāmus igitur, iuvenēs dum sumus.*'
+  a: So let's be glad, while we are young. (medieval student song)
+  ref: g-04
+- id: v49-f-11
+  type: forms
+  q: '*Vīvāmus, mea Lesbia, atque amēmus.* (Catullus 5.1)'
+  a: Let's live, my Lesbia, and let's love.
+  ref: g-04
+- id: v49-f-12
+  type: forms
+  q: '*Dūcam*: future or subjunctive?'
+  a: 'Either: "I will lead" or "I may / should I lead?" Only sense decides.'
+  ref: g-05
+- id: v49-f-13
+  type: forms
+  q: '*Habēs* vs *amēs*: which is the fact?'
+  a: '*Habēs* (2nd family, "you have"). *Amēs* is 1st family, so *ē* = subjunctive.'
+  ref: g-05
+- id: v49-f-14
+  type: forms
+  q: Present subjunctive of *sum*, all six.
+  a: '*sim, sīs, sit, sīmus, sītis, sint*'
+  ref: g-06
+- id: v49-f-15
+  type: forms
+  q: Present subjunctive of *possum*, all six.
+  a: '*possim, possīs, possit, possīmus, possītis, possint*'
+  ref: g-06
+- id: v49-f-16
+  type: forms
+  q: '"I" subjunctive of *volō, nōlō, mālō*?'
+  a: '*velim, nōlim, mālim* (note *vel-*).'
+  ref: g-06
+- id: v49-f-17
+  type: forms
+  q: Present subjunctive of *eō*, all six.
+  a: '*eam, eās, eat, eāmus, eātis, eant*'
+  ref: g-07
+- id: v49-f-18
+  type: forms
+  q: '*Eat* in Latin?'
+  a: '"Let him go": subjunctive of *eō*. Two syllables: E-at.'
+  ref: g-07
+- id: v49-f-19
+  type: forms
+  q: '*Adveniat rēgnum tuum, fīat voluntās tua.* (Matthew 6:10)'
+  a: Thy kingdom come, thy will be done.
+  ref: g-07
+- id: v49-f-20
+  type: forms
+  q: The Law of the Swapped Vowel in one line?
+  a: 'First family *a* → *e*; all others: "I" form *-ō* → *-am*; *sim, possim, velim, nōlim, mālim* take *-im*.'
+  ref: g-07
+- id: v49-f-21
+  type: forms
+  q: '*Sanctificētur nōmen tuum.* (Matthew 6:9)'
+  a: 'Hallowed be thy name: let your name be made holy.'
+  ref: g-08
+- id: v49-f-22
+  type: forms
+  q: '"Let''s speak! Let''s follow!" (deponents)'
+  a: '*Loquāmur! Sequāmur!*'
+  ref: g-08
+- id: v49-f-23
+  type: forms
+  q: '*Trānseāmus usque Bethleem et videāmus hoc verbum quod factum est.* (Luke 2:15)'
+  a: Let's go over to Bethlehem and see this thing that has happened.
+  ref: g-09
+- id: v49-f-24
+  type: forms
+  q: '*Faciāmus hominem ad imāginem et similitūdinem nostram.* (Genesis 1:26)'
+  a: Let us make man in our image and likeness.
+  ref: g-09
+- id: v49-f-25
+  type: forms
+  q: '*Omnia vincit Amor: et nōs cēdāmus Amōrī.* (Eclogues 10.69)'
+  a: 'Love conquers all: let us too yield to Love.'
+  ref: g-09
+- id: v49-f-26
+  type: forms
+  q: '*Ōrēmus.*'
+  a: Let us pray.
+  ref: g-09
+- id: v49-f-27
+  type: forms
+  q: '*Cēdant arma togae.* (Cicero)'
+  a: Let weapons give way to the toga.
+  ref: g-10
+- id: v49-f-28
+  type: forms
+  q: '*Marcus cāseum portet* vs *Marcus cāseum portātō*?'
+  a: '*Portet*: talk, "let Marcus carry it" (jussive). *Portātō*: the "shall" command of laws and recipes.'
+  ref: g-10
+- id: v49-f-29
+  type: forms
+  q: '"Dad shouldn''t sing!"'
+  a: '*Nē cantet Pater!*'
+  ref: g-11
+- id: v49-f-30
+  type: forms
+  q: 'Telling one person "don''t" in talk: *nē timeās* or *nōlī timēre*?'
+  a: '*Nōlī timēre.* *Nē timeās* is poetry, comedy, the Bible.'
+  ref: g-11
+- id: v49-f-31
+  type: forms
+  q: '*Quid Rōmae faciam? Mentīrī nesciō.* (Juvenal 3.41)'
+  a: What am I to do in Rome? I don't know how to lie.
+  ref: g-12
+- id: v49-f-32
+  type: forms
+  q: '*Quid igitur faciam? Nōn eam…?* (Terence)'
+  a: 'So what am I to do? Shouldn''t I go…? (*Eam* can''t be future: that''s *ībō*.)'
+  ref: g-12
+- id: v49-f-33
+  type: forms
+  q: '*Exclūsit; revocat: redeam?* (Terence)'
+  a: 'She shut me out; she calls me back: should I go back?'
+  ref: g-12
+- id: v49-f-34
+  type: forms
+  q: 'The Law of Let''s, Let Him, and What Now: the "not" of each?'
+  a: 'Hortatory and jussive: *nē*. Deliberative: *nōn*.'
+  ref: g-12
+- id: v49-f-35
+  type: forms
+  q: 'Catullus 85: *Quārē id faciam, fortasse requīris.* What is *faciam*?'
+  a: Subjunctive ("why I do it"), not future. Its job, a question inside a sentence, is Chapter 53's.
+  ref: g-13
+- id: v49-f-36
+  type: forms
+  q: '"Let''s speak Latin, John!"'
+  a: '*Latīnē loquāmur, Iōannēs!*'
+  ref: g-14
+- id: v49-f-37
+  type: forms
+  q: '*Īmus · Ībimus · Eāmus*?'
+  a: We go · we will go · let's go.
+  ref: g-15
+- id: v49-c-01
+  type: choose
+  q: '"Let''s go to the forum!"'
+  options:
+  - Eāmus ad forum!
+  - Īmus ad forum!
+  - Ībimus ad forum!
+  a: Eāmus ad forum!
+  why: '"Let''s" is the subjunctive *eāmus*; the others are facts.'
+  ref: g-14
+- id: v49-c-02
+  type: choose
+  q: '"Let''s have dinner":'
+  options:
+  - Cēnam habeāmus.
+  - Cēnam habēmus.
+  - Cēnam habēbimus.
+  a: Cēnam habeāmus.
+  why: 'Second family: *-eāmus*. *Habēmus* is "we have."'
+  ref: g-15
+- id: v49-c-03
+  type: choose
+  q: '"Let him be good":'
+  options:
+  - Bonus sit.
+  - Bonus est.
+  - Bonus eat.
+  a: Bonus sit.
+  why: '*Sum* → *sit*. *Eat* is "let him go."'
+  ref: g-15
+- id: v49-c-04
+  type: choose
+  q: '"Should I not go?" (deliberative)'
+  options:
+  - Nōn eam?
+  - Nē eam?
+  - Nōn ībō?
+  a: Nōn eam?
+  why: The deliberative's "not" is *nōn*.
+  ref: g-12
+- id: v49-c-05
+  type: choose
+  q: 'The "I" subjunctive of *volō*:'
+  options:
+  - velim
+  - volam
+  - volem
+  a: velim
+  why: '*Volō* joins the *-im* rebels, with *vel-*.'
+  ref: g-06
+- id: v49-e-01
+  type: error
+  q: 'Fix: *Nōn cantēmus.* (Let''s not sing.)'
+  a: '*Nē cantēmus.* "Let''s" takes *nē*.'
+  ref: g-15
+- id: v49-e-02
+  type: error
+  q: 'Fix: *Canem dūcēmus.* (Let''s lead the dog.)'
+  a: '*Canem dūcāmus.* *Dūcēmus* is the future.'
+  ref: g-05
+- id: v49-e-03
+  type: error
+  q: 'Fix: *Amāmus!* (Let''s love!)'
+  a: '*Amēmus!* First family: *a* → *e*.'
+  ref: g-03
+- id: v49-e-04
+  type: error
+  q: 'Fix: *Volāmus cāseum.* (Let''s want the cheese.)'
+  a: '*Velīmus cāseum.* *Volō* → *velim*.'
+  ref: g-06

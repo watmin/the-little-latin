@@ -6,14 +6,14 @@
 
 *The Subjunctive: Wishes, purposes, reported thought*
 
-!!! info "Coming soon"
-    This book hasn't been written yet. Below is the planned sequence of chapters, which may change as the course grows.
+!!! tip "In progress"
+    Chapters are arriving one by one. Below is the planned sequence, which may change as the course grows.
 
 Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · **S** = speaking goal.
 
 | # | Chapter | Contents | Status |
 |---|---|---|---|
-| 49 | **Eāmus!** | G: present subjunctive forms; hortatory/jussive/deliberative. S: let's… | coming |
+| 49 | [**Eāmus!**](01-eamus.md) | G: present subjunctive forms; hortatory/jussive/deliberative. S: let's… | ✅ available |
 | 50 | **Utinam!** | G: optative; potential; velim/vellem. S: polite requests, wishes. (*vellem* taught as a chunk here; its imperfect-subjunctive form is analyzed in Ch52.) | coming |
 | 51 | **Ut Discam** | G: purpose clauses (ut/nē, relative purpose). | coming |
 | 52 | **Tam Fessus Ut…** | G: imperfect subjunctive; result clauses. | coming |
