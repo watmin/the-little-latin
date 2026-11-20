@@ -15,7 +15,7 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 |---|---|---|---|
 | 49 | [**Eāmus!**](01-eamus.md) | G: present subjunctive forms; hortatory/jussive/deliberative. S: let's… | ✅ available |
 | 50 | [**Utinam!**](02-utinam.md) | G: optative; potential; velim/vellem. S: polite requests, wishes. (*vellem* taught as a chunk here; its imperfect-subjunctive form is analyzed in Ch52.) | ✅ available |
-| 51 | **Ut Discam** | G: purpose clauses (ut/nē, relative purpose). | coming |
+| 51 | [**Ut Discam**](03-ut-discam.md) | G: purpose clauses (ut/nē, relative purpose). | ✅ available |
 | 52 | **Tam Fessus Ut…** | G: imperfect subjunctive; result clauses. | coming |
 | 53 | **Rogō Quid Faciās** | G: perfect/pluperfect subjunctive; indirect questions. | coming |
 | 54 | **Ōrdō Temporum** | G: sequence of tenses. | coming |

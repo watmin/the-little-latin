@@ -1,0 +1,389 @@
+book: v
+ch: 51
+page: liber-v/03-ut-discam.md
+cards:
+- id: v51-v-do-ut-des
+  type: vocab
+  la: Dō ut dēs.
+  en: I give so that you may give.
+  ref: g-01
+- id: v51-v-edo-ut-vivam
+  type: vocab
+  la: Edō ut vīvam.
+  en: I eat (in order) to live.
+  ref: g-04
+- id: v51-v-ad-forum-eo-ut-caseum-emam
+  type: vocab
+  la: Ad forum eō ut cāseum emam.
+  en: I'm going to the forum to buy cheese.
+  ref: g-04
+- id: v51-v-caseum-claudo-ne-canis-eum-edat
+  type: vocab
+  la: Cāseum claudō nē canis eum edat.
+  en: I shut the cheese away so the dog won't eat it.
+  ref: g-07
+- id: v51-v-ne-quis-ne-quid
+  type: vocab
+  la: nē quis… · nē quid…
+  en: so that no one… · so that nothing…
+  ref: g-08
+- id: v51-v-marcum-mitto-qui-caseum-emat
+  type: vocab
+  la: Marcum mittō quī cāseum emat.
+  en: I'm sending Marcus to buy cheese.
+  ref: g-10
+- id: v51-v-ut-subj
+  type: vocab
+  la: ut
+  en: so that, in order to, to (with the subjunctive)
+  ref: g-02
+- id: v51-v-ut-ind
+  type: vocab
+  la: ut
+  en: as (with the indicative)
+  ref: g-13
+- id: v51-v-ne-subj
+  type: vocab
+  la: nē
+  en: so that … not, lest (with the subjunctive)
+  ref: g-07
+- id: v51-v-idcirco
+  type: vocab
+  la: idcircō
+  en: for this reason, that's why
+  ref: g-05
+- id: v51-v-furor-furari-furatus-sum
+  type: vocab
+  la: fūror, fūrārī, fūrātus sum
+  en: steal
+  ref: g-05
+- id: v51-v-gusto-gustare-gustavi-gustatum
+  type: vocab
+  la: gustō, gustāre, gustāvī, gustātum
+  en: taste
+  ref: g-16
+- id: v51-v-osculum-osculi
+  type: vocab
+  la: ōsculum, ōsculī
+  en: kiss (n.)
+  ref: g-16
+- id: v51-v-amabilis-amabile
+  type: vocab
+  la: amābilis, amābile
+  en: lovable
+  ref: g-06
+- id: v51-v-purpose-clause
+  type: vocab
+  la: purpose clause
+  en: 'the "so that / in order to" clause: *ut* or *nē* + subjunctive: *Dō ut dēs*'
+  ref: g-02
+- id: v51-v-relative-purpose-clause
+  type: vocab
+  la: relative purpose clause
+  en: 'a *quī*-clause that tells a goal: *Marcum mittō quī cāseum emat*'
+  ref: g-10
+- id: v51-f-01
+  type: forms
+  q: '*Dō ut dēs*: which word is subjunctive, and why?'
+  a: '*Dēs* (you may give): when I give, your giving is only aimed at, not yet a fact.'
+  ref: g-01
+- id: v51-f-02
+  type: forms
+  q: '*Dō ut dēs*'
+  a: I give so that you may give.
+  ref: g-01
+- id: v51-f-03
+  type: forms
+  q: '*aut dō ut faciās, aut faciō ut dēs*'
+  a: either I give so that you may do (something), or I do so that you may give. (Paulus, *Digest* 19.5.5)
+  ref: g-01
+- id: v51-f-04
+  type: forms
+  q: '"I''ll fix your roof if you give me cheese": which of Paulus''s four swaps?'
+  a: '*Faciō ut dēs*: I do so that you may give.'
+  ref: g-01
+- id: v51-f-05
+  type: forms
+  q: What is a purpose clause, in plain words?
+  a: 'The "so that / in order to" clause: it tells why. *Ut* (or *nē*) + subjunctive. Old-school: "final clause."'
+  ref: g-02
+- id: v51-f-06
+  type: forms
+  q: '*Latīnē legō ut discam.*'
+  a: I read Latin so that I may learn / to learn.
+  ref: g-02
+- id: v51-f-07
+  type: forms
+  q: '*discam* after *ut*: future or subjunctive?'
+  a: 'Subjunctive: "so that I may learn." (Same spelling as the future.)'
+  ref: g-02
+- id: v51-f-08
+  type: forms
+  q: '*Ēsse oportet ut vīvās, nōn vīvere ut edās.*'
+  a: One ought to eat so that one may live, not live so that one may eat. Eat to live; don't live to eat.
+  ref: g-03
+- id: v51-f-09
+  type: forms
+  q: '*nōn ut edam vīvō, sed ut vīvam edō*'
+  a: I don't live to eat, but I eat to live. (Quintilian 9.3.85)
+  ref: g-03
+- id: v51-f-10
+  type: forms
+  q: '"Eat to live": can Latin prose use a plain infinitive for "to live"?'
+  a: 'No: a goal is *ut* + subjunctive: *ut vīvās*.'
+  ref: g-03
+- id: v51-f-11
+  type: forms
+  q: '"I''m going to the forum to buy cheese."'
+  a: '*Ad forum eō ut cāseum emam.*'
+  ref: g-04
+- id: v51-f-12
+  type: forms
+  q: '"We sing so that Grandpa may sleep."'
+  a: '*Cantāmus ut Avus dormiat.*'
+  ref: g-04
+- id: v51-f-13
+  type: forms
+  q: '"Stay home, children, so that y''all may learn."'
+  a: '*Manēte domī, līberī, ut discātis.*'
+  ref: g-04
+- id: v51-f-14
+  type: forms
+  q: '*Cūr cāseum edis?* Answer: "To be strong."'
+  a: '*Ut fortis sim.*'
+  ref: g-04
+- id: v51-f-15
+  type: forms
+  q: '*Fūr nōn venit nisi ut fūrētur.*'
+  a: The thief comes only to steal. (John 10:10)
+  ref: g-05
+- id: v51-f-16
+  type: forms
+  q: '*ego vēnī ut vītam habeant*'
+  a: I have come so that they may have life. (John 10:10)
+  ref: g-05
+- id: v51-f-17
+  type: forms
+  q: '*fūrētur*: what form?'
+  a: 'Present subjunctive of the deponent *fūror* (first family *a* → *e*): "he may steal."'
+  ref: g-05
+- id: v51-f-18
+  type: forms
+  q: '*lēgum … omnēs servī sumus ut līberī esse possīmus*'
+  a: We are all slaves of the laws so that we may be able to be free. (Cicero, *For Cluentius* 146)
+  ref: g-05
+- id: v51-f-19
+  type: forms
+  q: '*idcircō … ut*'
+  a: 'for this reason … so that; "that''s why … : so that"'
+  ref: g-05
+- id: v51-f-20
+  type: forms
+  q: '*Ut amēris, amābilis estō.*'
+  a: To be loved, be lovable. (Ovid, *Art of Love* 2.107)
+  ref: g-06
+- id: v51-f-21
+  type: forms
+  q: '*amēris*: what form?'
+  a: 'Present subjunctive passive, "you": *amāris* → *amēris*, "you may be loved."'
+  ref: g-06
+- id: v51-f-22
+  type: forms
+  q: '*… super candēlābrum, ut lūceat omnibus quī in domō sunt*'
+  a: … on a lampstand, so that it may shine for all who are in the house. (Matthew 5:15)
+  ref: g-06
+- id: v51-f-23
+  type: forms
+  q: What is the "not" of a purpose clause?
+  a: '*Nē* + subjunctive (no *ut*): "so that … not," "lest."'
+  ref: g-07
+- id: v51-f-24
+  type: forms
+  q: '*Cāseum claudō nē canis eum edat.*'
+  a: I shut the cheese away so the dog won't eat it (lest the dog eat it).
+  ref: g-07
+- id: v51-f-25
+  type: forms
+  q: '"Go slowly, so that you don''t fall!"'
+  a: '*Ī lentē, nē cadās!*'
+  ref: g-07
+- id: v51-f-26
+  type: forms
+  q: '"We speak quietly so that Grandpa doesn''t wake up."'
+  a: '*Submissē loquimur nē Avus expergīscātur.*'
+  ref: g-07
+- id: v51-f-27
+  type: forms
+  q: '*Cāseum claudō nē quis eum tangat.*'
+  a: I shut the cheese away so that no one touches it.
+  ref: g-08
+- id: v51-f-28
+  type: forms
+  q: '"so that no one…" · "so that nothing…"'
+  a: '*nē quis… · nē quid…* (the *ali-* drops after *nē*, as after *sī*)'
+  ref: g-08
+- id: v51-f-29
+  type: forms
+  q: '*Avus tacet nē quid dīcat.*'
+  a: Grandpa keeps quiet so as not to say anything.
+  ref: g-08
+- id: v51-f-30
+  type: forms
+  q: '*Nōlīte iūdicāre, ut nōn iūdicēminī.*'
+  a: Don't judge, so that y'all may not be judged. (Matthew 7:1)
+  ref: g-09
+- id: v51-f-31
+  type: forms
+  q: Make Matthew 7:1's *ut nōn iūdicēminī* classical.
+  a: '*nē iūdicēminī*. Classical prose uses *nē*; the Latin Bible often has *ut nōn*.'
+  ref: g-09
+- id: v51-f-32
+  type: forms
+  q: What is a relative purpose clause?
+  a: 'A *quī*-clause with the subjunctive that tells a goal, after sending or choosing: *Marcum mittō quī cāseum emat.*'
+  ref: g-10
+- id: v51-f-33
+  type: forms
+  q: '*Avia Cornēliam mittit quae aquam ferat.*'
+  a: Grandma sends Cornelia to fetch water.
+  ref: g-10
+- id: v51-f-34
+  type: forms
+  q: '"The king sends messengers to say this."'
+  a: '*Rēx nūntiōs mittit quī hoc dīcant.*'
+  ref: g-10
+- id: v51-f-35
+  type: forms
+  q: '*Puer quī cantat* vs *Puerum mittō quī cantet*'
+  a: the boy who is singing (fact, indicative) · I'm sending a boy to sing (goal, subjunctive)
+  ref: g-11
+- id: v51-f-36
+  type: forms
+  q: '"Grandma chooses a boy to guard the cheese."'
+  a: '*Avia puerum ēligit quī cāseum servet.*'
+  ref: g-11
+- id: v51-f-37
+  type: forms
+  q: '*Īte in hortum lūsūrī!* Say it with *ut*.'
+  a: '*Īte in hortum ut lūdātis!*'
+  ref: g-12
+- id: v51-f-38
+  type: forms
+  q: '*ut* or the *-ūrus* participle: which works after any verb?'
+  a: '*Ut.* The *-ūrus* "to" lives mostly after verbs of going and coming.'
+  ref: g-12
+- id: v51-f-39
+  type: forms
+  q: '*ut* + indicative vs *ut* + subjunctive'
+  a: '*ut* + indicative: "as" (*Ut dīxī*, as I said). *ut* + subjunctive: "so that."'
+  ref: g-13
+- id: v51-f-40
+  type: forms
+  q: '*Ut vidēs, canis dormit.*'
+  a: As you see, the dog is asleep.
+  ref: g-13
+- id: v51-f-41
+  type: forms
+  q: '"We hide the cheese so that Grandpa won''t find it."'
+  a: '*Cāseum abdimus nē Avus eum inveniat.*'
+  ref: g-14
+- id: v51-f-42
+  type: forms
+  q: '"Grandma sends Quintus to call Dad."'
+  a: '*Avia Quīntum mittit quī Patrem vocet.*'
+  ref: g-14
+- id: v51-f-43
+  type: forms
+  q: '"Speak loudly, so that everyone may hear!"'
+  a: '*Clārē loquere, ut omnēs audiant!*'
+  ref: g-14
+- id: v51-f-44
+  type: forms
+  q: '"John studies Latin so that he may read Vergil."'
+  a: '*Iōannēs Latīnae studet ut Vergilium legat.*'
+  ref: g-14
+- id: v51-f-45
+  type: forms
+  q: '*Nunc omnēs edāmus, ut fortēs sīmus!* Two subjunctives, two jobs?'
+  a: '*Edāmus*: let''s eat (hortatory). *Sīmus*: so that we may be (purpose).'
+  ref: g-16
+- id: v51-f-46
+  type: forms
+  q: '*Quīntum mittō, quī tēcum eat.*'
+  a: I'm sending Quintus to go with you. (Relative purpose; *eat* = may go.)
+  ref: g-16
+- id: v51-c-01
+  type: choose
+  q: '"I eat to live."'
+  options:
+  - Edō ut vīvam.
+  - Edō vīvere.
+  - Edō ut vīvō.
+  a: Edō ut vīvam.
+  why: A goal is *ut* + subjunctive, never a plain infinitive.
+  ref: g-15
+- id: v51-c-02
+  type: choose
+  q: '"I hide the cheese so the dog won''t eat it."'
+  options:
+  - Cāseum abdō nē canis eum edat.
+  - Cāseum abdō ut canis eum nōn edat.
+  - Cāseum abdō nē canis eum edit.
+  a: Cāseum abdō nē canis eum edat.
+  why: A "not" goal is *nē* + subjunctive.
+  ref: g-15
+- id: v51-c-03
+  type: choose
+  q: '"I''m sending the boys to buy bread."'
+  options:
+  - Puerōs mittō quī pānem emant.
+  - Puerōs mittō quī pānem emunt.
+  - Puerōs mittō quem pānem emat.
+  a: Puerōs mittō quī pānem emant.
+  why: Sending *quī* + subjunctive; plural *quī* for *puerōs*.
+  ref: g-11
+- id: v51-c-04
+  type: choose
+  q: '"As I said, the cheese is small."'
+  options:
+  - Ut dīxī, cāseus parvus est.
+  - Ut dīcam, cāseus parvus est.
+  - Nē dīxī, cāseus parvus est.
+  a: Ut dīxī, cāseus parvus est.
+  why: '*Ut* + indicative means "as."'
+  ref: g-13
+- id: v51-c-05
+  type: choose
+  q: '"so that nobody sees"'
+  options:
+  - nē quis videat
+  - ut nēmō videat
+  - nē aliquis videat
+  a: nē quis videat
+  why: After *nē*, *aliquis* drops to *quis*; Romans say *nē quis* for a goal.
+  ref: g-08
+- id: v51-e-01
+  type: error
+  q: 'Fix: *Dō ut dās.* (I give so that you may give.)'
+  a: '*Dō ut dēs.* A goal needs the subjunctive.'
+  ref: g-15
+- id: v51-e-02
+  type: error
+  q: 'Fix: *Edō vīvere.* (I eat to live.)'
+  a: '*Edō ut vīvam.* No plain infinitive for a goal.'
+  ref: g-15
+- id: v51-e-03
+  type: error
+  q: 'Fix: *Puerōs mittō quī pānem emunt.* (I''m sending the boys to buy bread.)'
+  a: '*Puerōs mittō quī pānem emant.* *Emunt* is a fact: "who buy."'
+  ref: g-15
+- id: v51-e-04
+  type: error
+  q: 'Fix: *Cāseum abdō ut canis eum nōn edat.* (so the dog won''t eat it)'
+  a: '*Cāseum abdō nē canis eum edat.* A "not" goal is *nē*.'
+  ref: g-15
+- id: v51-e-05
+  type: error
+  q: 'Fix: *Venit cāseum edere.* (He comes to eat cheese.)'
+  a: '*Venit ut cāseum edat.* (Or *Venit cāseum ēsūrus.*)'
+  ref: g-12
