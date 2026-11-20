@@ -1,0 +1,399 @@
+book: v
+ch: 52
+page: liber-v/04-tam-fessus-ut.md
+cards:
+- id: v52-v-utinam-adesses
+  type: vocab
+  la: Utinam adessēs!
+  en: If only you were here! (but you aren't)
+  ref: g-05
+- id: v52-v-quid-facerem
+  type: vocab
+  la: Quid facerem?
+  en: What was I to do?
+  ref: g-06
+- id: v52-v-dedi-ut-dares
+  type: vocab
+  la: Dedī ut darēs.
+  en: I gave so that you would give.
+  ref: g-07
+- id: v52-v-avus-tam-fessus
+  type: vocab
+  la: Avus tam fessus erat ut ad mēnsam dormīret.
+  en: Grandpa was so tired that he fell asleep at the table.
+  ref: g-09
+- id: v52-v-tam-fessus-ut-non
+  type: vocab
+  la: Tam fessus erat ut ambulāre nōn posset.
+  en: He was so tired that he couldn't walk.
+  ref: g-12
+- id: v52-v-ut-non-ut-nemo
+  type: vocab
+  la: ut nōn · ut nēmō · ut nihil
+  en: (so) that … not · that no one · that nothing (result)
+  ref: g-12
+- id: v52-v-tam
+  type: vocab
+  la: tam
+  en: so (with adjectives and adverbs)
+  ref: g-09
+- id: v52-v-ita
+  type: vocab
+  la: ita
+  en: so, in such a way (also "yes," Chapter 2)
+  ref: g-10
+- id: v52-v-tantus
+  type: vocab
+  la: tantus, tanta, tantum
+  en: so big, so great
+  ref: g-10
+- id: v52-v-tot
+  type: vocab
+  la: tot
+  en: so many (never changes)
+  ref: g-10
+- id: v52-v-tempestas
+  type: vocab
+  la: tempestās, tempestātis
+  en: storm; weather (f.)
+  ref: g-12
+- id: v52-v-fluctus
+  type: vocab
+  la: flūctus, flūctūs
+  en: wave (m.)
+  ref: g-11
+- id: v52-v-imperfect-subjunctive
+  type: vocab
+  la: imperfect subjunctive
+  en: 'the "infinitive + ending" subjunctive: *amārem, essem, vellem*'
+  ref: g-01
+- id: v52-v-result-clause
+  type: vocab
+  la: result clause
+  en: 'the "so … that" clause: *tam … ut* + subjunctive'
+  ref: g-09
+- id: v52-f-01
+  type: forms
+  q: '*Vellem*: how is it built?'
+  a: '*Velle* (to want) + *-m*: the infinitive plus an ending.'
+  ref: g-01
+- id: v52-f-02
+  type: forms
+  q: '*Quam vellem nescīre litterās!*'
+  a: How I wish I didn't know how to write! (Nero, in Suetonius)
+  ref: g-01
+- id: v52-f-03
+  type: forms
+  q: What is the imperfect subjunctive, in plain words?
+  a: 'The "infinitive + ending" subjunctive: for past stories and for wishes that are not really so.'
+  ref: g-01
+- id: v52-f-04
+  type: forms
+  q: '*amō*: imperfect subjunctive, all six'
+  a: '*amārem, amārēs, amāret, amārēmus, amārētis, amārent*'
+  ref: g-02
+- id: v52-f-05
+  type: forms
+  q: Which *e*'s are long in *amārem … amārent*?
+  a: Long in *-rēs, -rēmus, -rētis*; short before final *-m, -t, -nt*.
+  ref: g-02
+- id: v52-f-06
+  type: forms
+  q: '*sum*: imperfect subjunctive, all six'
+  a: '*essem, essēs, esset, essēmus, essētis, essent*'
+  ref: g-02
+- id: v52-f-07
+  type: forms
+  q: '*dō*: "I, you, he" (imperfect subjunctive)'
+  a: '*darem, darēs, daret*: short *a*, as in *dare*.'
+  ref: g-02
+- id: v52-f-08
+  type: forms
+  q: '*habeō*: imperfect subjunctive, y''all'
+  a: '*habērētis*'
+  ref: g-02
+- id: v52-f-09
+  type: forms
+  q: '*dūcō*: imperfect subjunctive, "I"'
+  a: '*dūcerem* (short *e*, as in *dūcere*)'
+  ref: g-03
+- id: v52-f-10
+  type: forms
+  q: '*capiō*: imperfect subjunctive, "I"'
+  a: '*caperem*'
+  ref: g-03
+- id: v52-f-11
+  type: forms
+  q: '*audiō*: imperfect subjunctive, "we"'
+  a: '*audīrēmus*'
+  ref: g-03
+- id: v52-f-12
+  type: forms
+  q: '*possum, volō, nōlō, mālō*: imperfect subjunctive, "I"'
+  a: '*possem, vellem, nōllem, māllem*: no rebels today.'
+  ref: g-03
+- id: v52-f-13
+  type: forms
+  q: '*eō, ferō*: imperfect subjunctive, "I"'
+  a: '*īrem, ferrem*'
+  ref: g-03
+- id: v52-f-14
+  type: forms
+  q: '*fīō*: imperfect subjunctive, "I"'
+  a: '*fierem* (pretend the infinitive is *fiere*)'
+  ref: g-03
+- id: v52-f-15
+  type: forms
+  q: The Law of the Infinitive Plus
+  a: Imperfect subjunctive = present infinitive + *-m, -s, -t, -mus, -tis, -nt*, every verb.
+  ref: g-03
+- id: v52-f-16
+  type: forms
+  q: '*amō*: imperfect subjunctive passive, all six'
+  a: '*amārer, amārēris, amārētur, amārēmur, amārēminī, amārentur*'
+  ref: g-04
+- id: v52-f-17
+  type: forms
+  q: '*loquor*: imperfect subjunctive, "I"'
+  a: '*loquerer* (pretend the active infinitive is *loquere*)'
+  ref: g-04
+- id: v52-f-18
+  type: forms
+  q: '*Utinam veniat!* vs *Utinam venīret!*'
+  a: '"If only he comes!" (may still happen) vs "If only he were coming!" (he isn''t).'
+  ref: g-05
+- id: v52-f-19
+  type: forms
+  q: '"If only I were young!"'
+  a: '*Utinam iuvenis essem!*'
+  ref: g-05
+- id: v52-f-20
+  type: forms
+  q: '"If only it weren''t raining!"'
+  a: '*Utinam nē plueret!*'
+  ref: g-05
+- id: v52-f-21
+  type: forms
+  q: '*Utinam populus Rōmānus ūnam cervīcem habēret!*'
+  a: If only the Roman people had a single neck! (Caligula, in Suetonius)
+  ref: g-05
+- id: v52-f-22
+  type: forms
+  q: '*Quid facerem? neque servitiō mē exīre licēbat.*'
+  a: What was I to do? I wasn't allowed to get out of slavery (any other way). (Vergil, *Eclogues* 1.40)
+  ref: g-06
+- id: v52-f-23
+  type: forms
+  q: '"Where was I to go?"'
+  a: '*Quō īrem?*'
+  ref: g-06
+- id: v52-f-24
+  type: forms
+  q: '*Dō ut dēs* in a past story'
+  a: '*Dedī ut darēs*: I gave so that you would give.'
+  ref: g-07
+- id: v52-f-25
+  type: forms
+  q: '*sī scyphōs tibi dedī, ut Stichum mihi darēs*'
+  a: if I gave you cups so that you would give me Stichus (Paulus, *Digest* 19.5.5.1)
+  ref: g-07
+- id: v52-f-26
+  type: forms
+  q: '"Yesterday I went to the forum to buy cheese."'
+  a: '*Herī ad forum iī ut cāseum emerem.*'
+  ref: g-07
+- id: v52-f-27
+  type: forms
+  q: '"I shut the cheese away so the dog wouldn''t eat it."'
+  a: '*Cāseum clausī nē canis eum ederet.*'
+  ref: g-07
+- id: v52-f-28
+  type: forms
+  q: Why does John 10:10 *ego vēnī ut vītam habeant* keep the present?
+  a: '*Vēnī* = "I have come": a "have done" verb counts as now.'
+  ref: g-07
+- id: v52-f-29
+  type: forms
+  q: '"I sent Marcus to buy cheese." (with *quī*)'
+  a: '*Marcum mīsī quī cāseum emeret.*'
+  ref: g-08
+- id: v52-f-30
+  type: forms
+  q: '*lēgātōs ad eum mittunt … quī dīcerent*'
+  a: they send envoys to him to say… (Caesar, *Gallic War* 1.7.3; historic present, past form)
+  ref: g-08
+- id: v52-f-31
+  type: forms
+  q: The Law of the Past Goal
+  a: A goal takes the present subjunctive after now / later / command / "have done"; the imperfect in a past story.
+  ref: g-08
+- id: v52-f-32
+  type: forms
+  q: Did Grandpa *aim* to fall asleep in *tam fessus erat ut dormīret*?
+  a: 'No: it happened because he was so tired. A result, not a goal.'
+  ref: g-09
+- id: v52-f-33
+  type: forms
+  q: Why is *dormīret* subjunctive if he really fell asleep?
+  a: A "so … that" clause always takes the subjunctive; here the mood marks the clause hanging on "so," not "maybe."
+  ref: g-09
+- id: v52-f-34
+  type: forms
+  q: '*Tantus erat cāseus ut eum vix portārēmus.*'
+  a: The cheese was so big that we could barely carry it.
+  ref: g-10
+- id: v52-f-35
+  type: forms
+  q: '*Tot puerī aderant ut mēnsa plēna esset.*'
+  a: So many boys were there that the table was full.
+  ref: g-10
+- id: v52-f-36
+  type: forms
+  q: '"I''m so tired that I can barely stand."'
+  a: '*Tam fessus sum ut vix stāre possim.*'
+  ref: g-10
+- id: v52-f-37
+  type: forms
+  q: '*Sīc enim dīlēxit Deus mundum ut Fīlium suum ūnigenitum daret.*'
+  a: For God so loved the world that he gave his only-begotten Son. (John 3:16)
+  ref: g-11
+- id: v52-f-38
+  type: forms
+  q: '*ita ut nāvicula operīrētur flūctibus; ipse vērō dormiēbat*'
+  a: so that the boat was being covered by the waves; but he himself was sleeping (Matthew 8:24)
+  ref: g-11
+- id: v52-f-39
+  type: forms
+  q: '"Grandpa was so tired that he couldn''t walk."'
+  a: '*Avus tam fessus erat ut ambulāre nōn posset.*'
+  ref: g-12
+- id: v52-f-40
+  type: forms
+  q: '*saevī nimis, ita ut nēmō posset trānsīre per viam illam*'
+  a: very fierce, so that no one could pass along that road (Matthew 8:28)
+  ref: g-12
+- id: v52-f-41
+  type: forms
+  q: '*tanta tempestās subitō coorta est ut nūlla eārum cursum tenēre posset*'
+  a: so great a storm suddenly arose that none of them (the ships) could hold its course (Caesar, *Gallic War* 4.28.2)
+  ref: g-12
+- id: v52-f-42
+  type: forms
+  q: '*ita vīxī, ut nōn frūstrā mē nātum exīstimem*'
+  a: I have lived in such a way that I don't think I was born in vain (Cicero, *On Old Age* 84)
+  ref: g-12
+- id: v52-f-43
+  type: forms
+  q: '*Cantāvit ut Avus dormīret* vs *Ita cantāvit ut Avus dormīret*'
+  a: She sang so that Grandpa would sleep (goal) vs she sang in such a way that Grandpa fell asleep (result).
+  ref: g-13
+- id: v52-f-44
+  type: forms
+  q: The Law of So … That
+  a: A signpost (*tam, ita, sīc, tantus, tot*) + *ut* + subjunctive tells what came of something.
+  ref: g-13
+- id: v52-f-45
+  type: forms
+  q: The Law of the Two Nots
+  a: 'Goal that shouldn''t happen: *nē* (*nē quis*). Result that didn''t happen: *ut nōn* (*ut nēmō*).'
+  ref: g-13
+- id: v52-f-46
+  type: forms
+  q: '"If only Grandma were here!"'
+  a: '*Utinam Avia adesset!*'
+  ref: g-14
+- id: v52-f-47
+  type: forms
+  q: '"The storm was so great that nobody slept."'
+  a: '*Tanta erat tempestās ut nēmō dormīret.*'
+  ref: g-14
+- id: v52-f-48
+  type: forms
+  q: '"We spoke quietly so that Grandpa wouldn''t wake up."'
+  a: '*Submissē locūtī sumus nē Avus expergīscerētur.*'
+  ref: g-14
+- id: v52-f-49
+  type: forms
+  q: '*Tam bene respondī ut mē laudāret.*'
+  a: I answered so well that he praised me. (Lectiō)
+  ref: g-16
+- id: v52-f-50
+  type: forms
+  q: '*Canis tam parvus est ut armārium aperīre nōn possit.*'
+  a: The dog is so small that he can't open the cupboard. (Lectiō)
+  ref: g-16
+- id: v52-c-01
+  type: choose
+  q: '"If only I were young!" (I''m old)'
+  options:
+  - Utinam iuvenis essem!
+  - Utinam iuvenis sim!
+  - Utinam iuvenis eram!
+  a: Utinam iuvenis essem!
+  why: 'Not really so now: *utinam* + imperfect subjunctive.'
+  ref: g-15
+- id: v52-c-02
+  type: choose
+  q: '"I gave so that you would give."'
+  options:
+  - Dedī ut darēs.
+  - Dedī ut dēs.
+  - Dedī ut dabās.
+  a: Dedī ut darēs.
+  why: A goal in a past story takes the imperfect subjunctive.
+  ref: g-15
+- id: v52-c-03
+  type: choose
+  q: '"He was so tired that he couldn''t walk."'
+  options:
+  - Tam fessus erat ut ambulāre nōn posset.
+  - Tam fessus erat nē ambulāre posset.
+  - Tam fessus erat ut ambulāre nōn poterat.
+  a: Tam fessus erat ut ambulāre nōn posset.
+  why: A result's "not" is *ut nōn*, with the subjunctive.
+  ref: g-15
+- id: v52-c-04
+  type: choose
+  q: '"I shut the cheese away so that the dog wouldn''t eat it." (my aim)'
+  options:
+  - Cāseum clausī nē canis eum ederet.
+  - Cāseum clausī ut canis eum nōn ederet.
+  - Cāseum clausī nē canis eum edēbat.
+  a: Cāseum clausī nē canis eum ederet.
+  why: 'A wanted "not" is a goal: *nē*; past story → imperfect.'
+  ref: g-13
+- id: v52-c-05
+  type: choose
+  q: '"so that no one could pass" (it happened)'
+  options:
+  - ut nēmō posset trānsīre
+  - nē quis posset trānsīre
+  - ut nēmō potest trānsīre
+  a: ut nēmō posset trānsīre
+  why: 'A result: *ut nēmō* + subjunctive (Matthew 8:28).'
+  ref: g-12
+- id: v52-e-01
+  type: error
+  q: 'Fix: *Tam fessus erat ut dormīvit.* (He was so tired that he fell asleep.)'
+  a: '*Tam fessus erat ut dormīret.* A result clause is subjunctive, even when true.'
+  ref: g-15
+- id: v52-e-02
+  type: error
+  q: 'Fix: *dūcērem*'
+  a: '*Dūcerem.* Short *e*, as in *dūcere*.'
+  ref: g-15
+- id: v52-e-03
+  type: error
+  q: 'Fix: *Dedī ut dēs.* (I gave so that you would give.)'
+  a: '*Dedī ut darēs.* Past story, past form.'
+  ref: g-15
+- id: v52-e-04
+  type: error
+  q: 'Fix: *Utinam iuvenis sim!* (an old man''s sigh)'
+  a: '*Utinam iuvenis essem!* Not really so: imperfect.'
+  ref: g-15
+- id: v52-e-05
+  type: error
+  q: 'Fix: *Tam fessus erat nē ambulāre posset.*'
+  a: '*Tam fessus erat ut ambulāre nōn posset.* Result "not" = *ut nōn*.'
+  ref: g-15
