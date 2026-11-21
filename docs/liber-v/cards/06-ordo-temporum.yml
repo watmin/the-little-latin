@@ -1,0 +1,379 @@
+book: v
+ch: 54
+page: liber-v/06-ordo-temporum.md
+cards:
+- id: v54-v-ordo-temporum
+  type: vocab
+  la: Ōrdō temporum
+  en: 'the order of tenses: the matching rule'
+  ref: g-01
+- id: v54-v-rogabo-quid-feceris
+  type: vocab
+  la: Rogābō quid fēcerīs.
+  en: I'll ask what you did.
+  ref: g-04
+- id: v54-v-nesciebam-facturus-esses
+  type: vocab
+  la: Nesciēbam quid factūrus essēs.
+  en: I didn't know what you were going to do.
+  ref: g-07
+- id: v54-v-emi-ut-edamus
+  type: vocab
+  la: Ēmī ut edāmus.
+  en: I've bought it so that we can eat.
+  ref: g-05
+- id: v54-v-utinam-scirem
+  type: vocab
+  la: Utinam scīrem ubi esset!
+  en: If only I knew where it was!
+  ref: g-10
+- id: v54-v-ordo
+  type: vocab
+  la: ōrdō, ōrdinis
+  en: m., order, row
+  ref: g-01
+- id: v54-v-pugillaris
+  type: vocab
+  la: pugillāris, pugillāris
+  en: m., writing tablet
+  ref: g-11
+- id: v54-v-t-sequence
+  type: vocab
+  la: sequence of tenses
+  en: 'the matching rule: the main verb''s time picks the subjunctive''s time'
+  ref: g-01
+- id: v54-v-t-primary
+  type: vocab
+  la: primary sequence
+  en: 'the "now" team: present, future, commands, "have done" → present or perfect subjunctive'
+  ref: g-02
+- id: v54-v-t-secondary
+  type: vocab
+  la: secondary (historic) sequence
+  en: 'the "past" team: imperfect, "did," pluperfect → imperfect or pluperfect subjunctive'
+  ref: g-02
+- id: v54-v-t-historic-present
+  type: vocab
+  la: historic present
+  en: a past story told in the present, for vividness; it may lead either team
+  ref: g-08
+- id: v54-f-01
+  type: forms
+  q: What is the sequence of tenses, in plain words?
+  a: 'The matching rule: the main verb''s time picks the subjunctive''s time.'
+  ref: g-01
+- id: v54-f-02
+  type: forms
+  q: '*Edō ut vīvam* in a past story'
+  a: '*Ēdī ut vīverem.*'
+  ref: g-01
+- id: v54-f-03
+  type: forms
+  q: '*Rogō quid faciās* in a past story'
+  a: '*Rogāvī quid facerēs.*'
+  ref: g-01
+- id: v54-f-04
+  type: forms
+  q: '*Ōrdō temporum*: what is *temporum*?'
+  a: 'Genitive plural of *tempus, temporis*: "of the tenses."'
+  ref: g-01
+- id: v54-f-05
+  type: forms
+  q: Main verbs on the now team?
+  a: 'Present, future, future perfect, commands: *rogō, rogābō, rogāverō, rogā!*'
+  ref: g-02
+- id: v54-f-06
+  type: forms
+  q: Main verbs on the past team?
+  a: 'Imperfect, perfect "did," pluperfect: *rogābam, rogāvī, rogāveram.*'
+  ref: g-02
+- id: v54-f-07
+  type: forms
+  q: Which subjunctives does the now team take?
+  a: 'Present (same time) and perfect (earlier): *faciās, fēcerīs.*'
+  ref: g-02
+- id: v54-f-08
+  type: forms
+  q: Which subjunctives does the past team take?
+  a: 'Imperfect (same time) and pluperfect (earlier): *facerēs, fēcissēs.*'
+  ref: g-02
+- id: v54-f-09
+  type: forms
+  q: Old-school names for the two teams?
+  a: Primary sequence (now team); secondary or historic sequence (past team).
+  ref: g-02
+- id: v54-f-10
+  type: forms
+  q: The Law of the Two Teams
+  a: 'A subjunctive hanging on a main verb takes its time from it: now team → present/perfect; past team → imperfect/pluperfect.'
+  ref: g-02
+- id: v54-f-11
+  type: forms
+  q: '"Yesterday I went to the forum to buy a cheese."'
+  a: '*Herī ad forum iī ut cāseum emerem.*'
+  ref: g-03
+- id: v54-f-12
+  type: forms
+  q: '"Grandpa was so hungry that he was eating the bread."'
+  a: '*Avus tam ēsuriēbat ut pānem ederet.*'
+  ref: g-03
+- id: v54-f-13
+  type: forms
+  q: '"I didn''t know where the dog was."'
+  a: '*Nesciēbam ubi canis esset.*'
+  ref: g-03
+- id: v54-f-14
+  type: forms
+  q: Can a goal clause take the perfect or pluperfect subjunctive?
+  a: 'No. A goal is always still ahead: present (now team) or imperfect (past team).'
+  ref: g-03
+- id: v54-f-15
+  type: forms
+  q: '"I''ll ask Grandpa what he did."'
+  a: '*Rogābō Avum quid fēcerit.* A future is on the now team.'
+  ref: g-04
+- id: v54-f-16
+  type: forms
+  q: '"Tomorrow we''ll know who ate the cheese."'
+  a: '*Crās sciēmus quis cāseum ēderit.*'
+  ref: g-04
+- id: v54-f-17
+  type: forms
+  q: '"Tell me why you''re laughing."'
+  a: '*Dīc mihi cūr rīdeās.* Commands are on the now team.'
+  ref: g-04
+- id: v54-f-18
+  type: forms
+  q: 'John 10:10 *ego vēnī ut vītam habeant*: why present *habeant*?'
+  a: '*Vēnī* = "I have come": a "have done" verb, still true now, so now team.'
+  ref: g-05
+- id: v54-f-19
+  type: forms
+  q: '*ita vīxī, ut nōn frūstrā mē nātum exīstimem* (Cicero)'
+  a: '"I have lived in such a way that I don''t think I was born in vain." *Vīxī* = "have lived": present *exīstimem*.'
+  ref: g-05
+- id: v54-f-20
+  type: forms
+  q: '"Yesterday I came to see you."'
+  a: '*Herī vēnī ut tē vidērem.* A story: past team.'
+  ref: g-05
+- id: v54-f-21
+  type: forms
+  q: The Law of "Have Done"
+  a: A perfect main verb normally tells a story (past team); when it clearly means "have done," still true now, it may lead the now team.
+  ref: g-05
+- id: v54-f-22
+  type: forms
+  q: '*Nesciō quid Avus fēcerit*: three Englishes?'
+  a: '"… what Grandpa did / was doing / has done." After a now verb, the perfect subjunctive covers every "earlier."'
+  ref: g-06
+- id: v54-f-23
+  type: forms
+  q: '*Quam autem cīvitātī cārus fuerit, maerōre fūneris indicātum est.* (Cicero, *On Friendship* 11)'
+  a: '"And how dear he was to the city has been shown by the grief at his funeral."'
+  ref: g-06
+- id: v54-f-24
+  type: forms
+  q: Why *fuerit*, not *esset*, after *indicātum est*?
+  a: '"Has been shown": now team; the dearness was earlier → perfect subjunctive (standing in for *erat*).'
+  ref: g-06
+- id: v54-f-25
+  type: forms
+  q: '"I didn''t know what Grandpa was going to do."'
+  a: '*Nesciēbam quid Avus factūrus esset.*'
+  ref: g-07
+- id: v54-f-26
+  type: forms
+  q: '"Grandma asked when we would come home."'
+  a: '*Avia rogāvit quandō domum ventūrī essēmus.*'
+  ref: g-07
+- id: v54-f-27
+  type: forms
+  q: '*Labiēnus … litterās Caesarī remittit, quantō cum perīculō legiōnem ex hībernīs ēductūrus esset.* (Caesar, *Gallic War* 5.47.4)'
+  a: '"Labienus sends a letter back to Caesar (saying) with how great danger he would lead the legion out of winter camp."'
+  ref: g-07
+- id: v54-f-28
+  type: forms
+  q: What is the historic present?
+  a: A past story told in the present, for vividness.
+  ref: g-08
+- id: v54-f-29
+  type: forms
+  q: '*equitātumque omnem … praemittit, quī videant quās in partēs hostēs iter faciant.* (Caesar, *Gallic War* 1.15.1)'
+  a: '"And he sends all the cavalry ahead to see in which direction the enemy are marching." Both subjunctives present: now team.'
+  ref: g-08
+- id: v54-f-30
+  type: forms
+  q: 'Caesar: *mittunt … quī dīcerent* but *praemittit, quī videant*. Which is right?'
+  a: Both. After a historic present, writers use either team.
+  ref: g-08
+- id: v54-f-31
+  type: forms
+  q: '*Ārdēbat autem cupiditāte sīc, ut in nūllō umquam flagrantius studium vīderim.* (Cicero, *Brutus* 302)'
+  a: '"And he burned with desire so much that I have never seen a more burning zeal in anyone."'
+  ref: g-09
+- id: v54-f-32
+  type: forms
+  q: Why *vīderim* after past *ārdēbat*?
+  a: 'A result is a fact, still true as Cicero writes: a result may take the perfect subjunctive after a past verb.'
+  ref: g-09
+- id: v54-f-33
+  type: forms
+  q: '"Grandpa slept so well that he snored all night" (stressing it happened)'
+  a: '*Avus tam bene dormīvit ut tōtam noctem stertuerit.*'
+  ref: g-09
+- id: v54-f-34
+  type: forms
+  q: The Law of the Free Result
+  a: After a past main verb a result clause may take the perfect subjunctive, to stress that it really happened or is still true. Goals and tucked-in questions never do.
+  ref: g-09
+- id: v54-f-35
+  type: forms
+  q: '"Let''s go to the forum to buy a cheese."'
+  a: '*Eāmus ad forum ut cāseum emāmus.* Present subjunctive main verb: now team.'
+  ref: g-10
+- id: v54-f-36
+  type: forms
+  q: '"If only I knew where the cheese is!"'
+  a: '*Utinam scīrem ubi cāseus esset!* *Scīrem* leads the past team.'
+  ref: g-10
+- id: v54-f-37
+  type: forms
+  q: '"If only I had known what you were going to do!"'
+  a: '*Utinam scīvissem quid factūrus essēs!*'
+  ref: g-10
+- id: v54-f-38
+  type: forms
+  q: '*cōgitābat quālis esset ista salūtātiō* (Luke 1:29)'
+  a: '"She wondered what kind of greeting this was." Past team, same time.'
+  ref: g-11
+- id: v54-f-39
+  type: forms
+  q: '*innuēbant autem patrī eius quem vellet vocārī eum* (Luke 1:62)'
+  a: '"So they made signs to his father (to ask) what he wanted him to be called."'
+  ref: g-11
+- id: v54-f-40
+  type: forms
+  q: '*Et postulāns pugillārem scrīpsit dīcēns: "Iōannēs est nōmen eius."* (Luke 1:63)'
+  a: '"And asking for a writing tablet, he wrote: ''John is his name.''"'
+  ref: g-11
+- id: v54-f-41
+  type: forms
+  q: '"Grandma asks where the cheese is · was · will be."'
+  a: '*Avia rogat ubi cāseus sit · fuerit · futūrus sit.*'
+  ref: g-12
+- id: v54-f-42
+  type: forms
+  q: '"Grandma asked where the cheese was · had been · would be."'
+  a: '*Avia rogāvit ubi cāseus esset · fuisset · futūrus esset.*'
+  ref: g-12
+- id: v54-f-43
+  type: forms
+  q: 'The Law of the Matching Rule: the two questions'
+  a: Which team is the main verb on? Is the subjunctive's action at the same time, earlier, or later?
+  ref: g-12
+- id: v54-f-44
+  type: forms
+  q: '"We don''t know who has eaten the cheese."'
+  a: '*Nescīmus quis cāseum ēderit.*'
+  ref: g-13
+- id: v54-f-45
+  type: forms
+  q: '"We didn''t know who had eaten the cheese."'
+  a: '*Nesciēbāmus quis cāseum ēdisset.*'
+  ref: g-13
+- id: v54-f-46
+  type: forms
+  q: '"Grandpa went to the forum to buy a cheese."'
+  a: '*Avus ad forum iit ut cāseum emeret.*'
+  ref: g-13
+- id: v54-f-47
+  type: forms
+  q: '"Tell me what you''re going to do tomorrow."'
+  a: '*Dīc mihi quid crās factūrus sīs.*'
+  ref: g-13
+- id: v54-f-48
+  type: forms
+  q: 'Lectiō: *Tam bene nārrāvistī ut tibi parvum cāseum dōnem!* Why present *dōnem*?'
+  a: '*Nārrāvistī* = "you have told": "have done," now team.'
+  ref: g-15
+- id: v54-f-49
+  type: forms
+  q: 'Lectiō: *Tam bene nārrāvit ut mercātor eī parvum cāseum dōnāverit!* Why perfect *dōnāverit*?'
+  a: 'A free result: the gift really happened.'
+  ref: g-15
+- id: v54-c-01
+  type: choose
+  q: '"Yesterday I asked what you were doing."'
+  options:
+  - Herī rogāvī quid facerēs.
+  - Herī rogāvī quid faciās.
+  - Herī rogāvī quid faciēbās.
+  a: Herī rogāvī quid facerēs.
+  why: 'A story: past team, same time = imperfect subjunctive.'
+  ref: g-14
+- id: v54-c-02
+  type: choose
+  q: '"I''ll ask what you did."'
+  options:
+  - Rogābō quid fēcerīs.
+  - Rogābō quid fēcissēs.
+  - Rogābō quid fēcistī.
+  a: Rogābō quid fēcerīs.
+  why: 'A future is on the now team: earlier = perfect subjunctive.'
+  ref: g-14
+- id: v54-c-03
+  type: choose
+  q: '"I didn''t know where you had been."'
+  options:
+  - Nesciēbam ubi fuissēs.
+  - Nesciēbam ubi fuerīs.
+  - Nesciēbam ubi essēs.
+  a: Nesciēbam ubi fuissēs.
+  why: Past team + earlier = pluperfect subjunctive.
+  ref: g-14
+- id: v54-c-04
+  type: choose
+  q: '"If only I knew where Grandpa is!"'
+  options:
+  - Utinam scīrem ubi Avus esset!
+  - Utinam scīrem ubi Avus sit!
+  - Utinam scīrem ubi Avus est!
+  a: Utinam scīrem ubi Avus esset!
+  why: '*Scīrem* is a past-team form, so the past team follows.'
+  ref: g-14
+- id: v54-c-05
+  type: choose
+  q: '"Look, I''ve bought a cheese so we can eat!"'
+  options:
+  - Ecce, cāseum ēmī ut edāmus!
+  - Ecce, cāseum ēmī ut ēderīmus!
+  - Ecce, cāseum ēmī ut edimus!
+  a: Ecce, cāseum ēmī ut edāmus!
+  why: '"Have done" verb, now team; a goal never looks back: present.'
+  ref: g-05
+- id: v54-e-01
+  type: error
+  q: 'Fix: *Herī rogāvī quid faciās.* (Yesterday I asked what you were doing.)'
+  a: '*Herī rogāvī quid facerēs.* A story: past team.'
+  ref: g-14
+- id: v54-e-02
+  type: error
+  q: 'Fix: *Nesciēbam ubi fuerīs.* (I didn''t know where you had been.)'
+  a: '*Nesciēbam ubi fuissēs.* Past + earlier = pluperfect.'
+  ref: g-14
+- id: v54-e-03
+  type: error
+  q: 'Fix: *Herī ad forum iī ut pānem emam.*'
+  a: '*… ut pānem emerem.* A goal in a story: imperfect.'
+  ref: g-14
+- id: v54-e-04
+  type: error
+  q: 'Fix: *Rogābō quid fēcissēs.* (I''ll ask what you did.)'
+  a: '*Rogābō quid fēcerīs.* Future = now team.'
+  ref: g-14
+- id: v54-e-05
+  type: error
+  q: 'Fix: *Utinam scīrem ubi Avus sit!*'
+  a: '*Utinam scīrem ubi Avus esset!* *Scīrem* leads the past team.'
+  ref: g-14
