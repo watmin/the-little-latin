@@ -1,0 +1,404 @@
+book: v
+ch: 53
+page: liber-v/05-rogo-quid-facias.md
+cards:
+- id: v53-v-rogo-quid-facias
+  type: vocab
+  la: Rogō quid faciās.
+  en: I ask what you're doing.
+  ref: g-01
+- id: v53-v-nescio-ubi-sit
+  type: vocab
+  la: Nesciō ubi sit.
+  en: I don't know where it is.
+  ref: g-02
+- id: v53-v-dic-mihi-quid-feceris
+  type: vocab
+  la: Dīc mihi quid fēcerīs.
+  en: Tell me what you did.
+  ref: g-15
+- id: v53-v-rogavi-quid-faceres
+  type: vocab
+  la: Rogāvī quid facerēs.
+  en: I asked what you were doing.
+  ref: g-05
+- id: v53-v-utinam-ne-edissem
+  type: vocab
+  la: Utinam nē ēdissem!
+  en: If only I hadn't eaten it!
+  ref: g-13
+- id: v53-v-ne-timueris
+  type: vocab
+  la: Nē timuerīs!
+  en: Don't be afraid!
+  ref: g-14
+- id: v53-v-num-ne
+  type: vocab
+  la: num · -ne
+  en: whether (in a tucked-in question)
+  ref: g-04
+- id: v53-v-an
+  type: vocab
+  la: an
+  en: or (in a question)
+  ref: g-04
+- id: v53-v-celo
+  type: vocab
+  la: cēlō, cēlāre, cēlāvī, cēlātum
+  en: hide
+  ref: g-17
+- id: v53-v-amaverim
+  type: vocab
+  la: amāverim, amāverīs, amāverit…
+  en: 'perfect subjunctive: perfect stem + *-erim*'
+  ref: g-07
+- id: v53-v-amavissem
+  type: vocab
+  la: amāvissem, amāvissēs, amāvisset…
+  en: 'pluperfect subjunctive: perfect infinitive + *-m*'
+  ref: g-10
+- id: v53-v-t-direct
+  type: vocab
+  la: direct question
+  en: 'a question asked straight out: *Quid facis?*'
+  ref: g-01
+- id: v53-v-t-indirect
+  type: vocab
+  la: indirect question
+  en: 'the "tucked-in" question, with the subjunctive: *Rogō quid faciās*'
+  ref: g-01
+- id: v53-v-t-perfect-subj
+  type: vocab
+  la: perfect subjunctive
+  en: 'the "*-erim*" subjunctive: *amāverim, fuerim, amātus sim*'
+  ref: g-06
+- id: v53-v-t-pluperfect-subj
+  type: vocab
+  la: pluperfect subjunctive
+  en: 'the "perfect infinitive + ending" subjunctive: *amāvissem, fuissem, amātus essem*'
+  ref: g-10
+- id: v53-f-01
+  type: forms
+  q: '*Quid facis?* tucked after *Rogō*'
+  a: '*Rogō quid faciās.* I ask what you''re doing.'
+  ref: g-01
+- id: v53-f-02
+  type: forms
+  q: Why does a tucked-in question take the subjunctive?
+  a: It's no longer a fact you state, but a thing asked about or not known. English doesn't change; Latin does.
+  ref: g-01
+- id: v53-f-03
+  type: forms
+  q: What is an indirect question, in plain words?
+  a: 'A tucked-in question: a question inside a bigger sentence, after a verb of asking, knowing, telling, or seeing.'
+  ref: g-01
+- id: v53-f-04
+  type: forms
+  q: '*Ubi est Avus?* tucked after *Nesciō*'
+  a: '*Nesciō ubi sit Avus.*'
+  ref: g-01
+- id: v53-f-05
+  type: forms
+  q: '"I know why you''re laughing."'
+  a: '*Sciō cūr rīdeās.*'
+  ref: g-02
+- id: v53-f-06
+  type: forms
+  q: '"Tell me who''s coming."'
+  a: '*Dīc mihi quis veniat.*'
+  ref: g-02
+- id: v53-f-07
+  type: forms
+  q: '"We don''t know when Grandpa will wake up."'
+  a: '*Nescīmus quandō Avus expergīscātur.* The present subjunctive covers "later" too.'
+  ref: g-02
+- id: v53-f-08
+  type: forms
+  q: The Law of the Tucked-In Question
+  a: A question tucked inside a sentence (after asking, knowing, telling, seeing) takes the subjunctive; the question word stays.
+  ref: g-02
+- id: v53-f-09
+  type: forms
+  q: '*Quārē id faciam, fortasse requīris.* (Catullus 85)'
+  a: Why I do that, perhaps you ask. *Faciam* = tucked-in question.
+  ref: g-03
+- id: v53-f-10
+  type: forms
+  q: '*Nescītis quid petātis.* (Matthew 20:22)'
+  a: Y'all don't know what you're asking for.
+  ref: g-03
+- id: v53-f-11
+  type: forms
+  q: '*nōn scīs unde veniat et quō vādat* (John 3:8)'
+  a: You don't know where it comes from or where it goes.
+  ref: g-03
+- id: v53-f-12
+  type: forms
+  q: '"I ask whether Marcus is coming." (two ways)'
+  a: '*Rogō num Marcus veniat.* · *Rogō veniatne Marcus.*'
+  ref: g-04
+- id: v53-f-13
+  type: forms
+  q: Tucked in, does *num* expect "no"?
+  a: No. Inside a sentence *num* just means "whether."
+  ref: g-04
+- id: v53-f-14
+  type: forms
+  q: '"I don''t know whether Marcus or Quintus is coming."'
+  a: '*Nesciō Marcusne an Quīntus veniat.*'
+  ref: g-04
+- id: v53-f-15
+  type: forms
+  q: '"I asked what you were doing."'
+  a: '*Rogāvī quid facerēs.* Past story, same time: imperfect subjunctive.'
+  ref: g-05
+- id: v53-f-16
+  type: forms
+  q: '"I didn''t know where Grandpa was."'
+  a: '*Nesciēbam ubi esset Avus.*'
+  ref: g-05
+- id: v53-f-17
+  type: forms
+  q: '"Grandma asked why we were laughing."'
+  a: '*Avia rogāvit cūr rīdērēmus.*'
+  ref: g-05
+- id: v53-f-18
+  type: forms
+  q: '"I know what you did."'
+  a: '*Sciō quid fēcerīs.*'
+  ref: g-06
+- id: v53-f-19
+  type: forms
+  q: '*amō*: perfect subjunctive, all six'
+  a: '*amāverim, amāverīs, amāverit, amāverīmus, amāverītis, amāverint*'
+  ref: g-06
+- id: v53-f-20
+  type: forms
+  q: How is the perfect subjunctive built?
+  a: Perfect stem (*fēcī* → *fēc-*) + *-erim, -erīs, -erit, -erīmus, -erītis, -erint*.
+  ref: g-06
+- id: v53-f-21
+  type: forms
+  q: '"I don''t know where you were."'
+  a: '*Nesciō ubi fuerīs.*'
+  ref: g-06
+- id: v53-f-22
+  type: forms
+  q: 'Perfect subjunctive vs future perfect: where do they differ?'
+  a: '"I": *-erim* vs *-erō*; long *ī* in *-erīs, -erīmus, -erītis*. "He" and "they" look the same.'
+  ref: g-07
+- id: v53-f-23
+  type: forms
+  q: '*dō, edō, videō*: perfect subjunctive "I," "you," "he"'
+  a: '*dederim · ēderīs · vīderit*'
+  ref: g-07
+- id: v53-f-24
+  type: forms
+  q: The Law of *-erim*
+  a: Perfect subjunctive = perfect stem + *-erim, -erīs, -erit, -erīmus, -erītis, -erint*. Every verb.
+  ref: g-07
+- id: v53-f-25
+  type: forms
+  q: '*amātus sum* → perfect subjunctive'
+  a: '*amātus sim, amātus sīs, amātus sit; amātī sīmus, amātī sītis, amātī sint*'
+  ref: g-08
+- id: v53-f-26
+  type: forms
+  q: '"I don''t know how it happened."'
+  a: '*Nesciō quōmodo factum sit.*'
+  ref: g-08
+- id: v53-f-27
+  type: forms
+  q: '"I don''t know what Grandpa said."'
+  a: '*Nesciō quid Avus locūtus sit.*'
+  ref: g-08
+- id: v53-f-28
+  type: forms
+  q: '*Quid proximā, quid superiōre nocte ēgerīs, ubi fuerīs…* (Cicero, *Against Catiline* 1.1)'
+  a: What you did last night and the night before, where you were…
+  ref: g-09
+- id: v53-f-29
+  type: forms
+  q: 'Cicero''s *ēgerīs, fuerīs, convocāverīs, cēperīs*: why perfect?'
+  a: 'Main verb now (*arbitrāris*), deeds earlier: now + earlier = the *-erim* form.'
+  ref: g-09
+- id: v53-f-30
+  type: forms
+  q: '*amō*: pluperfect subjunctive, all six'
+  a: '*amāvissem, amāvissēs, amāvisset, amāvissēmus, amāvissētis, amāvissent*'
+  ref: g-10
+- id: v53-f-31
+  type: forms
+  q: How is the pluperfect subjunctive built?
+  a: 'Perfect infinitive + ending: *amāvisse* + *-m* = *amāvissem*.'
+  ref: g-10
+- id: v53-f-32
+  type: forms
+  q: '*sum, faciō, edō*: pluperfect subjunctive "I"'
+  a: '*fuissem · fēcissem · ēdissem*'
+  ref: g-10
+- id: v53-f-33
+  type: forms
+  q: '*amātus eram* → pluperfect subjunctive'
+  a: '*amātus essem, amātus essēs, amātus esset…*'
+  ref: g-10
+- id: v53-f-34
+  type: forms
+  q: The Law of the Infinitive Plus, Again
+  a: 'Pluperfect subjunctive = perfect infinitive + *-m, -s, -t…* (*amāvissem*); passive: participle + *essem* (*amātus essem*).'
+  ref: g-10
+- id: v53-f-35
+  type: forms
+  q: '"I asked what you had done."'
+  a: '*Rogāvī quid fēcissēs.*'
+  ref: g-11
+- id: v53-f-36
+  type: forms
+  q: '"I didn''t know who had eaten the cheese."'
+  a: '*Nesciēbam quis cāseum ēdisset.*'
+  ref: g-11
+- id: v53-f-37
+  type: forms
+  q: '*praedicāns quanta illī fēcisset Iēsus* (Luke 8:39)'
+  a: Proclaiming how much Jesus had done for him.
+  ref: g-11
+- id: v53-f-38
+  type: forms
+  q: What two questions pick the subjunctive in a tucked-in question?
+  a: Is the main verb now or past? Is the tucked-in action at the same time, or earlier?
+  ref: g-12
+- id: v53-f-39
+  type: forms
+  q: '"I ask what you''re going to do."'
+  a: '*Rogō quid factūrus sīs.*'
+  ref: g-12
+- id: v53-f-40
+  type: forms
+  q: '*Quid sit futūrum crās, fuge quaerere.* Why *sit*?'
+  a: '*Futūrum sit* = "what is going to be," tucked after *quaerere*. Don''t ask what tomorrow will bring.'
+  ref: g-12
+- id: v53-f-41
+  type: forms
+  q: The Law of Now and Earlier
+  a: 'Now: same time *faciās*, earlier *fēcerīs*. Past: same time *facerēs*, earlier *fēcissēs*. Later: *factūrus sīs / essēs*.'
+  ref: g-12
+- id: v53-f-42
+  type: forms
+  q: '"If only he had come!"'
+  a: '*Utinam vēnisset!* A past wish, too late: pluperfect.'
+  ref: g-13
+- id: v53-f-43
+  type: forms
+  q: '*Utinam mortuī essēmus … in terrā Aegyptī!* (Exodus 16:3)'
+  a: If only we had died … in the land of Egypt!
+  ref: g-13
+- id: v53-f-44
+  type: forms
+  q: '*Utinam pluat · plueret · pluisset!*'
+  a: If only it rains (may still) · were raining (isn't) · had rained (didn't)!
+  ref: g-13
+- id: v53-f-45
+  type: forms
+  q: '*Nē ergō timuerītis eōs.* (Matthew 10:26) What form, what job?'
+  a: 'Perfect subjunctive with *nē*: "So don''t be afraid of them." Nothing past about it.'
+  ref: g-14
+- id: v53-f-46
+  type: forms
+  q: '"Don''t eat the whole cheese!" two ways'
+  a: '*Nōlī tōtum cāseum edere!* · *Nē tōtum cāseum ēderīs!*'
+  ref: g-14
+- id: v53-f-47
+  type: forms
+  q: '*Tū nē quaesierīs … quem mihi, quem tibi fīnem dī dederint* (Horace)'
+  a: Don't ask what end the gods have given to me, to you. *Quaesierīs* = don't; *dederint* = tucked-in, earlier.
+  ref: g-14
+- id: v53-f-48
+  type: forms
+  q: '"Ask Marcus where he was yesterday."'
+  a: '*Rogā Marcum ubi herī fuerit.*'
+  ref: g-15
+- id: v53-f-49
+  type: forms
+  q: '"If only y''all had been here!"'
+  a: '*Utinam adfuissētis!*'
+  ref: g-15
+- id: v53-f-50
+  type: forms
+  q: '*Canis sciēbat ubi cāseus esset · quis eum cēlāvisset.* Why two forms?'
+  a: 'Past main verb: same time *esset*, earlier *cēlāvisset*.'
+  ref: g-17
+- id: v53-c-01
+  type: choose
+  q: '"I know what you''re doing."'
+  options:
+  - Sciō quid faciās.
+  - Sciō quid facis.
+  - Sciō quid facerēs.
+  a: Sciō quid faciās.
+  why: A tucked-in question is subjunctive; now + same time = present.
+  ref: g-16
+- id: v53-c-02
+  type: choose
+  q: '"I don''t know where you were."'
+  options:
+  - Nesciō ubi fuerīs.
+  - Nesciō ubi erās.
+  - Nesciō ubi essēs.
+  a: Nesciō ubi fuerīs.
+  why: Now + earlier = perfect subjunctive.
+  ref: g-16
+- id: v53-c-03
+  type: choose
+  q: '"I asked what you had done."'
+  options:
+  - Rogāvī quid fēcissēs.
+  - Rogāvī quid fēcerīs.
+  - Rogāvī quid fēcistī.
+  a: Rogāvī quid fēcissēs.
+  why: Past story + earlier = pluperfect subjunctive.
+  ref: g-16
+- id: v53-c-04
+  type: choose
+  q: '"If only I had stayed home!" (too late)'
+  options:
+  - Utinam domī mānsissem!
+  - Utinam domī manērem!
+  - Utinam domī maneam!
+  a: Utinam domī mānsissem!
+  why: 'A wish about the past: pluperfect subjunctive.'
+  ref: g-16
+- id: v53-c-05
+  type: choose
+  q: '"Don''t be afraid!" (to one person)'
+  options:
+  - Nē timuerīs!
+  - Nē timēbis!
+  - Nē timuistī!
+  a: Nē timuerīs!
+  why: '*Nē* + perfect subjunctive is the classical "don''t."'
+  ref: g-14
+- id: v53-e-01
+  type: error
+  q: 'Fix: *Sciō quid facis.* (I know what you''re doing.)'
+  a: '*Sciō quid faciās.* Tucked-in question: subjunctive.'
+  ref: g-16
+- id: v53-e-02
+  type: error
+  q: 'Fix: *Nesciō ubi erās.* (I don''t know where you were.)'
+  a: '*Nesciō ubi fuerīs.* Subjunctive, earlier than now.'
+  ref: g-16
+- id: v53-e-03
+  type: error
+  q: 'Fix: *Rogāvī quid fēcerīs.* (I asked what you had done.)'
+  a: '*Rogāvī quid fēcissēs.* Past + earlier = pluperfect.'
+  ref: g-16
+- id: v53-e-04
+  type: error
+  q: 'Fix: *Utinam domī manērem!* (If only I had stayed home: too late)'
+  a: '*Utinam domī mānsissem!*'
+  ref: g-16
+- id: v53-e-05
+  type: error
+  q: 'Fix: *amāverō* (for "that I loved")'
+  a: '*amāverim.* *-erō* is the future perfect.'
+  ref: g-07
