@@ -1,0 +1,394 @@
+book: v
+ch: 55
+page: liber-v/07-cum-venisset.md
+cards:
+- id: v55-v-cum-veneris-cenabimus
+  type: vocab
+  la: Cum vēneris, cēnābimus.
+  en: When you come, we'll have dinner.
+  ref: g-02
+- id: v55-v-cum-avia-domum-venisset-caseum
+  type: vocab
+  la: Cum Avia domum vēnisset, cāseum invēnit.
+  en: When Grandma had come home, she found the cheese.
+  ref: g-04
+- id: v55-v-cum-fessus-sis-dormi
+  type: vocab
+  la: Cum fessus sīs, dormī!
+  en: Since you're tired, sleep!
+  ref: g-07
+- id: v55-v-cum-esuriret-tamen-non-edit
+  type: vocab
+  la: Cum ēsurīret, tamen nōn ēdit.
+  en: Although he was hungry, he still didn't eat.
+  ref: g-08
+- id: v55-v-quae-cum-ita-sint
+  type: vocab
+  la: Quae cum ita sint
+  en: since this is so (Cicero)
+  ref: g-07
+- id: v55-v-cum-tacent-clamant
+  type: vocab
+  la: Cum tacent, clāmant.
+  en: When they are silent, they shout. (Cicero)
+  ref: g-02
+- id: v55-v-cum
+  type: vocab
+  la: cum
+  en: (with a clause) when; (+ subjunctive) when, as, since, although
+  ref: g-01
+- id: v55-v-cum-primum
+  type: vocab
+  la: cum prīmum
+  en: as soon as
+  ref: g-03
+- id: v55-v-tutus-tuta-tutum
+  type: vocab
+  la: tūtus, tūta, tūtum
+  en: safe
+  ref: g-13
+- id: v55-v-fugo-fugare-fugavi-fugatum
+  type: vocab
+  la: fugō, fugāre, fugāvī, fugātum
+  en: chase away, put to flight
+  ref: g-13
+- id: v55-v-t-temporal-cum
+  type: vocab
+  la: temporal cum
+  en: 'the plain "when": *cum* + fact mood, telling the time'
+  ref: g-02
+- id: v55-v-t-circumstantial-cum
+  type: vocab
+  la: circumstantial cum
+  en: 'the story *cum*: + imperfect or pluperfect subjunctive, setting the scene'
+  ref: g-04
+- id: v55-v-t-causal-cum
+  type: vocab
+  la: causal cum
+  en: '*cum* = "since": + subjunctive'
+  ref: g-07
+- id: v55-v-t-concessive-cum
+  type: vocab
+  la: concessive cum
+  en: '*cum* = "although": + subjunctive, often with *tamen*'
+  ref: g-08
+- id: v55-f-01
+  type: forms
+  q: '*Magnā cum cūrā*: what is *cum*, and which case follows?'
+  a: The preposition "with"; the ablative.
+  ref: g-01
+- id: v55-f-02
+  type: forms
+  q: '*Cum Avus domum venit, canis lātrat.* Translate.'
+  a: When Grandpa comes home, the dog barks.
+  ref: g-01
+- id: v55-f-03
+  type: forms
+  q: How do you tell the preposition *cum* from the clause *cum*?
+  a: 'Look right after it: an ablative noun ("with") or a clause with its own verb ("when" and friends).'
+  ref: g-01
+- id: v55-f-04
+  type: forms
+  q: Early Latin spelling of the "when" *cum*?
+  a: '*Quom*: a cousin of *quī, quod*, not of the preposition.'
+  ref: g-01
+- id: v55-f-05
+  type: forms
+  q: 'Catullus 5: *dein, cum mīlia multa fēcerimus*. Translate.'
+  a: '"Then, when we''ve made many thousands…" (future perfect, fact mood)'
+  ref: g-01
+- id: v55-f-06
+  type: forms
+  q: 'Luke 23:42: *mementō meī, cum vēneris in rēgnum tuum.* Translate.'
+  a: '"Remember me when you come into your kingdom."'
+  ref: g-01
+- id: v55-f-07
+  type: forms
+  q: The four jobs of a *cum* clause?
+  a: Plain "when" (fact mood); story "when, as"; "since"; "although" (the last three subjunctive).
+  ref: g-01
+- id: v55-f-08
+  type: forms
+  q: '"When Grandpa sleeps, he snores."'
+  a: '*Cum Avus dormit, stertit.*'
+  ref: g-02
+- id: v55-f-09
+  type: forms
+  q: '"When you come, we''ll have dinner."'
+  a: '*Cum vēneris, cēnābimus.* (future perfect)'
+  ref: g-02
+- id: v55-f-10
+  type: forms
+  q: 'Cicero, *Cat.* 1.21: *cum quiēscunt, probant … cum tacent, clāmant.* Translate.'
+  a: '"When they keep quiet, they approve … when they are silent, they shout."'
+  ref: g-02
+- id: v55-f-11
+  type: forms
+  q: 'Caesar, *BG* 6.12.1: *Cum Caesar in Galliam vēnit…* Why the fact mood?'
+  a: 'It just dates the time: "at the time Caesar came."'
+  ref: g-02
+- id: v55-f-12
+  type: forms
+  q: What is temporal *cum*?
+  a: The plain "when" with the fact mood, answering "at what time?"
+  ref: g-02
+- id: v55-f-13
+  type: forms
+  q: 'Cicero on Verres: *cum rosam vīderat, tum incipere vēr arbitrābātur.* Translate.'
+  a: '"Whenever he had seen a rose, then he thought spring was beginning."'
+  ref: g-03
+- id: v55-f-14
+  type: forms
+  q: Fact-mood pluperfect after *cum* + imperfect main verb means…?
+  a: '"Whenever" in the past: again and again.'
+  ref: g-03
+- id: v55-f-15
+  type: forms
+  q: '"Whenever Grandpa sees a cheese, he smiles."'
+  a: '*Cum Avus cāseum vīdit, rīdet.* (perfect: "whenever he has seen")'
+  ref: g-03
+- id: v55-f-16
+  type: forms
+  q: '"As soon as Grandpa saw the cheese, he smiled."'
+  a: '*Cum prīmum Avus cāseum vīdit, rīsit.*'
+  ref: g-03
+- id: v55-f-17
+  type: forms
+  q: '"While Grandma was in the forum, Grandpa was gazing at the cheese."'
+  a: '*Cum Avia in forō esset, Avus cāseum spectābat.*'
+  ref: g-04
+- id: v55-f-18
+  type: forms
+  q: '*Cum vēnisset*: which form, and what time?'
+  a: 'Pluperfect subjunctive: earlier. "When he had come."'
+  ref: g-04
+- id: v55-f-19
+  type: forms
+  q: Why the subjunctive in a story *cum*, when it really happened?
+  a: 'Not doubt: it paints the scene (the circumstances) instead of dating the time.'
+  ref: g-04
+- id: v55-f-20
+  type: forms
+  q: Old-school names for the story *cum*?
+  a: Circumstantial *cum* (also narrative or historical *cum*).
+  ref: g-04
+- id: v55-f-21
+  type: forms
+  q: 'Story *cum*: imperfect vs pluperfect subjunctive?'
+  a: 'Imperfect: same time ("while, as"). Pluperfect: earlier ("when, after").'
+  ref: g-04
+- id: v55-f-22
+  type: forms
+  q: '"Grandpa, having eaten the cheese, slept."'
+  a: '*Cum Avus cāseum ēdisset, dormīvit.* (no "having eaten" participle in Latin)'
+  ref: g-04
+- id: v55-f-23
+  type: forms
+  q: 'Matthew 2:1: *Cum autem nātus esset Iēsus in Bethlehem…* Translate.'
+  a: '"Now when Jesus had been born in Bethlehem…"'
+  ref: g-05
+- id: v55-f-24
+  type: forms
+  q: '*Nātus esset*: what form?'
+  a: 'Pluperfect subjunctive of the deponent *nāscor*: earlier, past team.'
+  ref: g-05
+- id: v55-f-25
+  type: forms
+  q: 'Luke 2:43: *cum redīrent, remānsit puer Iēsus.* Translate.'
+  a: '"As they were going back, the boy Jesus stayed behind."'
+  ref: g-05
+- id: v55-f-26
+  type: forms
+  q: '*Cōnsummātīs diēbus* as a *cum* clause?'
+  a: '*Cum diēs cōnsummātī essent.*'
+  ref: g-05
+- id: v55-f-27
+  type: forms
+  q: '*BG* 1.7.1: *Caesarī cum id nūntiātum esset, … mātūrat ab urbe proficīscī.* Translate.'
+  a: '"When it had been reported to Caesar, … he hurries to set out from the city."'
+  ref: g-06
+- id: v55-f-28
+  type: forms
+  q: '*Quō cum vēnisset, cognōscit*: which team after the historic present?'
+  a: 'The past team: a story *cum* always takes it.'
+  ref: g-06
+- id: v55-f-29
+  type: forms
+  q: '*Quō cum, Caesarī cum*: where does *cum* stand?'
+  a: Often after a linking word, near the start of its clause.
+  ref: g-06
+- id: v55-f-30
+  type: forms
+  q: '"Since you''re tired, sleep!"'
+  a: '*Cum fessus sīs, dormī!*'
+  ref: g-07
+- id: v55-f-31
+  type: forms
+  q: What is causal *cum*?
+  a: '*Cum* + subjunctive giving a reason: "since."'
+  ref: g-07
+- id: v55-f-32
+  type: forms
+  q: 'Cicero, *Cat.* 1.10: *Quae cum ita sint, Catilīna, perge quō coepistī.* Translate.'
+  a: '"Since this is so, Catiline, carry on where you began."'
+  ref: g-07
+- id: v55-f-33
+  type: forms
+  q: '*Quae cum ita sint*: why present *sint*?'
+  a: 'Now team: the reason holds now, and the main verbs are commands.'
+  ref: g-07
+- id: v55-f-34
+  type: forms
+  q: 'Pompey, *BC* 3.86: *Id autem difficile nōn est, cum tantum equitātū valeāmus.* Translate.'
+  a: '"And that isn''t hard, since we are so strong in cavalry."'
+  ref: g-07
+- id: v55-f-35
+  type: forms
+  q: '*Cum Avus cāseum ēdisset, Avia īrāta erat.* "When" or "since"?'
+  a: 'Either: the sense decides, and often both are true.'
+  ref: g-07
+- id: v55-f-36
+  type: forms
+  q: '"Although Grandpa is hungry, he still isn''t eating the cheese."'
+  a: '*Cum Avus ēsuriat, tamen cāseum nōn edit.*'
+  ref: g-08
+- id: v55-f-37
+  type: forms
+  q: What is concessive *cum*, and its signpost?
+  a: '*Cum* + subjunctive = "although"; often *tamen* in the main clause.'
+  ref: g-08
+- id: v55-f-38
+  type: forms
+  q: '*BG* 7.62.4: *cum prīmī ōrdinēs … concidissent, tamen ācerrimē reliquī resistēbant.* Translate.'
+  a: '"Although the front ranks had fallen, the rest still resisted most fiercely."'
+  ref: g-08
+- id: v55-f-39
+  type: forms
+  q: 'Cicero on Socrates: *cum facile posset ēdūcī ē custōdiā, nōluit.* Translate.'
+  a: '"Although he could easily have been led out of prison, he refused."'
+  ref: g-08
+- id: v55-f-40
+  type: forms
+  q: '*Cum Avus cāseum vīderat, rīdēbat.*'
+  a: 'Fact mood: "Whenever Grandpa had seen a cheese, he smiled."'
+  ref: g-09
+- id: v55-f-41
+  type: forms
+  q: '*Cum Avus ēsuriat, cāseum edit.*'
+  a: '"Since Grandpa is hungry, he''s eating the cheese."'
+  ref: g-09
+- id: v55-f-42
+  type: forms
+  q: '*Avus, cāseum edēns, cantāvit* with *cum*?'
+  a: '*Cum Avus cāseum ederet, cantāvit.*'
+  ref: g-10
+- id: v55-f-43
+  type: forms
+  q: '*Cāseō inventō, Avus rīsit* with *cum*?'
+  a: '*Cum cāseus inventus esset, Avus rīsit.*'
+  ref: g-10
+- id: v55-f-44
+  type: forms
+  q: '"When Grandpa had found the cheese, he laughed."'
+  a: '*Cum Avus cāseum invēnisset, rīsit.*'
+  ref: g-10
+- id: v55-f-45
+  type: forms
+  q: '"As we were going back home, it began to rain."'
+  a: '*Cum domum redīrēmus, pluere coepit.*'
+  ref: g-11
+- id: v55-f-46
+  type: forms
+  q: '"Since you are my friend, I''ll give you some cheese."'
+  a: '*Cum amīcus meus sīs, tibi cāseum dabō.*'
+  ref: g-11
+- id: v55-f-47
+  type: forms
+  q: '"Although Marcus had eaten, he was still hungry."'
+  a: '*Cum Marcus ēdisset, tamen ēsuriēbat.*'
+  ref: g-11
+- id: v55-f-48
+  type: forms
+  q: 'Grandma: *Cum tū cāseum custōdiās, quis tē custōdiet?* Translate.'
+  a: '"Since you''re guarding the cheese, who''s going to guard you?"'
+  ref: g-13
+- id: v55-f-49
+  type: forms
+  q: '*Cum mūrem fugāverīs, tibi grātiās agō*: which *cum*, which team?'
+  a: '"Since"; perfect subjunctive, now team ("have done").'
+  ref: g-13
+- id: v55-c-01
+  type: choose
+  q: '*Cum Avus ēsuriat, tamen cāseum nōn edit.* Which *cum*?'
+  options:
+  - although
+  - since
+  - plain "when"
+  a: although
+  why: 'Subjunctive plus *tamen* in the main clause: concessive.'
+  ref: g-09
+- id: v55-c-02
+  type: choose
+  q: '*Cum Avus domum vēnit, canis lātrāvit.* Which *cum*?'
+  options:
+  - plain "when"
+  - since
+  - although
+  a: plain "when"
+  why: 'Fact mood, perfect: it dates the time.'
+  ref: g-09
+- id: v55-c-03
+  type: choose
+  q: '*Avus cum Aviā ad forum it.* Which *cum*?'
+  options:
+  - with
+  - when
+  - since
+  a: with
+  why: 'An ablative noun and no verb of its own: the preposition.'
+  ref: g-09
+- id: v55-c-04
+  type: choose
+  q: '"Since you''re tired, sleep!"'
+  options:
+  - Cum fessus sīs, dormī!
+  - Cum fessus es, dormī!
+  - Cum fessus essēs, dormī!
+  a: Cum fessus sīs, dormī!
+  why: '"Since" takes the subjunctive; now team, so present.'
+  ref: g-12
+- id: v55-c-05
+  type: choose
+  q: '"When Grandma had come home, she found the cheese."'
+  options:
+  - Cum Avia domum vēnisset, cāseum invēnit.
+  - Cum Avia domum veniat, cāseum invēnit.
+  - Cum Avia domum vēnerit, cāseum invēnit.
+  a: Cum Avia domum vēnisset, cāseum invēnit.
+  why: 'A story *cum*, earlier: pluperfect subjunctive, past team.'
+  ref: g-12
+- id: v55-e-01
+  type: error
+  q: 'Fix: *Cum venīs, cēnābimus.* (When you come, we''ll have dinner.)'
+  a: '*Cum vēneris, cēnābimus* (or *Cum veniēs…*). Latin marks the future.'
+  ref: g-12
+- id: v55-e-02
+  type: error
+  q: 'Fix: *Cum fessus es, dormī!* (Since you''re tired, sleep!)'
+  a: '*Cum fessus sīs, dormī!* "Since" takes the subjunctive.'
+  ref: g-12
+- id: v55-e-03
+  type: error
+  q: 'Fix: *Cum ēsuriēbat, tamen nōn ēdit.* (Although he was hungry, he didn''t eat.)'
+  a: '*Cum ēsurīret, tamen nōn ēdit.* "Although" takes the subjunctive.'
+  ref: g-12
+- id: v55-e-04
+  type: error
+  q: 'Fix: *Quō cum veniat, cognōscit.* (Caesar''s historic present)'
+  a: '*Quō cum vēnisset, cognōscit.* A story *cum* always takes the past team.'
+  ref: g-12
+- id: v55-e-05
+  type: error
+  q: 'Fix: *Avia cum Avus domum vēnit.* (Grandma came home with Grandpa.)'
+  a: '*Avia cum Avō domum vēnit.* The preposition needs the ablative.'
+  ref: g-12
