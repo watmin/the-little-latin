@@ -1,0 +1,384 @@
+book: v
+ch: 56
+page: liber-v/08-imperat-ut.md
+cards:
+- id: v56-v-avia-mihi-imperat-ut-veniam
+  type: vocab
+  la: Avia mihi imperat ut veniam.
+  en: Grandma orders me to come.
+  ref: g-01
+- id: v56-v-te-rogo-ut-venias
+  type: vocab
+  la: Tē rogō ut veniās.
+  en: I ask you to come.
+  ref: g-02
+- id: v56-v-moneo-te-ne-caseum-tangas
+  type: vocab
+  la: Moneō tē nē cāseum tangās.
+  en: I warn you not to touch the cheese.
+  ref: g-03
+- id: v56-v-avia-me-iubet-venire
+  type: vocab
+  la: Avia mē iubet venīre.
+  en: Grandma tells me to come.
+  ref: g-06
+- id: v56-v-cura-ut-valeas
+  type: vocab
+  la: Cūrā ut valeās.
+  en: Take care of yourself. (Cicero)
+  ref: g-10
+- id: v56-v-peto-petere-petivi-petitum
+  type: vocab
+  la: petō, petere, petīvī, petītum
+  en: ask (someone) for, request (ā + abl.)
+  ref: g-02
+- id: v56-v-postulo-postulare-postulavi-po
+  type: vocab
+  la: postulō, postulāre, postulāvī, postulātum
+  en: demand
+  ref: g-04
+- id: v56-v-veto-vetare-vetui-vetitum
+  type: vocab
+  la: vetō, vetāre, vetuī, vetitum
+  en: forbid
+  ref: g-06
+- id: v56-v-suadeo-suadere-suasi-suasum
+  type: vocab
+  la: suādeō, suādēre, suāsī, suāsum
+  en: advise (+ dat.)
+  ref: g-06
+- id: v56-v-curo-curare-curavi-curatum
+  type: vocab
+  la: cūrō, cūrāre, cūrāvī, cūrātum
+  en: take care of, see to it (that)
+  ref: g-10
+- id: v56-v-praecipio-praecipere-praecepi
+  type: vocab
+  la: praecipiō, praecipere, praecēpī, praeceptum
+  en: instruct, order (+ dat.)
+  ref: g-04
+- id: v56-v-neve-neu
+  type: vocab
+  la: nēve (neu)
+  en: and not (in orders and goals)
+  ref: g-03
+- id: v56-v-t-indirect-command
+  type: vocab
+  la: indirect command
+  en: 'the tucked-in command: *ut / nē* + subjunctive after a verb of asking, ordering, urging, warning or persuading'
+  ref: g-01
+- id: v56-f-01
+  type: forms
+  q: '*Venī!* → "Grandma orders me to come." (*imperō*)'
+  a: '*Avia mihi imperat ut veniam.*'
+  ref: g-01
+- id: v56-f-02
+  type: forms
+  q: Why the subjunctive in *imperat ut veniam*?
+  a: 'An order isn''t a fact yet: it''s what someone wants to happen.'
+  ref: g-01
+- id: v56-f-03
+  type: forms
+  q: Three ways to pass on speech?
+  a: 'Statement: accusative + infinitive. Question: question word + subjunctive. Command: *ut / nē* + subjunctive.'
+  ref: g-01
+- id: v56-f-04
+  type: forms
+  q: '*Ad forum eō ut cāseum emam* vs *Avia mē rogat ut cāseum emam*: the difference?'
+  a: The first *ut* tells why (a goal); the second tells what she asks (a tucked-in command).
+  ref: g-01
+- id: v56-f-05
+  type: forms
+  q: '"I order you to sing."'
+  a: '*Tibi imperō ut cantēs.*'
+  ref: g-02
+- id: v56-f-06
+  type: forms
+  q: '"I persuaded Grandpa to sleep."'
+  a: '*Avō persuāsī ut dormīret.*'
+  ref: g-02
+- id: v56-f-07
+  type: forms
+  q: '"Grandpa urges us to eat."'
+  a: '*Avus nōs hortātur ut edāmus.*'
+  ref: g-02
+- id: v56-f-08
+  type: forms
+  q: '"I beg y''all to sing."'
+  a: '*Vōs ōrō ut cantētis.*'
+  ref: g-02
+- id: v56-f-09
+  type: forms
+  q: '"I ask Grandma to give me cheese." (*petō*)'
+  a: '*Ab Aviā petō ut mihi cāseum det.*'
+  ref: g-02
+- id: v56-f-10
+  type: forms
+  q: Which case for the person with *imperō, persuādeō · rogō, ōrō, hortor, moneō · petō, postulō*?
+  a: Dative · accusative · *ā / ab* + ablative.
+  ref: g-02
+- id: v56-f-11
+  type: forms
+  q: '"Grandma warns me not to touch the cheese."'
+  a: '*Avia mē monet nē cāseum tangam.*'
+  ref: g-03
+- id: v56-f-12
+  type: forms
+  q: Why *nē*, not *ut nōn*, in an order?
+  a: 'An order is wanted, like a goal: *nē*. *Ut nōn* is for results.'
+  ref: g-03
+- id: v56-f-13
+  type: forms
+  q: '"Grandma orders that nobody touch the cheese."'
+  a: '*Avia imperat nē quis cāseum tangat.*'
+  ref: g-03
+- id: v56-f-14
+  type: forms
+  q: '"I order y''all to sit and not to eat."'
+  a: '*Vōbīs imperō ut sedeātis nēve edātis.*'
+  ref: g-03
+- id: v56-f-15
+  type: forms
+  q: 'Mark 8:30: *Et comminātus est eīs, nē cui dīcerent dē illō.* Translate.'
+  a: '"And he warned them sternly not to tell anyone about him."'
+  ref: g-04
+- id: v56-f-16
+  type: forms
+  q: 'Mark 6:8: *et praecēpit eīs, nē quid tollerent in viā.* Translate.'
+  a: '"And he instructed them not to take anything for the road."'
+  ref: g-04
+- id: v56-f-17
+  type: forms
+  q: 'Caesar, *BG* 1.42: *Ariovistus postulāvit nē quem peditem ad conloquium Caesar addūceret.* Translate.'
+  a: '"Ariovistus demanded that Caesar bring no foot soldier to the meeting."'
+  ref: g-04
+- id: v56-f-18
+  type: forms
+  q: '*Nē cui, nē quid, nē quem*: what happened?'
+  a: '*Aliquis* loses *ali-* after *nē*: not anyone = no one.'
+  ref: g-04
+- id: v56-f-19
+  type: forms
+  q: '"Grandma ordered the boys to come."'
+  a: '*Avia puerīs imperāvit ut venīrent.* (past team)'
+  ref: g-05
+- id: v56-f-20
+  type: forms
+  q: Which subjunctive tenses can a tucked-in command use, and why?
+  a: 'Only present (now team) and imperfect (past team): orders always point forward.'
+  ref: g-05
+- id: v56-f-21
+  type: forms
+  q: '"I have just asked you to come" vs "Yesterday I asked you to come."'
+  a: '*Tē rogāvī ut veniās* ("have done," now team) · *Heri tē rogāvī ut venīrēs.*'
+  ref: g-05
+- id: v56-f-22
+  type: forms
+  q: '"Grandma ordered that the cheese be carried home."'
+  a: '*Avia imperāvit ut cāseus domum portārētur.*'
+  ref: g-05
+- id: v56-f-23
+  type: forms
+  q: '*Lēgātī eum togam induere iussērunt.* Translate.'
+  a: '"The envoys ordered him to put on his toga." (*iubeō* + accusative + infinitive)'
+  ref: g-06
+- id: v56-f-24
+  type: forms
+  q: '"Grandma orders me to come," with *iubeō* and with *imperō*.'
+  a: '*Avia mē iubet venīre · Avia mihi imperat ut veniam.*'
+  ref: g-06
+- id: v56-f-25
+  type: forms
+  q: 'Cicero, *Cat.* 1.13: *Exīre ex urbe iubet cōnsul hostem.* Translate.'
+  a: '"The consul orders the enemy to leave the city."'
+  ref: g-06
+- id: v56-f-26
+  type: forms
+  q: 'Caesar, *BG* 1.7.2: *pontem … iubet rescindī.* Translate.'
+  a: '"He orders the bridge to be cut down." (passive infinitive)'
+  ref: g-06
+- id: v56-f-27
+  type: forms
+  q: '"Grandma forbids us to touch the cheese." (*vetō*)'
+  a: '*Avia nōs vetat cāseum tangere.*'
+  ref: g-06
+- id: v56-f-28
+  type: forms
+  q: 'Caesar, *BG* 1.2.1: *cīvitātī persuāsit ut dē fīnibus suīs cum omnibus cōpiīs exīrent.* Translate.'
+  a: '"He persuaded the community to go out of their territory with all their forces."'
+  ref: g-07
+- id: v56-f-29
+  type: forms
+  q: '*Persuādet Casticō … ut rēgnum … occupāret*: which team after Caesar''s historic present?'
+  a: The past team (imperfect). A historic present may take either team.
+  ref: g-07
+- id: v56-f-30
+  type: forms
+  q: 'Caesar, *BG* 1.20: *monet ut in reliquum tempus omnēs suspīciōnēs vītet.* Translate, and name the team.'
+  a: '"He warns him to avoid all suspicion in the future." Now team.'
+  ref: g-07
+- id: v56-f-31
+  type: forms
+  q: 'Matthew 9:38: *rogāte ergō Dominum messis, ut mittat operāriōs in messem suam.* Translate.'
+  a: '"So ask the Lord of the harvest to send workers into his harvest."'
+  ref: g-08
+- id: v56-f-32
+  type: forms
+  q: 'Mark 5:10: *dēprecābātur eum multum, nē sē expelleret extrā regiōnem.* Whom does *sē* mean?'
+  a: 'The one begging, not Jesus: *sē* points back to the subject of the asking verb.'
+  ref: g-08
+- id: v56-f-33
+  type: forms
+  q: 'Luke 8:31: *Et rogābant eum, nē imperāret illīs, ut in abyssum īrent.* Translate.'
+  a: '"And they begged him not to order them to go into the abyss."'
+  ref: g-08
+- id: v56-f-34
+  type: forms
+  q: '*Marcō persuāsī Avum dormīre* vs *Marcō persuāsī ut dormīret*?'
+  a: '"I convinced Marcus that Grandpa was sleeping" vs "I persuaded Marcus to sleep."'
+  ref: g-09
+- id: v56-f-35
+  type: forms
+  q: '*Tē moneō canem mordēre* vs *Tē moneō nē canem tangās*?'
+  a: '"I warn you that the dog bites" vs "I warn you not to touch the dog."'
+  ref: g-09
+- id: v56-f-36
+  type: forms
+  q: 'Matthew 4:3: *dīc ut lapidēs istī pānēs fīant.* Translate.'
+  a: '"Tell these stones to become bread."'
+  ref: g-09
+- id: v56-f-37
+  type: forms
+  q: '*Velim mihi scrībās*: where''s the *ut*?'
+  a: 'Left out: after *velim* (and *volō*) Latin often drops it. A tucked-in command.'
+  ref: g-10
+- id: v56-f-38
+  type: forms
+  q: 'Cicero, *Pro Quinctio* 18: *rogat ut cūret quod dīxisset.* Translate.'
+  a: '"He asks him to see to what he had said."'
+  ref: g-10
+- id: v56-f-39
+  type: forms
+  q: '*Rogat ut cūret quod dīxisset*: which teams?'
+  a: 'Both: *cūret* now team, *dīxisset* past team, after a historic present.'
+  ref: g-10
+- id: v56-f-40
+  type: forms
+  q: 'Cicero to Tiro: *Illud, mī Tīrō, tē rogō, sūmptū nē parcās ūllā in rē.* Translate.'
+  a: '"This, my Tiro, I ask of you: don''t spare expense in anything."'
+  ref: g-10
+- id: v56-f-41
+  type: forms
+  q: 'Young Marcus to Tiro: *petō ā tē ut quam celerrimē mihi librārius mittātur.* Translate.'
+  a: '"I ask you that a secretary be sent to me as fast as possible."'
+  ref: g-10
+- id: v56-f-42
+  type: forms
+  q: '*Avia mē rogat quid emam.* What kind of clause?'
+  a: 'A tucked-in question (Chapter 53): "Grandma asks me what I''m buying."'
+  ref: g-11
+- id: v56-f-43
+  type: forms
+  q: '*Ut Avia dīxit, cāseum ēmī.* Which *ut*?'
+  a: 'Fact mood: *ut* = "as."'
+  ref: g-11
+- id: v56-f-44
+  type: forms
+  q: '"Marcus asks Grandpa to tell a story."'
+  a: '*Marcus Avum rogat ut fābulam nārret.*'
+  ref: g-12
+- id: v56-f-45
+  type: forms
+  q: '"Grandma ordered the dog not to bark."'
+  a: '*Avia canī imperāvit nē lātrāret.*'
+  ref: g-12
+- id: v56-f-46
+  type: forms
+  q: '"I urge y''all to learn Latin every day."'
+  a: '*Vōs hortor ut cotīdiē Latīnē discātis.*'
+  ref: g-12
+- id: v56-f-47
+  type: forms
+  q: '"Grandpa persuaded me to give him the cheese."'
+  a: '*Avus mihi persuāsit ut sibi cāseum darem.*'
+  ref: g-12
+- id: v56-f-48
+  type: forms
+  q: 'Grandpa: *Tē ōrō ut Iōannem mēcum mittās… nē cāseum in viā edam!* Which clause is the order, which the goal?'
+  a: '*Ut … mittās*: tucked-in command (what he begs). *Nē … edam*: goal (why).'
+  ref: g-14
+- id: v56-c-01
+  type: choose
+  q: '*Avia mē rogat ut cāseum emam.* Which *ut*?'
+  options:
+  - tucked-in command
+  - goal
+  - result
+  a: tucked-in command
+  why: It tells what she asks, not why or what came of it.
+  ref: g-11
+- id: v56-c-02
+  type: choose
+  q: '*Ad forum eō ut cāseum emam.* Which *ut*?'
+  options:
+  - goal
+  - tucked-in command
+  - result
+  a: goal
+  why: It tells why I go.
+  ref: g-11
+- id: v56-c-03
+  type: choose
+  q: '"Grandma tells me to come." (*iubeō*)'
+  options:
+  - Avia mē iubet venīre.
+  - Avia mē iubet ut veniam.
+  - Avia mihi iubet venīre.
+  a: Avia mē iubet venīre.
+  why: '*Iubeō* takes an accusative + infinitive.'
+  ref: g-06
+- id: v56-c-04
+  type: choose
+  q: '"I persuade Grandpa to sleep."'
+  options:
+  - Avō persuādeō ut dormiat.
+  - Avum persuādeō ut dormiat.
+  - Avō persuādeō ut dormīret.
+  a: Avō persuādeō ut dormiat.
+  why: '*Persuādeō* takes the dative; now team, so present.'
+  ref: g-02
+- id: v56-c-05
+  type: choose
+  q: '*Marcō persuāsī Avum dormīre.* Meaning?'
+  options:
+  - I convinced Marcus that Grandpa was sleeping.
+  - I persuaded Marcus to let Grandpa sleep.
+  - I persuaded Marcus to sleep.
+  a: I convinced Marcus that Grandpa was sleeping.
+  why: 'Accusative + infinitive after *persuādeō* reports a fact: "that."'
+  ref: g-09
+- id: v56-e-01
+  type: error
+  q: 'Fix: *Avia mē imperat ut veniam.* (Grandma orders me to come.)'
+  a: '*Avia mihi imperat ut veniam.* *Imperō* takes the dative.'
+  ref: g-13
+- id: v56-e-02
+  type: error
+  q: 'Fix: *Avia mē iubet ut veniam.* (Grandma tells me to come.)'
+  a: '*Avia mē iubet venīre.* *Iubeō* takes the infinitive.'
+  ref: g-13
+- id: v56-e-03
+  type: error
+  q: 'Fix: *Tē moneō ut nōn tangās.* (I warn you not to touch it.)'
+  a: '*Tē moneō nē tangās.* An order''s "not" is *nē*.'
+  ref: g-13
+- id: v56-e-04
+  type: error
+  q: 'Fix: *Heri Avus nōs rogāvit ut cantēmus.* (Yesterday Grandpa asked us to sing.)'
+  a: '*Heri Avus nōs rogāvit ut cantārēmus.* A story: past team.'
+  ref: g-13
+- id: v56-e-05
+  type: error
+  q: 'Fix: *Aviam petō ut veniat.* (I ask Grandma to come.)'
+  a: '*Ab Aviā petō ut veniat.* *Petō* asks from: *ā / ab* + ablative.'
+  ref: g-13

@@ -20,7 +20,7 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 | 53 | [**Rogō Quid Faciās**](05-rogo-quid-facias.md) | G: perfect/pluperfect subjunctive; indirect questions. | ✅ available |
 | 54 | [**Ōrdō Temporum**](06-ordo-temporum.md) | G: sequence of tenses. | ✅ available |
 | 55 | [**Cum Vēnisset**](07-cum-venisset.md) | G: cum clauses (temporal, circumstantial, causal, concessive). | ✅ available |
-| 56 | **Imperat Ut** | G: indirect commands; verbs of asking/ordering/persuading. | coming |
+| 56 | [**Imperat Ut**](08-imperat-ut.md) | G: indirect commands; verbs of asking/ordering/persuading. | ✅ available |
 | 57 | **Sī…** | G: conditionals (simple, future more/less vivid, contrary-to-fact). S: what would you do if… | coming |
 | 58 | **Timeō Nē** | G: fear clauses; quīn, quōminus; doubting/prevention. | coming |
 | 59 | **Dum, Antequam, Dummodo** | G: temporal clauses with ind./subj.; proviso; concessive (quamquam/quamvīs); relative clause of characteristic. | coming |
