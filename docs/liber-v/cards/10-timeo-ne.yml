@@ -1,0 +1,409 @@
+book: v
+ch: 58
+page: liber-v/10-timeo-ne.md
+cards:
+- id: v58-v-timeo-ne-mordeat
+  type: vocab
+  la: Timeō nē mordeat.
+  en: I fear he may bite.
+  ref: g-01
+- id: v58-v-timeo-ut-venias
+  type: vocab
+  la: Timeō ut veniās.
+  en: I fear you won't come.
+  ref: g-03
+- id: v58-v-non-dubito-quin
+  type: vocab
+  la: Nōn dubitō quīn Avus cāseum velit.
+  en: I don't doubt Grandpa wants the cheese.
+  ref: g-10
+- id: v58-v-metuo
+  type: vocab
+  la: metuō, metuere, metuī
+  en: fear, dread
+  ref: g-02
+- id: v58-v-impedio
+  type: vocab
+  la: impediō, impedīre, impedīvī, impedītum
+  en: block, stop, hinder
+  ref: g-08
+- id: v58-v-prohibeo
+  type: vocab
+  la: prohibeō, prohibēre, prohibuī, prohibitum
+  en: keep off, stop, forbid
+  ref: g-08
+- id: v58-v-deterreo
+  type: vocab
+  la: dēterreō, dēterrēre, dēterruī, dēterritum
+  en: scare off, deter
+  ref: g-08
+- id: v58-v-quominus
+  type: vocab
+  la: quōminus
+  en: from (-ing); "by which the less"
+  ref: g-08
+- id: v58-v-quin
+  type: vocab
+  la: quīn
+  en: that; from (after a "no")
+  ref: g-09
+- id: v58-v-dubito
+  type: vocab
+  la: dubitō, dubitāre, dubitāvī, dubitātum
+  en: doubt; hesitate (+ infinitive)
+  ref: g-10
+- id: v58-v-fear-clause
+  type: vocab
+  la: fear clause
+  en: 'the fear-that clause: nē (that it will) or ut (that it won''t) + subjunctive'
+  ref: g-01
+- id: v58-v-prevention-clause
+  type: vocab
+  la: prevention clause
+  en: 'the stop-it clause: nē or quōminus (or quīn after a "no") + subjunctive'
+  ref: g-08
+- id: v58-f-01
+  type: forms
+  q: What does *Timeō nē mordeat* mean, and what is the old wish inside it?
+  a: '"I fear he may bite." Inside is the wish *Nē mordeat!* (may he not bite).'
+  ref: g-01
+- id: v58-f-02
+  type: forms
+  q: Does the *nē* in *Timeō nē mordeat* make it negative?
+  a: 'No. After a fear, *nē* means "that" (or "lest"): you fear the thing you wish wouldn''t happen.'
+  ref: g-01
+- id: v58-f-03
+  type: forms
+  q: A **fear clause** in plain words? Old-school name?
+  a: 'The fear-that clause: what you''re afraid might happen. Old school: *clause of fearing*.'
+  ref: g-01
+- id: v58-f-04
+  type: forms
+  q: Which mood is a fear clause in, and why?
+  a: 'The subjunctive: the thing isn''t a fact, only a worry.'
+  ref: g-01
+- id: v58-f-05
+  type: forms
+  q: Which three verbs of fearing take *nē* + subjunctive?
+  a: '*Timeō, metuō, vereor.*'
+  ref: g-02
+- id: v58-f-06
+  type: forms
+  q: '"I fear that Grandpa will eat the cheese."'
+  a: '*Timeō nē Avus cāseum edat.*'
+  ref: g-02
+- id: v58-f-07
+  type: forms
+  q: '"Grandma fears that the dog may bite Grandpa."'
+  a: '*Avia timet nē canis Avum mordeat.*'
+  ref: g-02
+- id: v58-f-08
+  type: forms
+  q: '"I fear that anyone will touch the cheese."'
+  a: '*Timeō nē quis cāseum tangat.* (*Quis* after *nē* means "anyone.")'
+  ref: g-02
+- id: v58-f-09
+  type: forms
+  q: '*Timēmus nē crās pluat.* Why present *pluat* for a future rain?'
+  a: The present subjunctive covers "now or soon" in a fear clause. No *-ūrus sit* needed.
+  ref: g-02
+- id: v58-f-10
+  type: forms
+  q: '"I fear Grandpa is eating the cheese right now."'
+  a: '*Timeō nē Avus nunc cāseum edat.* The present subjunctive can be now or soon.'
+  ref: g-02
+- id: v58-f-11
+  type: forms
+  q: '*Timeō ut veniat* means…?'
+  a: '"I fear that he won''t come." After a fear, *ut* = "that…not."'
+  ref: g-03
+- id: v58-f-12
+  type: forms
+  q: '*Timeō nē veniat* vs. *Timeō ut veniat*?'
+  a: '*Nē*: I fear he will come. *Ut*: I fear he won''t come.'
+  ref: g-03
+- id: v58-f-13
+  type: forms
+  q: What is the other way to say "I fear that you won't come"?
+  a: '*Timeō nē nōn veniās.* (*Ut* alone is the usual way.)'
+  ref: g-03
+- id: v58-f-14
+  type: forms
+  q: Is *ut* after *timeō* a purpose ("in order that")?
+  a: 'No. After a verb of fearing it has flipped: "that…not."'
+  ref: g-03
+- id: v58-f-15
+  type: forms
+  q: How is the fear clause the old wish pushed inside?
+  a: '*Nē veniat!* → *timeō nē veniat*; *Utinam veniat!* → *timeō ut veniat.*'
+  ref: g-03
+- id: v58-f-16
+  type: forms
+  q: '"I fear that y''all won''t come."'
+  a: '*Timeō ut veniātis.*'
+  ref: g-03
+- id: v58-f-17
+  type: forms
+  q: '*Vereor, ut Dolabella ipse satis nōbīs prōdesse possit.* Translate.'
+  a: '"I fear that Dolabella himself can''t help us enough." *Ut* = that…not.'
+  ref: g-03
+- id: v58-f-18
+  type: forms
+  q: '"I fear Grandpa has eaten the cheese" (already done). Which subjunctive?'
+  a: 'The perfect: *Timeō nē Avus cāseum ēderit.*'
+  ref: g-04
+- id: v58-f-19
+  type: forms
+  q: '*Timeō vōs, nē forte sine causā labōrāverim in vōbīs.* Why perfect *labōrāverim*?'
+  a: 'The work is already done: the perfect is "earlier" on the now team.'
+  ref: g-04
+- id: v58-f-20
+  type: forms
+  q: '"Grandpa feared that the dog might bite him."'
+  a: '*Avus timēbat nē canis sē mordēret.* Past team, imperfect.'
+  ref: g-04
+- id: v58-f-21
+  type: forms
+  q: '"Grandma feared Grandpa had eaten the cheese."'
+  a: '*Avia timēbat nē Avus cāseum ēdisset.* Pluperfect.'
+  ref: g-04
+- id: v58-f-22
+  type: forms
+  q: '"I was afraid you wouldn''t come."'
+  a: '*Timēbam ut venīrēs.*'
+  ref: g-04
+- id: v58-f-23
+  type: forms
+  q: 'The Law of the Fear Clock: which tense on each team?'
+  a: 'Now team: present (is/will happen), perfect (already happened). Past team: imperfect, pluperfect.'
+  ref: g-04
+- id: v58-f-24
+  type: forms
+  q: 'Caesar, *nē … offenderet verēbātur*: why imperfect *offenderet*?'
+  a: '*Verēbātur* is past, so the past team: imperfect.'
+  ref: g-05
+- id: v58-f-25
+  type: forms
+  q: '*Veritus nē … profugerent*: what is *veritus*?'
+  a: 'The perfect participle of *vereor*: "having feared" = "fearing." Already past, so imperfect *profugerent*.'
+  ref: g-05
+- id: v58-f-26
+  type: forms
+  q: 'Acts 27: *timentēs nē … inciderent / incideremus*. How do the two forms differ?'
+  a: '*Inciderent*: they; *incideremus*: we (Luke was aboard). Both imperfect after a past fear.'
+  ref: g-05
+- id: v58-f-27
+  type: forms
+  q: '*Valdē metuō, nē frīgeās in hibernīs.* Translate.'
+  a: '"I''m very much afraid you may be freezing in winter quarters."'
+  ref: g-05
+- id: v58-f-28
+  type: forms
+  q: '*Etiam illud metuō, nē iam intercludāmur.* Which voice is *intercludāmur*?'
+  a: 'Passive present subjunctive ("we"): "I also fear we may already be cut off."'
+  ref: g-05
+- id: v58-f-29
+  type: forms
+  q: '*Nōn vereor nē…* means?'
+  a: '"I''m not afraid that…" The clause stays *nē*. (The Law of the Calm Fear.)'
+  ref: g-06
+- id: v58-f-30
+  type: forms
+  q: '*Nōn vereor, nē hunc errōrem meum philosophī mortuī inrīdeant.* Translate.'
+  a: '"I''m not afraid that dead philosophers will laugh at this mistake of mine."'
+  ref: g-06
+- id: v58-f-31
+  type: forms
+  q: '*Timuit illūc īre*: what follows *timuit*?'
+  a: 'An infinitive: "he was afraid to go there." *Timeō* + infinitive = afraid to do it.'
+  ref: g-07
+- id: v58-f-32
+  type: forms
+  q: '*Timeō īre* vs. *Timeō nē eam*?'
+  a: '"I''m afraid to go" (my choice) vs. "I fear I may end up going."'
+  ref: g-07
+- id: v58-f-33
+  type: forms
+  q: '*Timeō canem*: is there a clause?'
+  a: 'No: *canem* is the object. "I fear the dog."'
+  ref: g-07
+- id: v58-f-34
+  type: forms
+  q: The three things a fear verb can take?
+  a: An infinitive (afraid to), *nē/ut* + subjunctive (afraid that), an accusative (afraid of).
+  ref: g-07
+- id: v58-f-35
+  type: forms
+  q: '*Canis Avum impedit nē cāseum tangat.* Translate.'
+  a: '"The dog stops Grandpa from touching the cheese."'
+  ref: g-08
+- id: v58-f-36
+  type: forms
+  q: Is *quōminus* different from *nē* after a stopping verb?
+  a: 'No: they are twins. *Quōminus* is old Latin for "by which the less" = "from -ing."'
+  ref: g-08
+- id: v58-f-37
+  type: forms
+  q: '*Nec aetās impedit, quōminus … studia teneāmus.* Translate.'
+  a: '"Nor does age stop us from keeping up our interests."'
+  ref: g-08
+- id: v58-f-38
+  type: forms
+  q: '"The dog stopped Grandpa from touching the cheese." (past)'
+  a: '*Canis Avum impedīvit quōminus cāseum tangeret.*'
+  ref: g-08
+- id: v58-f-39
+  type: forms
+  q: What follows *prohibeō*?
+  a: 'An accusative and, if needed, an infinitive: *quid prohibet mē baptizārī?*'
+  ref: g-08
+- id: v58-f-40
+  type: forms
+  q: '*Nōn subterfūgī, quōminus annūntiārem.* Why imperfect?'
+  a: '*Subterfūgī* is a past "did": past team, imperfect. "I did not shrink from announcing."'
+  ref: g-08
+- id: v58-f-41
+  type: forms
+  q: What is *quīn* in *Facere nōn possum quīn rīdeam*?
+  a: '"I can''t help laughing." *Quīn* + subjunctive, after a "no."'
+  ref: g-09
+- id: v58-f-42
+  type: forms
+  q: When may *quīn* be used?
+  a: Only after a negative (can't, won't, nothing) or a question meaning "no."
+  ref: g-09
+- id: v58-f-43
+  type: forms
+  q: '"Grandpa can''t be held back from touching the cheese."'
+  a: '*Avus retinērī nōn potest quīn cāseum tangat.*'
+  ref: g-09
+- id: v58-f-44
+  type: forms
+  q: '*Germānī retinērī nōn potuerant quīn tēla in nostrōs cōicerent.* Translate.'
+  a: '"The Germans couldn''t be held back from hurling missiles at our men."'
+  ref: g-09
+- id: v58-f-45
+  type: forms
+  q: '"I don''t doubt that Grandpa wants the cheese."'
+  a: '*Nōn dubitō quīn Avus cāseum velit.*'
+  ref: g-10
+- id: v58-f-46
+  type: forms
+  q: '*Nōn dubitō quīn ad tē omnēs tuī scrīpserint.* Why perfect?'
+  a: The writing is earlier than "I don't doubt" (now team).
+  ref: g-10
+- id: v58-f-47
+  type: forms
+  q: '*Nōn esse dubium quīn…* means?'
+  a: '"That there was no doubt that…"'
+  ref: g-10
+- id: v58-f-48
+  type: forms
+  q: '*Nōn dubitat, quīn brevī sit Trōia peritūra.* Translate.'
+  a: '"He doesn''t doubt that Troy will soon be destroyed."'
+  ref: g-10
+- id: v58-f-49
+  type: forms
+  q: '*Dubitō num Avus cāseum ēderit.* What kind of clause?'
+  a: 'A tucked-in question: "I doubt whether Grandpa has eaten the cheese." No *quīn*, no negative.'
+  ref: g-10
+- id: v58-f-50
+  type: forms
+  q: '*Dubitō īre* means?'
+  a: '"I hesitate to go." *Dubitō* + infinitive.'
+  ref: g-10
+- id: v58-f-51
+  type: forms
+  q: 'The Law of Which Word: fear / stop / stop with a "no" / no doubt.'
+  a: 'Fear: *nē* · *ut*. Stop: *nē* · *quōminus*. Stop with a "no": *quīn* · *quōminus*. No doubt: *quīn*.'
+  ref: g-11
+- id: v58-f-52
+  type: forms
+  q: '"Grandpa fears Grandma will soon come back home."'
+  a: '*Avus timet nē Avia mox domum redeat.*'
+  ref: g-12
+- id: v58-f-53
+  type: forms
+  q: '"I fear that y''all won''t understand."'
+  a: '*Timeō ut intellegātis.*'
+  ref: g-12
+- id: v58-f-54
+  type: forms
+  q: '"I don''t doubt that the dog smells the cheese."'
+  a: '*Nōn dubitō quīn canis cāseum olfaciat.*'
+  ref: g-12
+- id: v58-c-01
+  type: choose
+  q: '"I fear that he will come."'
+  options:
+  - Timeō nē veniat.
+  - Timeō ut veniat.
+  - Timeō veniat.
+  a: Timeō nē veniat.
+  why: 'A fear that it will happen: *nē* + subjunctive.'
+  ref: g-03
+- id: v58-c-02
+  type: choose
+  q: '"I fear that he won''t come."'
+  options:
+  - Timeō ut veniat.
+  - Timeō nē veniat.
+  - Nōn timeō nē veniat.
+  a: Timeō ut veniat.
+  why: 'A fear that it won''t happen: *ut* ("that…not").'
+  ref: g-03
+- id: v58-c-03
+  type: choose
+  q: '"I''m afraid to go."'
+  options:
+  - Timeō īre.
+  - Timeō nē eam.
+  - Timeō ut eam.
+  a: Timeō īre.
+  why: Afraid **to** do it takes the infinitive.
+  ref: g-07
+- id: v58-c-04
+  type: choose
+  q: '"The dog stops Grandpa from touching it."'
+  options:
+  - Canis Avum impedit quōminus tangat.
+  - Canis Avum impedit quīn tangat.
+  - Canis Avum impedit ut tangat.
+  a: Canis Avum impedit quōminus tangat.
+  why: 'A plain stop: *nē* or *quōminus*; *quīn* needs a "no."'
+  ref: g-08
+- id: v58-c-05
+  type: choose
+  q: '"I don''t doubt that he is coming."'
+  options:
+  - Nōn dubitō quīn veniat.
+  - Nōn dubitō ut veniat.
+  - Dubitō quīn veniat.
+  a: Nōn dubitō quīn veniat.
+  why: A "no" doubt takes *quīn* + subjunctive.
+  ref: g-10
+- id: v58-e-01
+  type: error
+  q: 'Fix: *Timeō ut veniat.* (I fear he''ll come.)'
+  a: '*Timeō nē veniat.* *Ut* after a fear means "that…not."'
+  ref: g-13
+- id: v58-e-02
+  type: error
+  q: 'Fix: *Timeō nē veniat.* (I fear he won''t come.)'
+  a: '*Timeō ut veniat.* (or *nē nōn veniat*).'
+  ref: g-13
+- id: v58-e-03
+  type: error
+  q: 'Fix: *Timeō nē eam.* (I''m afraid to go.)'
+  a: '*Timeō īre.* The infinitive means "afraid to."'
+  ref: g-13
+- id: v58-e-04
+  type: error
+  q: 'Fix: *Canis Avum impedit quīn tangat.* (The dog stops him.)'
+  a: '*Canis Avum impedit quōminus tangat* (or *nē tangat*). *Quīn* needs a "no" first.'
+  ref: g-13
+- id: v58-e-05
+  type: error
+  q: 'Fix: *Timēbam nē Avus ēderit.* (I was afraid he had eaten.)'
+  a: '*Timēbam nē Avus ēdisset.* Past team: pluperfect.'
+  ref: g-13

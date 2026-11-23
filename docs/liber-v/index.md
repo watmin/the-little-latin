@@ -22,6 +22,6 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 | 55 | [**Cum Vēnisset**](07-cum-venisset.md) | G: cum clauses (temporal, circumstantial, causal, concessive). | ✅ available |
 | 56 | [**Imperat Ut**](08-imperat-ut.md) | G: indirect commands; verbs of asking/ordering/persuading. | ✅ available |
 | 57 | [**Sī…**](09-si.md) | G: conditionals (simple, future more/less vivid, contrary-to-fact). S: what would you do if… | ✅ available |
-| 58 | **Timeō Nē** | G: fear clauses; quīn, quōminus; doubting/prevention. | coming |
+| 58 | [**Timeō Nē**](10-timeo-ne.md) | G: fear clauses; quīn, quōminus; doubting/prevention. | ✅ available |
 | 59 | **Dum, Antequam, Dummodo** | G: temporal clauses with ind./subj.; proviso; concessive (quamquam/quamvīs); relative clause of characteristic. | coming |
 | 60 | **Recapitulātiō V** | Adapted Cicero letter / Nepos life. | coming |
