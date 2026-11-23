@@ -1,0 +1,384 @@
+book: v
+ch: 57
+page: liber-v/09-si.md
+cards:
+- id: v57-v-si-vales-bene-est
+  type: vocab
+  la: Sī valēs, bene est.
+  en: If you're well, that's good. (how Roman letters began)
+  ref: g-02
+- id: v57-v-si-vis-amari-ama
+  type: vocab
+  la: Sī vīs amārī, amā.
+  en: If you want to be loved, love. (Seneca)
+  ref: g-02
+- id: v57-v-si-avia-veniat-gaudeam
+  type: vocab
+  la: Sī Avia veniat, gaudeam.
+  en: If Grandma should come, I'd be glad.
+  ref: g-05
+- id: v57-v-si-adesses-gauderem
+  type: vocab
+  la: Sī adessēs, gaudērem.
+  en: If you were here, I'd be glad.
+  ref: g-06
+- id: v57-v-si-tacuisses-philosophus-mansi
+  type: vocab
+  la: Sī tacuissēs, philosophus mānsissēs.
+  en: If you had kept quiet, you'd have stayed a philosopher. (proverb)
+  ref: g-07
+- id: v57-v-quid-faceres-si-rex-esses
+  type: vocab
+  la: Quid facerēs, sī rēx essēs?
+  en: What would you do if you were king?
+  ref: g-10
+- id: v57-v-nisi
+  type: vocab
+  la: nisi
+  en: unless, if … not; except
+  ref: g-04
+- id: v57-v-sin
+  type: vocab
+  la: sīn
+  en: but if
+  ref: g-04
+- id: v57-v-quod-si
+  type: vocab
+  la: quod sī
+  en: but if, and if
+  ref: g-03
+- id: v57-v-etiamsi
+  type: vocab
+  la: etiamsī
+  en: even if
+  ref: g-05
+- id: v57-v-consulo-consulere-consului-con
+  type: vocab
+  la: cōnsulō, cōnsulere, cōnsuluī, cōnsultum
+  en: ask the advice of, consult (+ acc.)
+  ref: g-02
+- id: v57-v-conditional
+  type: vocab
+  la: conditional
+  en: 'the if-sentence: an if-half (protasis) and a then-half (apodosis)'
+  ref: g-01
+- id: v57-v-contrary-to-fact
+  type: vocab
+  la: contrary to fact
+  en: 'the not-really if: imperfect (now) or pluperfect (then) subjunctive in both halves'
+  ref: g-06
+- id: v57-f-01
+  type: forms
+  q: The two halves of an if-sentence? (plain and old-school names)
+  a: The if-half (*protasis*) and the then-half (*apodosis*).
+  ref: g-01
+- id: v57-f-02
+  type: forms
+  q: Must the if-half come first?
+  a: 'No: *Avia clāmābit, sī cāseum ēderis* is fine. *Sī* marks the if-half wherever it stands.'
+  ref: g-01
+- id: v57-f-03
+  type: forms
+  q: How do you tell which kind of "if" you have?
+  a: 'Look at the verbs: their mood and tense tell you.'
+  ref: g-01
+- id: v57-f-04
+  type: forms
+  q: The four kinds of "if"?
+  a: Fact if, will-if, should-would if, not-really if.
+  ref: g-01
+- id: v57-f-05
+  type: forms
+  q: '*Sī valēs, bene est.* Does it say you''re well?'
+  a: No. A fact if says nothing about whether it's true.
+  ref: g-02
+- id: v57-f-06
+  type: forms
+  q: S. V. B. E. E. V. at the top of a letter?
+  a: '*Sī valēs, bene est, ego valeō*: "If you''re well, that''s good; I''m well," the old opening Seneca describes (*Letters* 15.1).'
+  ref: g-02
+- id: v57-f-07
+  type: forms
+  q: '*Sī tū exercitusque valētis, bene est.*'
+  a: '"If you and the army are well, that''s good." (Cicero, *Letters to Friends* 5.2)'
+  ref: g-02
+- id: v57-f-08
+  type: forms
+  q: '*nōn iubeō, sed, sī mē cōnsulis, suādeō.*'
+  a: '"I don''t order it, but, if you ask my advice, I advise it." (Cicero to Catiline, 1.13)'
+  ref: g-02
+- id: v57-f-09
+  type: forms
+  q: '*Sī Fīlius Deī es, dīc, ut lapidēs istī pānēs fīant.* Kind of "if"?'
+  a: 'A fact if: "If you are the Son of God, tell these stones to become bread." (Matthew 4:3)'
+  ref: g-02
+- id: v57-f-10
+  type: forms
+  q: '"If Grandpa ate the cheese (I don''t know), he was glad."'
+  a: '*Sī Avus cāseum ēdit, gāvīsus est.*'
+  ref: g-02
+- id: v57-f-11
+  type: forms
+  q: 'Will-if (future more vivid): which verbs?'
+  a: Future or future perfect in the if-half; usually a future in the then-half.
+  ref: g-03
+- id: v57-f-12
+  type: forms
+  q: '*Quod sī legere aut audīre volētis externa, … reperiētis.*'
+  a: '"But if you (will) want to read or hear foreign history, … you will find…" (Cicero, *On Old Age* 20)'
+  ref: g-03
+- id: v57-f-13
+  type: forms
+  q: '*Nam sī tē interficī iusserō, residēbit in rē pūblicā reliqua coniūrātōrum manus.*'
+  a: '"For if I order you to be killed, the rest of the conspirators'' band will stay behind in the state." (Cicero, *Against Catiline* 1.12)'
+  ref: g-03
+- id: v57-f-14
+  type: forms
+  q: '*Nisi quis nātus fuerit dēsuper, nōn potest vidēre rēgnum Deī.*'
+  a: '"Unless someone is born from above, he cannot see the kingdom of God." (John 3:3)'
+  ref: g-03
+- id: v57-f-15
+  type: forms
+  q: '"If y''all come tomorrow, we will eat cheese."'
+  a: '*Sī crās vēneritis, cāseum edēmus.*'
+  ref: g-03
+- id: v57-f-16
+  type: forms
+  q: '"Unless you come, we won''t eat."'
+  a: '*Nisi vēneris, nōn edēmus.*'
+  ref: g-04
+- id: v57-f-17
+  type: forms
+  q: '*nisi* vs *sī nōn*?'
+  a: '*Nisi* sets the whole if-half aside ("unless"); *sī nōn* puts the "not" on one word.'
+  ref: g-04
+- id: v57-f-18
+  type: forms
+  q: '*Nihil edō nisi cāseum.*'
+  a: '"I eat nothing but cheese."'
+  ref: g-04
+- id: v57-f-19
+  type: forms
+  q: '*sīn tū … exieris, exhauriētur ex urbe … sentīna reī pūblicae.*'
+  a: '"But if you leave, the bilge of the state will be drained out of the city." (Cicero, *Against Catiline* 1.12)'
+  ref: g-04
+- id: v57-f-20
+  type: forms
+  q: '"If Grandma comes, we''ll sing; but if Grandpa comes, we''ll eat cheese."'
+  a: '*Sī Avia vēnerit, cantābimus; sīn Avus vēnerit, cāseum edēmus.*'
+  ref: g-04
+- id: v57-f-21
+  type: forms
+  q: 'Should-would if (future less vivid): which verbs?'
+  a: 'Present subjunctive in both halves: "if … should …, … would …."'
+  ref: g-05
+- id: v57-f-22
+  type: forms
+  q: '*Sī Avia vēnerit, gaudēbō* vs *Sī Avia veniat, gaudeam*?'
+  a: The first expects it ("If Grandma comes, I'll be glad"); the second only imagines it ("If Grandma should come, I'd be glad").
+  ref: g-05
+- id: v57-f-23
+  type: forms
+  q: '*Et sī quis deus mihi largiātur, ut ex hāc aetāte repuerāscam et in cūnīs vāgiam, valdē recūsem.*'
+  a: '"And if some god should grant me to become a boy again and wail in a cradle, I would firmly refuse." (Cicero, *On Old Age* 83)'
+  ref: g-05
+- id: v57-f-24
+  type: forms
+  q: '*Haec sī tēcum, ita ut dīxī, patria loquātur, nōnne impetrāre dēbeat?*'
+  a: '"If your country should say these things to you, as I said, shouldn''t she get her way?" (Cicero, *Against Catiline* 1.19)'
+  ref: g-05
+- id: v57-f-25
+  type: forms
+  q: '"If you should ask me, I wouldn''t answer."'
+  a: '*Sī mē rogēs, nōn respondeam.*'
+  ref: g-05
+- id: v57-f-26
+  type: forms
+  q: 'Not-really if (contrary to fact), now: which tense?'
+  a: 'Imperfect subjunctive in both halves: *Sī adessēs, gaudērem.*'
+  ref: g-06
+- id: v57-f-27
+  type: forms
+  q: '*Sī Avia veniat, gaudeam* vs *Sī Avia venīret, gaudērem*?'
+  a: 'The first: she might come (imagined future). The second: she isn''t coming, so I''m not glad now.'
+  ref: g-06
+- id: v57-f-28
+  type: forms
+  q: '*Sī tē parentēs timērent atque ōdissent tuī …, ab eōrum oculīs aliquō concēderēs.*'
+  a: '"If your parents feared and hated you, … you would go away somewhere out of their sight." (Cicero, *Against Catiline* 1.17)'
+  ref: g-06
+- id: v57-f-29
+  type: forms
+  q: Why does *ōdissent* mean "hated (now)"?
+  a: '*Ōdī* is perfect in form, present in meaning, so its pluperfect form does an imperfect''s job.'
+  ref: g-06
+- id: v57-f-30
+  type: forms
+  q: '*Sī ex hōc mundō esset rēgnum meum, ministrī meī dēcertārent.*'
+  a: '"If my kingdom were of this world, my servants would be fighting." (John 18:36)'
+  ref: g-06
+- id: v57-f-31
+  type: forms
+  q: 'Not-really if, past: which tense?'
+  a: 'Pluperfect subjunctive in both halves: *Sī adfuissēs, gāvīsus essem.*'
+  ref: g-07
+- id: v57-f-32
+  type: forms
+  q: '"If I hadn''t eaten the cheese, Grandma wouldn''t have shouted."'
+  a: '*Sī cāseum nōn ēdissem, Avia nōn clāmāvisset.*'
+  ref: g-07
+- id: v57-f-33
+  type: forms
+  q: '*Domine, sī fuissēs hīc, frāter meus nōn esset mortuus!*'
+  a: '"Lord, if you had been here, my brother would not have died!" (John 11:21)'
+  ref: g-07
+- id: v57-f-34
+  type: forms
+  q: '*Certē, nam nisi tū āmīsissēs, numquam recēpissem.*'
+  a: '"Certainly: for if you hadn''t lost it, I''d never have taken it back." (Fabius, in Cicero, *On Old Age* 11)'
+  ref: g-07
+- id: v57-f-35
+  type: forms
+  q: '*Intellēxeram, sī tacuissēs.*'
+  a: '"I would have understood, if you had kept quiet." (Boethius 2.7) The fact-mood *intellēxeram* makes it vivid.'
+  ref: g-07
+- id: v57-f-36
+  type: forms
+  q: '*Sī Avus dormiat, nōn cantem.* Kind?'
+  a: 'Should-would: "If Grandpa should be asleep, I wouldn''t sing."'
+  ref: g-08
+- id: v57-f-37
+  type: forms
+  q: '*Sī Avus dormīret, nōn cantārem.* Kind?'
+  a: 'Not really, now: "If Grandpa were asleep, I wouldn''t be singing."'
+  ref: g-08
+- id: v57-f-38
+  type: forms
+  q: '*Sī Avus dormīvisset, nōn cantāvissem.* Kind?'
+  a: 'Not really, then: "If Grandpa had been asleep, I wouldn''t have sung."'
+  ref: g-08
+- id: v57-f-39
+  type: forms
+  q: '"If I had bought cheese yesterday, we would be eating it now."'
+  a: '*Sī herī cāseum ēmissem, nunc eum ederēmus.* Each half keeps its own clock.'
+  ref: g-08
+- id: v57-f-40
+  type: forms
+  q: '"What would you do if you were king?" tucked in after *Rogō*.'
+  a: '*Rogō quid facerēs, sī rēx essēs.* The not-really imperfects stay.'
+  ref: g-09
+- id: v57-f-41
+  type: forms
+  q: The Law of the Frozen Clock?
+  a: A not-really if keeps its imperfect or pluperfect even after a now verb; the matching rule can't touch it.
+  ref: g-09
+- id: v57-f-42
+  type: forms
+  q: '"If Grandma were here, I would ask her to give me cheese."'
+  a: '*Sī Avia adesset, eam rogārem ut mihi cāseum daret.* *Rogārem* leads the past team.'
+  ref: g-09
+- id: v57-f-43
+  type: forms
+  q: '"I don''t know what I would do if the dog weren''t here."'
+  a: '*Nesciō quid facerem, sī canis nōn adesset.*'
+  ref: g-09
+- id: v57-f-44
+  type: forms
+  q: '"If I were king, I''d eat cheese every day."'
+  a: '*Sī rēx essem, cotīdiē cāseum ederem.*'
+  ref: g-10
+- id: v57-f-45
+  type: forms
+  q: '"What would you do if you should find a hundred denarii?"'
+  a: '*Quid faciās, sī centum dēnāriōs inveniās?*'
+  ref: g-10
+- id: v57-f-46
+  type: forms
+  q: '"What would you have done if the dog had eaten your cheese?"'
+  a: '*Quid fēcissēs, sī canis cāseum tuum ēdisset?*'
+  ref: g-10
+- id: v57-f-47
+  type: forms
+  q: '"If I were rich, I''d buy all the cheese in Rome."'
+  a: '*Sī dīves essem, omnem cāseum Rōmae emerem.*'
+  ref: g-12
+- id: v57-f-48
+  type: forms
+  q: '"If you come, good; but if not, I''ll eat the cheese myself."'
+  a: '*Sī vēneris, bene; sīn minus, ipse cāseum edam.*'
+  ref: g-12
+- id: v57-c-01
+  type: choose
+  q: '"If you were here, I''d be glad" (you aren''t).'
+  options:
+  - Sī adessēs, gaudērem.
+  - Sī aderis, gaudēbō.
+  - Sī adsīs, gaudeam.
+  a: Sī adessēs, gaudērem.
+  why: 'Not really, now: imperfect subjunctive in both halves.'
+  ref: g-06
+- id: v57-c-02
+  type: choose
+  q: '"If Grandma should come, I''d be glad" (just imagining).'
+  options:
+  - Sī Avia veniat, gaudeam.
+  - Sī Avia venīret, gaudērem.
+  - Sī Avia vēnerit, gaudēbō.
+  a: Sī Avia veniat, gaudeam.
+  why: 'Should-would: present subjunctive in both halves.'
+  ref: g-05
+- id: v57-c-03
+  type: choose
+  q: '"If you had been here, my brother would not have died."'
+  options:
+  - Sī fuissēs hīc, frāter meus nōn esset mortuus.
+  - Sī fuistī hīc, frāter meus nōn mortuus est.
+  - Sī essēs hīc, frāter meus nōn morerētur.
+  a: Sī fuissēs hīc, frāter meus nōn esset mortuus.
+  why: 'Not really, then: pluperfect subjunctive in both halves.'
+  ref: g-07
+- id: v57-c-04
+  type: choose
+  q: '*Sī crās vēneris, cāseum edēmus.* Which kind?'
+  options:
+  - will-if
+  - should-would
+  - not really
+  a: will-if
+  why: 'Future perfect, then future: a real, likely future.'
+  ref: g-03
+- id: v57-c-05
+  type: choose
+  q: '"I''m asking what you would do if you were king."'
+  options:
+  - Rogō quid facerēs, sī rēx essēs.
+  - Rogō quid faciās, sī rēx sīs.
+  - Rogō quid facis, sī rēx es.
+  a: Rogō quid facerēs, sī rēx essēs.
+  why: 'The frozen clock: a not-really if keeps its imperfects after a now verb.'
+  ref: g-09
+- id: v57-e-01
+  type: error
+  q: 'Fix: *Sī adessēs, gaudēbō.* (If you were here, I''d be glad.)'
+  a: '*Sī adessēs, gaudērem.* A not-really if takes the imperfect subjunctive in both halves.'
+  ref: g-13
+- id: v57-e-02
+  type: error
+  q: 'Fix: *Domine, sī fuistī hīc…* (Lord, if you had been here…; he wasn''t.)'
+  a: '*Domine, sī fuissēs hīc…* Not really, then: pluperfect subjunctive.'
+  ref: g-13
+- id: v57-e-03
+  type: error
+  q: 'Fix: *Sī iuvenis sim, curram.* (If I were young, I''d run; I''m old.)'
+  a: '*Sī iuvenis essem, currerem.* Not really, now: imperfect subjunctive.'
+  ref: g-13
+- id: v57-e-04
+  type: error
+  q: 'Fix: *Nesciō quid faciās, sī rēx sīs.* (I don''t know what you''d do if you were king.)'
+  a: '*Nesciō quid facerēs, sī rēx essēs.* The frozen clock.'
+  ref: g-13
+- id: v57-e-05
+  type: error
+  q: 'Fix: *Sī cāseum edās, Avia clāmābit.* (If you eat the cheese, Grandma will shout; I expect it.)'
+  a: '*Sī cāseum ēderis, Avia clāmābit.* A will-if takes the future perfect.'
+  ref: g-13

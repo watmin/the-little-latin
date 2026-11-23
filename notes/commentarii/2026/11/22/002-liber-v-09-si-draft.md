@@ -1,0 +1,785 @@
+<!-- Draft of Liber V Caput IX (Ch57) "Sī…", 2026-11-22 evening. Target: docs/liber-v/09-si.md; cards docs/liber-v/cards/09-si.yml. Sources verified 2026-11-22 evening: see notes/iudicia/2026/11/22/002-liber-v-09-si-review.md. Fixes from that review are applied in this copy. -->
+
+# Caput LVII: Sī…
+
+*Liber V, Modus Subiūnctīvus · Chapter 57*
+
+*In which Latin learns to say "if." You've used* sī *since Chapter 18, and Chapter 27 gave it a future perfect:* Sī cāseum ēderis, Avia clāmābit. *Every one of those ifs could really happen. Today come the other kinds: the "if it should happen" (just imagining), and the "if it were so" and "if it had been so" (but it isn't, and it wasn't). Chapter 52's and Chapter 53's "not really" wishes,* Utinam adessēs! *and* Utinam nē ēdissem!*, were halfway there already. Two promises come due as well: Chapter 56 left a gap in Cicero's line to Catiline ("I don't order it, but … I advise it") and kept the tempter's "If you are the Son of God" in English only. Along the way: Cicero threatening Catiline with two ifs and a "but if," old Cato refusing to be a baby again, a general's joke about a lost city, Martha at Lazarus's tomb, a philosopher who should have kept quiet, and a Stoic love potion. Speaking goal: say what you'll do if, what you'd do if, and what you would have done if, and ask "What would you do if…?"*
+
+!!! abstract "In this chapter"
+    - **Saying:** *Sī valēs, bene est · Sī vīs amārī, amā · Sī Avia veniat, gaudeam · Sī adessēs, gaudērem · Sī tacuissēs… · Quid facerēs, sī rēx essēs?*
+    - **Grammar words, in plain English:** conditional (the "if-sentence": an if-half and a then-half; old-school *protasis* and *apodosis*) · simple condition (the "fact if") · future more vivid (the "will-if") · future less vivid (the "should-would if") · contrary to fact (the "not-really if")
+    - **Forms:** nothing new to build! The fact mood you know, Chapter 49's present subjunctive, Chapter 52's imperfect and Chapter 53's pluperfect subjunctive.
+    - **Laws:** the Law of the Fact If · the Law of *Nisi* and *Sīn* · the Law of Should-Would · the Law of Not Really · the Law of the Four Ifs · the Law of the Frozen Clock
+    - **Words:** *nisi* (unless) · *sīn* (but if) · *quod sī* (but if) · *etiamsī* (even if) · *cōnsulō* (ask advice of)
+    - **Reading:** *Sī rēx essem…* (day twenty-five: Grandpa and John go to the forum for a new cheese, play "What would you do if…?", and come home with two cheeses and one regret)
+    - **Speaking:** say what you'll do if, what you'd do if, and what you would have done if; ask "What would you do if…?"
+
+!!! tip "How to read this chapter"
+    Same as always. Say your answer **out loud**, then tap the wax tablet to check. For every *sī*, look at the two verbs first: they tell you which kind of "if" it is.
+
+---
+
+## 1. Two halves
+
+:: Sī cāseum ēderis, Avia clāmābit. || If you eat the cheese, Grandma will shout. (teaching line; Chapter 27)
+
+Sī… tum…
+
+{#g-01}
+
+| Question | Answer |
+|---|---|
+| Chapter 18 gave you *sī*, "if," and Chapter 27 this: *Sī cāseum ēderis, Avia clāmābit.* How many halves does it have? | **Two.** An **if-half**, *Sī cāseum ēderis* ("if you eat the cheese"), and a **then-half**, *Avia clāmābit* ("Grandma will shout"). |
+| Grammar books call the whole thing a **conditional** sentence. Plain words? | **The if-sentence.** One half sets the terms (Latin *condiciō*, "terms, condition"); the other says what follows. Old school books call the halves the ***protasis*** (Greek "put forward": the if-half) and the ***apodosis*** (Greek "given back": the then-half). This book just says if-half and then-half. |
+| Must the if-half come first? | **No.** *Avia clāmābit, sī cāseum ēderis* says the same thing. *Sī* marks the if-half wherever it stands. |
+| You've met more: Chapter 29's *Sī quis cāseum ēderit…*, Chapter 40's James 4:15 *Sī Dominus voluerit… faciēmus hoc aut illud*, Chapter 50's *sīs* (= *sī vīs*, "if you want"). Which mood are all those *sī* verbs? | The **fact mood** (indicative). Every "if" so far was something that **could really** happen. |
+| Chapter 52's *Utinam adessēs!* was a wish that's "not really so." Guess: can an "if" be "not really"? | **Yes.** "If you **were** here (you aren't), I'd be glad." Latin uses the same imperfect subjunctive: ***Sī adessēs, gaudērem.*** That's §6. Latin has **four kinds** of "if," and **the verbs tell you which.** |
+
+## 2. The fact if
+
+:: Sī valēs, bene est. || If you're well, that's good. (how Roman letters began)
+
+Sī valēs… sī mē cōnsulis… sī vīs…
+
+{#g-02}
+
+| Question | Answer |
+|---|---|
+| *Sī valēs, bene est.* (*Valeō*: be well, Chapter 50.) Translate. Does it say whether you're well? | "If you're well, that's good." **No.** It just links the two: maybe you are, maybe you aren't. Both verbs are in the fact mood. |
+| Seneca, *Letters* 15.1: *Mōs antīquīs fuit, usque ad meam servātus aetātem, prīmīs epistulae verbīs adicere "sī valēs, bene est, ego valeō."* (*Mōs*: custom; *antīquī*: people of old; *servātus*: kept; *adiciō*: add.) Translate. | "It was a custom of the ancients, kept right down to my own time, to add to the first words of a letter: '**If you're well**, that's good; I'm well.'" Letter writers used it so often that they shortened it: Cicero's letters have *S. V. B. E. E. V.* |
+| Cicero opens a letter (*Letters to Friends* 5.2, 62 BC) to Metellus, a governor with an army: *Sī tū exercitusque valētis, bene est.* (*Exercitus*: army.) Why *valētis*? | Two subjects, "you **and** the army," so a plural verb: "**If you and the army are well**, that's good." The same Roman letter opening. |
+| Chapter 56's gap, filled. Catiline asks whether he should go into exile. Cicero (*Against Catiline* 1.13): *Interrogās mē, num in exilium; nōn iubeō, sed, sī mē cōnsulis, suādeō.* (*Interrogō*: ask, Chapter 29; *num*: whether, Chapter 53; *cōnsulō* + acc.: ask someone's advice.) Translate. | "You ask me whether (you should go) into exile. I don't order it, but, **if you ask my advice**, I advise it." A fact if: Cicero doesn't pretend to know whether Catiline really wants his advice. |
+| Chapter 56's other promise. Matthew 4:3 (Nova Vulgata), the tempter in the desert: *Sī Fīlius Deī es, dīc, ut lapidēs istī pānēs fīant.* Translate. What kind of "if"? | "**If you are the Son of God**, tell these stones to become bread." A **fact if**: he puts it as a real possibility, to test him. And the then-half is a **command**: a fact if's then-half can be anything. |
+| Seneca, *Letters* 9.6, quoting the philosopher Hecato's love potion "without drugs, without herbs, without a witch's spell": *sī vīs amārī, amā.* (*Amārī*: passive infinitive, Chapter 30.) Translate. | "**If you want to be loved, love.**" Fact if, imperative then-half. Chapter 50's *sīs* is the same *sī vīs*, squeezed. |
+| A past fact if: "If Grandpa ate the cheese (I don't know whether he did), he was glad." (*Gaudeō, gāvīsus sum*, Chapter 43.) | ***Sī Avus cāseum ēdit, gāvīsus est.*** Any tense goes in a fact if: present, past, or future. |
+
+## 3. The will-if
+
+:: Sī quis cāseum ēderit, Avia clāmābit. || If anyone eats the cheese, Grandma will shout. (teaching line; Chapter 29)
+
+Sī… -erō, … -bō.
+
+{#g-03}
+
+| Question | Answer |
+|---|---|
+| Chapter 27's *Sī cāseum ēderis, Avia clāmābit* is a fact if about the **future**. Grammar books call it a **future more vivid** condition. Plain words? | **The will-if**: a likely, real future. English says "If you **eat** …, she **will** shout." Latin is honest about the time: **future** or **future perfect** in the if-half, and usually a **future** in the then-half. |
+| Cicero, *On Old Age* 20. Old Cato speaks to two young men: *Quod sī legere aut audīre volētis externa, maximās rēs pūblicās ab adulēscentibus labefactātās, ā senibus sustentātās et restitūtās reperiētis.* (*Quod sī*: but if; *externa*: foreign history; *labefactō*: undermine; *sustentō*: prop up; *restituō*: restore; *reperiō*: find.) Translate. | "But **if you (will) want** to read or hear foreign history, **you will find** the greatest states undermined by young men, propped up and restored by old men." Future *volētis* ("you will want"), future *reperiētis*. (Grandpa's favorite line.) |
+| Cicero tells Catiline why he hasn't had him executed (*Against Catiline* 1.12): *Nam sī tē interficī iusserō, residēbit in rē pūblicā reliqua coniūrātōrum manus.* (*Interficiō*: kill; *resideō*: stay behind; *coniūrātus*: conspirator; *manus*: band.) Translate. | "For **if I order** you to be killed, the rest of the conspirators' band **will stay behind** in the state." Future perfect *iusserō*: the ordering comes first. (And Chapter 56's *iubeō* + passive infinitive.) |
+| John 3:3 (Nova Vulgata), Jesus to Nicodemus: *Nisi quis nātus fuerit dēsuper, nōn potest vidēre rēgnum Deī.* (*Nātus fuerit*: future perfect of *nāscor*, be born, like *nātus erit*; *dēsuper*: from above.) Translate. | "**Unless someone is born** from above, he cannot see the kingdom of God." Chapter 29's ***nisi quis***, "unless anyone," with a future perfect. The then-half, *nōn potest*, states a rule for always. |
+| Build: "If y'all come tomorrow, we will eat cheese." | ***Sī crās vēneritis, cāseum edēmus.*** (*Sī crās veniētis* is fine too.) |
+
+!!! success "The Law of the Fact If"
+    ***Sī*** + the **fact mood** (indicative) links two things and says **nothing** about whether they're true. Any tense works:
+
+    | Time | Example |
+    |---|---|
+    | now | *Sī valēs, bene est.* If you're well, that's good. |
+    | past | *Sī Avus cāseum ēdit, gāvīsus est.* If Grandpa ate the cheese, he was glad. |
+    | future (the will-if) | *Sī cāseum ēderis, Avia clāmābit.* If you eat the cheese, Grandma will shout. |
+
+    The then-half can be a statement, a question, or a command: *Sī vīs amārī, amā.*
+
+## 4. "Unless" and "but if"
+
+:: Nisi vēneris, nōn edēmus. || Unless you come, we won't eat. (teaching line)
+
+Nisi… sīn…
+
+{#g-04}
+
+| Question | Answer |
+|---|---|
+| Chapter 29 glossed ***nisi***, "unless." *Nisi vēneris, nōn edēmus.* | "**Unless you come** (if you don't come), we won't eat." *Nisi* = "if … not." |
+| Latin also has ***sī nōn***. Is it the same? | Close, but ***nisi*** sets the whole if-half aside ("unless"), while ***sī nōn*** puts the "not" on **one word**, often in a contrast: *Sī nōn cāseum, pānem dā!* "If not cheese, (then) give me bread!" |
+| *Nisi* has a second job: *Nihil edō nisi cāseum.* | "I eat **nothing but** cheese." "If not" → "**except**." |
+| Cicero to Catiline (*Against Catiline* 1.12), right after the will-if in §3: *sīn tū, quod tē iam dūdum hortor, exieris, exhauriētur ex urbe tuōrum comitum magna et perniciōsa sentīna reī pūblicae.* (*Quod tē hortor*: which I urge you to do; *iam dūdum*: this long while; *exhauriō*: drain; *comes, comitis*: companion; *perniciōsus*: deadly; *sentīna*: bilge water, the dregs.) Translate. | "**But if** you **leave**, as I've long been urging you, the great, deadly bilge of the state, your companions, **will be drained** out of the city." ***Sīn***: "**but if**," the other road after a first *sī*. |
+| Build: "If Grandma comes, we'll sing; but if Grandpa comes, we'll eat cheese." | ***Sī Avia vēnerit, cantābimus; sīn Avus vēnerit, cāseum edēmus.*** |
+
+!!! success "The Law of *Nisi* and *Sīn*"
+    | Word | Meaning | Example |
+    |---|---|---|
+    | *nisi* | unless, if … not; (after a "no") except | *Nisi vēneris, nōn edēmus.* |
+    | *sī nōn* | if not (the "not" on one word) | *Sī nōn cāseum, pānem dā!* |
+    | *sīn* | but if (the other road) | *Sī Avia vēnerit, … sīn Avus …* |
+    | *quod sī* | but if, and if (going on) | *Quod sī legere volētis…* |
+
+## 5. The should-would if
+
+:: Sī Avia veniat, gaudeam. || If Grandma should come, I'd be glad. (teaching line)
+
+Sī veniat… gaudeam.
+
+{#g-05}
+
+| Question | Answer |
+|---|---|
+| Not "If Grandma comes" but "If Grandma **should** come, I **would** be glad": just imagining. Latin uses Chapter 49's present subjunctive in **both** halves. Say it. | ***Sī Avia veniat, gaudeam.*** |
+| Chapter 50's Law of Would and Might: *Quis hoc crēdat?* "Who **would** believe this?" Where is that "would" here? | In the then-half: ***gaudeam***, "I **would** be glad," is Chapter 50's "would" subjunctive. The if-half matches it: *veniat*, "should come." Grammar books call this a **future less vivid** condition. Plain words: **the should-would if.** |
+| *Sī Avia vēnerit, gaudēbō* vs *Sī Avia veniat, gaudeam.* The difference? | Both look ahead. The first is the **will-if**: I expect it ("If Grandma comes, I'll be glad"). The second only **imagines** it ("If Grandma should come, I'd be glad"). Same future, less sure. |
+| Cicero, *On Old Age* 83. Old Cato, in his eighties: *Et sī quis deus mihi largiātur, ut ex hāc aetāte repuerāscam et in cūnīs vāgiam, valdē recūsem.* (*Largior*: grant, a deponent; *repuerāscō*: become a boy again; *cūnae*: cradle; *vāgiō*: wail like a baby; *recūsō*: refuse.) Translate. | "And **if some god should grant** me to become a boy again from this age and wail in a cradle, **I would** firmly **refuse**." Chapter 29's *sī quis*, and an *ut* clause for what is granted, like Chapter 56's tucked-in commands. |
+| Cicero imagines Rome herself speaking to Catiline (*Against Catiline* 1.19): *Haec sī tēcum, ita ut dīxī, patria loquātur, nōnne impetrāre dēbeat, etiamsī vim adhibēre nōn possit?* (*Patria*: fatherland; *impetrō*: get what one asks; *etiamsī*: even if; *vim adhibeō*: use force.) Translate. | "**If your country should say** these things to you, as I said, **shouldn't she get** her way, **even if** she **couldn't** use force?" Three present subjunctives, one of them a deponent (*loquātur*, Chapter 43). |
+| "If you should ask me, I wouldn't answer." | ***Sī mē rogēs, nōn respondeam.*** The "would" subjunctive's "not" is ***nōn*** (Chapter 50). |
+
+!!! success "The Law of Should-Would"
+    ***Sī*** + **present subjunctive**, then **present subjunctive**: an imagined future, "if … **should** …, … **would** …." It's less sure than the will-if.
+
+    | Will-if (I expect it) | Should-would if (I imagine it) |
+    |---|---|
+    | *Sī Avia vēnerit, gaudēbō.* | *Sī Avia veniat, gaudeam.* |
+    | If Grandma comes, I'll be glad. | If Grandma should come, I'd be glad. |
+
+## 6. Not really: now
+
+:: Sī adessēs, gaudērem. || If you were here, I'd be glad. (teaching line)
+
+Utinam adessēs… sī adessēs…
+
+{#g-06}
+
+| Question | Answer |
+|---|---|
+| Chapter 52: *Utinam adessēs!* "If only you were here!" (You aren't.) Now: *Sī adessēs, gaudērem.* | "**If you were here, I'd be glad.**" Imperfect subjunctive in **both** halves. You aren't here, so I'm not glad. |
+| Grammar books call this **contrary to fact**. Plain words? | **The not-really if**: it describes what is **not so**. Imperfect subjunctive = not really so **now**. (Old school: "present contrary to fact," or an "unreal" condition.) |
+| English "If Grandma came, I'd be glad" can mean two things. Which Latin is it: *Sī Avia veniat, gaudeam* or *Sī Avia venīret, gaudērem*? | **Either**, and they mean different things. ***Veniat … gaudeam***: she **might** come (imagined future). ***Venīret … gaudērem***: she **isn't** coming, and right now I'm not glad. Latin makes you say which. |
+| Cicero to Catiline (*Against Catiline* 1.17): *Sī tē parentēs timērent atque ōdissent tuī neque eōs ūllā ratiōne plācāre possēs, ut opīnor, ab eōrum oculīs aliquō concēderēs.* (*Parentēs tuī*: your parents; *ratiō*: way; *plācō*: calm, win over; *ut opīnor*: I think; *aliquō*: somewhere; *concēdō*: go away.) Translate. | "**If your parents feared and hated you** and you **couldn't** win them over by any means, you **would**, I think, **go away** somewhere out of their sight." Cicero goes on: *Nunc tē patria … odit ac metuit*, "**As it is**, your country hates and fears you." |
+| *Ōdissent* looks pluperfect. Why does it mean "hated" **now**? | Chapter 46: ***ōdī*** is perfect in form, present in meaning ("I hate"). So its pluperfect form does a plain imperfect's job: *ōdissent* = "hated (now)." |
+| John 18:36 (Nova Vulgata), Jesus before Pilate: *Rēgnum meum nōn est dē mundō hōc; sī ex hōc mundō esset rēgnum meum, ministrī meī dēcertārent…* (*Minister*: servant; *dēcertō*: fight hard.) Translate. | "My kingdom is not of this world. **If** my kingdom **were** of this world, my servants **would be fighting**…" The first clause states the fact that makes the "if" not really so. |
+
+## 7. Not really: then
+
+:: Sī tacuissēs… || If you had kept quiet… (after Boethius)
+
+Utinam nē ēdissem… sī nōn ēdissem…
+
+{#g-07}
+
+| Question | Answer |
+|---|---|
+| Chapter 53: *Utinam nē ēdissem!* "If only I hadn't eaten it!" Too late. Now: "If I hadn't eaten the cheese, Grandma wouldn't have shouted." | ***Sī cāseum nōn ēdissem, Avia nōn clāmāvisset.*** Pluperfect subjunctive in **both** halves: not really so **in the past**. (I did eat it; she did shout.) |
+| John 11:21 (Nova Vulgata). Lazarus has been in the tomb four days when Jesus arrives. His sister Martha: *Domine, sī fuissēs hīc, frāter meus nōn esset mortuus!* (*Hīc*: here; *frāter*: brother.) Translate. | "Lord, **if you had been** here, my brother **would not have died**!" *Esset mortuus* = *mortuus esset*, Chapter 53's deponent pluperfect (*mortuī essēmus*). |
+| Cicero, *On Old Age* 11. Cato tells a story about the old general Fabius, who recaptured the city of Tarentum in 209 BC. Salinator had lost the town but held its citadel, and he boasted: *Meā operā, Q. Fabī, Tarentum recēpistī.* (*Opera*: effort, work; *recipiō*: take back.) Fabius, laughing: *Certē, nam nisi tū āmīsissēs, numquam recēpissem.* Translate both. | "**Thanks to me**, Fabius, you took Tarentum back." "**Certainly**: for **if you hadn't lost** it, I'd **never have taken** it **back**." A past not-really if with *nisi*. |
+| Boethius, *The Consolation of Philosophy* 2.7 (about AD 524). A man who called himself a philosopher put up with insults in silence, then boasted: *Iam tandem intellegis mē esse philosophum?* The other answered: *Intellēxeram, sī tacuissēs.* (*Intellegō, intellēxī*: understand; *taceō, tacuī*: be quiet, Chapter 5.) Translate. | "**Now** at last do you understand that I'm a philosopher?" "I **would have understood**, **if you had kept quiet**." |
+| Wait: *intellēxeram* is the fact mood. Why not *intellēxissem*? | Latin sometimes puts the then-half in the fact mood to make it vivid: "I **had** understood (all but)," it nearly happened. Read it as "would have." The everyday form is the subjunctive, ***intellēxissem***. |
+| From that story came a later proverb (not Boethius's own words): *Sī tacuissēs, philosophus mānsissēs.* (*Maneō, mānsī*: stay.) | "**If you had kept quiet, you'd have stayed** a philosopher." Two pluperfect subjunctives: he didn't keep quiet, and he isn't one. |
+
+!!! success "The Law of Not Really"
+    The **not-really if** (contrary to fact) uses the subjunctive in **both** halves, on the same clock as Chapter 52's and Chapter 53's "not really" wishes:
+
+    | Not really… | Tense | Example |
+    |---|---|---|
+    | now | **imperfect** subjunctive | *Sī adessēs, gaudērem.* If you were here, I'd be glad. |
+    | in the past | **pluperfect** subjunctive | *Sī adfuissēs, gāvīsus essem.* If you had been here, I'd have been glad. |
+
+    Same clock as the wishes: *Utinam adessēs!* · *Utinam adfuissēs!*
+
+## 8. Read the verbs
+
+:: Sī herī cāseum ēmissem, nunc eum ederēmus. || If I had bought cheese yesterday, we'd be eating it now. (teaching line)
+
+Dormit… dormiat… dormīret… dormīvisset…
+
+{#g-08}
+
+| Question | Answer |
+|---|---|
+| *Sī Avus dormit, nōn cantō.* Which kind? | **Fact if** (present indicative): "If Grandpa is sleeping, I don't sing." Maybe he is, maybe not. |
+| *Sī Avus dormiat, nōn cantem.* | **Should-would** (present subjunctive): "If Grandpa should be asleep, I wouldn't sing." |
+| *Sī Avus dormīret, nōn cantārem.* | **Not really, now** (imperfect): "If Grandpa were asleep, I wouldn't be singing." He's awake, and I am singing. |
+| *Sī Avus dormīvisset, nōn cantāvissem.* | **Not really, then** (pluperfect): "If Grandpa had been asleep, I wouldn't have sung." He was awake, and I sang. |
+| Can the two halves have different clocks? "If I had bought cheese yesterday, we would be eating it now." | **Yes**: ***Sī herī cāseum ēmissem, nunc eum ederēmus.*** The if-half is not really so **then** (pluperfect), the then-half not really so **now** (imperfect). Each half keeps its own clock. |
+| English says "would" in three different kinds. How do you know which Latin you need? | Ask: will it **really** happen (fact mood, will-if)? Am I **imagining** a future (present subjunctive)? Or is it **not so** now (imperfect) or then (pluperfect)? |
+
+!!! success "The Law of the Four Ifs"
+    Look at the verbs:
+
+    | Kind | If-half | Then-half | Example |
+    |---|---|---|---|
+    | fact if | fact mood, any tense | any | *Sī valēs, bene est.* |
+    | will-if | future / future perfect | future | *Sī vēneris, gaudēbō.* |
+    | should-would | present subjunctive | present subjunctive | *Sī veniās, gaudeam.* |
+    | not really | imperfect (now) / pluperfect (then) subjunctive | imperfect / pluperfect subjunctive | *Sī adessēs, gaudērem.* |
+
+## 9. The clock that won't match
+
+:: Rogō quid facerēs, sī rēx essēs. || I'm asking what you would do if you were king. (teaching line)
+
+Rogō… quid facerēs…
+
+{#g-09}
+
+| Question | Answer |
+|---|---|
+| Ask straight out: "What would you do if you were king?" (*Rēx*, Chapter 13.) | ***Quid facerēs, sī rēx essēs?*** A not-really if, now: imperfect. |
+| Now tuck it in after *Rogō* (Chapter 53). Chapter 54's matching rule says a now verb takes the now team. *Rogō quid faciās, sī rēx sīs*? | **No!** ***Rogō quid facerēs, sī rēx essēs.*** The imperfects **stay**. Change them to *faciās … sīs* and you've asked a different question: "what you'd do if you **should** become king." |
+| Why don't they obey the matching rule? | Their tense isn't about **time**; it's the **"not really"** signal. Allen and Greenough's grammar (§485g): the imperfect and pluperfect of a not-really if are **not affected** by the matching rule. |
+| The other direction: "If Grandma were here, I would ask her to give me cheese." Which team for the tucked-in command (Chapter 56)? | ***Sī Avia adesset, eam rogārem ut mihi cāseum daret.*** *Rogārem* is an imperfect, so it leads the **past team**: *daret*. |
+| Build: "I don't know what I would do if the dog weren't here." | ***Nesciō quid facerem, sī canis nōn adesset.*** *Nesciō* is a now verb, but the not-really imperfects stay. |
+
+!!! success "The Law of the Frozen Clock"
+    A not-really if keeps its **imperfect** or **pluperfect** even inside a tucked-in clause after a **now** verb: *Rogō quid facerēs, sī rēx essēs.* The matching rule can't touch it. And when it leads, an imperfect then-half takes the **past team**: *eam rogārem ut … daret.*
+
+## 10. What would you do if…?
+
+:: Quid facerēs, sī rēx essēs? || What would you do if you were king? (teaching line)
+
+Quid facerēs… quid faciās… quid fēcissēs…
+
+{#g-10}
+
+| Question | Answer |
+|---|---|
+| Answer the king question: "If I were king, I'd eat cheese every day." | ***Sī rēx essem, cotīdiē cāseum ederem.*** |
+| Ask: "What would you do if you should find a hundred denarii?" (*Inveniō*, Chapter 17; *dēnārius*, Chapter 22.) | ***Quid faciās, sī centum dēnāriōs inveniās?*** Should-would: it might happen. |
+| Answer: "If I should find a hundred denarii, I'd buy cheese." Careful with *emō*! | ***Sī centum dēnāriōs inveniam, cāseum emam.*** *Inveniam* and *emam* are each both "I'll …" (future) and "I'd …" (present subjunctive), like Chapter 49's *faciam*. Here the question (*inveniās*, a should-would) tells you: "I'd buy." A will-if would say *Sī … invēnerō, cāseum emam.* |
+| Ask about the past: "What would you have done if the dog had eaten your cheese?" | ***Quid fēcissēs, sī canis cāseum tuum ēdisset?*** |
+| Answer it: "If the dog had eaten my cheese, I would have shouted." | ***Sī canis cāseum meum ēdisset, clāmāvissem.*** |
+
+## 11. Which if?
+
+:: Nisi tū āmīsissēs, numquam recēpissem. || If you hadn't lost it, I'd never have taken it back. (Fabius, in Cicero, *On Old Age* 11)
+
+Quod genus?
+
+{#g-11}
+
+| Question | Answer |
+|---|---|
+| *Sī Fīlius Deī es, dīc, ut lapidēs istī pānēs fīant.* | **Fact if**: *es*, the fact mood. |
+| *Nam sī tē interficī iusserō, residēbit…* | **Will-if**: future perfect, then future. |
+| *Et sī quis deus mihi largiātur …, valdē recūsem.* | **Should-would**: present subjunctive in both halves. |
+| *Sī ex hōc mundō esset rēgnum meum, ministrī meī dēcertārent.* | **Not really, now**: imperfect subjunctive. |
+| *Domine, sī fuissēs hīc, frāter meus nōn esset mortuus!* | **Not really, then**: pluperfect subjunctive. |
+
+## 12. Build them
+
+:: Sī dīves essem… || If I were rich… (teaching line)
+
+Sī… nisi… sīn…
+
+{#g-12}
+
+| Question | Answer |
+|---|---|
+| "If it rains tomorrow, we'll stay home." (*Pluit*, Chapter 50; *maneō*.) | ***Sī crās pluet, domī manēbimus.*** A will-if. (Chapter 50's *pluit*, future *pluet*.) |
+| "If I were rich, I'd buy all the cheese in Rome." (*Dīves, dīvitis*: rich, Chapter 52.) | ***Sī dīves essem, omnem cāseum Rōmae emerem.*** |
+| "If Grandpa should eat the whole cheese, Grandma would shout." | ***Sī Avus tōtum cāseum edat, Avia clāmet.*** |
+| "If y'all hadn't been here, we would have been sad." Use *nisi*. (*Adsum, adfuī*, Chapter 44.) | ***Nisi vōs adfuissētis, trīstēs fuissēmus.*** |
+| "If you come, good; but if you don't come, I'll eat the cheese myself." | ***Sī vēneris, bene; sīn minus, ipse cāseum edam.*** *Sīn minus*: "but if not," the usual way to say it. |
+
+## 13. Traps and fix-its
+
+:: Errāre licet; corrigere melius. || Making a mistake is allowed; correcting it is better. (teaching line; Chapter 50)
+
+Quod tempus? Quī modus?
+
+{#g-13}
+
+| Question | Answer |
+|---|---|
+| "If you were here, I'd be glad" (but you aren't): *Sī adessēs, gaudēbō.* | ***Sī adessēs, gaudērem.*** A not-really if takes the imperfect subjunctive in **both** halves. |
+| "Lord, if you had been here…": *Domine, sī fuistī hīc…* | ***Domine, sī fuissēs hīc…*** He wasn't there: not really, then. Pluperfect subjunctive. |
+| "If I were young (I'm old), I'd run": *Sī iuvenis sim, curram.* | ***Sī iuvenis essem, currerem.*** *Sim … curram* would mean "if I should (somehow) become young." |
+| "I don't know what you'd do if you were king": *Nesciō quid faciās, sī rēx sīs.* | ***Nesciō quid facerēs, sī rēx essēs.*** The frozen clock: a not-really if keeps its imperfects. |
+| "If you eat the cheese, Grandma will shout": *Sī cāseum edās, Avia clāmābit.* | ***Sī cāseum ēderis, Avia clāmābit.*** A will-if takes the future perfect (Chapter 27). *Edās* would be the should-would. |
+
+## 14. Lectiō: *Sī rēx essem…*
+
+:: Sī vīs amārī, amā. || If you want to be loved, love. (Seneca, *Letters* 9.6, quoting Hecato)
+
+Ad forum… et domum.
+
+Diē vīcēsimā quīntā: the day after Chapter 56. There's no cheese in the house, so Grandma is sending Grandpa to the forum for a new one, and John goes with him, as Grandpa himself asked, so that he won't eat it on the way. Read each Latin line aloud. Guess the English, then tap to check. For the reverse drill, tap **Tege Latīna** and rebuild each line from the English. Find every *sī* and *nisi*, and name its kind. New in passing: *vīcēsimus quīntus*, twenty-fifth; *vestrum*, of you all; *ēligō*, choose; *alter*, a second; *grātīs*, for free (not *grātiās*!); *olfaciō*, smell; *susurrō*, whisper. Old friends: *tabernārius*, shopkeeper (Chapter 29); *ambō*, both; *fortasse*, perhaps; *ēheu*, alas (Chapter 16).
+
+::: dialogue lectio
+Iōannēs | Diē vīcēsimā quīntā Avus et ego ad forum ambulāmus, ut novum cāseum emāmus. || John | On the twenty-fifth day Grandpa and I walk to the forum to buy a new cheese.
+Avia | Sī cāseum bonum invēneritis, statim domum venīte! Sī quis vestrum eum in viā ēderit, sine cēnā dormiet! || Grandma | If y'all find a good cheese, come home at once! If either of you eats it on the way, he'll sleep without dinner!
+Avus | Ego? Numquam! Sī mē cōnsulis, Iōannēs est perīculum. || Grandpa | Me? Never! If you ask me, John is the danger.
+Iōannēs | In viā Avus multa rogat. || John | On the way, Grandpa asks lots of things.
+Avus | Iōannēs, quid facerēs, sī rēx essēs? || Grandpa | John, what would you do if you were king?
+Iōannēs | Sī rēx essem, cotīdiē Latīnē loquerer. Et tū, Ave? || John | If I were king, I would speak Latin every day. And you, Grandpa?
+Avus | Sī rēx essem, omnēs cāseī Rōmae meī essent! || Grandpa | If I were king, all the cheeses in Rome would be mine!
+Iōannēs | Et sī quis deus tibi magnum cāseum det? || John | And if some god should give you a big cheese?
+Avus | Sī quis deus mihi magnum cāseum det, eum ūnō diē edam… immō ūnā hōrā! || Grandpa | If some god should give me a big cheese, I'd eat it in one day… no, in one hour!
+Iōannēs | In forō multī cāseī sunt. Avus ūnum magnum et pulchrum ēligit. || John | In the forum there are many cheeses. Grandpa chooses a big, beautiful one.
+Tabernārius | Sī hunc cāseum ēmeris, alterum parvum tibi grātīs dabō. || Shopkeeper | If you buy this cheese, I'll give you a second, small one for free.
+Avus | Optimē! Sī duo cāseī erunt, ūnum in viā edere poterimus… || Grandpa | Excellent! If there are two cheeses, we'll be able to eat one on the way…
+Iōannēs | Nōn, Ave! Tū ipse Aviam ōrāvistī ut ego tē custōdīrem. || John | No, Grandpa! You yourself begged Grandma that I guard you.
+Avus | Vērum dīcis. Nisi tū adessēs, iam ederem… || Grandpa | True. If you weren't here, I'd be eating already…
+Iōannēs | Domum redīmus. Avus parvum cāseum spectat, nōn magnum. || John | We head home. Grandpa watches the small cheese, not the big one.
+Avus | Parvus cāseus tam parvus est… Sī eum ederem, nēmō scīret. || Grandpa | The small cheese is so small… If I ate it, nobody would know.
+Iōannēs | Ego scīrem! Et canis scīret: canis enim omnia olfacit. || John | I would know! And the dog would know: the dog, you see, smells everything.
+Iōannēs | Tandem domum vēnimus. Avia ambōs cāseōs in mēnsā videt et rīdet. || John | At last we came home. Grandma sees both cheeses on the table and laughs.
+Avia | Duo cāseī! Bene fēcistis. Sī Avus sōlus īsset, nūllum cāseum nunc habērēmus. || Grandma | Two cheeses! Well done. If Grandpa had gone alone, we wouldn't have any cheese now.
+Avus | Cūr? || Grandpa | Why?
+Avia | Quia, sī sōlus īssēs, ambōs in viā ēdissēs, Ave! || Grandma | Because if you had gone alone, you'd have eaten both on the way, Grandpa!
+Avus | Ego? Numquam! … Fortasse. || Grandpa | Me? Never! … Maybe.
+Iōannēs | Tum Avus mihi susurrat: "Sī Avia nunc abesset, parvum cāseum ederēmus." || John | Then Grandpa whispers to me: "If Grandma were out right now, we'd be eating the small cheese."
+Avia | Audīvī, Ave! Sī tacuissēs, fortasse tibi parvum cāseum dedissem. || Grandma | I heard that, Grandpa! If you had kept quiet, I might have given you the small cheese.
+Avus | Ēheu! Sī tacuissem… || Grandpa | Alas! If I had kept quiet…
+Iōannēs | Sī tacuissēs, philosophus mānsissēs, Ave! || John | If you'd kept quiet, you'd have stayed a philosopher, Grandpa!
+Avia | Nunc audīte, omnēs: sī quis hōs cāseōs tetigerit, nisi ego iusserō, canis eum mordēbit. Canis enim sōlī mihi pāret. || Grandma | Now listen, everyone: if anyone touches these cheeses without my order, the dog will bite him. The dog, you see, obeys only me.
+Iōannēs | Avus canem spectat; canis Avum spectat. Crās vidēbimus quis vincat. || John | Grandpa watches the dog; the dog watches Grandpa. Tomorrow we'll see who wins.
+:::
+
+{#g-14}
+
+| Question | Answer |
+|---|---|
+| Find the will-ifs. Who says each? | Grandma: ***Sī cāseum bonum invēneritis … venīte*** (a command then-half) and ***Sī quis vestrum … ēderit, … dormiet***; the shopkeeper: ***Sī … ēmeris, … dabō***; Grandpa: ***Sī duo cāseī erunt, … poterimus***; Grandma again: ***sī quis … tetigerit, nisi ego iusserō, … mordēbit***. |
+| Find the not-really ifs about **now**. | ***Sī rēx essēs · Sī rēx essem*** (twice) · ***Nisi tū adessēs, iam ederem · Sī eum ederem, nēmō scīret*** (with John's ***Ego scīrem! … canis scīret***) · ***Sī Avia nunc abesset … ederēmus***. |
+| Find the not-really ifs about **then**. Which one mixes the clocks? | ***Sī sōlus īssēs, … ēdissēs · Sī tacuissēs, … dedissem · Sī tacuissem… · Sī tacuissēs, philosophus mānsissēs.*** The mix: ***Sī Avus sōlus īsset*** (then) ***nūllum cāseum nunc habērēmus*** (now). |
+| Which "if" is only imagined, a should-would? And whose line does Grandpa borrow at the start? | ***Sī quis deus … det, … edam***: present subjunctives (*edam* is "I'd eat" here, not "I'll eat"). Grandpa borrows **Cicero** (§2): *sī mē cōnsulis*. |
+| *Crās vidēbimus quis vincat*: what kind of clause is *quis vincat*, and why present? | A **tucked-in question** (Chapter 53). *Vidēbimus* is a future, a now-team verb (Chapter 54), so the present *vincat*. |
+
+## 15. Sound check
+
+:: Clārē loquāmur! || Let's speak clearly! (teaching line; Chapter 49)
+
+Audī et dīc.
+
+{#g-15}
+
+| Question | Answer |
+|---|---|
+| *sī tacuissēs · intellēxeram · philosophus · mānsissēs*? | see ta-ku-IS-says · in-tel-LAYK-se-ram · pi-LO-so-pus · mahn-SIS-says. *Ph* is a breathy *p*, never *f*. |
+| *repuerāscam · vāgiam · largiātur · recūsem*? | re-pu-e-RAHS-kam · WAH-gi-am · lar-gi-AH-tur · re-KOO-sem. The emphasis (stress) falls on the third syllable from the end when the second-to-last is short: WAH-gi-am. |
+| *exhauriētur · perniciōsa · sentīna · coniūrātōrum*? | eks-hau-ri-AY-tur · per-ni-ki-OH-sa · sen-TEE-na · kon-yoo-rah-TOH-rum. |
+| *Salīnātor · Tarentum · recēpissem · dēcertārent · vīcēsimā quīntā*? | sa-lee-NAH-tor · ta-REN-tum · re-kay-PIS-sem · day-ker-TAH-rent · wee-KAY-si-mah KWEEN-tah. |
+
+## Speak it aloud
+
+:: Loquāmur Latīnē! || Let's speak Latin! (teaching line)
+
+1. In your own words: what are the four kinds of "if," and how do the verbs tell them apart?
+2. Three will-ifs about tomorrow, one with *nisi*: *Sī crās … -eris, … -bō.*
+3. Three should-woulds: "If someone should give me…, I would…"
+4. Three not-really ifs about now (*Sī … essem, …-rem*) and three about the past (*Sī … -issem, …-issem*), one with *nisi*.
+5. Ask someone *Quid facerēs, sī rēx essēs?* and answer it. Then *Quid faciās, sī centum dēnāriōs inveniās?* and *Quid fēcissēs, sī canis cāseum tuum ēdisset?*
+6. One *sīn* sentence: "If…, …; but if…, …."
+7. The six Laws in your own words: the Fact If, *Nisi* and *Sīn*, Should-Would, Not Really, the Four Ifs, the Frozen Clock.
+8. The real lines: *Sī valēs, bene est, ego valeō · Sī tū exercitusque valētis, bene est · nōn iubeō, sed, sī mē cōnsulis, suādeō · Sī Fīlius Deī es, dīc, ut lapidēs istī pānēs fīant · sī vīs amārī, amā · Quod sī legere aut audīre volētis externa, … reperiētis · Nam sī tē interficī iusserō, residēbit in rē pūblicā reliqua coniūrātōrum manus; sīn tū … exieris, exhauriētur ex urbe … sentīna reī pūblicae · Nisi quis nātus fuerit dēsuper, nōn potest vidēre rēgnum Deī · Et sī quis deus mihi largiātur, ut ex hāc aetāte repuerāscam et in cūnīs vāgiam, valdē recūsem · Haec sī tēcum, ita ut dīxī, patria loquātur, nōnne impetrāre dēbeat, etiamsī vim adhibēre nōn possit? · Sī tē parentēs timērent atque ōdissent tuī … ab eōrum oculīs aliquō concēderēs · sī ex hōc mundō esset rēgnum meum, ministrī meī dēcertārent · Domine, sī fuissēs hīc, frāter meus nōn esset mortuus! · Certē, nam nisi tū āmīsissēs, numquam recēpissem · Intellēxeram, sī tacuissēs.* Then read the *Lectiō* aloud, playing every part, and rebuild it from the English.
+
+## Vocābula: Words of this chapter
+
+:: Haec verba discāmus! || Let's learn these words! (teaching line; Chapter 49)
+
+| Latin | English |
+|---|---|
+| *Sī valēs, bene est.* | If you're well, that's good. (how Roman letters began) |
+| *Sī vīs amārī, amā.* | If you want to be loved, love. (Seneca) |
+| *Sī Avia veniat, gaudeam.* | If Grandma should come, I'd be glad. |
+| *Sī adessēs, gaudērem.* | If you were here, I'd be glad. |
+| *Sī tacuissēs, philosophus mānsissēs.* | If you had kept quiet, you'd have stayed a philosopher. (proverb) |
+| *Quid facerēs, sī rēx essēs?* | What would you do if you were king? |
+| *nisi* | unless, if … not; except |
+| *sīn* | but if |
+| *quod sī* | but if, and if |
+| *etiamsī* | even if |
+| *cōnsulō, cōnsulere, cōnsuluī, cōnsultum* (+ acc.) | ask the advice of, consult |
+| *conditional* | the if-sentence: an if-half (*protasis*) and a then-half (*apodosis*) |
+| *contrary to fact* | the not-really if: imperfect (now) or pluperfect (then) subjunctive in both halves |
+
+Glossed in passing (no card): *simple condition* the fact if, *future more vivid* the will-if, *future less vivid* the should-would if, *condiciō* terms, *mōs* custom, *antīquī* people of old, *adiciō* add, *exercitus* army, *interrogō* ask, *num* whether, *Hecatōn* a Stoic philosopher, *externa* foreign history, *labefactō* undermine, *sustentō* prop up, *restituō* restore, *reperiō* find, *interficiō* kill, *resideō* stay behind, *coniūrātus* conspirator, *nāscor* be born, *dēsuper* from above, *iam dūdum* this long while, *exhauriō* drain, *comes* companion, *perniciōsus* deadly, *sentīna* bilge water, *sīn minus* but if not, *largior* grant, *repuerāscō* become a boy again, *cūnae* cradle, *vāgiō* wail, *recūsō* refuse, *patria* fatherland, *impetrō* get what one asks, *vim adhibeō* use force, *parentēs* parents, *ratiō* way, *plācō* win over, *ut opīnor* I think, *aliquō* somewhere, *concēdō* go away, *minister* servant, *dēcertō* fight hard, *hīc* here, *frāter* brother, *opera* effort, *recipiō* take back, *Tarentum* a city in southern Italy, *Salīnātor* a Roman commander, *intellegō* understand, *philosophus* philosopher, *dīves* rich, *vīcēsimus quīntus* twenty-fifth, *vestrum* of you all, *ēligō* choose, *alter* a second, *grātīs* for free, *immō* no, rather, *olfaciō* smell, *susurrō* whisper, *ambō* both.
+
+## Homework
+
+:: Cotīdiē paulum discāmus! || Let's learn a little every day! (teaching line; Chapter 49)
+
+- [ ] Say "if Grandma comes" every way: fact if (*Sī Avia venit…*), will-if (*Sī Avia vēnerit…*), should-would (*Sī Avia veniat…*), not really now and then (*Sī Avia venīret… · Sī Avia vēnisset…*). Finish each with *gaudeō* in the right form.
+- [ ] Name the kind: *Sī Avus dormit, tacēmus · Sī Avus dormiat, nōn cantem · Sī Avus dormīret, nōn cantārem · Sī Avus dormīvisset, nōn cantāvissem · Sī crās vēneris, cāseum edēmus.*
+- [ ] *Nisi, sī nōn, sīn, quod sī*: write one sentence with each.
+- [ ] Answer in Latin: *Quid facerēs, sī rēx essēs? · Quid faciās, sī centum dēnāriōs inveniās? · Quid fēcissēs, sī canis cāseum tuum ēdisset?*
+- [ ] Fix these: *Sī adessēs, gaudēbō · Domine, sī fuistī hīc… (he wasn't) · Sī iuvenis sim, curram (I'm old) · Nesciō quid faciās, sī rēx sīs · Sī cāseum edās, Avia clāmābit (I expect it).*
+- [ ] Translate the real lines: *nōn iubeō, sed, sī mē cōnsulis, suādeō · Sī Fīlius Deī es, dīc, ut lapidēs istī pānēs fīant · sī vīs amārī, amā · sīn tū … exieris, exhauriētur ex urbe … sentīna reī pūblicae · Et sī quis deus mihi largiātur, ut ex hāc aetāte repuerāscam et in cūnīs vāgiam, valdē recūsem · sī ex hōc mundō esset rēgnum meum, ministrī meī dēcertārent · Domine, sī fuissēs hīc, frāter meus nōn esset mortuus! · Certē, nam nisi tū āmīsissēs, numquam recēpissem · Intellēxeram, sī tacuissēs.*
+- [ ] Voice check with Grok Bot: the four kinds of "if" and their verbs; two will-ifs (one *nisi*); two should-woulds; two not-really ifs now and two then; one mixed (*Sī herī …-issem, nunc …-rem*); one *sīn*; ask and answer *Quid facerēs, sī rēx essēs?*; the six Laws; pronounce *sī tacuissēs, intellēxeram, philosophus, mānsissēs, repuerāscam, vāgiam, largiātur, recūsem, exhauriētur, perniciōsa, sentīna, coniūrātōrum, Salīnātor, recēpissem, dēcertārent, vīcēsimā quīntā*.
+
+## Tabellae (draft)
+
+```yaml
+book: v
+ch: 57
+page: liber-v/09-si.md
+cards:
+- id: v57-v-si-vales-bene-est
+  type: vocab
+  la: Sī valēs, bene est.
+  en: If you're well, that's good. (how Roman letters began)
+  ref: g-02
+- id: v57-v-si-vis-amari-ama
+  type: vocab
+  la: Sī vīs amārī, amā.
+  en: If you want to be loved, love. (Seneca)
+  ref: g-02
+- id: v57-v-si-avia-veniat-gaudeam
+  type: vocab
+  la: Sī Avia veniat, gaudeam.
+  en: If Grandma should come, I'd be glad.
+  ref: g-05
+- id: v57-v-si-adesses-gauderem
+  type: vocab
+  la: Sī adessēs, gaudērem.
+  en: If you were here, I'd be glad.
+  ref: g-06
+- id: v57-v-si-tacuisses-philosophus-mansi
+  type: vocab
+  la: Sī tacuissēs, philosophus mānsissēs.
+  en: If you had kept quiet, you'd have stayed a philosopher. (proverb)
+  ref: g-07
+- id: v57-v-quid-faceres-si-rex-esses
+  type: vocab
+  la: Quid facerēs, sī rēx essēs?
+  en: What would you do if you were king?
+  ref: g-10
+- id: v57-v-nisi
+  type: vocab
+  la: nisi
+  en: unless, if … not; except
+  ref: g-04
+- id: v57-v-sin
+  type: vocab
+  la: sīn
+  en: but if
+  ref: g-04
+- id: v57-v-quod-si
+  type: vocab
+  la: quod sī
+  en: but if, and if
+  ref: g-03
+- id: v57-v-etiamsi
+  type: vocab
+  la: etiamsī
+  en: even if
+  ref: g-05
+- id: v57-v-consulo-consulere-consului-con
+  type: vocab
+  la: cōnsulō, cōnsulere, cōnsuluī, cōnsultum
+  en: ask the advice of, consult (+ acc.)
+  ref: g-02
+- id: v57-v-conditional
+  type: vocab
+  la: conditional
+  en: 'the if-sentence: an if-half (protasis) and a then-half (apodosis)'
+  ref: g-01
+- id: v57-v-contrary-to-fact
+  type: vocab
+  la: contrary to fact
+  en: 'the not-really if: imperfect (now) or pluperfect (then) subjunctive in both halves'
+  ref: g-06
+- id: v57-f-01
+  type: forms
+  q: The two halves of an if-sentence? (plain and old-school names)
+  a: The if-half (*protasis*) and the then-half (*apodosis*).
+  ref: g-01
+- id: v57-f-02
+  type: forms
+  q: Must the if-half come first?
+  a: 'No: *Avia clāmābit, sī cāseum ēderis* is fine. *Sī* marks the if-half wherever it stands.'
+  ref: g-01
+- id: v57-f-03
+  type: forms
+  q: How do you tell which kind of "if" you have?
+  a: 'Look at the verbs: their mood and tense tell you.'
+  ref: g-01
+- id: v57-f-04
+  type: forms
+  q: The four kinds of "if"?
+  a: Fact if, will-if, should-would if, not-really if.
+  ref: g-01
+- id: v57-f-05
+  type: forms
+  q: '*Sī valēs, bene est.* Does it say you''re well?'
+  a: No. A fact if says nothing about whether it's true.
+  ref: g-02
+- id: v57-f-06
+  type: forms
+  q: S. V. B. E. E. V. at the top of a letter?
+  a: '*Sī valēs, bene est, ego valeō*: "If you''re well, that''s good; I''m well," the old opening Seneca describes (*Letters* 15.1).'
+  ref: g-02
+- id: v57-f-07
+  type: forms
+  q: '*Sī tū exercitusque valētis, bene est.*'
+  a: '"If you and the army are well, that''s good." (Cicero, *Letters to Friends* 5.2)'
+  ref: g-02
+- id: v57-f-08
+  type: forms
+  q: '*nōn iubeō, sed, sī mē cōnsulis, suādeō.*'
+  a: '"I don''t order it, but, if you ask my advice, I advise it." (Cicero to Catiline, 1.13)'
+  ref: g-02
+- id: v57-f-09
+  type: forms
+  q: '*Sī Fīlius Deī es, dīc, ut lapidēs istī pānēs fīant.* Kind of "if"?'
+  a: 'A fact if: "If you are the Son of God, tell these stones to become bread." (Matthew 4:3)'
+  ref: g-02
+- id: v57-f-10
+  type: forms
+  q: '"If Grandpa ate the cheese (I don''t know), he was glad."'
+  a: '*Sī Avus cāseum ēdit, gāvīsus est.*'
+  ref: g-02
+- id: v57-f-11
+  type: forms
+  q: 'Will-if (future more vivid): which verbs?'
+  a: Future or future perfect in the if-half; usually a future in the then-half.
+  ref: g-03
+- id: v57-f-12
+  type: forms
+  q: '*Quod sī legere aut audīre volētis externa, … reperiētis.*'
+  a: '"But if you (will) want to read or hear foreign history, … you will find…" (Cicero, *On Old Age* 20)'
+  ref: g-03
+- id: v57-f-13
+  type: forms
+  q: '*Nam sī tē interficī iusserō, residēbit in rē pūblicā reliqua coniūrātōrum manus.*'
+  a: '"For if I order you to be killed, the rest of the conspirators'' band will stay behind in the state." (Cicero, *Against Catiline* 1.12)'
+  ref: g-03
+- id: v57-f-14
+  type: forms
+  q: '*Nisi quis nātus fuerit dēsuper, nōn potest vidēre rēgnum Deī.*'
+  a: '"Unless someone is born from above, he cannot see the kingdom of God." (John 3:3)'
+  ref: g-03
+- id: v57-f-15
+  type: forms
+  q: '"If y''all come tomorrow, we will eat cheese."'
+  a: '*Sī crās vēneritis, cāseum edēmus.*'
+  ref: g-03
+- id: v57-f-16
+  type: forms
+  q: '"Unless you come, we won''t eat."'
+  a: '*Nisi vēneris, nōn edēmus.*'
+  ref: g-04
+- id: v57-f-17
+  type: forms
+  q: '*nisi* vs *sī nōn*?'
+  a: '*Nisi* sets the whole if-half aside ("unless"); *sī nōn* puts the "not" on one word.'
+  ref: g-04
+- id: v57-f-18
+  type: forms
+  q: '*Nihil edō nisi cāseum.*'
+  a: '"I eat nothing but cheese."'
+  ref: g-04
+- id: v57-f-19
+  type: forms
+  q: '*sīn tū … exieris, exhauriētur ex urbe … sentīna reī pūblicae.*'
+  a: '"But if you leave, the bilge of the state will be drained out of the city." (Cicero, *Against Catiline* 1.12)'
+  ref: g-04
+- id: v57-f-20
+  type: forms
+  q: '"If Grandma comes, we''ll sing; but if Grandpa comes, we''ll eat cheese."'
+  a: '*Sī Avia vēnerit, cantābimus; sīn Avus vēnerit, cāseum edēmus.*'
+  ref: g-04
+- id: v57-f-21
+  type: forms
+  q: 'Should-would if (future less vivid): which verbs?'
+  a: 'Present subjunctive in both halves: "if … should …, … would …."'
+  ref: g-05
+- id: v57-f-22
+  type: forms
+  q: '*Sī Avia vēnerit, gaudēbō* vs *Sī Avia veniat, gaudeam*?'
+  a: The first expects it ("If Grandma comes, I'll be glad"); the second only imagines it ("If Grandma should come, I'd be glad").
+  ref: g-05
+- id: v57-f-23
+  type: forms
+  q: '*Et sī quis deus mihi largiātur, ut ex hāc aetāte repuerāscam et in cūnīs vāgiam, valdē recūsem.*'
+  a: '"And if some god should grant me to become a boy again and wail in a cradle, I would firmly refuse." (Cicero, *On Old Age* 83)'
+  ref: g-05
+- id: v57-f-24
+  type: forms
+  q: '*Haec sī tēcum, ita ut dīxī, patria loquātur, nōnne impetrāre dēbeat?*'
+  a: '"If your country should say these things to you, as I said, shouldn''t she get her way?" (Cicero, *Against Catiline* 1.19)'
+  ref: g-05
+- id: v57-f-25
+  type: forms
+  q: '"If you should ask me, I wouldn''t answer."'
+  a: '*Sī mē rogēs, nōn respondeam.*'
+  ref: g-05
+- id: v57-f-26
+  type: forms
+  q: 'Not-really if (contrary to fact), now: which tense?'
+  a: 'Imperfect subjunctive in both halves: *Sī adessēs, gaudērem.*'
+  ref: g-06
+- id: v57-f-27
+  type: forms
+  q: '*Sī Avia veniat, gaudeam* vs *Sī Avia venīret, gaudērem*?'
+  a: 'The first: she might come (imagined future). The second: she isn''t coming, so I''m not glad now.'
+  ref: g-06
+- id: v57-f-28
+  type: forms
+  q: '*Sī tē parentēs timērent atque ōdissent tuī …, ab eōrum oculīs aliquō concēderēs.*'
+  a: '"If your parents feared and hated you, … you would go away somewhere out of their sight." (Cicero, *Against Catiline* 1.17)'
+  ref: g-06
+- id: v57-f-29
+  type: forms
+  q: Why does *ōdissent* mean "hated (now)"?
+  a: '*Ōdī* is perfect in form, present in meaning, so its pluperfect form does an imperfect''s job.'
+  ref: g-06
+- id: v57-f-30
+  type: forms
+  q: '*Sī ex hōc mundō esset rēgnum meum, ministrī meī dēcertārent.*'
+  a: '"If my kingdom were of this world, my servants would be fighting." (John 18:36)'
+  ref: g-06
+- id: v57-f-31
+  type: forms
+  q: 'Not-really if, past: which tense?'
+  a: 'Pluperfect subjunctive in both halves: *Sī adfuissēs, gāvīsus essem.*'
+  ref: g-07
+- id: v57-f-32
+  type: forms
+  q: '"If I hadn''t eaten the cheese, Grandma wouldn''t have shouted."'
+  a: '*Sī cāseum nōn ēdissem, Avia nōn clāmāvisset.*'
+  ref: g-07
+- id: v57-f-33
+  type: forms
+  q: '*Domine, sī fuissēs hīc, frāter meus nōn esset mortuus!*'
+  a: '"Lord, if you had been here, my brother would not have died!" (John 11:21)'
+  ref: g-07
+- id: v57-f-34
+  type: forms
+  q: '*Certē, nam nisi tū āmīsissēs, numquam recēpissem.*'
+  a: '"Certainly: for if you hadn''t lost it, I''d never have taken it back." (Fabius, in Cicero, *On Old Age* 11)'
+  ref: g-07
+- id: v57-f-35
+  type: forms
+  q: '*Intellēxeram, sī tacuissēs.*'
+  a: '"I would have understood, if you had kept quiet." (Boethius 2.7) The fact-mood *intellēxeram* makes it vivid.'
+  ref: g-07
+- id: v57-f-36
+  type: forms
+  q: '*Sī Avus dormiat, nōn cantem.* Kind?'
+  a: 'Should-would: "If Grandpa should be asleep, I wouldn''t sing."'
+  ref: g-08
+- id: v57-f-37
+  type: forms
+  q: '*Sī Avus dormīret, nōn cantārem.* Kind?'
+  a: 'Not really, now: "If Grandpa were asleep, I wouldn''t be singing."'
+  ref: g-08
+- id: v57-f-38
+  type: forms
+  q: '*Sī Avus dormīvisset, nōn cantāvissem.* Kind?'
+  a: 'Not really, then: "If Grandpa had been asleep, I wouldn''t have sung."'
+  ref: g-08
+- id: v57-f-39
+  type: forms
+  q: '"If I had bought cheese yesterday, we would be eating it now."'
+  a: '*Sī herī cāseum ēmissem, nunc eum ederēmus.* Each half keeps its own clock.'
+  ref: g-08
+- id: v57-f-40
+  type: forms
+  q: '"What would you do if you were king?" tucked in after *Rogō*.'
+  a: '*Rogō quid facerēs, sī rēx essēs.* The not-really imperfects stay.'
+  ref: g-09
+- id: v57-f-41
+  type: forms
+  q: The Law of the Frozen Clock?
+  a: A not-really if keeps its imperfect or pluperfect even after a now verb; the matching rule can't touch it.
+  ref: g-09
+- id: v57-f-42
+  type: forms
+  q: '"If Grandma were here, I would ask her to give me cheese."'
+  a: '*Sī Avia adesset, eam rogārem ut mihi cāseum daret.* *Rogārem* leads the past team.'
+  ref: g-09
+- id: v57-f-43
+  type: forms
+  q: '"I don''t know what I would do if the dog weren''t here."'
+  a: '*Nesciō quid facerem, sī canis nōn adesset.*'
+  ref: g-09
+- id: v57-f-44
+  type: forms
+  q: '"If I were king, I''d eat cheese every day."'
+  a: '*Sī rēx essem, cotīdiē cāseum ederem.*'
+  ref: g-10
+- id: v57-f-45
+  type: forms
+  q: '"What would you do if you should find a hundred denarii?"'
+  a: '*Quid faciās, sī centum dēnāriōs inveniās?*'
+  ref: g-10
+- id: v57-f-46
+  type: forms
+  q: '"What would you have done if the dog had eaten your cheese?"'
+  a: '*Quid fēcissēs, sī canis cāseum tuum ēdisset?*'
+  ref: g-10
+- id: v57-f-47
+  type: forms
+  q: '"If I were rich, I''d buy all the cheese in Rome."'
+  a: '*Sī dīves essem, omnem cāseum Rōmae emerem.*'
+  ref: g-12
+- id: v57-f-48
+  type: forms
+  q: '"If you come, good; but if not, I''ll eat the cheese myself."'
+  a: '*Sī vēneris, bene; sīn minus, ipse cāseum edam.*'
+  ref: g-12
+- id: v57-c-01
+  type: choose
+  q: '"If you were here, I''d be glad" (you aren''t).'
+  options:
+  - Sī adessēs, gaudērem.
+  - Sī aderis, gaudēbō.
+  - Sī adsīs, gaudeam.
+  a: Sī adessēs, gaudērem.
+  why: 'Not really, now: imperfect subjunctive in both halves.'
+  ref: g-06
+- id: v57-c-02
+  type: choose
+  q: '"If Grandma should come, I''d be glad" (just imagining).'
+  options:
+  - Sī Avia veniat, gaudeam.
+  - Sī Avia venīret, gaudērem.
+  - Sī Avia vēnerit, gaudēbō.
+  a: Sī Avia veniat, gaudeam.
+  why: 'Should-would: present subjunctive in both halves.'
+  ref: g-05
+- id: v57-c-03
+  type: choose
+  q: '"If you had been here, my brother would not have died."'
+  options:
+  - Sī fuissēs hīc, frāter meus nōn esset mortuus.
+  - Sī fuistī hīc, frāter meus nōn mortuus est.
+  - Sī essēs hīc, frāter meus nōn morerētur.
+  a: Sī fuissēs hīc, frāter meus nōn esset mortuus.
+  why: 'Not really, then: pluperfect subjunctive in both halves.'
+  ref: g-07
+- id: v57-c-04
+  type: choose
+  q: '*Sī crās vēneris, cāseum edēmus.* Which kind?'
+  options:
+  - will-if
+  - should-would
+  - not really
+  a: will-if
+  why: 'Future perfect, then future: a real, likely future.'
+  ref: g-03
+- id: v57-c-05
+  type: choose
+  q: '"I''m asking what you would do if you were king."'
+  options:
+  - Rogō quid facerēs, sī rēx essēs.
+  - Rogō quid faciās, sī rēx sīs.
+  - Rogō quid facis, sī rēx es.
+  a: Rogō quid facerēs, sī rēx essēs.
+  why: 'The frozen clock: a not-really if keeps its imperfects after a now verb.'
+  ref: g-09
+- id: v57-e-01
+  type: error
+  q: 'Fix: *Sī adessēs, gaudēbō.* (If you were here, I''d be glad.)'
+  a: '*Sī adessēs, gaudērem.* A not-really if takes the imperfect subjunctive in both halves.'
+  ref: g-13
+- id: v57-e-02
+  type: error
+  q: 'Fix: *Domine, sī fuistī hīc…* (Lord, if you had been here…; he wasn''t.)'
+  a: '*Domine, sī fuissēs hīc…* Not really, then: pluperfect subjunctive.'
+  ref: g-13
+- id: v57-e-03
+  type: error
+  q: 'Fix: *Sī iuvenis sim, curram.* (If I were young, I''d run; I''m old.)'
+  a: '*Sī iuvenis essem, currerem.* Not really, now: imperfect subjunctive.'
+  ref: g-13
+- id: v57-e-04
+  type: error
+  q: 'Fix: *Nesciō quid faciās, sī rēx sīs.* (I don''t know what you''d do if you were king.)'
+  a: '*Nesciō quid facerēs, sī rēx essēs.* The frozen clock.'
+  ref: g-13
+- id: v57-e-05
+  type: error
+  q: 'Fix: *Sī cāseum edās, Avia clāmābit.* (If you eat the cheese, Grandma will shout; I expect it.)'
+  a: '*Sī cāseum ēderis, Avia clāmābit.* A will-if takes the future perfect.'
+  ref: g-13
+```
