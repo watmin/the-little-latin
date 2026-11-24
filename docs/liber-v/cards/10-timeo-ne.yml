@@ -194,12 +194,12 @@ cards:
   ref: g-05
 - id: v58-f-27
   type: forms
-  q: '*Valdē metuō, nē frīgeās in hibernīs.* Translate.'
+  q: '*Valdē metuō, nē frīgeās in hībernīs.* Translate.'
   a: '"I''m very much afraid you may be freezing in winter quarters."'
   ref: g-05
 - id: v58-f-28
   type: forms
-  q: '*Etiam illud metuō, nē iam intercludāmur.* Which voice is *intercludāmur*?'
+  q: '*Etiam illud metuō, nē iam interclūdāmur.* Which voice is *interclūdāmur*?'
   a: 'Passive present subjunctive ("we"): "I also fear we may already be cut off."'
   ref: g-05
 - id: v58-f-29

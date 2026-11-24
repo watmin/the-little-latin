@@ -1,0 +1,459 @@
+book: v
+ch: 60
+page: liber-v/12-recapitulatio-v.md
+cards:
+- id: v60-v-poenus
+  type: vocab
+  la: Poenus, Poenī
+  en: m., a Carthaginian (adjective Pūnicus, English "Punic")
+  ref: g-03
+- id: v60-v-iuro
+  type: vocab
+  la: iūrō, iūrāre, iūrāvī, iūrātum
+  en: swear, take an oath
+  ref: g-12
+- id: v60-v-ius-iurandum
+  type: vocab
+  la: iūs iūrandum, iūris iūrandī
+  en: n., oath
+  ref: g-12
+- id: v60-v-ara
+  type: vocab
+  la: āra, ārae
+  en: f., altar
+  ref: g-12
+- id: v60-v-amicitia
+  type: vocab
+  la: amīcitia, amīcitiae
+  en: f., friendship
+  ref: g-12
+- id: v60-v-callidus
+  type: vocab
+  la: callidus, callida, callidum
+  en: clever, cunning
+  ref: g-13
+- id: v60-v-aurum
+  type: vocab
+  la: aurum, aurī
+  en: n., gold
+  ref: g-12
+- id: v60-v-argentum
+  type: vocab
+  la: argentum, argentī
+  en: n., silver
+  ref: g-12
+- id: v60-v-plumbum
+  type: vocab
+  la: plumbum, plumbī
+  en: n., lead (the metal)
+  ref: g-12
+- id: v60-v-avarus
+  type: vocab
+  la: avārus, avāra, avārum
+  en: greedy
+  ref: g-12
+- id: v60-v-conservo
+  type: vocab
+  la: cōnservō, cōnservāre, cōnservāvī, cōnservātum
+  en: keep, preserve
+  ref: g-14
+- id: v60-v-fallo
+  type: vocab
+  la: fallō, fallere, fefellī, falsum
+  en: trick, deceive
+  ref: g-13
+- id: v60-v-elephantus
+  type: vocab
+  la: elephantus, elephantī
+  en: m., elephant
+  ref: g-04
+- id: v60-f-01
+  type: forms
+  q: 'Name the mood: *Īmus · Īte! · Eāmus!*'
+  a: Fact (indicative) · command (imperative) · maybe / let's / should (subjunctive). Law of the Three Moods.
+  ref: g-01
+- id: v60-f-02
+  type: forms
+  q: Present subjunctive "I" of *amō, habeō, dūcō, sum*?
+  a: '*Amem, habeam, dūcam, sim.* First family *a* → *e*; the others take *a*; *sum* takes *-im*. Law of the Swapped Vowel.'
+  ref: g-01
+- id: v60-f-03
+  type: forms
+  q: '"Let''s cross the Alps! Let Hannibal come! What am I to do?"'
+  a: '*Alpēs trānseāmus! Hannibal veniat! Quid faciam?* Hortatory, jussive, deliberative.'
+  ref: g-01
+- id: v60-f-04
+  type: forms
+  q: '"Let''s not be afraid!" "Shouldn''t I go?"'
+  a: '*Nē timeāmus! Nōn eam?* Let''s / let him: *nē*; the what-now question: *nōn*.'
+  ref: g-01
+- id: v60-f-05
+  type: forms
+  q: '"If only Hannibal doesn''t come!"'
+  a: '*Utinam nē Hannibal veniat!* A wish (optative); "not" = *nē*. Law of If Only.'
+  ref: g-02
+- id: v60-f-06
+  type: forms
+  q: Translate *Dīcat aliquis… · Crēdās…*
+  a: '"Someone might say…" · "You''d think…" The potential subjunctive. Law of Would and Might.'
+  ref: g-02
+- id: v60-f-07
+  type: forms
+  q: 'Make polite: *Volō cāseum! · Quid vīs?*'
+  a: '*Velim cāseum. · Quid velīs?* Law of the Polite Ask.'
+  ref: g-02
+- id: v60-f-08
+  type: forms
+  q: '"If only Grandma were here!" "If only Grandma had been here!"'
+  a: '*Utinam Avia adesset! · Utinam Avia adfuisset!* Not really now: imperfect; then: pluperfect.'
+  ref: g-02
+- id: v60-f-09
+  type: forms
+  q: '"Grandma goes to the forum to buy cheese."'
+  a: '*Avia ad forum it ut cāseum emat.* Law of the Goal: *ut* + subjunctive.'
+  ref: g-03
+- id: v60-f-10
+  type: forms
+  q: '"Grandma hides the cheese so that nobody touches it."'
+  a: '*Avia cāseum cēlat nē quis tangat.* Law of *Nē*: never *ut nōn* for a goal.'
+  ref: g-03
+- id: v60-f-11
+  type: forms
+  q: Translate *Poenī nāvēs duās, quae eum comprehenderent, … mīsērunt.* (Nepos 7.7)
+  a: '"The Carthaginians sent two ships to seize him." A sending *quī*, imperfect on the past team.'
+  ref: g-03
+- id: v60-f-12
+  type: forms
+  q: Imperfect subjunctive "he" of *capiō, sum, eō*?
+  a: '*Caperet, esset, īret.* Present infinitive + ending. Law of the Infinitive Plus.'
+  ref: g-04
+- id: v60-f-13
+  type: forms
+  q: '"Hannibal crossed the Alps so that he might come into Italy."'
+  a: '*Hannibal Alpēs trānsiit ut in Ītaliam venīret.* Law of the Past Goal: imperfect.'
+  ref: g-04
+- id: v60-f-14
+  type: forms
+  q: Translate *effēcit, ut eā elephantus ōrnātus īre posset* (Nepos 3.4).
+  a: '"He made it possible for a fully loaded elephant to go that way." *Efficiō ut* + subjunctive, like a result.'
+  ref: g-04
+- id: v60-f-15
+  type: forms
+  q: Goal or result? *Avia cāseum cēlāvit nē Avus eum invenīret · Avia cāseum tam bene cēlāvit ut Avus eum nōn invenīret.*
+  a: 'Goal (*nē*: so that he wouldn''t) · result (*tam … ut nōn*: so well that he didn''t). Law of the Two Nots.'
+  ref: g-04
+- id: v60-f-16
+  type: forms
+  q: 'Tuck it in, past team: *Ubi est cāseus?* → "I asked where the cheese was."'
+  a: '*Rogāvī ubi cāseus esset.* Law of the Tucked-In Question.'
+  ref: g-05
+- id: v60-f-17
+  type: forms
+  q: '"Grandpa doesn''t know who ate the cheese."'
+  a: '*Avus nescit quis cāseum ēderit.* Perfect subjunctive (*-erim*): earlier, now team.'
+  ref: g-05
+- id: v60-f-18
+  type: forms
+  q: Pluperfect subjunctive "I" of *sum, faciō*; passive of *amō*?
+  a: '*Fuissem, fēcissem; amātus essem.* Law of the Infinitive Plus, Again.'
+  ref: g-05
+- id: v60-f-19
+  type: forms
+  q: '"I didn''t know what Hannibal had done / was going to do."'
+  a: '*Nesciēbam quid Hannibal fēcisset / factūrus esset.* Law of Now and Earlier.'
+  ref: g-05
+- id: v60-f-20
+  type: forms
+  q: Translate *ex quō intellegī possit, quantus ille fuerit* (Nepos 5.4).
+  a: '"from which it can be understood how great he was." *Quantus fuerit*: tucked-in question, perfect subjunctive.'
+  ref: g-05
+- id: v60-f-21
+  type: forms
+  q: Which team? *rogābō · rogāvī* ("I asked") *· rogā! · rogāveram*
+  a: 'Now: *rogābō, rogā!* · Past: *rogāvī, rogāveram.* Law of the Two Teams.'
+  ref: g-06
+- id: v60-f-22
+  type: forms
+  q: '*Ēmī ut edāmus.* Why a present subjunctive?'
+  a: '*Ēmī* = "I have bought": a "have done" perfect may lead the now team. Law of "Have Done".'
+  ref: g-06
+- id: v60-f-23
+  type: forms
+  q: Translate *tantum terrōrem iniēcit … ut ēgredī extrā vallum nēmō sit ausus* (Nepos 5.2). Why *sit ausus*?
+  a: '"He threw so much terror … that nobody dared to go out beyond the rampart." A result may take the perfect subjunctive: it really happened. Law of the Free Result.'
+  ref: g-06
+- id: v60-f-24
+  type: forms
+  q: '*Utinam scīrem ubi cāseus esset!* Why *esset*?'
+  a: An imperfect subjunctive main verb (*scīrem*) leads the past team. Law of the Matching Rule.
+  ref: g-06
+- id: v60-f-25
+  type: forms
+  q: What does *cum* mean? *Cum fessus sīs, dormī! · Cum ēsurīret, tamen nōn ēdit.*
+  a: '"Since" · "although" (*tamen* gives it away). Law of "Since" and "Although".'
+  ref: g-07
+- id: v60-f-26
+  type: forms
+  q: '"When Hannibal had crossed the Alps, he came into Italy."'
+  a: '*Cum Hannibal Alpēs trānsiisset, in Ītaliam vēnit.* Law of the Story *Cum*: pluperfect = earlier.'
+  ref: g-07
+- id: v60-f-27
+  type: forms
+  q: '*Cum vēneris, cēnābimus.* Why no subjunctive?'
+  a: 'A plain "when" with the fact mood (future perfect): it just tells the time. Law of the Plain "When".'
+  ref: g-07
+- id: v60-f-28
+  type: forms
+  q: First look where? *cum Avō · Cum Avia in forō esset…*
+  a: 'Right after *cum*: an ablative noun → "with"; a story clause in the subjunctive → "while, when." Law of the Two *Cum*s.'
+  ref: g-07
+- id: v60-f-29
+  type: forms
+  q: '"Grandma orders me to come." "Grandma asks you to come."'
+  a: '*Avia mihi imperat ut veniam. Avia tē rogat ut veniās.* Law of the Person Asked: *imperō* + dative, *rogō* + accusative.'
+  ref: g-08
+- id: v60-f-30
+  type: forms
+  q: '"Hamilcar ordered Hannibal to swear," with *iubeō* and with *imperō*.'
+  a: '*Hamilcar Hannibalem iūrāre iussit. · Hamilcar Hannibalī imperāvit ut iūrāret.* Law of *Iubeō* and *Vetō*.'
+  ref: g-08
+- id: v60-f-31
+  type: forms
+  q: Translate *imperāvit eī, ut omnēs forēs aedificiī circumīret* (Nepos 12.4).
+  a: '"He ordered him to go round all the doors of the building." Law of the Tucked-In Command: past team, imperfect.'
+  ref: g-08
+- id: v60-f-32
+  type: forms
+  q: '*Avia Avō persuāsit ut dormīret · … cāseum abesse.* Difference?'
+  a: '"persuaded Grandpa to sleep" (an order: *ut* + subjunctive) · "persuaded Grandpa that the cheese was gone" (a fact: accusative + infinitive). Law of "That" and "To".'
+  ref: g-08
+- id: v60-f-33
+  type: forms
+  q: 'Name the if: *Sī veniās, gaudeam · Sī adessēs, gaudērem.*'
+  a: Should-would (present subjunctive) · not really, now (imperfect). Law of the Four Ifs.
+  ref: g-09
+- id: v60-f-34
+  type: forms
+  q: '"Unless you give me your word, I won''t take you."'
+  a: '*Nisi mihi fidem dederis, tē nōn dūcam.* Law of *Nisi* and *Sīn*: a will-if with *nisi*.'
+  ref: g-09
+- id: v60-f-35
+  type: forms
+  q: Translate *Quod nisi domī … invidiā dēbilitātus esset, Rōmānōs vidētur superāre potuisse* (Nepos 1.2).
+  a: '"But if he had not been weakened at home by jealousy, he seems to have been able to beat the Romans." Law of Not Really: pluperfect, then.'
+  ref: g-09
+- id: v60-f-36
+  type: forms
+  q: '"I''m asking what you would do if you were Hannibal."'
+  a: '*Rogō quid facerēs, sī Hannibal essēs.* Law of the Frozen Clock: the not-really imperfect stays.'
+  ref: g-09
+- id: v60-f-37
+  type: forms
+  q: '*Sī valēs, bene est.* What does a fact if say about whether you''re well?'
+  a: 'Nothing: it just links the two. Law of the Fact If.'
+  ref: g-09
+- id: v60-f-38
+  type: forms
+  q: '"I''m afraid the Romans will come." "…won''t come."'
+  a: '*Timeō nē Rōmānī veniant. · Timeō ut (nē nōn) Rōmānī veniant.* Law of the Backwards Fear.'
+  ref: g-10
+- id: v60-f-39
+  type: forms
+  q: '"Hannibal was afraid the Romans had come."'
+  a: '*Hannibal timēbat nē Rōmānī vēnissent.* Law of the Fear Clock: past team, earlier.'
+  ref: g-10
+- id: v60-f-40
+  type: forms
+  q: '"I''m not afraid that he''ll come."'
+  a: '*Nōn vereor nē veniat.* Law of the Calm Fear: still *nē*.'
+  ref: g-10
+- id: v60-f-41
+  type: forms
+  q: '"I''m afraid to go." "I''m afraid of the dog."'
+  a: '*Timeō īre. · Timeō canem.* Law of Afraid To: infinitive for "to," accusative for "of."'
+  ref: g-10
+- id: v60-f-42
+  type: forms
+  q: '"The dog stops Grandpa from touching the cheese."'
+  a: '*Canis Avum impedit quōminus (nē) cāseum tangat.* Law of the Stop-It Clause.'
+  ref: g-10
+- id: v60-f-43
+  type: forms
+  q: '"I can''t help laughing."'
+  a: '*Facere nōn possum quīn rīdeam.* Law of *Quīn*: only after a "no."'
+  ref: g-10
+- id: v60-f-44
+  type: forms
+  q: Translate *nēmō dubitābat, quīn aliquid dē pāce esset scrīptum* (Nepos 11.2).
+  a: '"Nobody doubted that something had been written about peace." Law of No Doubt: *quīn*, past team, earlier.'
+  ref: g-10
+- id: v60-f-45
+  type: forms
+  q: '*Dubitō venīre · Dubitō num veniat · Nōn dubitō quīn veniat?*'
+  a: '"I hesitate to come" · "I doubt whether he''s coming" · "I don''t doubt he''s coming." Law of Which Word.'
+  ref: g-10
+- id: v60-f-46
+  type: forms
+  q: '*Dum Avia abest, Avus cāseum tetigit.* Why *abest*?'
+  a: '*Dum* "while" keeps the present, even in a past story. Law of the *Dum* Present.'
+  ref: g-11
+- id: v60-f-47
+  type: forms
+  q: '*Dum Avia aberat · Exspectā dum canis dormiat · Spectā, dummodo nē tangās* — which *dum*s?'
+  a: As long as (same tense) · until (subjunctive) · provided that (subjunctive, *nē*). Law of the Four *Dum*s.
+  ref: g-11
+- id: v60-f-48
+  type: forms
+  q: Translate *priusquam signum pugnae darētur* (Nepos 11.1).
+  a: '"before the signal for battle could be given." Law of Before: the waiting subjunctive.'
+  ref: g-11
+- id: v60-f-49
+  type: forms
+  q: '"After Hannibal came into Italy, he beat the Romans."'
+  a: '*Postquam Hannibal in Ītaliam vēnit, Rōmānōs vīcit.* Law of After: fact mood, perfect.'
+  ref: g-11
+- id: v60-f-50
+  type: forms
+  q: '"Although Grandpa is hungry, he doesn''t eat" with *quamquam* and *quamvīs*.'
+  a: '*Quamquam Avus ēsurit · Quamvīs Avus ēsuriat, nōn edit.* Law of Although.'
+  ref: g-11
+- id: v60-f-51
+  type: forms
+  q: '"There''s nobody who doesn''t know Hannibal."'
+  a: '*Nēmō est quīn Hannibalem nōverit.* Law of the Kind-Of Clause: *quīn* = *quī nōn*.'
+  ref: g-11
+- id: v60-f-52
+  type: forms
+  q: Fact mood or subjunctive? *postquam · quamvīs · dum* "until" *· quamquam · antequam* "before it could"
+  a: 'Fact: *postquam, quamquam* · Subjunctive: *quamvīs, dum* "until," *antequam* "before it could." Law of the Little Words.'
+  ref: g-11
+- id: v60-f-53
+  type: forms
+  q: '*Dum rēs dīvīna fit, Hamilcar fīlium rogāvit velletne sēcum in castra proficīscī.* Translate.'
+  a: '"While the sacred rite was going on, Hamilcar asked his son whether he wanted to set out with him to camp." *-ne* = whether.'
+  ref: g-12
+- id: v60-f-54
+  type: forms
+  q: '*Puer, āram tenēns, iūrāvit numquam sē in amīcitiā cum Rōmānīs fore.* Translate.'
+  a: '"The boy, holding the altar, swore that he would never be in friendship with the Romans." *Fore* = *futūrum esse*.'
+  ref: g-12
+- id: v60-f-55
+  type: forms
+  q: '*Antequam exiī, lapidem in pannō posuī.* Why fact mood?'
+  a: 'She really went out: *antequam* + a fact takes the indicative. Law of Before.'
+  ref: g-13
+- id: v60-f-56
+  type: forms
+  q: '*Sī hoc scīvissem, nōn tam diū exspectāvissem!* Translate.'
+  a: '"If I had known this, I wouldn''t have waited so long!" Not really, then: pluperfect both halves.'
+  ref: g-13
+- id: v60-f-57
+  type: forms
+  q: '"I thank the dog." (Not *grātīs*!)'
+  a: '*Canī grātiās agō.* *Grātiās agō* + dative of the person thanked; *grātīs* means "for free."'
+  ref: g-13
+- id: v60-f-58
+  type: forms
+  q: Translate *Quae dīvīna rēs dum cōnficiēbātur, quaesīvit ā mē, vellemne sēcum in castra proficīscī* (Nepos 2.4).
+  a: '"While this sacred rite was being carried out, he asked me whether I wanted to set out with him to the camp." *Dum* + imperfect: a rare exception to the *Dum* Present.'
+  ref: g-14
+- id: v60-f-59
+  type: forms
+  q: Translate *Id cum libenter accēpissem atque ab eō petere coepissem, nē dubitāret dūcere…* (Nepos 2.4).
+  a: '"When I had gladly accepted this and had begun to beg him not to hesitate to take me…" Story *cum* + a tucked-in order with *nē*.'
+  ref: g-14
+- id: v60-f-60
+  type: forms
+  q: Translate *"Faciam" inquit "sī mihi fidem, quam postulō, dederis"* (Nepos 2.4).
+  a: '"''I''ll do it,'' he said, ''if you give me the pledge I demand.''" A will-if: future perfect *dederis*.'
+  ref: g-14
+- id: v60-f-61
+  type: forms
+  q: '*ita cōnservāvī, ut nēminī dubium esse dēbeat, quīn … sim futūrus* (Nepos 2.5). Why present *dēbeat* after *cōnservāvī*?'
+  a: '*Cōnservāvī* = "I have kept": a "have done" perfect leads the now team. Then *quīn* after "no doubt" + the "going to" subjunctive.'
+  ref: g-14
+- id: v60-f-62
+  type: forms
+  q: '*templum … custōdiunt …, nē ille … tolleret* (Nepos 9.4). Why imperfect after a present?'
+  a: '*Custōdiunt* is a historic present, which may lead either team; Nepos picks the past team.'
+  ref: g-14
+- id: v60-c-01
+  type: choose
+  q: '"I''m afraid the dog will bite."'
+  options:
+  - Timeō ut canis mordeat.
+  - Timeō nē canis mordeat.
+  - Timeō canem mordēre.
+  a: Timeō nē canis mordeat.
+  why: 'Backwards: *nē* = that it **will** happen.'
+  ref: g-10
+- id: v60-c-02
+  type: choose
+  q: '"I eat so that I won''t be hungry."'
+  options:
+  - Edō ut nōn ēsuriam.
+  - Edō nē ēsuriam.
+  - Edō quīn ēsuriam.
+  a: Edō nē ēsuriam.
+  why: A goal that should not happen takes *nē*, never *ut nōn*.
+  ref: g-03
+- id: v60-c-03
+  type: choose
+  q: '"I didn''t know where the cheese was."'
+  options:
+  - Nesciēbam ubi cāseus sit.
+  - Nesciēbam ubi cāseus esset.
+  - Nesciēbam ubi cāseus erat.
+  a: Nesciēbam ubi cāseus esset.
+  why: 'Tucked-in question on the past team: imperfect subjunctive.'
+  ref: g-05
+- id: v60-c-04
+  type: choose
+  q: '"If you had been here, I would have been glad."'
+  options:
+  - Sī adessēs, gaudērem.
+  - Sī adfuistī, gāvīsus sum.
+  - Sī adfuissēs, gāvīsus essem.
+  a: Sī adfuissēs, gāvīsus essem.
+  why: 'Not really, then: pluperfect subjunctive in both halves.'
+  ref: g-09
+- id: v60-c-05
+  type: choose
+  q: '"Wait until the dog falls asleep."'
+  options:
+  - Exspectā dum canis dormit.
+  - Exspectā dum canis dormiat.
+  - Exspectā postquam canis dormīvit.
+  a: Exspectā dum canis dormiat.
+  why: 'Waiting for something expected: *dum* + subjunctive.'
+  ref: g-11
+- id: v60-c-06
+  type: choose
+  q: '"Although Grandpa is hungry, he doesn''t eat."'
+  options:
+  - Quamquam Avus ēsurit, nōn edit.
+  - Quamquam Avus ēsuriat, nōn edit.
+  - Quamvīs Avus ēsurit, nōn edit.
+  a: Quamquam Avus ēsurit, nōn edit.
+  why: '*Quamquam* takes the fact mood; *quamvīs* would take the subjunctive.'
+  ref: g-11
+- id: v60-e-01
+  type: error
+  q: 'Fix: *Tam fessus erat nē ambulāret.* (He was so tired that he didn''t walk.)'
+  a: '*Tam fessus erat ut nōn ambulāret.* A result that didn''t happen: *ut nōn*.'
+  ref: g-04
+- id: v60-e-02
+  type: error
+  q: 'Fix: *Nesciō ubi est.* (I don''t know where it is.)'
+  a: '*Nesciō ubi sit.* A tucked-in question goes subjunctive.'
+  ref: g-05
+- id: v60-e-03
+  type: error
+  q: 'Fix: *Avia mē iussit ut venīrem.* (Grandma ordered me to come.)'
+  a: '*Avia mē venīre iussit.* *Iubeō* normally takes an accusative and infinitive, not *ut*.'
+  ref: g-08
+- id: v60-e-04
+  type: error
+  q: 'Fix: *Postquam Avia exīret, Avus surrēxit.* (After Grandma went out, Grandpa got up.)'
+  a: '*Postquam Avia exiit, Avus surrēxit.* *Postquam* takes the fact mood, usually the perfect.'
+  ref: g-11
