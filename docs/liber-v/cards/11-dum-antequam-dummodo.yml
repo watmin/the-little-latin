@@ -1,0 +1,429 @@
+book: v
+ch: 59
+page: liber-v/11-dum-antequam-dummodo.md
+cards:
+- id: v59-v-dum-avia-abest-avus
+  type: vocab
+  la: "Dum Avia abest, Avus cāseum spectat."
+  en: "While Grandma is away, Grandpa looks at the cheese."
+  ref: g-01
+- id: v59-v-exspecta-dum-avia-redeat
+  type: vocab
+  la: "Exspectā dum Avia redeat."
+  en: "Wait until Grandma comes back."
+  ref: g-03
+- id: v59-v-specta-dummodo-ne-tangas
+  type: vocab
+  la: "Spectā, dummodo nē tangās!"
+  en: "Look, provided you don't touch!"
+  ref: g-04
+- id: v59-v-nemo-est-quin-caseum
+  type: vocab
+  la: "Nēmō est quīn cāseum amet."
+  en: "There's nobody who doesn't love cheese."
+  ref: g-11
+- id: v59-v-dum
+  type: vocab
+  la: "dum"
+  en: "while (+ present); as long as; until (+ subjunctive); provided that (+ subjunctive)"
+  ref: g-01
+- id: v59-v-dummodo-modo
+  type: vocab
+  la: "dummodo, modo"
+  en: "provided that, if only (+ subjunctive; \"not\" = nē)"
+  ref: g-04
+- id: v59-v-antequam-priusquam
+  type: vocab
+  la: "antequam, priusquam"
+  en: "before (a fact: indicative; \"before it could\": subjunctive)"
+  ref: g-05
+- id: v59-v-postquam
+  type: vocab
+  la: "postquam"
+  en: "after (+ perfect indicative)"
+  ref: g-07
+- id: v59-v-ubi
+  type: vocab
+  la: "ubi"
+  en: "when (+ perfect indicative); where?"
+  ref: g-07
+- id: v59-v-simul-atque-simul-ac
+  type: vocab
+  la: "simul atque, simul ac"
+  en: "as soon as"
+  ref: g-07
+- id: v59-v-quamquam
+  type: vocab
+  la: "quamquam"
+  en: "although (+ indicative); and yet (starting a sentence)"
+  ref: g-08
+- id: v59-v-quamvis
+  type: vocab
+  la: "quamvīs"
+  en: "however much, although (+ subjunctive)"
+  ref: g-09
+- id: v59-v-licet
+  type: vocab
+  la: "licet"
+  en: "although, granted that (+ subjunctive); it's allowed"
+  ref: g-09
+- id: v59-v-sunt-qui
+  type: vocab
+  la: "sunt quī"
+  en: "there are people who (+ subjunctive)"
+  ref: g-10
+- id: v59-v-temporal-clause
+  type: vocab
+  la: "temporal clause"
+  en: "the time clause: while, until, before, after, when"
+  ref: g-01
+- id: v59-v-proviso-clause
+  type: vocab
+  la: "proviso clause"
+  en: "the provided-that clause: dum, modo, dummodo + subjunctive"
+  ref: g-04
+- id: v59-v-concessive-clause
+  type: vocab
+  la: "concessive clause"
+  en: "the although clause: quamquam (fact) or quamvīs, licet, cum (subjunctive)"
+  ref: g-08
+- id: v59-v-relative-clause-of-characteristic
+  type: vocab
+  la: "relative clause of characteristic"
+  en: "the kind-of clause: quī + subjunctive, \"the sort who…\""
+  ref: g-10
+- id: v59-f-01
+  type: forms
+  q: "Translate *Dum Avia abest, Avus cāseum tetigit.* Why is *abest* present?"
+  a: "\"While Grandma was away, Grandpa touched the cheese.\" *Dum* \"while\" keeps the present; the main verb sets the time."
+  ref: g-01
+- id: v59-f-02
+  type: forms
+  q: "Translate *Dum spīrō, spērō.* Which mood is *spīrō*?"
+  a: "\"While I breathe, I hope.\" Fact mood (indicative), present."
+  ref: g-01
+- id: v59-f-03
+  type: forms
+  q: "What is a temporal clause, in plain words?"
+  a: "The time clause: it tells when (*dum, cum, antequam, postquam…*)."
+  ref: g-01
+- id: v59-f-04
+  type: forms
+  q: "Translate *Dum haec in conloquiō geruntur, Caesarī nūntiātum est…* (Caesar)"
+  a: "\"While this was going on at the parley, word was brought to Caesar…\" *Geruntur*: present after *dum*."
+  ref: g-01
+- id: v59-f-05
+  type: forms
+  q: "Translate *Dum Avia aberat, Avus laetus erat.* What does *dum* mean?"
+  a: "\"As long as Grandma was away, Grandpa was happy.\" Same stretch, same tense: \"as long as.\""
+  ref: g-02
+- id: v59-f-06
+  type: forms
+  q: "Translate *Ambulāte dum lūcem habētis.* (John 12:35)"
+  a: "\"Walk while (as long as) you all have the light.\""
+  ref: g-02
+- id: v59-f-07
+  type: forms
+  q: "Translate *Exspectā dum Avia redeat.* Why the subjunctive?"
+  a: "\"Wait until Grandma comes back.\" Her return is expected, not a fact: the waiting subjunctive."
+  ref: g-03
+- id: v59-f-08
+  type: forms
+  q: "\"Grandpa waited until the dog fell asleep.\""
+  a: "*Avus exspectāvit dum canis dormīret.* Past team: imperfect subjunctive."
+  ref: g-03
+- id: v59-f-09
+  type: forms
+  q: "Translate *dum reliquae nāvēs eō convenīrent ad hōram nōnam in ancorīs exspectāvit.* (Caesar)"
+  a: "\"He waited at anchor until the ninth hour for the rest of the ships to gather there.\""
+  ref: g-03
+- id: v59-f-10
+  type: forms
+  q: "What is the anticipatory subjunctive, in plain words?"
+  a: "The waiting subjunctive: after *dum* \"until\" or *antequam/priusquam*, for something expected, planned or headed off."
+  ref: g-03
+- id: v59-f-11
+  type: forms
+  q: "Translate *Avus cāseum spectet, dum nē tangat.*"
+  a: "\"Let Grandpa look at the cheese, provided he doesn't touch it.\" Proviso: subjunctive, \"not\" = *nē*."
+  ref: g-04
+- id: v59-f-12
+  type: forms
+  q: "Translate *Ōderint, dum metuant.* Where is it from?"
+  a: "\"Let them hate, provided they fear.\" King Atreus's line in an old Roman tragedy, quoted by Cicero (*On Duties* 1.97)."
+  ref: g-04
+- id: v59-f-13
+  type: forms
+  q: "Translate *Magnō mē metū līberābis, dum modo inter mē atque tē mūrus intersit.* (Cicero)"
+  a: "\"You'll free me from a great fear, provided only that there's a wall between me and you.\""
+  ref: g-04
+- id: v59-f-14
+  type: forms
+  q: "\"Grandpa may eat, provided he doesn't eat the whole cheese.\""
+  a: "*Licet Avō edere, dummodo nē tōtum cāseum edat.*"
+  ref: g-04
+- id: v59-f-15
+  type: forms
+  q: "Name the four meanings of *dum* and the mood of each."
+  a: "while (present indicative) · as long as (indicative, same tense) · until (subjunctive) · provided that (subjunctive, *nē*)."
+  ref: g-04
+- id: v59-f-16
+  type: forms
+  q: "Translate *Antequam Avia exiit, cāseōs numerāvit.* Which mood?"
+  a: "\"Before Grandma went out, she counted the cheeses.\" Fact mood: it really happened."
+  ref: g-05
+- id: v59-f-17
+  type: forms
+  q: "What are *priusquam* and *antequam* made of?"
+  a: "*prius* \"sooner\" / *ante* \"before\" + *quam* \"than\": \"before.\" Both may split: *prius … quam*."
+  ref: g-05
+- id: v59-f-18
+  type: forms
+  q: "Translate *nec prius fugere dēstitērunt quam ad flūmen Rhēnum … pervēnērunt.* (Caesar)"
+  a: "\"And they did not stop running until (before) they reached the river Rhine.\" Fact mood: they got there."
+  ref: g-05
+- id: v59-f-19
+  type: forms
+  q: "\"Before Grandma comes back, I'll guard the cheese.\""
+  a: "*Antequam Avia redit, cāseum custōdiam.* A future \"before\" takes the present indicative."
+  ref: g-05
+- id: v59-f-20
+  type: forms
+  q: "Translate *Canis cāseum cēpit priusquam Avus ederet.* Why subjunctive?"
+  a: "\"The dog took the cheese before Grandpa could eat it.\" The eating never happened: headed off."
+  ref: g-06
+- id: v59-f-21
+  type: forms
+  q: "Translate *Itaque prius quam quicquam cōnārētur, Dīviciācum ad sē vocārī iubet.* (Caesar)"
+  a: "\"And so, before he tried anything, he has Diviciacus called to him.\" Planned: subjunctive."
+  ref: g-06
+- id: v59-f-22
+  type: forms
+  q: "Translate *antequam gallus cantet, ter mē negābis.* (Matthew 26:34)"
+  a: "\"Before the rooster crows, you will deny me three times.\""
+  ref: g-06
+- id: v59-f-23
+  type: forms
+  q: "Translate *Postquam Avia exiit, Avus surrēxit.* Which tense is *exiit*?"
+  a: "\"After Grandma went (had gone) out, Grandpa got up.\" Perfect indicative, where English often says \"had.\""
+  ref: g-07
+- id: v59-f-24
+  type: forms
+  q: "Translate *Ubi Avia rediit, canis lātrāvit.*"
+  a: "\"When Grandma came back, the dog barked.\" *Ubi* + perfect = \"when.\""
+  ref: g-07
+- id: v59-f-25
+  type: forms
+  q: "Translate *simul atque adsēdistī* (Cicero to Catiline)."
+  a: "\"As soon as you sat down.\" Perfect indicative."
+  ref: g-07
+- id: v59-f-26
+  type: forms
+  q: "Translate *Eō postquam Caesar pervēnit, obsidēs, arma … poposcit.*"
+  a: "\"After Caesar arrived there, he demanded hostages, weapons…\""
+  ref: g-07
+- id: v59-f-27
+  type: forms
+  q: "*post cēnam* vs *postquam cēnāvimus*?"
+  a: "*Post* + noun: \"after dinner.\" *Postquam* + clause: \"after we had dinner.\""
+  ref: g-07
+- id: v59-f-28
+  type: forms
+  q: "Translate *Quamquam Avus ēsurit, cāseum nōn edit.* Which mood?"
+  a: "\"Although Grandpa is hungry, he isn't eating the cheese.\" Fact mood: *quamquam* grants a fact."
+  ref: g-08
+- id: v59-f-29
+  type: forms
+  q: "What is a concessive clause, in plain words?"
+  a: "The although clause: it grants something that clashes with the main clause (often with *tamen*)."
+  ref: g-08
+- id: v59-f-30
+  type: forms
+  q: "Translate *quamquam animus meminisse horret lūctūque refūgit, incipiam.* (Vergil)"
+  a: "\"Although my mind shudders to remember and has shrunk back in grief, I will begin.\""
+  ref: g-08
+- id: v59-f-31
+  type: forms
+  q: "Translate *Quamquam quid loquor?* (Cicero)"
+  a: "\"And yet, what am I saying?\" At the head of a sentence, *quamquam* = \"and yet.\""
+  ref: g-08
+- id: v59-f-32
+  type: forms
+  q: "Translate *Quamvīs Avus ēsuriat, cāseum nōn edet.* Which mood?"
+  a: "\"However hungry Grandpa may be, he won't eat the cheese.\" Subjunctive: a supposal."
+  ref: g-09
+- id: v59-f-33
+  type: forms
+  q: "Translate *quamvīs sint sub aquā, sub aquā maledīcere temptant.* (Ovid)"
+  a: "\"Although they are under water, under water they try to curse.\" (the frogs)"
+  ref: g-09
+- id: v59-f-34
+  type: forms
+  q: "Translate *Licet Avus clāmet, cāseum nōn dabō.* Which tenses can follow *licet*?"
+  a: "\"Although Grandpa shouts, I won't give him the cheese.\" Only present or perfect subjunctive."
+  ref: g-09
+- id: v59-f-35
+  type: forms
+  q: "Translate *Sunt quī cāseum nōn ament.* Why subjunctive?"
+  a: "\"There are people who don't like cheese.\" A kind-of clause: it describes a sort of person."
+  ref: g-10
+- id: v59-f-36
+  type: forms
+  q: "*Avus est quī cāseum ēdit* vs *Avus nōn is est quī cāseum relinquat*?"
+  a: "Fact: \"Grandpa is the one who ate the cheese.\" Kind: \"Grandpa isn't the sort to leave cheese behind.\""
+  ref: g-10
+- id: v59-f-37
+  type: forms
+  q: "Translate *nōn nūllī sunt in hōc ōrdine, quī … nōn videant* (Cicero)"
+  a: "\"There are some in this house (the senate) who don't see…\" Kind-of clause after *sunt*."
+  ref: g-10
+- id: v59-f-38
+  type: forms
+  q: "Translate *nēmō enim est tam senex quī sē annum nōn putet posse vīvere.* (Cicero)"
+  a: "\"For nobody is so old that he doesn't think he can live one more year.\""
+  ref: g-10
+- id: v59-f-39
+  type: forms
+  q: "What does *quīn* stand for in *Nēmō est quīn cāseum amet*?"
+  a: "*quī nōn*: \"There's nobody who doesn't love cheese.\" Only after a negative."
+  ref: g-11
+- id: v59-f-40
+  type: forms
+  q: "Translate *Nēmō est tam fortis quīn reī novitāte perturbētur.* (Caesar)"
+  a: "\"Nobody is so brave that he isn't thrown into confusion by the surprise of the thing.\""
+  ref: g-11
+- id: v59-f-41
+  type: forms
+  q: "Translate *Quis est quīn cāseum amet?*"
+  a: "\"Who is there who doesn't love cheese?\" The question expects \"nobody,\" so *quīn*."
+  ref: g-11
+- id: v59-f-42
+  type: forms
+  q: "\"There's nobody who doesn't fear Grandma\" (two ways)."
+  a: "*Nēmō est quī Aviam nōn timeat* = *Nēmō est quīn Aviam timeat.*"
+  ref: g-13
+- id: v59-f-43
+  type: forms
+  q: "\"Before Grandma could see, Grandpa hid the cheese.\""
+  a: "*Priusquam Avia vidēret, Avus cāseum cēlāvit.*"
+  ref: g-13
+- id: v59-f-44
+  type: forms
+  q: "\"While Grandpa was sleeping, the dog ate the cheese.\""
+  a: "*Dum Avus dormit, canis cāseum ēdit.*"
+  ref: g-13
+- id: v59-f-45
+  type: forms
+  q: "In the Lectiō, why is *Cultrō tantum secuī* a lawyer's trick?"
+  a: "Grandma's deal was *dummodo nē tangās*: Grandpa kept the letter of the proviso (the knife touched it) and broke its spirit."
+  ref: g-15
+- id: v59-f-46
+  type: forms
+  q: "Pronounce *dummodo · antequam · priusquam*."
+  a: "DUM-mo-do · AN-te-kwam · pri-US-kwam."
+  ref: g-16
+- id: v59-f-47
+  type: forms
+  q: "Pronounce *quamvīs · ōderint · intersit*."
+  a: "KWAM-wees · OH-de-rint · in-TER-sit."
+  ref: g-16
+- id: v59-c-01
+  type: choose
+  q: "\"Wait until Grandma comes.\""
+  options:
+  - "Exspectā dum Avia venit."
+  - "Exspectā postquam Avia vēnit."
+  - "Exspectā dum Avia veniat."
+  a: "Exspectā dum Avia veniat."
+  why: "Waiting for something expected: *dum* + subjunctive."
+  ref: g-03
+- id: v59-c-02
+  type: choose
+  q: "\"While Grandma was away, Grandpa touched the cheese.\""
+  options:
+  - "Dum Avia āfuisset, Avus cāseum tetigit."
+  - "Dum Avia abest, Avus cāseum tetigit."
+  - "Dum Avia absit, Avus cāseum tetigit."
+  a: "Dum Avia abest, Avus cāseum tetigit."
+  why: "*Dum* \"while\" takes the present indicative, even in a past story."
+  ref: g-01
+- id: v59-c-03
+  type: choose
+  q: "\"Look, provided you don't touch!\""
+  options:
+  - "Spectā, dummodo nē tangās!"
+  - "Spectā, dummodo nōn tangis!"
+  - "Spectā, dummodo nōn tangās!"
+  a: "Spectā, dummodo nē tangās!"
+  why: "Proviso: subjunctive, and \"not\" is *nē*."
+  ref: g-04
+- id: v59-c-04
+  type: choose
+  q: "\"Although Grandpa is hungry, he doesn't eat.\" (with *quamquam*)"
+  options:
+  - "Quamquam Avus ēsuriat, nōn edit."
+  - "Quamquam Avus ēsurīret, nōn edit."
+  - "Quamquam Avus ēsurit, nōn edit."
+  a: "Quamquam Avus ēsurit, nōn edit."
+  why: "*Quamquam* grants a fact: indicative."
+  ref: g-08
+- id: v59-c-05
+  type: choose
+  q: "\"However hungry Grandpa may be…\""
+  options:
+  - "Postquam Avus ēsurit…"
+  - "Quamvīs Avus ēsuriat…"
+  - "Quamvīs Avus ēsurit…"
+  a: "Quamvīs Avus ēsuriat…"
+  why: "*Quamvīs* takes the subjunctive."
+  ref: g-09
+- id: v59-c-06
+  type: choose
+  q: "\"There's nobody who doesn't love cheese.\""
+  options:
+  - "Nēmō est quīn cāseum amet."
+  - "Nēmō est quīn cāseum nōn amet."
+  - "Sunt quīn cāseum ament."
+  a: "Nēmō est quīn cāseum amet."
+  why: "*Quīn* = *quī nōn* after a negative; adding *nōn* doubles the \"not.\""
+  ref: g-11
+- id: v59-c-07
+  type: choose
+  q: "\"After Grandma went out, Grandpa got up.\""
+  options:
+  - "Postquam Avia exīret, Avus surrēxit."
+  - "Post Avia exiit, Avus surrēxit."
+  - "Postquam Avia exiit, Avus surrēxit."
+  a: "Postquam Avia exiit, Avus surrēxit."
+  why: "*Postquam* (a conjunction) + perfect indicative."
+  ref: g-07
+- id: v59-e-01
+  type: error
+  q: "Fix: *Exspectā dum Avia redit.* (Wait until Grandma comes back.)"
+  a: "*Exspectā dum Avia redeat.* Waiting: subjunctive."
+  ref: g-14
+- id: v59-e-02
+  type: error
+  q: "Fix: *Quamquam Avus ēsuriat…* (Although Grandpa is hungry…)"
+  a: "*Quamquam Avus ēsurit…* *Quamquam* takes the fact mood."
+  ref: g-14
+- id: v59-e-03
+  type: error
+  q: "Fix: *Quamvīs fessus est…* (However tired he may be…)"
+  a: "*Quamvīs fessus sit…* *Quamvīs* takes the subjunctive."
+  ref: g-14
+- id: v59-e-04
+  type: error
+  q: "Fix: *dummodo nōn tangat* (provided he doesn't touch)"
+  a: "*dummodo nē tangat.* A proviso's \"not\" is *nē*."
+  ref: g-14
+- id: v59-e-05
+  type: error
+  q: "Fix: *Nēmō est quī cāseum nōn amat.*"
+  a: "*Nēmō est quī cāseum nōn amet.* Kind-of clause: subjunctive."
+  ref: g-14
+- id: v59-e-06
+  type: error
+  q: "Fix: *Sunt quīn cāseum ament.* (There are some who don't love cheese.)"
+  a: "*Sunt quī cāseum nōn ament.* *Quīn* needs a negative before it."
+  ref: g-14
