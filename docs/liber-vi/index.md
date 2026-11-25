@@ -6,14 +6,14 @@
 
 *To the Authors: Gerunds, ōrātiō oblīqua, poetry, real texts*
 
-!!! info "Coming soon"
-    This book hasn't been written yet. Below is the planned sequence of chapters, which may change as the course grows.
+!!! tip "In progress"
+    Chapters are arriving one by one. Below is the planned sequence, which may change as the course grows.
 
 Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · **S** = speaking goal.
 
 | # | Chapter | Contents | Status |
 |---|---|---|---|
-| 61 | **Ars Legendī** | G: gerund. | coming |
+| 61 | [**Ars Legendī**](01-ars-legendi.md) | G: gerund. | ✅ available |
 | 62 | **Carthāgō Dēlenda Est** | G: gerundive; passive periphrastic + dative of agent; ad + gerundive purpose. | coming |
 | 63 | **Mīrābile Dictū** | G: supine -um/-ū. | coming |
 | 64 | **Ōrātiō Oblīqua** | G: subordinate clauses in indirect discourse; virtual ōrātiō oblīqua. | coming |
