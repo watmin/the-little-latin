@@ -1,0 +1,454 @@
+book: vi
+ch: 62
+page: liber-vi/02-carthago-delenda-est.md
+cards:
+- id: vi62-v-carthago-delenda-est
+  type: vocab
+  la: "Carthāgō dēlenda est."
+  en: "Carthage must be destroyed. (the modern form of Cato's saying)"
+  ref: g-01
+- id: vi62-v-ceterum-censeo
+  type: vocab
+  la: "Cēterum cēnseō Carthāginem esse dēlendam."
+  en: "Besides, I think Carthage must be destroyed. (modern form)"
+  ref: g-02
+- id: vi62-v-mihi-liber-legendus
+  type: vocab
+  la: "Mihi liber legendus est."
+  en: "I have to read the book."
+  ref: g-05
+- id: vi62-v-caseus-non-edendus
+  type: vocab
+  la: "Cāseus nōn edendus est!"
+  en: "The cheese is not to be eaten!"
+  ref: g-04
+- id: vi62-v-mihi-eundum-est
+  type: vocab
+  la: "Mihi eundum est."
+  en: "I have to go."
+  ref: g-06
+- id: vi62-v-nunc-est-bibendum
+  type: vocab
+  la: "Nunc est bibendum."
+  en: "Now we must drink. (Horace)"
+  ref: g-06
+- id: vi62-v-ad-libros-legendos
+  type: vocab
+  la: "ad librōs legendōs"
+  en: "to read books, for reading books (the swap)"
+  ref: g-07
+- id: vi62-v-gerundive
+  type: vocab
+  la: "gerundive"
+  en: "the \"must-be\" adjective: -ndus, -nda, -ndum, \"to be ___ed\""
+  ref: g-01
+- id: vi62-v-passive-periphrastic
+  type: vocab
+  la: "passive periphrastic"
+  en: "gerundive + sum: \"must be ___ed\" (old-school \"second periphrastic conjugation\")"
+  ref: g-04
+- id: vi62-v-dative-of-agent
+  type: vocab
+  la: "dative of agent"
+  en: "the dative doer with a gerundive: mihi = \"by me,\" \"I have to\""
+  ref: g-05
+- id: vi62-v-deleo
+  type: vocab
+  la: "dēleō, dēlēre, dēlēvī, dēlētum"
+  en: "destroy, wipe out"
+  ref: g-01
+- id: vi62-v-censeo
+  type: vocab
+  la: "cēnseō, cēnsēre, cēnsuī, cēnsum"
+  en: "think, propose, vote (in the senate)"
+  ref: g-02
+- id: vi62-v-ceterum
+  type: vocab
+  la: "cēterum"
+  en: "for the rest, besides"
+  ref: g-02
+- id: vi62-v-cato
+  type: vocab
+  la: "Catō, Catōnis"
+  en: "m. Cato"
+  ref: g-02
+- id: vi62-v-agenda
+  type: vocab
+  la: "agenda"
+  en: "things to be done (agō)"
+  ref: g-03
+- id: vi62-v-mirandus
+  type: vocab
+  la: "mīrandus, -a, -um"
+  en: "to be wondered at, wonderful (mīror)"
+  ref: g-03
+- id: vi62-f-01
+  type: forms
+  q: "Translate *Carthāgō dēlenda est.* Is *dēlenda* a gerund?"
+  a: "\"Carthage must be destroyed.\" No: it agrees with *Carthāgō* and stands with *est*. It's a gerundive."
+  ref: g-01
+- id: vi62-f-02
+  type: forms
+  q: "What is a gerundive, in plain words?"
+  a: "The \"must-be\" adjective: \"to be ___ed\" (old-school also \"future passive participle\")."
+  ref: g-01
+- id: vi62-f-03
+  type: forms
+  q: "The four verb-adjectives of *laudō*, with voice and time?"
+  a: "*laudātus* (passive, before) · *laudāns* (active, same time) · *laudātūrus* (active, after) · *laudandus* (passive, ahead: to be praised)."
+  ref: g-01
+- id: vi62-f-04
+  type: forms
+  q: "*Avus cāseum ēsūrus est* vs *Cāseus edendus est*?"
+  a: "\"Grandpa is about to eat the cheese\" (active) vs \"The cheese must be eaten\" (passive)."
+  ref: g-01
+- id: vi62-f-05
+  type: forms
+  q: "Translate *Cēterum cēnseō Carthāginem esse dēlendam.* Why *dēlendam*?"
+  a: "\"Besides, I think Carthage must be destroyed.\" Reported speech: the gerundive agrees with accusative *Carthāginem*."
+  ref: g-02
+- id: vi62-f-06
+  type: forms
+  q: "Did Cato say *Carthāgō dēlenda est* in those words?"
+  a: "Not as far as we know: it's a modern summary. Pliny, Florus and *On Famous Men* report a gerundive in reported speech (*Carthāginem dēlendam*)."
+  ref: g-02
+- id: vi62-f-07
+  type: forms
+  q: "Pliny 15.74: *cum clāmāret omnī senātū Carthāginem dēlendam.* Translate. What's missing?"
+  a: "\"Since he kept shouting at every meeting of the senate that Carthage must be destroyed.\" *Esse* is left out."
+  ref: g-02
+- id: vi62-f-08
+  type: forms
+  q: "*On Famous Men* 47.8: *Carthāginem dēlendam cēnsuit.*"
+  a: "\"He proposed that Carthage be destroyed.\" *Cēnseō* + accusative + gerundive: the senate's formula."
+  ref: g-02
+- id: vi62-f-09
+  type: forms
+  q: "Florus: *Catō inexpiābilī odiō dēlendam esse Carthāginem … prōnūntiābat.*"
+  a: "\"Cato, with a hatred nothing could appease, kept declaring that Carthage must be destroyed.\""
+  ref: g-02
+- id: vi62-f-10
+  type: forms
+  q: "Law of *-ndus*: how is a gerundive built?"
+  a: "The gerund's stem + *-nd-* + the endings of *bonus, -a, -um*. It agrees, and means \"to be ___ed.\""
+  ref: g-03
+- id: vi62-f-11
+  type: forms
+  q: "Gerundive of *amō, habeō, legō, capiō, audiō*?"
+  a: "*amandus · habendus · legendus · capiendus · audiendus* (short vowel before *-nd-*)."
+  ref: g-03
+- id: vi62-f-12
+  type: forms
+  q: "\"a book to be read,\" \"books to be read\" (nominative)?"
+  a: "*liber legendus · librī legendī*"
+  ref: g-03
+- id: vi62-f-13
+  type: forms
+  q: "What do *agenda, memorandum, addendum* mean, word for word?"
+  a: "Things to be done · a thing to be remembered · a thing to be added."
+  ref: g-03
+- id: vi62-f-14
+  type: forms
+  q: "*Amanda* and *Mīranda*?"
+  a: "She who must be loved · she who must be wondered at."
+  ref: g-03
+- id: vi62-f-15
+  type: forms
+  q: "What does a deponent's gerundive mean (*mīrandus, sequendus*)?"
+  a: "Passive, like every gerundive: \"to be wondered at,\" \"to be followed.\""
+  ref: g-03
+- id: vi62-f-16
+  type: forms
+  q: "Translate *Liber legendus est.*"
+  a: "\"The book must be read\" (is to be read, has to be read)."
+  ref: g-04
+- id: vi62-f-17
+  type: forms
+  q: "What is the passive periphrastic, in plain words?"
+  a: "The \"must-be\" pattern: gerundive + *sum*, \"must be ___ed\" (old-school \"second periphrastic conjugation\")."
+  ref: g-04
+- id: vi62-f-18
+  type: forms
+  q: "Law of Must-Be: what does *sum* do, and what does the gerundive do?"
+  a: "*Sum* carries person and time (*est, erat, erit*); the gerundive agrees with the subject. *Nōn* = must not."
+  ref: g-04
+- id: vi62-f-19
+  type: forms
+  q: "\"Carthage had to be destroyed.\" \"The cheese will have to be bought.\""
+  a: "*Carthāgō dēlenda erat. Cāseus emendus erit.*"
+  ref: g-04
+- id: vi62-f-20
+  type: forms
+  q: "\"The books must be read.\" \"The letters must be written.\""
+  a: "*Librī legendī sunt. Epistulae scrībendae sunt.*"
+  ref: g-04
+- id: vi62-f-21
+  type: forms
+  q: "Translate *Mihi liber legendus est* word for word, then in good English."
+  a: "\"The book must be read by me\" = \"I have to read the book.\""
+  ref: g-05
+- id: vi62-f-22
+  type: forms
+  q: "Law of the Dative Doer?"
+  a: "With a gerundive the doer goes in the dative (*mihi*, \"I have to\"). If the verb already has a \"to whom\" dative, use *ā/ab*."
+  ref: g-05
+- id: vi62-f-23
+  type: forms
+  q: "\"Grandpa has to buy cheese.\" \"We have to read Nepos.\""
+  a: "*Avō cāseus emendus est. Nōbīs Nepōs legendus est.*"
+  ref: g-05
+- id: vi62-f-24
+  type: forms
+  q: "Caesar 2.20.1: *Caesarī omnia ūnō tempore erant agenda.*"
+  a: "\"Caesar had to do everything at once.\" *Caesarī*: dative doer; *erant*: past."
+  ref: g-05
+- id: vi62-f-25
+  type: forms
+  q: "\"The money must be given to you by me.\""
+  a: "*Pecūnia tibi ā mē danda est.* *Tibi* is \"to whom,\" so the doer takes *ā*."
+  ref: g-05
+- id: vi62-f-26
+  type: forms
+  q: "Juvenal: *ōrandum est ut sit mēns sāna in corpore sānō.* What is *ōrandum est*?"
+  a: "\"One must pray\": a neuter gerundive with *est* and no subject (the it-must)."
+  ref: g-06
+- id: vi62-f-27
+  type: forms
+  q: "Law of the It-Must?"
+  a: "Neuter *-ndum est*, no subject = \"one must ___\"; add a dative for \"I must\" (*Mihi eundum est*). Verbs with no object can only do this."
+  ref: g-06
+- id: vi62-f-28
+  type: forms
+  q: "\"We must go.\" \"I have to go.\""
+  a: "*Nōbīs eundum est. Mihi eundum est.*"
+  ref: g-06
+- id: vi62-f-29
+  type: forms
+  q: "Horace: *Nunc est bibendum, nunc pede līberō pulsanda tellūs.*"
+  a: "\"Now we must drink, now the earth must be beaten with a free foot\" (now we must dance)."
+  ref: g-06
+- id: vi62-f-30
+  type: forms
+  q: "*Dē gustibus et colōribus nōn est disputandum*, word for word?"
+  a: "\"About tastes and colors there must not be arguing.\" The it-must with *nōn*."
+  ref: g-06
+- id: vi62-f-31
+  type: forms
+  q: "Nepos, *Hannibal* 10.4: *dolō erat pugnandum, cum pār nōn esset armīs.*"
+  a: "\"He had to fight by cunning, since he was not equal in arms.\""
+  ref: g-06
+- id: vi62-f-32
+  type: forms
+  q: "Nepos, *Hannibal* 1.1: *nōn est īnfitiandum Hannibalem … praestitisse cēterōs imperātōrēs prūdentiā.*"
+  a: "\"It must not be denied that Hannibal surpassed the other generals in good sense.\""
+  ref: g-06
+- id: vi62-f-33
+  type: forms
+  q: "Law of the Swap?"
+  a: "When a gerund would take an object, the object takes the gerund's case and the *-nd-* word becomes a gerundive agreeing with it."
+  ref: g-07
+- id: vi62-f-34
+  type: forms
+  q: "Swap: *ad legendum librōs*"
+  a: "*ad librōs legendōs* (to read books)"
+  ref: g-07
+- id: vi62-f-35
+  type: forms
+  q: "Swap: *ars legendī librōs*"
+  a: "*ars librōrum legendōrum* (the art of reading books)"
+  ref: g-07
+- id: vi62-f-36
+  type: forms
+  q: "\"Grandpa comes to buy cheese,\" with *causā*."
+  a: "*Avus cāseī emendī causā venit.*"
+  ref: g-07
+- id: vi62-f-37
+  type: forms
+  q: "Caesar 1.3.1: *Ad eās rēs cōnficiendās biennium sibi satis esse dūxērunt.*"
+  a: "\"They reckoned two years would be enough for them to carry out these things.\""
+  ref: g-07
+- id: vi62-f-38
+  type: forms
+  q: "*in agendō bellō*: gerund or gerundive?"
+  a: "Gerundive: *agendō* agrees with *bellō*. \"In waging the war.\""
+  ref: g-07
+- id: vi62-f-39
+  type: forms
+  q: "Nepos 10.3: *Ad hunc interficiundum tālem iniit ratiōnem.*"
+  a: "\"To kill him he adopted this plan.\" The swap (*-undum* = old *-endum*)."
+  ref: g-07
+- id: vi62-f-40
+  type: forms
+  q: "*mōnstrum horrendum*, word for word?"
+  a: "\"A monster to be shuddered at\" (*horreō*). A gerundive as a plain adjective."
+  ref: g-08
+- id: vi62-f-41
+  type: forms
+  q: "Why is it *iūs iūrandum, iūris iūrandī*?"
+  a: "Noun + gerundive (\"a binding word to be sworn\"): *iūrandum* agrees with *iūs* in every case."
+  ref: g-08
+- id: vi62-f-42
+  type: forms
+  q: "\"a book worth reading,\" \"a man to be praised\"?"
+  a: "*liber legendus · vir laudandus*"
+  ref: g-08
+- id: vi62-f-43
+  type: forms
+  q: "\"I think the cheese must be eaten.\""
+  a: "*Putō cāseum edendum esse.*"
+  ref: g-09
+- id: vi62-f-44
+  type: forms
+  q: "Cicero, *Cat.* 1.17: *domum meam relinquendam putārem.*"
+  a: "\"I would think I had to leave my house.\" Gerundive in reported speech, *esse* dropped."
+  ref: g-09
+- id: vi62-f-45
+  type: forms
+  q: "Florus: Cato said *dēlendam*, *Scīpiō Nāsīca servandam*. Translate."
+  a: "Scipio Nasica (kept declaring) that Carthage must be kept."
+  ref: g-09
+- id: vi62-f-46
+  type: forms
+  q: "Law of the Two *-nd-*s: how do you tell gerund from gerundive?"
+  a: "Does it agree with a noun or stand with *sum*? Yes: gerundive (\"to be ___ed\"). No: gerund (\"___ing\")."
+  ref: g-10
+- id: vi62-f-47
+  type: forms
+  q: "*Tempus est legendī* vs *Librī legendī sunt*?"
+  a: "Gerund, \"time for reading\" vs gerundive, \"the books must be read.\""
+  ref: g-10
+- id: vi62-f-48
+  type: forms
+  q: "Translate *Cornēliae epistula scrībenda est.*"
+  a: "\"Cornelia has to write a letter.\""
+  ref: g-11
+- id: vi62-f-49
+  type: forms
+  q: "\"There's no arguing about cheese.\""
+  a: "*Dē cāseō nōn est disputandum.*"
+  ref: g-12
+- id: vi62-f-50
+  type: forms
+  q: "\"Grandma had to keep the cheese.\""
+  a: "*Aviae cāseus servandus erat.*"
+  ref: g-12
+- id: vi62-f-51
+  type: forms
+  q: "\"The dog came to eat the cheese\" (with *ad*)."
+  a: "*Canis ad cāseum edendum vēnit.*"
+  ref: g-12
+- id: vi62-f-52
+  type: forms
+  q: "Pliny 15.75: *Tam prope ā moerīs habēmus hostem!*"
+  a: "\"So close to our walls we have the enemy!\" (*moerīs* = old *mūrīs*)"
+  ref: g-15
+- id: vi62-f-53
+  type: forms
+  q: "Pliny: *quandō hanc pōmum dēmptam putētis.* Why feminine *hanc … dēmptam*?"
+  a: "Pliny has the fig (*fīcus*, f.) in mind: agreement by sense."
+  ref: g-15
+- id: vi62-f-54
+  type: forms
+  q: "Say *dēlenda · cēnseō · Carthāginem · Nāsīca · praecocem*."
+  a: "day-LEN-da · KAYN-se-oh · kar-TAH-gi-nem · nah-SEE-ka · PRAI-ko-kem"
+  ref: g-16
+- id: vi62-c-01
+  type: choose
+  q: "\"Carthage must be destroyed.\""
+  options:
+  - "Carthāgō dēlendus est."
+  - "Carthāgō dēlenda est."
+  - "Carthāgō dēlendum est."
+  a: "Carthāgō dēlenda est."
+  why: "The gerundive agrees with feminine *Carthāgō*."
+  ref: g-01
+- id: vi62-c-02
+  type: choose
+  q: "\"I have to read the book.\""
+  options:
+  - "Mihi liber legendus est."
+  - "Ego liber legendus est."
+  - "Mē librum legendum est."
+  a: "Mihi liber legendus est."
+  why: "With a gerundive, the doer goes in the dative."
+  ref: g-05
+- id: vi62-c-03
+  type: choose
+  q: "\"Grandpa is about to eat.\""
+  options:
+  - "Avus edendus est."
+  - "Avus ēsūrus est."
+  - "Avus edendum est."
+  a: "Avus ēsūrus est."
+  why: "\"About to\" is active *-ūrus*; *edendus* would be \"must be eaten.\""
+  ref: g-01
+- id: vi62-c-04
+  type: choose
+  q: "\"to read books\" (Roman style, after *ad*)"
+  options:
+  - "ad librōs legendōs"
+  - "ad librōs legendum"
+  - "ad librīs legendīs"
+  a: "ad librōs legendōs"
+  why: "The swap: *librōs* takes the accusative after *ad*, and *legendōs* agrees."
+  ref: g-07
+- id: vi62-c-05
+  type: choose
+  q: "\"We must go.\""
+  options:
+  - "Nōs eundum est."
+  - "Nōbīs eundum est."
+  - "Nōbīs eundī est."
+  a: "Nōbīs eundum est."
+  why: "The it-must (*-ndum est*) with a dative doer."
+  ref: g-06
+- id: vi62-c-06
+  type: choose
+  q: "*Tempus est legendī*: what is *legendī*?"
+  options:
+  - "gerund"
+  - "gerundive"
+  - "participle"
+  a: "gerund"
+  why: "It agrees with no noun: \"time of reading.\""
+  ref: g-10
+- id: vi62-c-07
+  type: choose
+  q: "\"I think the cheese must be eaten.\""
+  options:
+  - "Putō cāseum edendum esse."
+  - "Putō cāseus edendus esse."
+  - "Putō cāseum edendī esse."
+  a: "Putō cāseum edendum esse."
+  why: "Reported speech: accusative subject, gerundive agrees, *esse*."
+  ref: g-09
+- id: vi62-e-01
+  type: error
+  q: "Fix: *Carthāgō dēlendus est.*"
+  a: "*Carthāgō dēlenda est.* *Carthāgō* is feminine."
+  ref: g-13
+- id: vi62-e-02
+  type: error
+  q: "Fix: *Avus edendus est.* (Grandpa is about to eat.)"
+  a: "*Avus ēsūrus est.* *Edendus est* = \"must be eaten\"!"
+  ref: g-13
+- id: vi62-e-03
+  type: error
+  q: "Fix: *Ā mē liber legendus est.* (I have to read the book.)"
+  a: "*Mihi liber legendus est.* The doer goes in the dative."
+  ref: g-13
+- id: vi62-e-04
+  type: error
+  q: "Fix: *Cāseus edendum est.*"
+  a: "*Cāseus edendus est.* With a subject, the gerundive agrees."
+  ref: g-13
+- id: vi62-e-05
+  type: error
+  q: "Make it Roman: *ad legendum librōs*"
+  a: "*ad librōs legendōs* (the swap)."
+  ref: g-13
+- id: vi62-e-06
+  type: error
+  q: "Fix: *dēlēndus*"
+  a: "*dēlendus*. The vowel before *-nd-* is always short."
+  ref: g-13
