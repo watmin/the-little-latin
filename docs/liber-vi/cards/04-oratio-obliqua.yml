@@ -1,0 +1,459 @@
+book: vi
+ch: 64
+page: liber-vi/04-oratio-obliqua.md
+cards:
+- id: vi64-v-mercator-dixit
+  type: vocab
+  la: "Mercātor dīxit cāseum, quem attulisset, optimum esse."
+  en: "The seller said that the cheese he had brought was the best."
+  ref: g-01
+- id: vi64-v-dixit-se-venire
+  type: vocab
+  la: "Dīxit sē domum venīre quod aeger esset."
+  en: "He said he was coming home because he was sick."
+  ref: g-02
+- id: vi64-v-rogavit-cur
+  type: vocab
+  la: "Rogāvit cūr tot custōdēs mēcum venīrent."
+  en: "He asked why so many guards were coming with me."
+  ref: g-05
+- id: vi64-v-caverem-canem
+  type: vocab
+  la: "Cavērem canem."
+  en: "(He said) I was to beware of the dog."
+  ref: g-06
+- id: vi64-v-noctu-ambulabat
+  type: vocab
+  la: "Noctū ambulābat, quod somnum capere nōn posset."
+  en: "He walked about at night, because (he said) he couldn't sleep. (Cicero on Themistocles)"
+  ref: g-07
+- id: vi64-v-subordinate-clause
+  type: vocab
+  la: "subordinate clause"
+  en: "the hanging clause: a clause that hangs on another (old-school \"dependent clause\"); inside a report its verb goes subjunctive"
+  ref: g-01
+- id: vi64-v-rhetorical-question
+  type: vocab
+  la: "rhetorical question"
+  en: "a question that answers itself; inside a report it usually goes accusative + infinitive"
+  ref: g-05
+- id: vi64-v-virtual-oo
+  type: vocab
+  la: "virtual ōrātiō oblīqua"
+  en: "the hidden report: a subjunctive for someone else's reason or words, with no verb of saying (old-school \"implied\" or \"informal indirect discourse\")"
+  ref: g-07
+- id: vi64-v-quod-quia
+  type: vocab
+  la: "quod, quia"
+  en: "because (+ indicative: the writer's own reason; + subjunctive: someone else's)"
+  ref: g-07
+- id: vi64-v-aeger
+  type: vocab
+  la: "aeger, aegra, aegrum"
+  en: "sick"
+  ref: g-02
+- id: vi64-v-affero
+  type: vocab
+  la: "afferō, afferre, attulī, allātum"
+  en: "bring (to)"
+  ref: g-01
+- id: vi64-v-gratis
+  type: vocab
+  la: "grātīs"
+  en: "for free (not grātiās, \"thanks\")"
+  ref: g-13
+- id: vi64-v-postero-die
+  type: vocab
+  la: "posterō diē · eō diē · prīdiē"
+  en: "on the next day · on that day · on the day before"
+  ref: g-04
+- id: vi64-v-queror
+  type: vocab
+  la: "queror, querī, questus sum"
+  en: "complain"
+  ref: g-13
+- id: vi64-v-reminiscor
+  type: vocab
+  la: "reminīscor, reminīscī"
+  en: "remember (+ genitive)"
+  ref: g-06
+- id: vi64-v-congredior
+  type: vocab
+  la: "congredior, congredī, congressus sum"
+  en: "meet; come together to fight"
+  ref: g-06
+- id: vi64-v-obses
+  type: vocab
+  la: "obses, obsidis"
+  en: "m./f. hostage"
+  ref: g-14
+- id: vi64-v-maiores
+  type: vocab
+  la: "maiōrēs, maiōrum"
+  en: "m. pl. ancestors (\"the greater ones\")"
+  ref: g-09
+- id: vi64-f-01
+  type: forms
+  q: "What happens to the main clause of a statement in reported speech?"
+  a: "It becomes accusative + infinitive (Chapter 42): *Mercātor dīxit cāseum optimum esse.*"
+  ref: g-01
+- id: vi64-f-02
+  type: forms
+  q: "Report: *\"Hic cāseus, quem ex Graeciā attulī, optimus est.\"* after *Mercātor dīxit…*"
+  a: "*Mercātor dīxit cāseum, quem ex Graeciā attulisset, optimum esse.*"
+  ref: g-01
+- id: vi64-f-03
+  type: forms
+  q: "Why *attulisset* in *cāseum, quem attulisset, optimum esse*?"
+  a: "It's a hanging clause inside a report: subjunctive (\"his words, not mine\"), pluperfect for past team, earlier."
+  ref: g-01
+- id: vi64-f-04
+  type: forms
+  q: "What is a subordinate clause, in plain words?"
+  a: "The hanging clause: a clause that hangs on another (old-school \"dependent clause\"). The one it hangs on is the main clause."
+  ref: g-01
+- id: vi64-f-05
+  type: forms
+  q: "Law of the Reported Clause: what goes infinitive, and what goes subjunctive?"
+  a: "Main clause of a statement → accusative + infinitive. Every subordinate clause (who, which, because, if, when, until) → subjunctive."
+  ref: g-02
+- id: vi64-f-06
+  type: forms
+  q: "Report *\"Domum veniō quod aeger sum.\"* after *Marcus dīcit…*"
+  a: "*Marcus dīcit sē domum venīre quod aeger sit.*"
+  ref: g-02
+- id: vi64-f-07
+  type: forms
+  q: "Report *\"Domum veniō quod aeger sum.\"* after *Marcus dīxit…*"
+  a: "*Marcus dīxit sē domum venīre quod aeger esset.*"
+  ref: g-02
+- id: vi64-f-08
+  type: forms
+  q: "Report *\"Sī canis cāseum edet, īrāta erō.\"* after *Avia dīcit…*"
+  a: "*Avia dīcit, sī canis cāseum edat, sē īrātam fore.* The if-half hangs (subjunctive); the then-half is main (infinitive)."
+  ref: g-02
+- id: vi64-f-09
+  type: forms
+  q: "Report *\"Canis, quī in culīnā est, ēsurit.\"* after *Quīntus dīxit…*"
+  a: "*Quīntus dīxit canem, quī in culīnā esset, ēsurīre.*"
+  ref: g-02
+- id: vi64-f-10
+  type: forms
+  q: "Translate: *Sōcratēs dīcere solēbat, omnīs in eō, quod scīrent, satis esse ēloquentīs.* (Cicero, *On the Orator* 1.63)"
+  a: "\"Socrates used to say that everyone is eloquent enough in what he knows.\" *Scīrent*: hanging clause, past team."
+  ref: g-02
+- id: vi64-f-11
+  type: forms
+  q: "In a report, which verb sets the team (now or past) for the subjunctives?"
+  a: "The verb of saying (*dīcit* → now team, *dīxit* → past team), not the infinitives in between."
+  ref: g-03
+- id: vi64-f-12
+  type: forms
+  q: "Report *\"Domum vēnī quod medicus mē mīsit.\"* after *dīcit* and after *dīxit*."
+  a: "*Dīcit sē domum vēnisse quod medicus sē mīserit.* · *Dīxit sē domum vēnisse quod medicus sē mīsisset.*"
+  ref: g-03
+- id: vi64-f-13
+  type: forms
+  q: "*Dīxit sē Rōmam itūrum ut cōnsulem vidēret.* Why past-team *vidēret* after the future *itūrum*?"
+  a: "It hangs, in the end, on *dīxit*. The infinitive in the middle doesn't set the team."
+  ref: g-03
+- id: vi64-f-14
+  type: forms
+  q: "Translate: *Liscus … prōpōnit: esse nōn nūllōs, quōrum auctōritās apud plēbem plūrimum valeat.* (Caesar 1.17.1) Why now-team *valeat*?"
+  a: "\"Liscus lays it out: there are some men whose influence carries the most weight with the common people.\" *Prōpōnit* is a historic present, which may lead either team."
+  ref: g-03
+- id: vi64-f-15
+  type: forms
+  q: "Law of the Saying Verb's Clock: fill in *quod aeger ___* after *dīcit* and *dīxit*; *quod medicus sē ___* (earlier)."
+  a: "*dīcit*: *sit*, *mīserit* · *dīxit*: *esset*, *mīsisset*."
+  ref: g-03
+- id: vi64-f-16
+  type: forms
+  q: "Report the seller's *\"Ego tibi crās alterum cāseum dabō\"* after *Mercātor Avō dīxit…*"
+  a: "*Mercātor Avō dīxit sē eī posterō diē alterum cāseum datūrum esse.* I → *sē*; you → *eī*; *crās* → *posterō diē*."
+  ref: g-04
+- id: vi64-f-17
+  type: forms
+  q: "Grandpa reports the seller's *\"Ego tibi … dabō\"* himself. What's \"you\" now?"
+  a: "*mihi*: *Mercātor mihi dīxit sē mihi … datūrum esse.* Pronouns follow who is reporting."
+  ref: g-04
+- id: vi64-f-18
+  type: forms
+  q: "In a report told later, what do *hodiē, crās, herī, nunc* become?"
+  a: "*eō diē, posterō diē, prīdiē, tum*."
+  ref: g-04
+- id: vi64-f-19
+  type: forms
+  q: "*Mercātor dīxit cāseum, quem sibi Graecī dedissent, optimum esse.* Whose *sibi*?"
+  a: "The seller's: the clause is still his words, so *sē/sibi* points to the speaker."
+  ref: g-04
+- id: vi64-f-20
+  type: forms
+  q: "*Cūr dē suā virtūte aut dē ipsīus dīligentiā dēspērārent?* (Caesar 1.40.4) Whose *suā*, whose *ipsīus*?"
+  a: "*Suā* = the officers' (subject of *dēspērārent*). *Ipsīus* = Caesar's, the speaker's. *Ipse* keeps the speaker clear."
+  ref: g-04
+- id: vi64-f-21
+  type: forms
+  q: "Law of Who's Who: what do \"I/we\" and \"you\" become in a report?"
+  a: "I/we (the speaker) → *sē, suus* (or *ipse*); you (the listener) → *is, ille* (or *mē, tē* if that's the reporter or his listener)."
+  ref: g-04
+- id: vi64-f-22
+  type: forms
+  q: "Report *\"Cūr tot custōdēs tēcum veniunt?\"* as Grandpa, after *Rogāvit…*"
+  a: "*Rogāvit cūr tot custōdēs mēcum venīrent.*"
+  ref: g-05
+- id: vi64-f-23
+  type: forms
+  q: "Translate: *Quid sibi vellet? Cūr in suās possessiōnēs venīret?* (Caesar 1.44.8, Ariovistus)"
+  a: "\"What did he (Caesar) want? Why was he coming into his (Ariovistus's) lands?\" Real questions in a report: subjunctive."
+  ref: g-05
+- id: vi64-f-24
+  type: forms
+  q: "Turn *Quid sibi vellet? Cūr in suās possessiōnēs venīret?* back into Ariovistus's own words."
+  a: "*Quid tibi vīs? Cūr in meās possessiōnēs venīs?*"
+  ref: g-05
+- id: vi64-f-25
+  type: forms
+  q: "What is a rhetorical question, in plain words?"
+  a: "A question that answers itself: a statement dressed up as a question (\"Who could forgive that?\" = no one could)."
+  ref: g-05
+- id: vi64-f-26
+  type: forms
+  q: "Law of the Reported Question: real vs rhetorical?"
+  a: "A real question → subjunctive, even with no verb of asking. A rhetorical one → usually accusative + infinitive: *num … memoriam dēpōnere posse?*"
+  ref: g-05
+- id: vi64-f-27
+  type: forms
+  q: "Report *\"Nōlī cāseum tōtum ūnō diē edere!\"* as Grandpa, mid-report, past team."
+  a: "*… nē cāseum tōtum ūnō diē ederem.* A \"don't\" → *nē* + subjunctive."
+  ref: g-06
+- id: vi64-f-28
+  type: forms
+  q: "Report *\"Cavē canem!\"* as Grandpa, past team."
+  a: "*Cavērem canem.*"
+  ref: g-06
+- id: vi64-f-29
+  type: forms
+  q: "*reminīscerētur veteris incommodī populī Rōmānī* (Caesar 1.13.4): what was it in Divico's mouth?"
+  a: "*Reminīscere veteris incommodī populī Rōmānī!* \"Remember the old disaster of the Roman people!\""
+  ref: g-06
+- id: vi64-f-30
+  type: forms
+  q: "Translate: *sī quid vellent, ad Īdūs Aprīlēs reverterentur.* (Caesar 1.7.5)"
+  a: "\"If they wanted anything, they should come back on the Ides of April.\" *Vellent*: hanging if; *reverterentur*: the order."
+  ref: g-06
+- id: vi64-f-31
+  type: forms
+  q: "Translate: *Cum vellet, congrederētur.* (Caesar 1.36.6, Ariovistus to Caesar)"
+  a: "\"Whenever he wanted, let him come and fight.\" *Congrederētur*: reported order; *vellet*: hanging clause."
+  ref: g-06
+- id: vi64-f-32
+  type: forms
+  q: "Law of the Reported Order: how does a command go into a report?"
+  a: "Subjunctive by the matching rule (present after now team, imperfect after past team), no *ut* needed; a don't (*nōlī*) → *nē* + subjunctive."
+  ref: g-06
+- id: vi64-f-33
+  type: forms
+  q: "*Avus īrātus est quod canis cāseum ēdit / ēderit.* The difference?"
+  a: "*ēdit*: the teller vouches for the reason. *ēderit*: Grandpa's reason, \"because, as he says, the dog ate it.\""
+  ref: g-07
+- id: vi64-f-34
+  type: forms
+  q: "What is virtual *ōrātiō oblīqua*, in plain words?"
+  a: "The hidden report: a subjunctive (often after *quod*) for someone else's reason or words, with no verb of saying."
+  ref: g-07
+- id: vi64-f-35
+  type: forms
+  q: "Translate: *Noctū ambulābat in pūblicō Themistoclēs, quod somnum capere nōn posset.* (Cicero, *Tusc.* 4.44)"
+  a: "\"Themistocles used to walk the streets at night, because (he said) he couldn't sleep.\" Miltiades' trophies kept him awake."
+  ref: g-07
+- id: vi64-f-36
+  type: forms
+  q: "Translate: *mea māter īrātast mihi, quia nōn redierim domum ad sē.* (Plautus, *Cistellāria* 101–102) Whose *sē*?"
+  a: "\"My mother is angry with me because (she says) I didn't come back home to her.\" *Sē* = the mother, whose complaint it is."
+  ref: g-07
+- id: vi64-f-37
+  type: forms
+  q: "Translate: *Paetus … omnīs librōs quōs frāter suus relīquisset mihi dōnāvit.* (Cicero, *Att.* 2.1.12) Why *relīquisset*?"
+  a: "\"Paetus gave me all the books which (as he put it) his brother had left.\" Paetus's description: a hidden report in a *quī* clause."
+  ref: g-07
+- id: vi64-f-38
+  type: forms
+  q: "Translate: *[legiō] eī grātiās ēgit quod dē sē optimum iūdicium fēcisset.* (Caesar 1.41.2)"
+  a: "\"The legion thanked him because (they said) he had formed the best opinion of them.\" *Eī* = Caesar; *sē* = the legion."
+  ref: g-07
+- id: vi64-f-39
+  type: forms
+  q: "Law of Someone Else's Reason: *quod* + indicative vs *quod* + subjunctive?"
+  a: "Indicative: the writer's own reason, vouched for. Subjunctive: someone else's reason, \"as he said / thought.\""
+  ref: g-07
+- id: vi64-f-40
+  type: forms
+  q: "Chapter 58: *illud timeō, nē mihi sit invidiōsum aliquandō, quod illum ēmīserim…* Why *ēmīserim*?"
+  a: "A hidden report: the charge is other people's (\"that, as people will say, I let him go\"), not Cicero's own view. Perfect: now team, earlier."
+  ref: g-08
+- id: vi64-f-41
+  type: forms
+  q: "Chapter 62: Nepos's *… quantō populus Rōmānus antecēdat fortitūdine cūnctās nātiōnēs.* Why *antecēdat*?"
+  a: "It hangs inside the report after *nōn est īnfitiandum* (*Hannibalem … praestitisse*): subjunctive, now team because *est* is present."
+  ref: g-08
+- id: vi64-f-42
+  type: forms
+  q: "Nepos 11.2: *quod nēmō dubitābat…* Why indicative?"
+  a: "It's Nepos's own reason, and he vouches for it. No report."
+  ref: g-08
+- id: vi64-f-43
+  type: forms
+  q: "*cuius ingeniō putābat ea quae gesserat posse celebrārī* (Cicero, *Arch.* 20). Why indicative *gesserat* inside a report?"
+  a: "Cicero vouches that Marius did those deeds. *Quae gessisset* would mean \"what Marius claimed he'd done.\""
+  ref: g-08
+- id: vi64-f-44
+  type: forms
+  q: "*lēgātōs … mittunt quī dīcerent … proptereā quod aliud iter habērent nūllum.* (Caesar 1.7.3) Why *habērent*?"
+  a: "A hanging clause in the envoys' report, past team: their reason, not Caesar's."
+  ref: g-08
+- id: vi64-f-45
+  type: forms
+  q: "Report Grandma's *\"Nōlīte eum tangere! Quis canem in culīnam mīsit?\"* after *Avia dīxit…*"
+  a: "*… nē eum tangerent. Quis canem in culīnam mīsisset?*"
+  ref: g-09
+- id: vi64-f-46
+  type: forms
+  q: "Turn back into Divico's words: *Sē ita ā patribus maiōribusque suīs didicisse, ut magis virtūte contenderent quam dolō aut īnsidiīs nīterentur.*"
+  a: "*Nōs ita ā patribus maiōribusque nostrīs didicimus, ut magis virtūte contendāmus quam dolō aut īnsidiīs nītāmur.*"
+  ref: g-09
+- id: vi64-f-47
+  type: forms
+  q: "*Pater Marcum laudāvit quod cāseum servāverat / servāvisset.* The difference?"
+  a: "*servāverat*: the teller vouches. *servāvisset*: Dad's reason (\"because, Dad said, he had saved it\")."
+  ref: g-10
+- id: vi64-f-48
+  type: forms
+  q: "\"Quintus asked why Grandpa hadn't tasted the cheese.\""
+  a: "*Quīntus rogāvit cūr Avus cāseum nōn gustāvisset.*"
+  ref: g-11
+- id: vi64-f-49
+  type: forms
+  q: "\"Grandma praised Grandpa because (as she said) he had eaten nothing.\""
+  a: "*Avia Avum laudāvit quod nihil ēdisset.*"
+  ref: g-11
+- id: vi64-f-50
+  type: forms
+  q: "In the Lectiō, *Sī eum hodiē ēmeris* becomes *Sī eum eō diē ēmissem*. Why pluperfect?"
+  a: "*Ēmeris* is a future perfect (earlier than the giving); in a past-team report, earlier = pluperfect subjunctive."
+  ref: g-13
+- id: vi64-f-51
+  type: forms
+  q: "*Canēs enim, quī cāseum amant, omnia edunt* → *canēs enim, quī cāseum amārent, omnia edere.* Why *edere*?"
+  a: "It's still a main clause in the report (\"for\" and all), so infinitive. Only the hanging *quī* clause goes subjunctive."
+  ref: g-13
+- id: vi64-f-52
+  type: forms
+  q: "In Caesar 1.13, *nē ob eam rem aut suae magnopere virtūtī tribueret aut ipsōs dēspiceret*: whose *suae*, who are *ipsōs*?"
+  a: "*Suae* = Caesar's (subject of *tribueret*); *ipsōs* = the Helvetians, the speakers."
+  ref: g-14
+- id: vi64-f-53
+  type: forms
+  q: "Translate Divico's last word (Caesar 1.14.7): *ita Helvētiōs ā maiōribus suīs īnstitūtōs esse utī obsidēs accipere, nōn dare, cōnsuērint.*"
+  a: "\"The Helvetians had been brought up by their ancestors to take hostages, not give them.\" *Cōnsuērint*: a result, perfect after a past verb (Chapter 54's Free Result)."
+  ref: g-14
+- id: vi64-c-01
+  type: choose
+  q: "\"He said he was coming home because he was sick.\""
+  options:
+  - "Dīxit sē domum venīre quod aeger esset."
+  - "Dīxit sē domum venīre quod aeger erat."
+  - "Dīxit quod domum venīret quod aeger esset."
+  a: "Dīxit sē domum venīre quod aeger esset."
+  why: "Main clause → accusative + infinitive; the hanging *quod* clause → subjunctive."
+  ref: g-02
+- id: vi64-c-02
+  type: choose
+  q: "\"He said that the cheese he had brought was the best.\""
+  options:
+  - "Dīxit cāseum, quem attulit, optimum esse."
+  - "Dīxit cāseum, quem attulisset, optimum esse."
+  - "Dīxit cāseum, quem attulerit, optimum esse."
+  a: "Dīxit cāseum, quem attulisset, optimum esse."
+  why: "Hanging clause → subjunctive; past team after *dīxit*, earlier → pluperfect."
+  ref: g-03
+- id: vi64-c-03
+  type: choose
+  q: "\"Marcus says that he (Marcus) is sick.\""
+  options:
+  - "Marcus dīcit eum aegrum esse."
+  - "Marcus dīcit sē aegrum esse."
+  - "Marcus dīcit sē aeger sit."
+  a: "Marcus dīcit sē aegrum esse."
+  why: "The speaker in his own report is *sē*."
+  ref: g-04
+- id: vi64-c-04
+  type: choose
+  q: "Mid-report, past team: \"(He asked) why I was coming.\""
+  options:
+  - "cūr venīrem"
+  - "cūr veniō"
+  - "cūr venīre"
+  a: "cūr venīrem"
+  why: "A real question in a report → subjunctive."
+  ref: g-05
+- id: vi64-c-05
+  type: choose
+  q: "Mid-report, past team: \"(He said) I mustn't touch it.\""
+  options:
+  - "nōlī tangere"
+  - "nē tangerem"
+  - "nōn tangere"
+  a: "nē tangerem"
+  why: "A reported \"don't\" → *nē* + subjunctive."
+  ref: g-06
+- id: vi64-c-06
+  type: choose
+  q: "\"Grandpa is angry because (as he says) the dog ate the cheese.\""
+  options:
+  - "Avus īrātus est quod canis cāseum ēdit."
+  - "Avus īrātus est quod canis cāseum ēderit."
+  - "Avus īrātus est canem cāseum ēdisse."
+  a: "Avus īrātus est quod canis cāseum ēderit."
+  why: "Someone else's reason → *quod* + subjunctive (the hidden report)."
+  ref: g-07
+- id: vi64-c-07
+  type: choose
+  q: "Mid-report, past team: \"(He said) Grandpa should come back the next day.\""
+  options:
+  - "Avus crās redī!"
+  - "Avus posterō diē redīret."
+  - "Avum posterō diē redīre."
+  a: "Avus posterō diē redīret."
+  why: "A reported order → subjunctive; *crās* → *posterō diē*."
+  ref: g-11
+- id: vi64-e-01
+  type: error
+  q: "Fix: *Dīxit quod aeger esset.* (\"He said that he was sick.\")"
+  a: "*Dīxit sē aegrum esse.* After *dīcō* the main statement is accusative + infinitive, not *quod*."
+  ref: g-12
+- id: vi64-e-02
+  type: error
+  q: "Fix: *Dīxit sē domum venīre quod aeger erat.*"
+  a: "*… quod aeger esset.* A hanging clause in a report goes subjunctive."
+  ref: g-12
+- id: vi64-e-03
+  type: error
+  q: "Fix: *Dīxit cāseum, quem attulit, optimum esse.*"
+  a: "*… quem attulisset …* Subjunctive, past team, earlier."
+  ref: g-12
+- id: vi64-e-04
+  type: error
+  q: "Fix: *Dīxit cāseum, quem attulerit, optimum esse.* (your own Latin)"
+  a: "*… attulisset …* The team comes from *dīxit*: pluperfect."
+  ref: g-12
+- id: vi64-e-05
+  type: error
+  q: "Fix (in a long report): *nōlī gustāre*."
+  a: "*nē gustāret* (or *gustārem*). No imperatives in a report."
+  ref: g-12
+- id: vi64-e-06
+  type: error
+  q: "Fix: *Marcus dīcit eum venīre quod aeger sit.* (Marcus means himself.)"
+  a: "*Marcus dīcit sē venīre quod aeger sit.* *Eum* would be somebody else."
+  ref: g-12

@@ -16,7 +16,7 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 | 61 | [**Ars Legendī**](01-ars-legendi.md) | G: gerund. | ✅ available |
 | 62 | [**Carthāgō Dēlenda Est**](02-carthago-delenda-est.md) | G: gerundive; passive periphrastic + dative of agent; ad + gerundive purpose. | ✅ available |
 | 63 | [**Mīrābile Dictū**](03-mirabile-dictu.md) | G: supine -um/-ū. | ✅ available |
-| 64 | **Ōrātiō Oblīqua** | G: subordinate clauses in indirect discourse; virtual ōrātiō oblīqua. | coming |
+| 64 | [**Ōrātiō Oblīqua**](04-oratio-obliqua.md) | G: subordinate clauses in indirect discourse; virtual ōrātiō oblīqua. | ✅ available |
 | 65 | **Ōrdō Verbōrum** | G: word order, emphasis, hyperbaton, chiasmus; reading left-to-right. | coming |
 | 66 | **Quantitās** | G: syllable quantity rules; accent recap. | coming |
 | 67 | **Arma Virumque** | G: dactylic hexameter scansion; elision. | coming |
