@@ -1,0 +1,454 @@
+book: vi
+ch: 63
+page: liber-vi/03-mirabile-dictu.md
+cards:
+- id: vi63-v-mirabile-dictu
+  type: vocab
+  la: "Mīrābile dictū!"
+  en: "Wonderful to tell! (Vergil)"
+  ref: g-01
+- id: vi63-v-eo-cubitum
+  type: vocab
+  la: "Eō cubitum. · Cubitum eāmus!"
+  en: "I'm going to bed. · Let's go to bed!"
+  ref: g-03
+- id: vi63-v-avus-it-caseum-emptum
+  type: vocab
+  la: "Avus it cāseum emptum."
+  en: "Grandpa goes to buy cheese."
+  ref: g-03
+- id: vi63-v-spectatum-veniunt
+  type: vocab
+  la: "Spectātum veniunt."
+  en: "They come to watch. (Ovid)"
+  ref: g-04
+- id: vi63-v-facile-dictu
+  type: vocab
+  la: "facile dictū, difficile factū"
+  en: "easy to say, hard to do"
+  ref: g-07
+- id: vi63-v-nefas-est-dictu
+  type: vocab
+  la: "Nefās est dictū."
+  en: "It's a sin to say."
+  ref: g-08
+- id: vi63-v-supine
+  type: vocab
+  la: "supine"
+  en: "the fourth-key verb-noun: only -um and -ū (old-school supīnum)"
+  ref: g-02
+- id: vi63-v-supine-um
+  type: vocab
+  la: "supine in -um"
+  en: "the going-to supine: Eō cubitum (\"accusative\" or \"first\" supine)"
+  ref: g-03
+- id: vi63-v-supine-u
+  type: vocab
+  la: "supine in -ū"
+  en: "the in-the-___ing supine: mīrābile dictū (\"ablative\" or \"second\" supine)"
+  ref: g-07
+- id: vi63-v-u-supines
+  type: vocab
+  la: "dictū, factū, vīsū, audītū, memorātū"
+  en: "to say, to do, to see, to hear, to relate (the common -ū supines)"
+  ref: g-08
+- id: vi63-v-mirabilis
+  type: vocab
+  la: "mīrābilis, -e"
+  en: "wonderful, amazing"
+  ref: g-01
+- id: vi63-v-incredibilis
+  type: vocab
+  la: "incrēdibilis, -e"
+  en: "unbelievable"
+  ref: g-08
+- id: vi63-v-cubo
+  type: vocab
+  la: "cubō, cubāre, cubuī, cubitum"
+  en: "lie down (cubitum īre: go to bed)"
+  ref: g-03
+- id: vi63-v-fas-nefas
+  type: vocab
+  la: "fās, nefās"
+  en: "right, wrong (in the eyes of the gods; no other forms)"
+  ref: g-08
+- id: vi63-v-gratulor
+  type: vocab
+  la: "grātulor, grātulārī, grātulātus sum"
+  en: "congratulate (+ dative)"
+  ref: g-04
+- id: vi63-v-mercator
+  type: vocab
+  la: "mercātor, mercātōris"
+  en: "m. merchant, seller"
+  ref: g-14
+- id: vi63-f-01
+  type: forms
+  q: "What does *mīrābile dictū* mean, and where does Vergil use it?"
+  a: "\"Wonderful to tell!\" Four times, always as an aside: *Georgics* 2.30; *Aeneid* 1.439, 2.174, 4.182."
+  ref: g-01
+- id: vi63-f-02
+  type: forms
+  q: "Does *dictū* agree with *mīrābile*?"
+  a: "No. It's a frozen verb-noun (the supine): \"wonderful in the telling.\""
+  ref: g-01
+- id: vi63-f-03
+  type: forms
+  q: "Translate: *Īnfert sē saeptus nebulā (mīrābile dictū) per mediōs.* (Vergil, *Aeneid* 1.439)"
+  a: "\"He goes in, wrapped in a cloud (wonderful to tell), through the middle of them.\" Aeneas entering Carthage."
+  ref: g-01
+- id: vi63-f-04
+  type: forms
+  q: "What did Chapter 41 promise about *laudātum* in *laudātum īrī*?"
+  a: "That it's a frozen form of the fourth key that never changes, and grammar books name it later: it's the supine."
+  ref: g-02
+- id: vi63-f-05
+  type: forms
+  q: "Law of the Supine: what is a supine, and what are its two forms?"
+  a: "The fourth key used as a verb-noun: *-um* (accusative, after going) and *-ū* (ablative, after an adjective). It never agrees."
+  ref: g-02
+- id: vi63-f-06
+  type: forms
+  q: "Why do supines end in *-um* and *-ū*?"
+  a: "They're old fourth-family verb-nouns, like *manus, manum, manū* (Chapter 23)."
+  ref: g-02
+- id: vi63-f-07
+  type: forms
+  q: "The two supines of *faciō, videō, audiō*?"
+  a: "*factum / factū · vīsum / vīsū · audītum / audītū*"
+  ref: g-02
+- id: vi63-f-08
+  type: forms
+  q: "*Avus it cāseum emptum.* Translate. What's *cāseum*?"
+  a: "\"Grandpa goes to buy cheese.\" *Cāseum* is the object of the supine *emptum*."
+  ref: g-03
+- id: vi63-f-09
+  type: forms
+  q: "Plain words for the supine in *-um*?"
+  a: "The going-to supine: after a verb of motion it says what you're going (or sending someone) to do."
+  ref: g-03
+- id: vi63-f-10
+  type: forms
+  q: "\"I'm going to bed.\" \"Let's go to bed!\""
+  a: "*Eō cubitum. · Cubitum eāmus!*"
+  ref: g-03
+- id: vi63-f-11
+  type: forms
+  q: "Translate: *mēnsa ablāta est, cubitum hinc abiimus.* (Plautus, *Amphitruo* 807)"
+  a: "\"The table was cleared; we went off to bed.\""
+  ref: g-03
+- id: vi63-f-12
+  type: forms
+  q: "Translate: *Lūsum it Maecēnās, dormītum ego Vergiliusque.* (Horace, *Satires* 1.5.48)"
+  a: "\"Maecenas goes off to play, Vergil and I to sleep.\""
+  ref: g-03
+- id: vi63-f-13
+  type: forms
+  q: "\"Mom sent Marcus to call Grandpa.\""
+  a: "*Māter Marcum mīsit Avum vocātum.* (*Mittō* counts as motion.)"
+  ref: g-03
+- id: vi63-f-14
+  type: forms
+  q: "Translate: *Haeduī lēgātōs ad Caesarem mittunt rogātum auxilium.* (Caesar, *Gallic War* 1.11.2)"
+  a: "\"The Aedui send envoys to Caesar to ask for help.\" *Auxilium* is the supine's object."
+  ref: g-04
+- id: vi63-f-15
+  type: forms
+  q: "Translate: *ad Caesarem grātulātum convēnērunt.* (Caesar 1.30.1) Active or passive?"
+  a: "\"They came together to Caesar to congratulate him.\" Active: a deponent's supine is active."
+  ref: g-04
+- id: vi63-f-16
+  type: forms
+  q: "Translate: *patriam dēfēnsum revocātus* (Nepos, *Hannibal* 6.1). Where's the motion?"
+  a: "\"Called back to defend his homeland.\" The motion is *revocātus*; *patriam* is the supine's object."
+  ref: g-04
+- id: vi63-f-17
+  type: forms
+  q: "Translate: *Spectātum veniunt, veniunt spectentur ut ipsae.* (Ovid, *Art of Love* 1.99)"
+  a: "\"They come to watch; they come to be watched themselves.\""
+  ref: g-04
+- id: vi63-f-18
+  type: forms
+  q: "Why does Ovid switch from *spectātum* to *ut spectentur*?"
+  a: "The supine is active only. For \"to be watched\" he needs a passive verb: *ut* + subjunctive."
+  ref: g-04
+- id: vi63-f-19
+  type: forms
+  q: "Translate: *Deinde, ut cubitum discessimus…* (Cicero, *On the Republic* 6.10)"
+  a: "\"Then, when we had gone off to bed…\" (*ut* + indicative = when)"
+  ref: g-04
+- id: vi63-f-20
+  type: forms
+  q: "Law of the Going-To?"
+  a: "After going, coming, sending, calling, *-um* says what for. It takes an object in its verb's case. Active only."
+  ref: g-04
+- id: vi63-f-21
+  type: forms
+  q: "\"Grandpa came to buy cheese\" with a goal clause and with a sending *quī*."
+  a: "*Avus vēnit ut cāseum emeret.* · *(Avia Avum mīsit) quī cāseum emeret.*"
+  ref: g-05
+- id: vi63-f-22
+  type: forms
+  q: "\"Grandpa came to buy cheese\" with *causā*, with *ad*, and with the supine."
+  a: "*cāseī emendī causā · ad cāseum emendum · cāseum emptum*"
+  ref: g-05
+- id: vi63-f-23
+  type: forms
+  q: "Law of the Five Ways: name them."
+  a: "Goal clause *ut*, sending *quī*, *-ndī causā*, *ad* + gerund/gerundive, supine in *-um*. The supine only after motion."
+  ref: g-05
+- id: vi63-f-24
+  type: forms
+  q: "\"Grandpa wants to buy cheese.\" Why not *cāseum emptum vult*?"
+  a: "*Avus cāseum emere vult.* *Volō* takes the infinitive; *cāseum emptum vult* = \"he wants the bought cheese.\""
+  ref: g-05
+- id: vi63-f-25
+  type: forms
+  q: "Take apart *laudātum īrī*."
+  a: "Supine *laudātum* (\"to praise\") + *īrī* (\"to be gone\"): \"there's a going to praise\" = to be about to be praised."
+  ref: g-06
+- id: vi63-f-26
+  type: forms
+  q: "\"I think the letter will be written.\" Why *scrīptum*, not *scrīptam*?"
+  a: "*Putō epistulam scrīptum īrī.* *Scrīptum* is a supine: it never agrees."
+  ref: g-06
+- id: vi63-f-27
+  type: forms
+  q: "Translate: *rūmor venit datum īrī gladiātōrēs.* (Terence, *The Mother-in-Law* 39–40) What is *gladiātōrēs* doing?"
+  a: "\"A rumor comes that there's going to be a gladiator show.\" *Gladiātōrēs* is the object of the supine *datum*."
+  ref: g-06
+- id: vi63-f-28
+  type: forms
+  q: "Law of *Īrī*?"
+  a: "Future passive infinitive = going-to supine + *īrī*. It never agrees. Recognize it; it's rare."
+  ref: g-06
+- id: vi63-f-29
+  type: forms
+  q: "Plain words for the supine in *-ū*?"
+  a: "The in-the-___ing supine: after an adjective it says in what way it's true. *mīrābile dictū* = wonderful in the telling."
+  ref: g-07
+- id: vi63-f-30
+  type: forms
+  q: "What case-use from Chapter 35 is the *-ū* supine? Which Chapter 35 word is one?"
+  a: "The ablative of respect (\"in what respect\"). *Nātū* (*nātū maior*, older \"by birth\") is on the list of *-ū* supines."
+  ref: g-07
+- id: vi63-f-31
+  type: forms
+  q: "\"Easy to say, hard to do.\""
+  a: "*Facile dictū, difficile factū.*"
+  ref: g-07
+- id: vi63-f-32
+  type: forms
+  q: "Translate: *prōdigium vīsū ēventūque mīrābile* (Livy 1.39.1). Which word is the supine?"
+  a: "\"An omen wonderful to see and in its outcome.\" *Vīsū* is the supine; *ēventū* is a plain fourth-family noun."
+  ref: g-07
+- id: vi63-f-33
+  type: forms
+  q: "Translate: *Ō rem nōn modo vīsū foedam, sed etiam audītū!* (Cicero, *Philippics* 2.63)"
+  a: "\"What a thing, disgusting not only to see but even to hear about!\""
+  ref: g-07
+- id: vi63-f-34
+  type: forms
+  q: "Law of the *-ū*?"
+  a: "After an adjective or *fās/nefās*, *-ū* = \"to ___\" (in the ___ing). An ablative of respect, long *ū*, never with an object."
+  ref: g-07
+- id: vi63-f-35
+  type: forms
+  q: "Translate: *Vidētis nefās esse dictū miseram fuisse tālem senectūtem.* (Cicero, *On Old Age* 13)"
+  a: "\"You see that it's a sin to say that such an old age was wretched.\""
+  ref: g-08
+- id: vi63-f-36
+  type: forms
+  q: "Translate: *sī hoc fās est dictū* (Cicero, *Tusculan Disputations* 5.38)"
+  a: "\"If it is right to say this\" (if I may say so)."
+  ref: g-08
+- id: vi63-f-37
+  type: forms
+  q: "Which *-ū* supines are really used?"
+  a: "*dictū, factū, vīsū, audītū, memorātū, inventū, nātū*: nearly all. Don't invent *emptū*."
+  ref: g-08
+- id: vi63-f-38
+  type: forms
+  q: "Translate: *incrēdibile memorātū est … quantum brevī crēverit* (Sallust, *Catiline* 7.3)"
+  a: "\"It's unbelievable to relate how much it grew in a short time.\""
+  ref: g-08
+- id: vi63-f-39
+  type: forms
+  q: "Translate: *id quod factū facillumum erat* (Sallust, *Catiline* 14.1)"
+  a: "\"(Which was) the easiest thing to do.\" *Facillumum* = *facillimum*."
+  ref: g-08
+- id: vi63-f-40
+  type: forms
+  q: "Translate: *mōnstrum horrendum, ingēns, cui quot sunt corpore plūmae, tot vigilēs oculī subter (mīrābile dictū)* (Vergil, *Aeneid* 4.181–182)"
+  a: "\"A monster dreadful, huge, who has as many watchful eyes underneath as feathers on her body (wonderful to tell).\" Rumor."
+  ref: g-09
+- id: vi63-f-41
+  type: forms
+  q: "Translate: *nec vīsū facilis nec dictū adfābilis ūllī* (Vergil, *Aeneid* 3.621)"
+  a: "\"Not easy for anyone to look at, nor to speak to.\" The Cyclops."
+  ref: g-09
+- id: vi63-f-42
+  type: forms
+  q: "Translate: *terque ipsa solō (mīrābile dictū) ēmicuit* (Vergil, *Aeneid* 2.174–175)"
+  a: "\"And three times the goddess herself (wonderful to tell) leapt up from the ground.\""
+  ref: g-09
+- id: vi63-f-43
+  type: forms
+  q: "Every verb-noun and verb-adjective of *legō*?"
+  a: "Infinitive *legere* · gerund *legendī* · gerundive *legendus* · supine *lēctum / lēctū* · participles *legēns, lēctus, lēctūrus*."
+  ref: g-10
+- id: vi63-f-44
+  type: forms
+  q: "Law of the Many \"To\"s: \"I want to sleep,\" \"I'm going to sleep,\" \"wonderful to see,\" \"the book must be read.\""
+  a: "*Dormīre volō* (infinitive) · *Dormītum eō* (supine *-um*) · *Mīrābile vīsū* (supine *-ū*) · *Liber legendus est* (gerundive)."
+  ref: g-10
+- id: vi63-f-45
+  type: forms
+  q: "\"Easy to understand\" with Chapter 61's *ad*."
+  a: "*Facilis ad intellegendum.* With *facilis*, Romans often use *ad* + gerund instead of the *-ū*."
+  ref: g-10
+- id: vi63-f-46
+  type: forms
+  q: "*Avus cāseum emptum portat.* Supine?"
+  a: "No: *emptum* agrees with *cāseum*. \"Grandpa carries the bought cheese.\""
+  ref: g-11
+- id: vi63-f-47
+  type: forms
+  q: "*Spērō cāseum servātum īrī.* Translate."
+  a: "\"I hope the cheese is going to be kept.\" Supine + *īrī*."
+  ref: g-11
+- id: vi63-f-48
+  type: forms
+  q: "\"Marcus came to congratulate John.\""
+  a: "*Marcus Iōannī grātulātum vēnit.* *Grātulor* takes the dative, and the supine keeps it."
+  ref: g-12
+- id: vi63-f-49
+  type: forms
+  q: "\"The Aedui sent envoys to ask for peace.\""
+  a: "*Haeduī lēgātōs mīsērunt pācem rogātum.*"
+  ref: g-12
+- id: vi63-f-50
+  type: forms
+  q: "*Cāseum emptum? An cāseum ēsum?* Grandma's joke?"
+  a: "Same going-to supine, two fourth keys: *emptum* (to buy) or *ēsum* (to eat)?"
+  ref: g-14
+- id: vi63-f-51
+  type: forms
+  q: "Find the two supines in Nepos, *Hannibal* 6.1–3."
+  a: "*patriam dēfēnsum* (going-to, after *revocātus*) and *incrēdibile dictū* (the *-ū*)."
+  ref: g-15
+- id: vi63-f-52
+  type: forms
+  q: "*Hadrūmētum pervēnit*: why no *ad*?"
+  a: "A town: Chapter 45's bare accusative of the goal, like *Rōmam eō*."
+  ref: g-15
+- id: vi63-f-53
+  type: forms
+  q: "Translate: *pulsus, incrēdibile dictū, bīduō et duābus noctibus Hadrūmētum pervēnit.* (Nepos, *Hannibal* 6.3)"
+  a: "\"Beaten, he reached Hadrumetum (unbelievable to tell) in two days and two nights.\""
+  ref: g-15
+- id: vi63-f-54
+  type: forms
+  q: "Pronounce *mīrābile, incrēdibile, supīnum, cubitum, grātulātum, Hadrūmētum*."
+  a: "mee-RAH-bi-le · in-kray-DI-bi-le · su-PEE-num · KU-bi-tum · grah-tu-LAH-tum · ha-droo-MAY-tum"
+  ref: g-16
+- id: vi63-c-01
+  type: choose
+  q: "\"I'm going to bed.\""
+  options:
+  - "Eō cubitus."
+  - "Eō cubitum."
+  - "Eō cubitū."
+  a: "Eō cubitum."
+  why: "After a verb of going: the supine in *-um*, which never agrees."
+  ref: g-03
+- id: vi63-c-02
+  type: choose
+  q: "\"Wonderful to tell!\""
+  options:
+  - "Mīrābile dictum!"
+  - "Mīrābile dictū!"
+  - "Mīrābilis dīcere!"
+  a: "Mīrābile dictū!"
+  why: "After an adjective: the supine in *-ū*."
+  ref: g-07
+- id: vi63-c-03
+  type: choose
+  q: "\"Grandma goes to buy bread.\""
+  options:
+  - "Avia it pānem emptum."
+  - "Avia it pānem empta."
+  - "Avia it pānem emptū."
+  a: "Avia it pānem emptum."
+  why: "The going-to supine never agrees with the subject."
+  ref: g-13
+- id: vi63-c-04
+  type: choose
+  q: "\"I want to buy cheese.\""
+  options:
+  - "Volō cāseum emptum."
+  - "Volō cāseum emere."
+  - "Volō cāseum emptū."
+  a: "Volō cāseum emere."
+  why: "*Volō* isn't a verb of motion: infinitive."
+  ref: g-05
+- id: vi63-c-05
+  type: choose
+  q: "\"They come to be watched.\""
+  options:
+  - "Spectātum veniunt."
+  - "Veniunt ut spectentur."
+  - "Spectātī veniunt."
+  a: "Veniunt ut spectentur."
+  why: "The supine is active only; \"to be watched\" needs *ut* + passive subjunctive."
+  ref: g-04
+- id: vi63-c-06
+  type: choose
+  q: "\"This is easy to say.\""
+  options:
+  - "Facile dictū hoc."
+  - "Hoc facile dictū est."
+  - "Hoc facile dictum est."
+  a: "Hoc facile dictū est."
+  why: "The *-ū* supine never takes an object, so *hoc* becomes the subject."
+  ref: g-07
+- id: vi63-c-07
+  type: choose
+  q: "*Putō epistulam ___ īrī.* (\"I think the letter will be written.\")"
+  options:
+  - "scrīptam"
+  - "scrīptum"
+  - "scrībendam"
+  a: "scrīptum"
+  why: "With *īrī* the supine never agrees."
+  ref: g-06
+- id: vi63-e-01
+  type: error
+  q: "Fix: *Avia it pānem empta.*"
+  a: "*Avia it pānem emptum.* The supine never agrees."
+  ref: g-13
+- id: vi63-e-02
+  type: error
+  q: "Fix: *Puellae spectātae veniunt.* (The girls come to watch.)"
+  a: "*Puellae spectātum veniunt.* *Spectātae* = \"having been watched.\""
+  ref: g-13
+- id: vi63-e-03
+  type: error
+  q: "Fix: *Volō cāseum emptum.* (I want to buy cheese.)"
+  a: "*Volō cāseum emere.* No going, no supine."
+  ref: g-13
+- id: vi63-e-04
+  type: error
+  q: "Fix: *Facile dictū hoc.*"
+  a: "*Hoc facile dictū est.* No object with the *-ū*."
+  ref: g-13
+- id: vi63-e-05
+  type: error
+  q: "Fix: *facile dictum* (easy to say)"
+  a: "*facile dictū.* After an adjective you need *-ū*."
+  ref: g-13
+- id: vi63-e-06
+  type: error
+  q: "Fix: *mīrābile dictu*"
+  a: "*mīrābile dictū.* The ablative *-ū* is long, as in *manū*."
+  ref: g-13

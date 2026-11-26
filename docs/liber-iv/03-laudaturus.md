@@ -135,7 +135,7 @@ Pater cantātūrus venit. Pater cantātūrus veniēbat.
 | Question | Answer |
 |---|---|
 | Chapter 31 put *laudātus* next to *sum*: *laudātus sum*, "I have been praised." Put *laudātūrus* next to *sum*: *laudātūrus sum.* | "**I am about to praise**," "I'm **going to** praise," "I **mean to** praise." |
-| Grammar books call this the **active periphrastic** (old-school "first periphrastic conjugation"). *Periphrasis* is Greek for "talking around": two words where one could do. Why "active"? | The subject **does** the deed, as with every *-ūrus*. (There is a passive one too, built differently. It waits for Liber V.) |
+| Grammar books call this the **active periphrastic** (old-school "first periphrastic conjugation"). *Periphrasis* is Greek for "talking around": two words where one could do. Why "active"? | The subject **does** the deed, as with every *-ūrus*. (There is a passive one too, built differently. It waits for Liber VI, Chapter 62.) |
 | Chant "about to eat," all six persons. | ***Ēsūrus sum, ēsūrus es, ēsūrus est, ēsūrī sumus, ēsūrī estis, ēsūrī sunt.*** *Sum* carries the person; the participle goes plural with plural subjects. |
 | Mom: "I'm about to sing." The girls: "We're about to sing." | ***Cantātūra sum. Cantātūrae sumus.*** It agrees with the speaker, like Chapter 31's *amāta sum*. |
 | "What are you going to do?" "What are y'all going to do?" | ***Quid factūrus es? Quid factūrī estis?*** The everyday "what's your plan?" (Ask a woman: *Quid factūra es?*) |
