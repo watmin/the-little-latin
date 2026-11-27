@@ -152,7 +152,7 @@
 | What's the English word "amateur" from? | *Amāre*, to love. An amateur does it for love, not money. |
 
 !!! success "The Law of Endings over Order"
-    In Latin the **endings** say who does what. Order adds emphasis, not meaning. When the endings can't decide, sense does.
+    In Latin the **endings** say who does what. Order adds weight (Chapter 65 calls it the **spotlight**), not meaning. When the endings can't decide, sense does.
 
 ## 6. Who and what: asking about the object
 

@@ -1,0 +1,449 @@
+book: vi
+ch: 65
+page: liber-vi/05-ordo-verborum.md
+cards:
+- id: vi65-v-caseum-avus-edit
+  type: vocab
+  la: Cāseum Avus ēdit!
+  en: It was the cheese Grandpa ate! (the object in the spotlight)
+  ref: g-03
+- id: vi65-v-avus-amat-caseum
+  type: vocab
+  la: Avus amat cāseum, cāseum amat canis.
+  en: Grandpa loves the cheese; the cheese, the dog loves. (a criss-cross)
+  ref: g-11
+- id: vi65-v-magnum-avus-caseum
+  type: vocab
+  la: Magnum Avus cāseum ēdit.
+  en: Grandpa ate a big cheese! (a split pair, size in the spotlight)
+  ref: g-06
+- id: vi65-v-magna-cum-cura
+  type: vocab
+  la: magnā cum cūrā
+  en: with great care (a sandwich)
+  ref: g-05
+- id: vi65-v-tityre-tu-patulae
+  type: vocab
+  la: Tītyre, tū patulae recubāns sub tegmine fāgī
+  en: Tityrus, you, lying back under the cover of a spreading beech (Vergil)
+  ref: g-01
+- id: vi65-v-word-order
+  type: vocab
+  la: word order
+  en: where the words stand (*ōrdō verbōrum*); the endings give the meaning, the order gives the weight
+  ref: g-01
+- id: vi65-v-spotlight
+  type: vocab
+  la: spotlight
+  en: the weight a word gets from where it stands; brightest in first place (not the same as stress on a syllable)
+  ref: g-03
+- id: vi65-v-second-place-word
+  type: vocab
+  la: second-place word
+  en: 'a word that never goes first: *enim, autem, vērō, quoque, igitur* (old-school "postpositive")'
+  ref: g-04
+- id: vi65-v-hyperbaton
+  type: vocab
+  la: hyperbaton
+  en: 'the split pair: two words that belong together, pulled apart (*patulae … fāgī*)'
+  ref: g-06
+- id: vi65-v-chiasmus
+  type: vocab
+  la: chiasmus
+  en: 'the criss-cross: two pairs in mirror order, A B · B A'
+  ref: g-08
+- id: vi65-v-ordo-ordinis
+  type: vocab
+  la: ōrdō, ōrdinis
+  en: m. order, row, rank
+  ref: g-01
+- id: vi65-v-patulus-a-um
+  type: vocab
+  la: patulus, -a, -um
+  en: spreading, wide open
+  ref: g-01
+- id: vi65-v-recubo-recubare
+  type: vocab
+  la: recubō, recubāre
+  en: lie back, recline
+  ref: g-01
+- id: vi65-v-tegmen-tegminis
+  type: vocab
+  la: tegmen, tegminis
+  en: n. cover, shelter
+  ref: g-01
+- id: vi65-v-fagus-fagi
+  type: vocab
+  la: fāgus, fāgī
+  en: f. beech tree
+  ref: g-01
+- id: vi65-v-silvestris-silvestre
+  type: vocab
+  la: silvestris, silvestre
+  en: of the woods, woodland
+  ref: g-07
+- id: vi65-v-tenuis-tenue
+  type: vocab
+  la: tenuis, tenue
+  en: thin, slender
+  ref: g-07
+- id: vi65-v-avena-avenae
+  type: vocab
+  la: avēna, avēnae
+  en: f. oat stalk; a shepherd's reed pipe
+  ref: g-07
+- id: vi65-v-meditor-meditari
+  type: vocab
+  la: meditor, meditārī
+  en: practice, rehearse; think over
+  ref: g-07
+- id: vi65-v-linquo-linquere-liqui
+  type: vocab
+  la: linquō, linquere, līquī
+  en: leave (poetic for *relinquō*)
+  ref: g-15
+- id: vi65-v-arvum-arvi
+  type: vocab
+  la: arvum, arvī
+  en: n. field, plowed land
+  ref: g-15
+- id: vi65-v-otium-otii
+  type: vocab
+  la: ōtium, ōtiī
+  en: n. ease, leisure, free time
+  ref: g-15
+- id: vi65-f-01
+  type: forms
+  q: Which word goes with *patulae* in *Tītyre, tū patulae recubāns sub tegmine fāgī*?
+  a: '*Fāgī*, four words later: same gender, number and case. "Under the cover of a **spreading beech**."'
+  ref: g-01
+- id: vi65-f-02
+  type: forms
+  q: If Latin endings decide who does what (Chapter 4), what does word order do?
+  a: 'It gives the weight and shape: what comes first, what''s held back, what goes with what. Not the meaning.'
+  ref: g-01
+- id: vi65-f-03
+  type: forms
+  q: What is the everyday Latin order?
+  a: 'Who → (to whom, where, how) → what → verb: *Avia canī cibum dat.* The verb likes the end.'
+  ref: g-02
+- id: vi65-f-04
+  type: forms
+  q: Translate *ipse in Ītaliam magnīs itineribus contendit* (Caesar).
+  a: '"He himself hurried into Italy by forced marches." Everyday order: who, where, how, verb last.'
+  ref: g-02
+- id: vi65-f-05
+  type: forms
+  q: Where do adjectives usually stand, and which ones usually lead?
+  a: Usually after the noun (*mālum magnum*); words of size, number and pointing usually lead (*magnīs itineribus, hic cāseus*).
+  ref: g-02
+- id: vi65-f-06
+  type: forms
+  q: Law of the Everyday Order?
+  a: Who → (to whom, where, how) → what → verb; adjectives follow, except size/number/pointing words; the endings still decide who does what.
+  ref: g-02
+- id: vi65-f-07
+  type: forms
+  q: What does *Cāseum Avus ēdit!* mean, and what's in the spotlight?
+  a: '"It was the **cheese** Grandpa ate!" The object moved to the front.'
+  ref: g-03
+- id: vi65-f-08
+  type: forms
+  q: '*Ēdit Avus cāseum!* What''s in the spotlight?'
+  a: 'The verb: "He **did** eat the cheese!"'
+  ref: g-03
+- id: vi65-f-09
+  type: forms
+  q: Spotlight vs stress (emphasis)?
+  a: The spotlight is the weight a word gets from **where it stands**; stress (emphasis) is how loud you say a **syllable**.
+  ref: g-03
+- id: vi65-f-10
+  type: forms
+  q: Translate *Abiit, excessit, ēvāsit, ērūpit* (Cicero). Why are the verbs first?
+  a: '"He''s gone, he''s left, he''s slipped away, he''s broken out." Only verbs, all in the spotlight: what matters is that he''s gone.'
+  ref: g-03
+- id: vi65-f-11
+  type: forms
+  q: Translate *Apud Helvētiōs longē nōbilissimus fuit et dītissimus Orgetorīx.* Where's the subject?
+  a: '"Among the Helvetians by far the noblest and richest was Orgetorix." The subject is saved for the end, like a reveal.'
+  ref: g-03
+- id: vi65-f-12
+  type: forms
+  q: Is the last place a spotlight?
+  a: 'Grammars disagree (Gildersleeve and Lodge: yes; Allen and Greenough: it''s an afterthought). The **first** place is the brightest.'
+  ref: g-03
+- id: vi65-f-13
+  type: forms
+  q: Law of the Spotlight?
+  a: The first place is the brightest spotlight; a word out of its everyday place gets noticed; the last place can hold a word saved for the end.
+  ref: g-03
+- id: vi65-f-14
+  type: forms
+  q: Name five words that never go first.
+  a: '*enim, autem, vērō, quoque*, and usually *igitur*. (Also *inquit*, and the glued-on *-que, -ne*.)'
+  ref: g-04
+- id: vi65-f-15
+  type: forms
+  q: What is a postpositive, in plain words?
+  a: 'A second-place word: a word that never goes first (*post* + *positus*, placed after).'
+  ref: g-04
+- id: vi65-f-16
+  type: forms
+  q: Where do *-que* and *-ne* go?
+  a: 'Glued on: *-ne* onto the first word (*Estne*), *-que* onto the second of the pair (*virumque*).'
+  ref: g-04
+- id: vi65-f-17
+  type: forms
+  q: Law of the Second-Place Words?
+  a: '*enim, autem, vērō, quoque* never first, *igitur* usually not; *inquit* slips in after the first word; spot one and you''ve found the first word, in the spotlight.'
+  ref: g-04
+- id: vi65-f-18
+  type: forms
+  q: Where's the preposition in *magnā cum laude*?
+  a: 'Between the adjective and its noun: a sandwich. *Cum magnā laude* is fine too.'
+  ref: g-05
+- id: vi65-f-19
+  type: forms
+  q: What's sandwiched in *Ad maiōrem Deī glōriam*?
+  a: 'The genitive *Deī*, inside *maiōrem … glōriam*: "for the greater glory **of God**."'
+  ref: g-05
+- id: vi65-f-20
+  type: forms
+  q: Find the sandwich in Juno's *ūnā cum gente tot annōs bella gerō*.
+  a: '*Ūnā cum gente*, "with one nation"; and the verb *gerō* last.'
+  ref: g-05
+- id: vi65-f-21
+  type: forms
+  q: What is hyperbaton, in plain words?
+  a: 'The split pair: two words that belong together, pulled apart (*patulae … fāgī*).'
+  ref: g-06
+- id: vi65-f-22
+  type: forms
+  q: What does Quintilian call hyperbaton, and is it a fault?
+  a: '*Verbī trānsgressiō*, "a word stepping across"; he counts it a **virtue** of style.'
+  ref: g-06
+- id: vi65-f-23
+  type: forms
+  q: 'Find the split pair: *quem ad fīnem sēsē effrēnāta iactābit audācia?*'
+  a: '*Effrēnāta … audācia*, "unbridled boldness" (and the sandwich *quem ad fīnem*).'
+  ref: g-06
+- id: vi65-f-24
+  type: forms
+  q: Quintilian on *in duās dīvīsam esse partīs* vs *in duās partīs dīvīsam esse*?
+  a: The plain order "was correct, but harsh and unpolished" (*rēctum … sed dūrum et incōmptum*). The split pair is better style.
+  ref: g-06
+- id: vi65-f-25
+  type: forms
+  q: Translate *Aurea prīma sata est aetās* (Ovid). What's in the spotlight?
+  a: '"Golden was the first age that was sown." *Aurea … aetās* split, *aurea* first.'
+  ref: g-06
+- id: vi65-f-26
+  type: forms
+  q: 'Pair them up: *silvestrem tenuī Mūsam meditāris avēnā*.'
+  a: '*Silvestrem … Mūsam* (a woodland song) and *tenuī … avēnā* (on a slender pipe): interlocked.'
+  ref: g-07
+- id: vi65-f-27
+  type: forms
+  q: 'Pair them up: *saevae memorem Iūnōnis ob īram*.'
+  a: '*Saevae … Iūnōnis* (of cruel Juno) and *memorem … īram* (the unforgetting anger): "because of cruel Juno''s unforgetting anger."'
+  ref: g-07
+- id: vi65-f-28
+  type: forms
+  q: What's interlocked order?
+  a: 'Two split pairs woven together: adjective A, adjective B, noun A, (verb), noun B. The poets'' favorite (old-school *synchysis*).'
+  ref: g-07
+- id: vi65-f-29
+  type: forms
+  q: What's the word picture in *Quis multā gracilis tē puer in rosā*?
+  a: '*Multā … in rosā* holds *gracilis … puer*, which holds *tē* (Pyrrha) in the middle: the boy wraps around her, the roses around them both.'
+  ref: g-07
+- id: vi65-f-30
+  type: forms
+  q: Law of the Split Pair?
+  a: 'An adjective whose partner isn''t next to it: hold it and look ahead for a noun with the same gender, number and case. The first half is often in the spotlight.'
+  ref: g-07
+- id: vi65-f-31
+  type: forms
+  q: What is chiasmus, in plain words?
+  a: 'The criss-cross: two pairs in mirror order, A B · B A (like the letter chi, X).'
+  ref: g-08
+- id: vi65-f-32
+  type: forms
+  q: Find the X in *Ēsse oportet ut vīvās, nōn vīvere ut edās*.
+  a: Eat, live · live, eat.
+  ref: g-08
+- id: vi65-f-33
+  type: forms
+  q: Find the X in *cuiusmodī volō, nōn possum, cuiusmodī possum, nōlō*.
+  a: 'Want, can · can, won''t: "the kind I want, I can''t; the kind I can, I don''t want."'
+  ref: g-08
+- id: vi65-f-34
+  type: forms
+  q: Translate *satis ēloquentiae, sapientiae parum* (Sallust). Find the X.
+  a: '"Enough eloquence; of wisdom, too little." Amount, thing · thing, amount.'
+  ref: g-08
+- id: vi65-f-35
+  type: forms
+  q: Find the X in Cato's *adulēscentem, in quō est senīle aliquid, … senem, in quō est aliquid adulēscentis*.
+  a: '*Senīle aliquid · aliquid adulēscentis*: old, something · something, young.'
+  ref: g-08
+- id: vi65-f-36
+  type: forms
+  q: Chiasmus vs parallel?
+  a: 'Criss-cross: A B · B A. Parallel: A B · A B (*Fuimus Trōes, fuit Īlium*).'
+  ref: g-08
+- id: vi65-f-37
+  type: forms
+  q: Law of the Criss-Cross?
+  a: Two pairs in mirror order (A B · B A) make a chiasmus; it sets things against each other, two in the middle, two at the ends.
+  ref: g-08
+- id: vi65-f-38
+  type: forms
+  q: How do you read Latin left to right?
+  a: 'One word at a time: ask what its ending is and what it''s waiting for; hold open words until their partners come. Don''t hunt for the verb.'
+  ref: g-09
+- id: vi65-f-39
+  type: forms
+  q: 'Reading *quem ad fīnem sēsē effrēnāta…*: what are you waiting for after *effrēnāta*?'
+  a: 'A feminine noun, probably the subject. It arrives last: *audācia*.'
+  ref: g-09
+- id: vi65-f-40
+  type: forms
+  q: Law of Left to Right?
+  a: Read in Latin's own order; at each word ask its ending and what it's waiting for; hold open words; don't rebuild in English order.
+  ref: g-09
+- id: vi65-f-41
+  type: forms
+  q: '*Omnia vincit Amor*: what order, and what''s in the spotlight?'
+  a: 'Object, verb, subject: *omnia* first ("**everything**, Love conquers"), *Amor* saved for the end.'
+  ref: g-10
+- id: vi65-f-42
+  type: forms
+  q: In *Trōiae quī prīmus ab ōrīs*, where does *Trōiae* belong?
+  a: With *ab ōrīs*, "from the shores of Troy," pulled ahead of *quī* into the spotlight.
+  ref: g-10
+- id: vi65-f-43
+  type: forms
+  q: Find the split pair in *Lāvīniaque vēnit / lītora*.
+  a: '*Lāvīnia … lītora*, split by *vēnit* and the line break.'
+  ref: g-10
+- id: vi65-f-44
+  type: forms
+  q: Why is *omnis* far from *Gallia* in *Gallia est omnis dīvīsa*?
+  a: A split pair, *Gallia … omnis* ("Gaul as a whole"); *Gallia* first as the topic.
+  ref: g-10
+- id: vi65-f-45
+  type: forms
+  q: Find the split pairs in Vergil, *Eclogues* 1.3–5.
+  a: '*Dulcia … arva* (3) and *fōrmōsam … Amaryllida* (5).'
+  ref: g-15
+- id: vi65-f-46
+  type: forms
+  q: What shape do *tū … nōs … nōs … tū* make in *Eclogues* 1.1–4?
+  a: 'A criss-cross: the exiles'' *nōs, nōs* together in the middle, the lucky shepherd''s *tū* at both ends.'
+  ref: g-15
+- id: vi65-f-47
+  type: forms
+  q: '*Ō Meliboee, deus nōbīs haec ōtia fēcit*: translate. What''s in the spotlight?'
+  a: '"O Meliboeus, a god made this ease for us." *Deus*, first after the address.'
+  ref: g-15
+- id: vi65-c-01
+  type: choose
+  q: '"It was the cheese Grandpa ate!"'
+  options:
+  - Cāseum Avus ēdit!
+  - Avus cāseum ēdit.
+  - Cāseus Avum ēdit!
+  a: Cāseum Avus ēdit!
+  why: Object to the front for the spotlight; *Avus* stays nominative.
+  ref: g-03
+- id: vi65-c-02
+  type: choose
+  q: '"For the dog is hungry."'
+  options:
+  - Canis enim ēsurit.
+  - Enim canis ēsurit.
+  - Canis ēsurit enim.
+  a: Canis enim ēsurit.
+  why: '*Enim* is a second-place word: never first.'
+  ref: g-04
+- id: vi65-c-03
+  type: choose
+  q: Which is a split pair (hyperbaton)?
+  options:
+  - Magnum Avus cāseum ēdit.
+  - Avus cāseum magnum ēdit.
+  - Avus magnum cāseum ēdit.
+  a: Magnum Avus cāseum ēdit.
+  why: '*Magnum … cāseum* has another word (*Avus*) between the partners.'
+  ref: g-06
+- id: vi65-c-04
+  type: choose
+  q: Which is a criss-cross (chiasmus)?
+  options:
+  - Avus amat cāseum, cāseum amat canis.
+  - Avus amat cāseum, canis amat cāseum.
+  - Avus cāseum amat et canis.
+  a: Avus amat cāseum, cāseum amat canis.
+  why: 'Verb, thing · thing, verb: A B · B A.'
+  ref: g-08
+- id: vi65-c-05
+  type: choose
+  q: Which is a sandwich?
+  options:
+  - magnā cum cūrā
+  - cum magnā cūrā
+  - magnā cūrā cum
+  a: magnā cum cūrā
+  why: The little preposition stands between the adjective and its noun.
+  ref: g-05
+- id: vi65-c-06
+  type: choose
+  q: '*Fuimus Trōes, fuit Īlium* is…'
+  options:
+  - a parallel
+  - a criss-cross
+  - a split pair
+  a: a parallel
+  why: 'Verb, name · verb, name: A B · A B, the same order twice.'
+  ref: g-08
+- id: vi65-c-07
+  type: choose
+  q: In *patulae recubāns sub tegmine fāgī*, *patulae* goes with…
+  options:
+  - fāgī
+  - tegmine
+  - recubāns
+  a: fāgī
+  why: 'Feminine genitive singular: *patulae fāgī*, "of a spreading beech."'
+  ref: g-07
+- id: vi65-e-01
+  type: error
+  q: 'Fix: *Cāseum Avus ēdit* = "The cheese ate Grandpa."'
+  a: '"**Grandpa** ate the **cheese**." Order never decides who does what; *cāseum* is accusative.'
+  ref: g-13
+- id: vi65-e-02
+  type: error
+  q: 'Fix: *patulae … fāgī* read as two things ("a spreading one … a beech").'
+  a: 'One thing: "of a spreading beech." A split pair: same gender, number, case.'
+  ref: g-13
+- id: vi65-e-03
+  type: error
+  q: 'Fix: *Enim canis ēsurit.*'
+  a: '*Canis enim ēsurit.* *Enim* never goes first.'
+  ref: g-13
+- id: vi65-e-04
+  type: error
+  q: 'Fix: *magnā cum cūrā* "corrected" to *cum magnā cūrā*.'
+  a: Both are right; the sandwich *magnā cum cūrā* is the Romans' favorite. Don't "fix" it.
+  ref: g-13
+- id: vi65-e-05
+  type: error
+  q: 'Fix: *Ēsse oportet ut vīvās, nōn vīvere ut edās* called a split pair.'
+  a: It's a criss-cross (A B · B A). A split pair is two partner words pulled apart.
+  ref: g-13
+- id: vi65-e-06
+  type: error
+  q: 'Fix: *Omnia vincit Amor* = "All things conquers Love."'
+  a: '"Love conquers all." English needs its own order; show the spotlight with English tools ("It''s everything that Love conquers").'
+  ref: g-13
