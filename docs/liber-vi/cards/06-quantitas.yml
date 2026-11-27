@@ -1,0 +1,464 @@
+book: vi
+ch: 66
+page: liber-vi/06-quantitas.md
+cards:
+- id: vi66-v-syllaba-longa-duo-tempora
+  type: vocab
+  la: Syllaba longa duo tempora habet, brevis ūnum.
+  en: A long syllable has two beats, a short one one. (after Quintilian)
+  ref: g-02
+- id: vi66-v-avus-est-avus-est
+  type: vocab
+  la: Avus est · Avus ēst
+  en: Grandpa is · Grandpa eats (both first syllables long; the vowels differ)
+  ref: g-04
+- id: vi66-v-deaque-itaque
+  type: vocab
+  la: deaque · itaque
+  en: de-A-que "and the goddess" · i-TA-que "and so" (a tag pulls the stress)
+  ref: g-09
+- id: vi66-v-quantity
+  type: vocab
+  la: quantity
+  en: 'how long a syllable lasts: long or short (*quantitās*)'
+  ref: g-01
+- id: vi66-v-long-by-nature
+  type: vocab
+  la: long by nature
+  en: '"born long": the syllable has a long vowel or a diphthong (*mā-, -lae*)'
+  ref: g-03
+- id: vi66-v-long-by-position
+  type: vocab
+  la: long by position
+  en: '"long by its neighbors": a short vowel with two consonants (or *x, z*) after it (*sub t-, ter-ra*)'
+  ref: g-04
+- id: vi66-v-common-syllable
+  type: vocab
+  la: common syllable
+  en: 'the either-way syllable: a short vowel before a stop + *l* or *r* (*pa-trem*); short in speech, may be long in verse'
+  ref: g-05
+- id: vi66-v-ultima
+  type: vocab
+  la: ultima
+  en: the last syllable of a word
+  ref: g-07
+- id: vi66-v-antepenult
+  type: vocab
+  la: antepenult
+  en: the third syllable from the end (*TEG-mi-ne*)
+  ref: g-07
+- id: vi66-v-breve
+  type: vocab
+  la: breve
+  en: the short mark ˘ over a syllable ("the cup")
+  ref: g-02
+- id: vi66-v-quantitas-quantitatis
+  type: vocab
+  la: quantitās, quantitātis
+  en: f. quantity, size; the length of a syllable
+  ref: g-01
+- id: vi66-v-syllaba-syllabae
+  type: vocab
+  la: syllaba, syllabae
+  en: f. syllable
+  ref: g-01
+- id: vi66-v-longus-a-um
+  type: vocab
+  la: longus, -a, -um
+  en: long
+  ref: g-01
+- id: vi66-v-brevis-breve
+  type: vocab
+  la: brevis, breve
+  en: short
+  ref: g-01
+- id: vi66-v-vocalis-vocalis
+  type: vocab
+  la: vōcālis, vōcālis
+  en: f. vowel
+  ref: g-14
+- id: vi66-v-consonans-consonantis
+  type: vocab
+  la: cōnsonāns, cōnsonantis
+  en: f. consonant
+  ref: g-14
+- id: vi66-v-natura-naturae
+  type: vocab
+  la: nātūra, nātūrae
+  en: f. nature
+  ref: g-14
+- id: vi66-v-positio-positionis
+  type: vocab
+  la: positiō, positiōnis
+  en: f. placing, position
+  ref: g-14
+- id: vi66-v-accentus-accentus
+  type: vocab
+  la: accentus, accentūs
+  en: m. accent, stress
+  ref: g-14
+- id: vi66-v-acutus-a-um
+  type: vocab
+  la: acūtus, -a, -um
+  en: sharp; (of a syllable) stressed
+  ref: g-15
+- id: vi66-v-volucris-volucris
+  type: vocab
+  la: volucris, volucris
+  en: f. bird
+  ref: g-05
+- id: vi66-v-theatrum-theatri
+  type: vocab
+  la: theātrum, theātrī
+  en: n. theater
+  ref: g-01
+- id: vi66-f-01
+  type: forms
+  q: What is a syllable's **quantity**?
+  a: 'How long it lasts: **long** or **short** (*quantitās*).'
+  ref: g-01
+- id: vi66-f-02
+  type: forms
+  q: 'Cicero, *Orator* 173: *In versū quidem theātra tōta exclāmant, sī fuit ūna syllaba aut brevior aut longior.*'
+  a: '"In verse, at least, whole theaters shout out if a single syllable was too short or too long."'
+  ref: g-01
+- id: vi66-f-03
+  type: forms
+  q: Mark *Tī-ty-re* long and short.
+  a: '**– ˘ ˘.** *Tī* has a long *ī*; *ty* and *re* are short.'
+  ref: g-01
+- id: vi66-f-04
+  type: forms
+  q: 'Quintilian 9.4.47: *Longam esse duōrum temporum, brevem ūnīus etiam puerī sciunt.*'
+  a: '"That a long syllable has two beats and a short one one, even schoolboys know."'
+  ref: g-02
+- id: vi66-f-05
+  type: forms
+  q: The *u* of *sub* is short. Is the syllable *sub* in *sub tegmine* long or short?
+  a: '**Long**, by position: *b* + *t* follow. Say the *u* short anyway.'
+  ref: g-02
+- id: vi66-f-06
+  type: forms
+  q: Vowel length vs syllable length?
+  a: 'Vowel length: how you say the vowel (the macron). Syllable length: how long the whole syllable lasts. A short vowel can sit in a long syllable.'
+  ref: g-02
+- id: vi66-f-07
+  type: forms
+  q: What do **–** and **˘** mark?
+  a: A **long** and a **short** syllable. The cup ˘ is the **breve**.
+  ref: g-02
+- id: vi66-f-08
+  type: forms
+  q: Law of Two Lengths?
+  a: 'A vowel is long or short (the macron); a syllable is long or short (its quantity, about two beats vs one). A long vowel always makes a long syllable; a short vowel can sit in a long one: say it short.'
+  ref: g-02
+- id: vi66-f-09
+  type: forms
+  q: How many syllables does a Latin word have?
+  a: 'As many as its vowels and diphthongs: *fī-li-us* (3), *pa-tu-lae* (3).'
+  ref: g-03
+- id: vi66-f-10
+  type: forms
+  q: What makes a syllable **long by nature**?
+  a: 'A **long vowel** or a **diphthong**: *mā-ter, Cae-sar, -lae*. "Born long."'
+  ref: g-03
+- id: vi66-f-11
+  type: forms
+  q: A vowel before another vowel (*de-us, vi-a, fī-li-a*)?
+  a: '**Short.** And *h* doesn''t count: *ni-hil*.'
+  ref: g-03
+- id: vi66-f-12
+  type: forms
+  q: Why *GRĀ-ti-ās*, not gra-TI-ās?
+  a: '*Ti* stands before a vowel, so it''s short; a short penult sends the stress back.'
+  ref: g-03
+- id: vi66-f-13
+  type: forms
+  q: '*Fīō, diēī, ūnīus*: long vowel before a vowel?'
+  a: 'Exceptions: long anyway. Trust the macron.'
+  ref: g-03
+- id: vi66-f-14
+  type: forms
+  q: Why *laudāns* but *laudantis*?
+  a: A vowel before *ns, nf* is long; before *nt, nd* it is regularly short.
+  ref: g-03
+- id: vi66-f-15
+  type: forms
+  q: Law of Born Long?
+  a: 'A long vowel or a diphthong makes a syllable long by nature. A vowel before a vowel is short (*h* doesn''t count), except a few (*fīō, diēī*). Before *ns, nf*: long; before *nt, nd*: short.'
+  ref: g-03
+- id: vi66-f-16
+  type: forms
+  q: What makes a syllable **long by position**?
+  a: 'A short vowel followed by **two consonants** (or *x*, *z*): *est, ter-ra, sax-um*. "Long by its neighbors."'
+  ref: g-04
+- id: vi66-f-17
+  type: forms
+  q: Why yō-AN-nēs (*Iōannēs*)?
+  a: '*Nn* makes *an* long by position, and a long penult takes the stress.'
+  ref: g-04
+- id: vi66-f-18
+  type: forms
+  q: '*Esse* and *ēsse*: same syllable length?'
+  a: 'Yes, both long (by position, by nature). Different vowels: ES-se "to be," AYS-se "to eat."'
+  ref: g-04
+- id: vi66-f-19
+  type: forms
+  q: Does *qu* count as two consonants? Stress *aliquis*.
+  a: 'No, *qu* is one sound. *Li* is short: **A-li-kwis**.'
+  ref: g-04
+- id: vi66-f-20
+  type: forms
+  q: In verse, do consonants of the next word count? (*sub tegmine*)
+  a: '**Yes**: *sub* is long before *tegmine*. The stress only works inside one word.'
+  ref: g-04
+- id: vi66-f-21
+  type: forms
+  q: '*meditāris avēnā*: is *ris* long or short?'
+  a: '**Short**: the *s* slides over to *avēnā* (*ri-sa-*), leaving one short vowel.'
+  ref: g-04
+- id: vi66-f-22
+  type: forms
+  q: Law of Long by Position?
+  a: A short vowel + two consonants (or *x, z*) makes a long syllable; say the vowel short. *Qu* is one consonant, *h* none. In verse the next word's consonants count, and a last consonant before a vowel slides over.
+  ref: g-04
+- id: vi66-f-23
+  type: forms
+  q: What is a **common** syllable?
+  a: '"The either-way syllable": a short vowel before a stop (*p, b, t, d, c, g*) + *l* or *r* (*pa-trem*). Short in speech; a poet may count it long.'
+  ref: g-05
+- id: vi66-f-24
+  type: forms
+  q: Stress *tenebrae* and *alacris* (speech).
+  a: '**TE-ne-brai, A-la-kris**: the either-way penult counts short in speech.'
+  ref: g-05
+- id: vi66-f-25
+  type: forms
+  q: Stress *fenestra*. Either-way?
+  a: '**fe-NES-tra.** *S* isn''t a stop, so *nes* is long by position.'
+  ref: g-05
+- id: vi66-f-26
+  type: forms
+  q: 'Ovid, *Met.* 13.607: *et prīmō similis volucrī, mox vēra volucris.*'
+  a: '"And at first like a bird, soon a true bird." The *lu* is short in the first *volucrī* and long in the last *volucris*: *cr* goes either way.'
+  ref: g-05
+- id: vi66-f-27
+  type: forms
+  q: Law of the Either-Way Syllable?
+  a: 'A short vowel before a stop + *l* or *r* is common: short in speech (*pa-trem, TE-ne-brae*), may be long in verse (*vo-luc-ris*). Any other pair of consonants makes it long.'
+  ref: g-05
+- id: vi66-f-28
+  type: forms
+  q: Split *Tītyre, tū patulae recubāns sub tegmine fāgī* into syllables. How many?
+  a: '*Tī-ty-re tū pa-tu-lae re-cu-bāns sub teg-mi-ne fā-gī*: sixteen.'
+  ref: g-06
+- id: vi66-f-29
+  type: forms
+  q: Mark *Tītyre, tū patulae recubāns sub tegmine fāgī*.
+  a: '**– ˘ ˘ – ˘ ˘ – ˘ ˘ – – – ˘ ˘ – –**'
+  ref: g-06
+- id: vi66-f-30
+  type: forms
+  q: Mark *silvestrem tenuī Mūsam meditāris avēnā*.
+  a: '**– – – ˘ ˘ – – – ˘ ˘ – ˘ ˘ – –** (*nu* before a vowel; *ris* short before *avēnā*).'
+  ref: g-06
+- id: vi66-f-31
+  type: forms
+  q: 'Ultima, penult, antepenult: which is which in *teg-mi-ne*?'
+  a: '*ne* the ultima (last), *mi* the penult, *teg* the antepenult (third from the end).'
+  ref: g-07
+- id: vi66-f-32
+  type: forms
+  q: Stress in a two-syllable word?
+  a: 'The **first**, whatever the lengths: SAL-way, FAH-gee.'
+  ref: g-07
+- id: vi66-f-33
+  type: forms
+  q: 'Three or more syllables: where does the stress go?'
+  a: 'Long penult (by nature or position): stress it (*a-MEE-kus, pu-EL-la*). Short penult: the antepenult (*DO-mi-nus*).'
+  ref: g-07
+- id: vi66-f-34
+  type: forms
+  q: Why *PU-e-ree* but *pu-e-ROH-rum*?
+  a: The stress stays within the last three syllables, and *-ōrum* brings a long penult.
+  ref: g-07
+- id: vi66-f-35
+  type: forms
+  q: Is the stress ever on the last syllable?
+  a: 'Almost never: a few shortened words keep the old place (*il-LEEK* from *illīce*).'
+  ref: g-07
+- id: vi66-f-36
+  type: forms
+  q: Law of Three Syllables?
+  a: 'One stress per word (stress = emphasis = accent), never the last. Two syllables: the first. More: long penult, stress it; short, the antepenult. Never further back than three.'
+  ref: g-07
+- id: vi66-f-37
+  type: forms
+  q: '*PA-tu-lae*: is the stressed *pa* long?'
+  a: '**No**, short. Length and stress are different things; *lae* is long and unstressed.'
+  ref: g-08
+- id: vi66-f-38
+  type: forms
+  q: Where does length decide the stress?
+  a: 'Only at the **penult**: long, stress it; short, step back one.'
+  ref: g-08
+- id: vi66-f-39
+  type: forms
+  q: 'Say *amīcī*: what happens to the unstressed long *ī* at the end?'
+  a: 'Nothing: say it full and long, **a-MEE-kee**. Latin never shrinks unstressed vowels to "uh."'
+  ref: g-08
+- id: vi66-f-40
+  type: forms
+  q: Stress with a tag (*-que, -ne, -ve*)?
+  a: 'On the syllable **right before the tag**, long or short: **de-A-kweh, ti-BI-ne**.'
+  ref: g-09
+- id: vi66-f-41
+  type: forms
+  q: '*Itaque* "and so" vs *itaque* "therefore"?'
+  a: '**i-TA-kweh** (*ita* + *-que*) vs **I-ta-kweh** (one word, normal rule).'
+  ref: g-09
+- id: vi66-f-42
+  type: forms
+  q: Stress *Lāvīniaque*.
+  a: '**lah-wee-ni-A-kweh**: the short *a* right before *-que*.'
+  ref: g-09
+- id: vi66-f-43
+  type: forms
+  q: Law of the Leaning Tag?
+  a: With *-que, -ne, -ve*, stress the syllable right before the tag, long or short (*de-A-que*). *I-ta-que* "therefore" is one word.
+  ref: g-09
+- id: vi66-f-44
+  type: forms
+  q: Why *hee-BER-nees* (*hībernīs*)?
+  a: '*R* + *n* make *ber* long by position.'
+  ref: g-10
+- id: vi66-f-45
+  type: forms
+  q: Stress *magister* and *imperātor*.
+  a: '**ma-GIS-ter** (by position) · **im-pe-RAH-tor** (by nature).'
+  ref: g-11
+- id: vi66-f-46
+  type: forms
+  q: Mark *cāseus* and stress it.
+  a: '**– ˘ ˘**, **KAH-se-us**: *se* is before a vowel.'
+  ref: g-12
+- id: vi66-f-47
+  type: forms
+  q: Mark *Cornēlia* and stress it.
+  a: '**– – ˘ ˘**, **kor-NAY-li-a**.'
+  ref: g-12
+- id: vi66-f-48
+  type: forms
+  q: Mark *intellegō* and stress it.
+  a: '**– – ˘ –**, **in-TEL-le-goh**.'
+  ref: g-12
+- id: vi66-f-49
+  type: forms
+  q: 'Quintilian 1.5.30: how far back can the accent go?'
+  a: '*Intrā numerum trium syllabārum*: within the last three, on the next-to-last or the third from the end.'
+  ref: g-15
+- id: vi66-f-50
+  type: forms
+  q: 'Quintilian 1.5.31: *sed numquam plūs ūnā nec umquam ultima*?'
+  a: '"But never more than one, and never the last." So in two-syllable words, the first.'
+  ref: g-15
+- id: vi66-c-01
+  type: choose
+  q: Which syllable is long by **position**?
+  options:
+  - sub (in sub tegmine)
+  - mā (in mālum)
+  - lae (in patulae)
+  a: sub (in sub tegmine)
+  why: '*B* + *t* after a short *u*; the others are long by nature.'
+  ref: g-04
+- id: vi66-c-02
+  type: choose
+  q: Stress of *aliquis*?
+  options:
+  - A-li-kwis
+  - a-LIK-wis
+  - a-li-KWIS
+  a: A-li-kwis
+  why: '*Qu* is one consonant, so the penult *li* is short.'
+  ref: g-04
+- id: vi66-c-03
+  type: choose
+  q: Stress of *tenebrae* in speech?
+  options:
+  - TE-ne-brai
+  - te-NEB-rai
+  - te-ne-BRAI
+  a: TE-ne-brai
+  why: A stop + *r* counts short in speech.
+  ref: g-05
+- id: vi66-c-04
+  type: choose
+  q: Stress of *puella*?
+  options:
+  - pu-EL-la
+  - PU-el-la
+  - pu-el-LA
+  a: pu-EL-la
+  why: '*Ll* makes the penult long by position.'
+  ref: g-07
+- id: vi66-c-05
+  type: choose
+  q: Stress of *deaque*?
+  options:
+  - de-A-kweh
+  - DE-a-kweh
+  - de-a-KWEH
+  a: de-A-kweh
+  why: A tag pulls the stress to the syllable right before it.
+  ref: g-09
+- id: vi66-c-06
+  type: choose
+  q: '"Grandpa eats."'
+  options:
+  - Avus ēst.
+  - Avus est.
+  - Avus esse.
+  a: Avus ēst.
+  why: '*Ēst* (long *ē*) is "eats"; *est* is "is." Both syllables are long, but the vowels differ.'
+  ref: g-04
+- id: vi66-c-07
+  type: choose
+  q: Stress of *cāseus*?
+  options:
+  - KAH-se-us
+  - kah-SAY-us
+  - kah-se-US
+  a: KAH-se-us
+  why: '*Se* stands before a vowel, so it''s short.'
+  ref: g-12
+- id: vi66-e-01
+  type: error
+  q: 'Fix: "*Sub* has a short *u*, so it''s a short syllable."'
+  a: Long by position (*b* + *t*). Vowel length isn't syllable length.
+  ref: g-13
+- id: vi66-e-02
+  type: error
+  q: 'Fix: "*Esse* has a long syllable, so say *ēsse*."'
+  a: 'Say the vowel short: ES-se "to be." *Ēsse* is "to eat."'
+  ref: g-13
+- id: vi66-e-03
+  type: error
+  q: 'Fix: *aliquis* said a-LIK-wis.'
+  a: '**A-li-kwis**: *qu* is one consonant.'
+  ref: g-13
+- id: vi66-e-04
+  type: error
+  q: 'Fix: *tenebrae* said te-NEB-rai in speech.'
+  a: '**TE-ne-brai**: stop + *r* counts short in speech.'
+  ref: g-13
+- id: vi66-e-05
+  type: error
+  q: 'Fix: "*Patulae* is stressed on *pa*, so *pa* is long."'
+  a: '*Pa* is short; the stress is there because the penult *tu* is short.'
+  ref: g-13
+- id: vi66-e-06
+  type: error
+  q: 'Fix: *deaque* said DE-a-kweh.'
+  a: '**de-A-kweh**: the tag pulls the stress.'
+  ref: g-13

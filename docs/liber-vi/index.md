@@ -17,8 +17,8 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 | 62 | [**Carthāgō Dēlenda Est**](02-carthago-delenda-est.md) | G: gerundive; passive periphrastic + dative of agent; ad + gerundive purpose. | ✅ available |
 | 63 | [**Mīrābile Dictū**](03-mirabile-dictu.md) | G: supine -um/-ū. | ✅ available |
 | 64 | [**Ōrātiō Oblīqua**](04-oratio-obliqua.md) | G: subordinate clauses in indirect discourse; virtual ōrātiō oblīqua. | ✅ available |
-| 65 | [**Ōrdō Verbōrum**](05-ordo-verborum.md) | G: word order, emphasis, hyperbaton, chiasmus; reading left-to-right. | ✅ available |
-| 66 | **Quantitās** | G: syllable quantity rules; accent recap. | coming |
+| 65 | [**Ōrdō Verbōrum**](05-ordo-verborum.md) | G: word order, spotlight, hyperbaton, chiasmus; reading left-to-right. | ✅ available |
+| 66 | [**Quantitās**](06-quantitas.md) | G: syllable quantity rules; accent recap. | ✅ available |
 | 67 | **Arma Virumque** | G: dactylic hexameter scansion; elision. | coming |
 | 68 | **Odī et Amō** | G: elegiac couplet; hendecasyllable; Catullus. | coming |
 | 69 | **Caesar** | Reading: De Bello Gallico excerpts with frames. | coming |
