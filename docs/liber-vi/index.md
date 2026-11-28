@@ -19,7 +19,7 @@ Chapter numbers continue across books. **G** = grammar · **V** = vocabulary · 
 | 64 | [**Ōrātiō Oblīqua**](04-oratio-obliqua.md) | G: subordinate clauses in indirect discourse; virtual ōrātiō oblīqua. | ✅ available |
 | 65 | [**Ōrdō Verbōrum**](05-ordo-verborum.md) | G: word order, spotlight, hyperbaton, chiasmus; reading left-to-right. | ✅ available |
 | 66 | [**Quantitās**](06-quantitas.md) | G: syllable quantity rules; accent recap. | ✅ available |
-| 67 | **Arma Virumque** | G: dactylic hexameter scansion; elision. | coming |
+| 67 | [**Arma Virumque**](07-arma-virumque.md) | G: dactylic hexameter scansion; elision. | ✅ available |
 | 68 | **Odī et Amō** | G: elegiac couplet; hendecasyllable; Catullus. | coming |
 | 69 | **Caesar** | Reading: De Bello Gallico excerpts with frames. | coming |
 | 70 | **Phaedrus et Mārtiālis** | Reading: fables & epigrams. | coming |

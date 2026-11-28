@@ -1,0 +1,464 @@
+book: vi
+ch: 67
+page: liber-vi/07-arma-virumque.md
+cards:
+- id: vi67-v-arma-virumque-in-feet
+  type: vocab
+  la: Arma vi / rumque ca / nō Trō / iae quī / prīmus ab / ōrīs
+  en: 'Aen. 1.1 in feet: – ˘ ˘ / – ˘ ˘ / – – / – – / – ˘ ˘ / – –'
+  ref: g-05
+- id: vi67-v-multum-ille-et
+  type: vocab
+  la: mult(um) ill(e) et
+  en: 'elision: said *mul-til-let*, three syllables, not five'
+  ref: g-08
+- id: vi67-v-bene-cecinistis
+  type: vocab
+  la: Bene cecinistis!
+  en: Y'all sang well! (*canō*'s perfect)
+  ref: g-14
+- id: vi67-v-foot
+  type: vocab
+  la: foot
+  en: a small group of long and short syllables that repeats through a line (*pēs*)
+  ref: g-01
+- id: vi67-v-dactyl
+  type: vocab
+  la: dactyl
+  en: '"the finger": long, short, short (– ˘ ˘)'
+  ref: g-02
+- id: vi67-v-spondee
+  type: vocab
+  la: spondee
+  en: '"the two-long foot": long, long (– –)'
+  ref: g-02
+- id: vi67-v-hexameter
+  type: vocab
+  la: hexameter
+  en: '"the six-foot line": six feet, the fifth a dactyl, the sixth – ×'
+  ref: g-03
+- id: vi67-v-scansion
+  type: vocab
+  la: scansion
+  en: '"scanning": marking a line''s long and short syllables and its feet (from *scandō*, climb)'
+  ref: g-04
+- id: vi67-v-beat
+  type: vocab
+  la: beat
+  en: 'where the hand comes down: the first syllable of each foot (*ictus*)'
+  ref: g-06
+- id: vi67-v-caesura
+  type: vocab
+  la: caesura
+  en: '"the cut": a word ending inside a foot, where the voice rests; usually in the third foot'
+  ref: g-07
+- id: vi67-v-elision
+  type: vocab
+  la: elision
+  en: '"the swallowed ending": a final vowel, or vowel + *m*, dropped before a vowel or *h*'
+  ref: g-08
+- id: vi67-v-pes-pedis
+  type: vocab
+  la: pēs, pedis
+  en: m. foot; a metrical foot
+  ref: g-01
+- id: vi67-v-versus-versus
+  type: vocab
+  la: versus, versūs
+  en: m. line of verse
+  ref: g-01
+- id: vi67-v-cano-canere
+  type: vocab
+  la: canō, canere, cecinī, cantum
+  en: sing, chant
+  ref: g-01
+- id: vi67-v-digitus-digiti
+  type: vocab
+  la: digitus, digitī
+  en: m. finger
+  ref: g-02
+- id: vi67-v-scando-scandere
+  type: vocab
+  la: scandō, scandere, scandī, scānsum
+  en: climb; scan (verse)
+  ref: g-04
+- id: vi67-v-elido-elidere
+  type: vocab
+  la: ēlīdō, ēlīdere, ēlīsī, ēlīsum
+  en: knock out, squeeze out
+  ref: g-08
+- id: vi67-v-caesura-caesurae
+  type: vocab
+  la: caesūra, caesūrae
+  en: f. cutting; the cut in a line
+  ref: g-07
+- id: vi67-v-sonitus-sonitus
+  type: vocab
+  la: sonitus, sonitūs
+  en: m. sound, noise
+  ref: g-09
+- id: vi67-v-ungula-ungulae
+  type: vocab
+  la: ungula, ungulae
+  en: f. hoof
+  ref: g-09
+- id: vi67-v-campus-campi
+  type: vocab
+  la: campus, campī
+  en: m. plain, open field
+  ref: g-09
+- id: vi67-f-01
+  type: forms
+  q: '*Sī versum bene canētis, arcam aperiam.*'
+  a: '"If y''all sing the line well, I''ll open the chest." (Grandma)'
+  ref: g-01
+- id: vi67-f-02
+  type: forms
+  q: What is a **foot** in verse?
+  a: A small group of long and short syllables that **repeats** through a line, like a bar in music (*pēs*).
+  ref: g-01
+- id: vi67-f-03
+  type: forms
+  q: Why is a line of verse a *versus*, "a turning"?
+  a: At the line's end you **turn back** and start the pattern again; prose runs straight ahead.
+  ref: g-01
+- id: vi67-f-04
+  type: forms
+  q: What is a **dactyl**, and why the name?
+  a: '**– ˘ ˘**, long short short. Greek *daktylos*, "finger": one long joint, two short.'
+  ref: g-02
+- id: vi67-f-05
+  type: forms
+  q: What is a **spondee**?
+  a: '**– –**, two longs. Slower and steadier.'
+  ref: g-02
+- id: vi67-f-06
+  type: forms
+  q: Why can a spondee stand in for a dactyl?
+  a: 'Same time: – ˘ ˘ = 2 + 1 + 1 = 4 counts; – – = 2 + 2 = 4 counts. Two shorts = one long.'
+  ref: g-02
+- id: vi67-f-07
+  type: forms
+  q: Do feet stop at word ends?
+  a: '**No.** *Tī-ty-re / tū pa-tu / lae re-cu*: feet run across word ends.'
+  ref: g-02
+- id: vi67-f-08
+  type: forms
+  q: Law of Two Feet?
+  a: Dactyl – ˘ ˘ ("the finger"), spondee – –. Both take the same time, so a spondee can take a dactyl's place. Feet don't stop at word ends.
+  ref: g-02
+- id: vi67-f-09
+  type: forms
+  q: What is a **hexameter**?
+  a: '"The six-foot line" (Greek *hex* six + *metron* measure): the line of Homer, Vergil, and Ovid''s *Metamorphoses*.'
+  ref: g-03
+- id: vi67-f-10
+  type: forms
+  q: Which feet of a hexameter may be spondees?
+  a: Feet **one to four**. The fifth is almost always a dactyl.
+  ref: g-03
+- id: vi67-f-11
+  type: forms
+  q: The sixth foot?
+  a: '**Two** syllables: a long, then a free one (×), long or short.'
+  ref: g-03
+- id: vi67-f-12
+  type: forms
+  q: Law of Six Feet?
+  a: 'Six feet: – ˘˘ / – ˘˘ / – ˘˘ / – ˘˘ / – ˘ ˘ / – ×. Feet 1–4 may be spondees; foot 5 a dactyl; foot 6 a long and a free syllable.'
+  ref: g-03
+- id: vi67-f-13
+  type: forms
+  q: Scan *Tītyre, tū patulae recubāns sub tegmine fāgī*.
+  a: '*Tī-ty-re / tū pa-tu / lae re-cu / bāns sub / teg-mi-ne / fā-gī*: – ˘ ˘ / – ˘ ˘ / – ˘ ˘ / – – / – ˘ ˘ / – –.'
+  ref: g-03
+- id: vi67-f-14
+  type: forms
+  q: What is **scansion**?
+  a: 'Marking a line''s longs, shorts, and feet. From *scandō*, "climb": you climb the line foot by foot.'
+  ref: g-04
+- id: vi67-f-15
+  type: forms
+  q: How does every foot start?
+  a: With a **long**. Shorts come in pairs, after a long.
+  ref: g-04
+- id: vi67-f-16
+  type: forms
+  q: Scan *silvestrem tenuī Mūsam meditāris avēnā*.
+  a: '*sil-ves / trem te-nu / ī Mū / sam me-di / tā-ri-sa / vē-nā*: – – / – ˘ ˘ / – – / – ˘ ˘ / – ˘ ˘ / – –.'
+  ref: g-04
+- id: vi67-f-17
+  type: forms
+  q: Why can't *sil-ves-trem* (– – –) be one foot?
+  a: 'There''s no three-long foot: only – ˘ ˘ and – –. Two longs make a spondee; the third starts the next foot.'
+  ref: g-04
+- id: vi67-f-18
+  type: forms
+  q: How many syllables in a hexameter of all dactyls?
+  a: '**17** (5 × 3 + 2).'
+  ref: g-05
+- id: vi67-f-19
+  type: forms
+  q: A hexameter has 15 syllables after elision. How many spondees?
+  a: '**Two.** Each syllable fewer than 17 is one spondee.'
+  ref: g-05
+- id: vi67-f-20
+  type: forms
+  q: The fewest syllables in a normal hexameter?
+  a: '**13**: four spondees (4 × 2 + 3 + 2).'
+  ref: g-05
+- id: vi67-f-21
+  type: forms
+  q: Scan *Arma virumque canō, Trōiae quī prīmus ab ōrīs*.
+  a: '*Ar-ma vi / rum-que ca / nō Trō / iae quī / prī-mu-sa / bō-rīs*: 15 syllables, spondees in feet 3 and 4.'
+  ref: g-05
+- id: vi67-f-22
+  type: forms
+  q: Law of Seventeen?
+  a: Count the syllables after elision. 17 = all dactyls; each syllable fewer is one spondee (16 → one, 15 → two, 14 → three, 13 → four).
+  ref: g-05
+- id: vi67-f-23
+  type: forms
+  q: What is the **beat** (*ictus*)?
+  a: 'Where the hand comes down: the **first syllable of every foot**, always a long.'
+  ref: g-06
+- id: vi67-f-24
+  type: forms
+  q: '*Arma virumque canō*: where do beat and stress clash?'
+  a: 'Feet 3 and 4: beat ca-**nō** vs stress KA-noh; beat Trō-**iae** vs stress TROY-yai.'
+  ref: g-06
+- id: vi67-f-25
+  type: forms
+  q: Where in a hexameter do beat and stress usually meet?
+  a: 'In the **last two feet** (*teg-mi-ne fā-gī*: beats and stresses on *teg* and *fā*).'
+  ref: g-06
+- id: vi67-f-26
+  type: forms
+  q: How do you read a hexameter aloud?
+  a: Clap the beat to learn it; read keeping each syllable's **length** and each word's **stress** (emphasis).
+  ref: g-06
+- id: vi67-f-27
+  type: forms
+  q: Law of Beat and Stress?
+  a: The beat falls on each foot's first syllable; the stress stays inside each word by Chapter 66's rule. They clash in the middle and usually meet in the last two feet.
+  ref: g-06
+- id: vi67-f-28
+  type: forms
+  q: What is a **caesura**?
+  a: '"The cut": a word ending **inside** a foot, where the voice can rest (*caedō*, cut).'
+  ref: g-07
+- id: vi67-f-29
+  type: forms
+  q: Where does the main cut usually fall?
+  a: 'In the **third foot, right after its long**: *Arma virumque canō ‖ Trōiae…*'
+  ref: g-07
+- id: vi67-f-30
+  type: forms
+  q: Main cut in *Tītyre, tū patulae recubāns sub tegmine fāgī*?
+  a: 'After *patulae*: *Tītyre, tū patulae ‖ recubāns sub tegmine fāgī*.'
+  ref: g-07
+- id: vi67-f-31
+  type: forms
+  q: Law of the Cut?
+  a: A caesura is a word ending inside a foot. The main one usually falls in the third foot right after its long; sometimes in the fourth.
+  ref: g-07
+- id: vi67-f-32
+  type: forms
+  q: What is **elision**?
+  a: A final vowel, or vowel + *m*, swallowed before a word beginning with a vowel or *h* (*ēlīdō*, squeeze out).
+  ref: g-08
+- id: vi67-f-33
+  type: forms
+  q: Scan *lītora, multum ille et terrīs iactātus et altō*.
+  a: '*lī-to-ra / mul-til / let-ter / rīs-iac / tā-tu-se / tal-tō*: 14 syllables, three spondees.'
+  ref: g-08
+- id: vi67-f-34
+  type: forms
+  q: '*Multum ille*: why does the whole *-um* go?'
+  a: Final *m* was weak ("a feeble nasal sound"), so vowel and *m* go together.
+  ref: g-08
+- id: vi67-f-35
+  type: forms
+  q: '*Iactātus et*: elision?'
+  a: '**No.** *-us* ends in a consonant; the *s* slides onto *et*.'
+  ref: g-08
+- id: vi67-f-36
+  type: forms
+  q: How do you say an elided ending?
+  a: Drop it (the usual way) or sound it very lightly; either way it takes **no time**.
+  ref: g-08
+- id: vi67-f-37
+  type: forms
+  q: Law of the Swallowed Ending?
+  a: 'A final vowel or vowel + *m* before a vowel or *h* is swallowed: *mult(um) ill(e) et*. Count without it. A consonant ending slides over instead.'
+  ref: g-08
+- id: vi67-f-38
+  type: forms
+  q: '*Mōnstrum horrendum, īnfōrme, ingēns, cui lūmen adēmptum*: elisions?'
+  a: 'Three: *mōnstr(um) horrend(um) īnfōrm(e) ingēns*. The *h* doesn''t stop it.'
+  ref: g-09
+- id: vi67-f-39
+  type: forms
+  q: Scan *mōnstrum horrendum…* (*Aeneid* 3.658).
+  a: '13 syllables, four spondees: *mōn-str(um) hor / rend(um) īn / fōrm(e) in / gēns cui / lū-me-na / dēmp-tum*. Heavy, like the giant.'
+  ref: g-09
+- id: vi67-f-40
+  type: forms
+  q: '*Quadrupedante putrem sonitū quatit ungula campum*: translate.'
+  a: '"With a galloping sound the hoof shakes the crumbling plain." (*Aeneid* 8.596)'
+  ref: g-09
+- id: vi67-f-41
+  type: forms
+  q: Scan *quadrupedante putrem sonitū quatit ungula campum*.
+  a: '17 syllables, five dactyls: *qua-dru-pe / dan-te-pu / trem-so-ni / tū-qua-ti / tun-gu-la / cam-pum*. Hoofbeats.'
+  ref: g-09
+- id: vi67-f-42
+  type: forms
+  q: 'Ovid''s *similis volucrī … vēra volucris*: why short *lu* first, long *luc* last?'
+  a: The first *lu* sits in a dactyl (*lis vo-lu*), so short; the last *luc* starts the sixth foot, so long. The either-way *cr* allows both.
+  ref: g-09
+- id: vi67-f-43
+  type: forms
+  q: The four steps of scanning?
+  a: '1. Swallow elisions. 2. Count (17 minus count = spondees). 3. Mark the end – ˘ ˘ / – ×. 4. Fill the front: each foot starts long.'
+  ref: g-10
+- id: vi67-f-44
+  type: forms
+  q: Scan *vī superum saevae memorem Iūnōnis ob īram*.
+  a: '*vī su-pe / rum sae / vae me-mo / rem Iū / nō-ni-so / bī-ram*: 15 syllables, spondees in feet 2 and 4.'
+  ref: g-10
+- id: vi67-f-45
+  type: forms
+  q: Shape of *tegmine*? Of *Rōmae*?
+  a: '*Teg-mi-ne*: – ˘ ˘, a dactyl. *Rō-mae*: – –, a spondee.'
+  ref: g-11
+- id: vi67-f-46
+  type: forms
+  q: Can a foot be – ˘ in the middle of a line?
+  a: '**No.** Only the sixth foot can end short (– ×).'
+  ref: g-11
+- id: vi67-f-47
+  type: forms
+  q: Why does Grandpa call the spondee *lentus et gravis*?
+  a: 'Two longs and no quick shorts: it sounds **slow and heavy**.'
+  ref: g-14
+- id: vi67-f-48
+  type: forms
+  q: '*Ōdī et amō* in verse: elision and syllables?'
+  a: '*Ōd(ī) et amō*, said *ō-de-ta-mō*: four syllables.'
+  ref: g-14
+- id: vi67-f-49
+  type: forms
+  q: Elisions in *Aeneid* 1.1–7?
+  a: 'Four: *mult(um)* and *ill(e)* (line 3), *quoqu(e)* (line 5), *atqu(e)* (line 7).'
+  ref: g-15
+- id: vi67-f-50
+  type: forms
+  q: Scan *Albānīque patrēs, atque altae moenia Rōmae*.
+  a: '*Al-bā / nī-que pa / trēs at / qu(e) al-tae / moe-ni-a / Rō-mae*: 14 syllables, three spondees; cut after *patrēs*.'
+  ref: g-15
+- id: vi67-f-51
+  type: forms
+  q: Main cut in *lītora, multum ille et terrīs iactātus et altō*?
+  a: 'In the **fourth** foot, after *terrīs*: *…terrīs ‖ iactātus et altō*.'
+  ref: g-15
+- id: vi67-c-01
+  type: choose
+  q: Which is a **dactyl**?
+  options:
+  - – ˘ ˘
+  - – –
+  - ˘ ˘ –
+  a: – ˘ ˘
+  why: 'Long, short, short: the finger. – – is a spondee; ˘ ˘ – starts short, so it''s no hexameter foot.'
+  ref: g-02
+- id: vi67-c-02
+  type: choose
+  q: Which foot of a hexameter is almost always a dactyl?
+  options:
+  - the fifth
+  - the first
+  - the sixth
+  a: the fifth
+  why: Feet one to four may be spondees; the sixth is a long and a free syllable.
+  ref: g-03
+- id: vi67-c-03
+  type: choose
+  q: A hexameter has 16 syllables after elision. How many spondees?
+  options:
+  - one
+  - two
+  - none
+  a: one
+  why: 17 minus 16 = one spondee.
+  ref: g-05
+- id: vi67-c-04
+  type: choose
+  q: Where does the beat fall?
+  options:
+  - on the first syllable of each foot
+  - on each word's stressed syllable
+  - on every long syllable
+  a: on the first syllable of each foot
+  why: The beat belongs to the foot; the stress belongs to the word.
+  ref: g-06
+- id: vi67-c-05
+  type: choose
+  q: Main cut in *Arma virumque canō, Trōiae quī prīmus ab ōrīs*?
+  options:
+  - after canō
+  - after Arma
+  - after Trōiae
+  a: after canō
+  why: '*Canō* ends right after the first long of foot 3 (*nō Trō*).'
+  ref: g-07
+- id: vi67-c-06
+  type: choose
+  q: Which has an elision?
+  options:
+  - cāseum ēst
+  - Marcus et Avus
+  - iactātus et
+  a: cāseum ēst
+  why: '*Cāse(um) ēst*: vowel + *m* before a vowel. The others end in *s*, which slides over.'
+  ref: g-12
+- id: vi67-c-07
+  type: choose
+  q: '*Cāseum habet*: elision?'
+  options:
+  - yes, cāse(um) habet
+  - no, the h blocks it
+  - no, only vowels elide
+  a: yes, cāse(um) habet
+  why: '*H* doesn''t count as a consonant, and vowel + *m* elides.'
+  ref: g-12
+- id: vi67-e-01
+  type: error
+  q: 'Fix: "A foot ends where a word ends."'
+  a: 'No: feet run across word ends (*tū pa-tu*).'
+  ref: g-13
+- id: vi67-e-02
+  type: error
+  q: 'Fix: "*Patulae* starts a foot, because *pa* is stressed."'
+  a: A foot starts with a **long**; *pa* is short. Stress isn't length.
+  ref: g-13
+- id: vi67-e-03
+  type: error
+  q: 'Fix: "The fifth foot is often a spondee."'
+  a: '**Rarely.** The fifth is almost always a dactyl.'
+  ref: g-13
+- id: vi67-e-04
+  type: error
+  q: 'Fix: *multum ille et* scanned *mul-tu-mil-le-et*.'
+  a: '*Mult(um) ill(e) et*, *mul-til-let*: vowel and *m* go.'
+  ref: g-13
+- id: vi67-e-05
+  type: error
+  q: 'Fix: *iactātus et* scanned *iac-tāt(us) et*.'
+  a: 'No elision: *-us* ends in a consonant. *Iac-tā-tu-set*.'
+  ref: g-13
+- id: vi67-e-06
+  type: error
+  q: 'Fix: In speech, *ca-NŌ* because the beat is on *nō*.'
+  a: '**KA-nō.** The beat is the verse''s; the word keeps its stress (emphasis).'
+  ref: g-13
